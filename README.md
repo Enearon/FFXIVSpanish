@@ -10,4 +10,4 @@ Se recomienda usar el [VSCode](https://code.visualstudio.com/) como editor de lo
 Se debe respetar la estructura y no añadir saltos de línea o textos muy extensos cuando no sea requerido ya que esto rompería la estética del juego.
 
 ## Software para la aplicación de la traducción
-Estoy trabajando para traducirlo al español, ya que el original está en Chino; En un futuro se subirá también a este repositorio y se dará crédito a los autores originales.
+El Software actual está en Chino por lo que estoy viendo si puedo traducirlo, en caso de no poder se pondrán instrucciones concisas de como instalar la traducción con el software en Chino.
