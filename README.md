@@ -13,10 +13,7 @@ Todo granito de arena es bien recibido, ya sea mediante aportes al repositorio o
 Si tu objetivo es traducir contenido debes seguir leyendo, mientras que si quieres aportar una corrección a la traducción puedes usar el Issue Tracker para informar de ello y que sea revisado.
 
 ### ¿Como se ve un fichero de traducción?
-Los ficheros de traducción se ven de la siguiente manera:<br/>
-![image](https://github.com/Enearon/FFXIVSpanish/assets/1865017/e5a3a995-f27b-4667-878a-c00cd4330c10)
-
-Debéis traducir el texto únicamente si queréis contribuir, no os preocupéis por el resto ya que desde aquí podemos arreglar y configurar todo para que funcione en el traductor. Por ejemplo, en este fichero, debéis traducir solo "Battle", "Dungeons", "Trials", etc... El resto es puro código basura de la configuración original del CSV comprimido que a la traducción no le aporta nada por lo que será depurado y se ajustarán las cabeceras del traductor.
+Los ficheros de traducción se irán subiendo y se especificarán en el progreso de la traducción. Se hará de esta manera para evitar la modificación incorrecta de los ficheros CSV; Se está trabajando en una web para poder añadir traducciones fácilmente.
 
 ## Creditos
 Programa original creado por [GpointChen](https://github.com/GpointChen/FFXIVChnTextPatch-GP).<br/>
