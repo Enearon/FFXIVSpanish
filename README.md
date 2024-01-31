@@ -1,6 +1,10 @@
 # FFXIVSpanish
 ## Traducción al español de Final Fantasy XIV
-En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Chino, pero a medida que pueda iré cambiando la mayoría al inglés oficial del juego usando los ficheros originales para facilitar el proceso de traducción.
+En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Inglés.<br/><br/>
+
+Os encontraréis dos tipos de archivos;<br/>
+- Los archivos listros para traducción que están preparados para ser traducidos. Solo hay que cambiar los textos del inglés al español; Se pueden usar tildes y la letra ñ.<br/>
+- Los archivos que requieren ajustes. Estos archivos requieren una edición especial que implica cambiar los parámetros de la interfaz del juego por códigos hexadecimales.
 
 ## Progreso de la Traducción
 `TODO`
