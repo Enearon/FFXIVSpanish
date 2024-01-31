@@ -6,7 +6,7 @@ En este repositorio se subirán los ficheros de traducción que necesitan ser tr
 `TODO`
 
 ## Software para la aplicación de la traducción
-Para ejecutar el Software de Traducción solo se debe ejecutar el JAR y seguir las instrucciones (Se añadirán en un futuro cuando la traducción avance).
+El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
 
 ## ¿Cómo contribuyo con la traducción?
 Todo granito de arena es bien recibido, ya sea mediante aportes al repositorio o correcciones a la traducción<br/>
