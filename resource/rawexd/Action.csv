@@ -12,10 +12,10 @@ int32,str
 7,Ataque
 8,Disparo
 9,Cuchilla Rápida
-10,Rampart
+10,Muro Defensivo
 11,Cuchilla Salvage
-12,Convalescence
-13,Awarness
+12,Convalecencia
+13,Vigilancia
 14,Destello
 15,Riot Blade
 16,Golpe de Escudo
@@ -25,16 +25,16 @@ int32,str
 20,Luchar o Huir
 21,Furia de Halone
 22,Baluarte
-23,Circle of Scorn
-24,Shield Lob
-25,Shield Swipe
+23,Círculo del Desdén
+24,Lanzamiento de Escudo
+25,Barrido de Escudo
 26,Espada Juramentada
 27,Proteger
 28,Voluntad de Hierro
 29,Spirits Within
 30,Suelo Consagrado
 31,Golpe Pesado
-32,Foresight
+32,Previsión
 33,Fractura
 34,Baño de Sangre
 35,Rompecráneos
@@ -43,24 +43,24 @@ int32,str
 38,Berserker
 39,Golpe Brutal
 40,Emoción de la Batalla
-41,Overpower
+41,Subyugar
 42,Furia de la Tormenta
 43,Holmgang
 44,Venganza
 45,Ojo de la Tormenta
 46,Tomahawk
-47,Butcher's Block
+47,Bloque del Carnicero
 48,Desafío
 49,Bestia Interior
-50,Unchained
+50,Desencadenado
 51,Ciclón de Acero
-52,Infuriate
-53,Bootshine
+52,Enfurecer
+53,Golpe Encadenado
 54,Golpe Verdadero
-55,Featherfoot
-56,Snap Punch
+55,Pies Ligeros
+56,Puño Demoledor
 57,Segundo Aliento
-58,Haymaker
+58,Golpe Potente
 59,Liberación Interior
 60,Puños de Tierra
 61,Serpiente Doble
@@ -82,7 +82,7 @@ int32,str
 77,Ráfaga Aguda
 78,Estocada Vorpal
 79,Estocada Pesada
-80,Invigorate
+80,Revitalizar
 81,Impulso Vigoroso
 82,Barrido de Pierna
 83,Ráfaga de Vida
