@@ -19,7 +19,7 @@ Existen tres maneras de descargar;
 Aseguraros principalmente de estar en la rama main mediante el comando `git checkout main` y aseguraros de que estáis trabajando en main con el comando `git branch`.<br/>
 Trabajando en local lo haréis en la carpeta del repositorio para que los cambios se guarden; Una vez terminéis y queráis enviar los cambios al repositorio debéis usar el comando: `git add ruta/archivo`.<br/>
 Para comprobar que el fichero se ha añadido y podéis hacer el commit se usará el comando `git status`.<br/>
-Cuando veaís el fichero modificado en verde tocará enviarlo al repositorio mediante el comando `git commit -m "mensaje del commit"` y, una vez procesado, `git push`.<br/>
+Cuando veaís el fichero modificado en verde tocará enviarlo al repositorio mediante el comando `git commit -m "mensaje del commit"` y, una vez especificado el commit, `git push`.<br/>
 Si todo ha ido bien el fichero se habrá subido y estará listo para ser revisado y, si cumple los requisitos, se aceptará el request y se hará el merge.
 
 ### Segunda opción
