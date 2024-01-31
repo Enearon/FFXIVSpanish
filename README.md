@@ -1,6 +1,9 @@
 # FFXIVSpanish
 ## Traducción al español de Final Fantasy XIV
-En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos. Estos estarán en Chino, pero a medida que pueda iré cambiando la mayoría al inglés oficial del juego usando los ficheros originales para facilitar el proceso de traducción.
+En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Chino, pero a medida que pueda iré cambiando la mayoría al inglés oficial del juego usando los ficheros originales para facilitar el proceso de traducción.
+
+## Software para la aplicación de la traducción
+Para ejecutar el Software de Traducción solo se debe ejecutar el JAR y seguir las instrucciones (Se añadirán en un futuro cuando la traducción avance).
 
 ## Uso de los ficheros
 Estos ficheros son de libre uso, pero no está permitido usarlos con fines lucrativos. Este proyecto será gratuito y llevado a cabo por la comunidad española.
@@ -37,9 +40,6 @@ Se debe respetar la estructura y no añadir saltos de línea o textos muy extens
 No se pueden cambiar los números; Solo el texto en Chino, Inglés o Español.<br/>
 
 ![image](https://github.com/Enearon/FFXIVSpanish/assets/1865017/2796723d-d125-4658-8cdc-9b1c72b20324)
-
-## Software para la aplicación de la traducción
-Para ejecutar el Software de Traducción solo se debe ejecutar el JAR y seguir las instrucciones (Se añadirán en un futuro cuando la traducción avance).
 
 ## Creditos
 Programa original creado por [GpointChen](https://github.com/GpointChen/FFXIVChnTextPatch-GP).<br/>
