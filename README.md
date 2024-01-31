@@ -16,24 +16,19 @@ Existen tres maneras de descargar;
 2. Usando Git si tenemos una clave SSH vinculada con el comando: `git clone git@github.com:Enearon/FFXIVSpanish.git`
 3. Haciendo click en `Download Zip` (No recomendable)
 
-Aseguraros principalmente de estar en la rama dev mediante el comando `git checkout dev` y aseguraros de que estáis trabajando en dev con el comando `git branch`.<br/>
+Aseguraros principalmente de estar en la rama main mediante el comando `git checkout main` y aseguraros de que estáis trabajando en main con el comando `git branch`.<br/>
 Trabajando en local lo haréis en la carpeta del repositorio para que los cambios se guarden; Una vez terminéis y queráis enviar los cambios al repositorio debéis usar el comando: `git add ruta/archivo`.<br/>
 Para comprobar que el fichero se ha añadido y podéis hacer el commit se usará el comando `git status`.<br/>
 Cuando veaís el fichero modificado en verde tocará enviarlo al repositorio mediante el comando `git commit -m "mensaje del commit"` y, una vez procesado, `git push`.<br/>
-Si todo ha ido bien el fichero se habrá subido y estará listo para ser revisado y, si cumple los requisitos, unirlo a la rama main.
+Si todo ha ido bien el fichero se habrá subido y estará listo para ser revisado y, si cumple los requisitos, se aceptará el request y se hará el merge.
 
 ### Segunda opción
-1. Hacemos click en el selector de rama.
-
-![image](https://github.com/Enearon/FFXIVSpanish/assets/1865017/6213077a-2ad2-47af-9ec6-eed1bcfbd314)
-
-2. Seleccionamos la rama dev.
-3. Accedemos a la carpeta resources y dentro de ella a la carpeta rawexd donde podremos seleccionar el fichero que queremos modificar. Es importante estar en la rama dev o no podréis modificarlos.
+1. Accedemos a la carpeta resources y dentro de ella a la carpeta rawexd donde podremos seleccionar el fichero que queremos modificar.
 
 ![image](https://github.com/Enearon/FFXIVSpanish/assets/1865017/d218a5b5-c3ca-4630-92a8-b95202b508b2)
 
-4. Hacemos click en el lapiz arriba a la derecha y comenzamos a editar respetando los siguientes pasos.
-5. Cuando terminemos guardaremos y haremos el commit que será revisado y, si cumple los requisitos, se unirá a la rama main.
+2. Hacemos click en el lapiz arriba a la derecha y comenzamos a editar respetando los siguientes pasos.
+3. Cuando terminemos guardaremos y haremos el commit que será revisado y, si cumple los requisitos, se unirá a la rama main.
 
 ### Software recomendado para traducir
 Se recomienda usar el [VSCode](https://code.visualstudio.com/) como editor de los ficheros.<br/>
