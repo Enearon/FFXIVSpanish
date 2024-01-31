@@ -3,13 +3,13 @@
 offset,0,4,8,12
 int32,str,str,str,str
 0,,,,
-1,金幣,,艾歐澤亞流通最為廣泛的圓形國際都市通用貨幣。,金幣
-2,火之碎晶,,火媒介的小結晶。,火之碎晶
-3,冰之碎晶,,冰媒介的小結晶。,冰之碎晶
-4,風之碎晶,,風媒介的小結晶。,風之碎晶
-5,土之碎晶,,土媒介的小結晶。,土之碎晶
-6,雷之碎晶,,雷媒介的小結晶。,雷之碎晶
-7,水之碎晶,,水媒介的小結晶。,水之碎晶
+1,gil,,Moneda común usada en Eorzea.,Gil
+2,Esquirla de Fuego,,Una pequeña manifestación cristalina de energía aetérica de fuego.,Esquirlas de Fuego
+3,Esquirla de Hielo,,Una pequeña manifestación cristalina de energía aetérica de hielo.,Esquirlas de Hielo
+4,Esquirla de Viento,,Una pequeña manifestación cristalina de energía aetérica de viento.,Esquirlas de Viento
+5,Esquirla de Tierra,,Una pequeña manifestación cristalina de energía aetérica de tierra.,Esquirlas de Tierra
+6,Esquirla de Rayo,,Una pequeña manifestación cristalina de energía aetérica de rayo.,Esquirlas de Rayo
+7,Esquirla de Agua,,Una pequeña manifestación cristalina de energía aetérica de agua.,Esquirlas de Agua
 8,火之水晶,,火媒介的結晶。,火之水晶
 9,冰之水晶,,冰媒介的結晶。,冰之水晶
 10,風之水晶,,風媒介的結晶。,風之水晶
