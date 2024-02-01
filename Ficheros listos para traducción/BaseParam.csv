@@ -1,0 +1,78 @@
+﻿key,1,2
+#,Name,Description
+offset,0,4
+int32,str,str
+0,,
+1,Fuerza,Afecta al daño físico que causan las armas.
+2,Destreza,Afecta al daño físico que causan las armas a distancia y al daño físico que causan las armas de Rogue.
+3,Vitalidad,Afecta a la cantidad máxima de HP.
+4,Inteligencia,Afecta a la potencia de los hechizos ofensivos cuando el rol es DPS.
+5,Mente,Afecta a la potencia de los hechizos curativos. También afecta a la potencia de la magia ofensiva cuando el rol es Healer.
+6,Devoción,Afecta a la regeneración de MP.<hex:02100103>El índice de regeneración se determina por la devoción y solo es aplicable durante el combate y cuando el rol es Healer.
+7,HP,
+8,MP,
+9,TP,
+10,GP,
+11,CP,
+12,Daño Físico,
+13,Daño Mágico,
+14,GCD,
+15,Efecto Adicional: ,
+16,Velocidad de Ataque,
+17,Índice de Bloqueo,
+18,Fuerza del Bloqueo,
+19,Tenacity,"Affects the amount of physical and magic damage dealt and received, as well as HP restored. The higher the value, the more damage dealt, the more HP restored, and the less damage taken. Only applicable when role is Tank."
+20,Attack Power,"Affects amount of damage dealt by physical attacks. The higher the value, the more damage dealt."
+21,Defense,"Affects the amount of damage taken by physical attacks. The higher the value, the less damage taken."
+22,Direct Hit Rate,"Affects the rate at which your physical and magic attacks land direct hits, dealing slightly more damage than normal hits. The higher the value, the higher the frequency with which your hits will be direct. Higher values will also result in greater damage for actions which guarantee direct hits."
+23,Evasion,
+24,Magic Defense,"Affects the amount of damage taken by magic attacks. The higher the value, the less damage taken."
+25,Critical Hit Power,
+26,Critical Hit Resilience,
+27,Critical Hit,"Affects the amount of physical and magic damage dealt, as well as HP restored. The higher the value, the higher the frequency with which your hits will be critical/higher the potency of critical hits."
+28,Critical Hit Evasion,
+29,Slashing Resistance,Decreases damage done by slashing attacks.
+30,Piercing Resistance,Decreases damage done by piercing attacks.
+31,Blunt Resistance,Decreases damage done by blunt attacks.
+32,Projectile Resistance,
+33,Attack Magic Potency,Affects the amount of damage dealt by magic attacks.
+34,Healing Magic Potency,Affects the amount of HP restored via healing magic.
+35,Enhancement Magic Potency,
+36,Elemental Bonus,
+37,Fire Resistance,Decreases fire-aspected damage.
+38,Ice Resistance,Decreases ice-aspected damage.
+39,Wind Resistance,Decreases wind-aspected damage.
+40,Earth Resistance,Decreases earth-aspected damage.
+41,Lightning Resistance,Decreases lightning-aspected damage.
+42,Water Resistance,Decreases water-aspected damage.
+43,Magic Resistance,
+44,Determination,"Affects the amount of damage dealt by both physical and magic attacks, as well as the amount of HP restored by healing spells."
+45,Skill Speed,"Affects both the casting and recast timers, as well as the damage over time potency for weaponskills and auto-attacks. The higher the value, the shorter the timers/higher the potency."
+46,Spell Speed,"Affects both the casting and recast timers for spells. The higher the value, the shorter the timers. Also affects a spell's damage over time or healing over time potency."
+47,Haste,
+48,Morale,"In PvP, replaces physical and magical defense in determining damage inflicted by other players. Also influences the amount of damage dealt to other players."
+49,Enmity,
+50,Enmity Reduction,
+51,Desynthesis Skill Gain,
+52,EXP Bonus,
+53,Regen,
+54,Refresh,
+55,Main Attribute,
+56,Secondary Attribute,
+57,Slow Resistance,Shortens the duration of slow.
+58,Petrification Resistance,
+59,Paralysis Resistance,
+60,Silence Resistance,Shortens the duration of silence.
+61,Blind Resistance,Shortens the duration of blind.
+62,Poison Resistance,Shortens the duration of poison.
+63,Stun Resistance,Shortens the duration of stun.
+64,Sleep Resistance,Shortens the duration of sleep.
+65,Bind Resistance,Shortens the duration of bind.
+66,Heavy Resistance,Shortens the duration of heavy.
+67,Doom Resistance,
+68,Reduced Durability Loss,
+69,Increased Spiritbond Gain,
+70,Craftsmanship,Affects the amount of progress achieved in a single synthesis step.
+71,Control,Affects the amount of quality improved in a single synthesis step.
+72,Gathering,Affects the rate at which items are gathered.
+73,Perception,"Affects item yield when gathering as a botanist or miner, and the size of fish when fishing or spearfishing."
