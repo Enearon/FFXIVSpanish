@@ -7,7 +7,18 @@ Os encontraréis dos tipos de archivos;<br/>
 - Los archivos que requieren ajustes. Estos archivos requieren una edición especial que implica cambiar los parámetros de la interfaz del juego por códigos hexadecimales.
 
 ## Progreso de la Traducción
-`TODO`
+| Elemento       | Progreso |
+|----------------|:----------------:|
+Diálogos MSQ| [1%]
+Diálogos SQ | [0%]
+Misiones      | [0%]
+Habilidades   | [0%]
+Objetos       | [0%]
+Logros | [1%]
+Interfaz | [0%]
+Ayuda | [0%]
+
+
 
 ## Software para la aplicación de la traducción
 El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
