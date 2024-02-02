@@ -31,8 +31,7 @@ Si tu objetivo es traducir contenido debes seguir leyendo, mientras que si quier
 Los ficheros de traducción se irán subiendo y se especificarán en el progreso de la traducción. Se hará de esta manera para evitar la modificación incorrecta de los ficheros CSV; Se está trabajando en una web para poder añadir traducciones fácilmente.
 
 ## Creditos
-Programa original creado por [GpointChen](https://github.com/GpointChen/FFXIVChnTextPatch-GP).<br/>
-Traducido por Enearon.
+Aquí se incluirán a todos aquellos que contribuyan en la traducción.
 
 ## Términos de Uso
 Todo el contenido en el repositorio es de libre utilización; El código del programa también se muestra y puede ser modificado, mejorado o cambiado a placer por otros usuarios u otras comunidades que deseen hacer su traducción propia. Este proyecto está hecho con software libre y de manera abierta para todos los usuarios, no está permitido el uso del software o el contenido del repositorio con fines lucrativos.
