@@ -54,10 +54,7 @@ El Software de traducción está en proceso de uso para testeo interno. El repos
 
 ## ¿Cómo contribuyo con la traducción?
 Todo granito de arena es bien recibido, ya sea mediante aportes al repositorio o correcciones a la traducción<br/>
-Si tu objetivo es traducir contenido debes seguir leyendo, mientras que si quieres aportar una corrección a la traducción puedes usar el Issue Tracker para informar de ello y que sea revisado.
-
-### ¿Como se ve un fichero de traducción?
-Los ficheros de traducción se irán subiendo y se especificarán en el progreso de la traducción. Se hará de esta manera para evitar la modificación incorrecta de los ficheros CSV; Se está trabajando en una web para poder añadir traducciones fácilmente.
+Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.
 
 ## Creditos
 Aquí se incluirán a todos aquellos que contribuyan en la traducción.
