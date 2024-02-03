@@ -8,19 +8,13 @@ Os encontraréis varios directorios;<br/>
 - Archivos traducidos. Son aquellos que ya están traducidos, pueden ser revisados para mejorar la traducción.<br/>
 - Archivos que no se deben traducir. Estos archivos existen en la traducción pero, no deben traducirse o interferirán con el funcionamiento del juego haciendo que el juego no funcione correctamente.
 
-## Progreso de la Traducción
-| Elemento       | Progreso |
-|----------------|:----------------:|
-Diálogos MSQ| [1%]
-Diálogos SQ | [0%]
-Misiones      | [0%]
-Habilidades   | [0%]
-Objetos       | [0%]
-Logros | [1%]
-Interfaz | [0%]
-Ayuda | [0%]
-
-
+## Progreso de la Traducción 
+| Diálogos MSQ             | Progreso | Diálogos SideQuests      | Progreso | Interfaz / Miscelánea    | Progreso |
+| ------------------------ | :------: | ------------------------ | :------: | ------------------------ | :------: |
+| Gridania                 | [8%]     | Clases                   | [0%]     | Logros                   | [1%]     |
+| Ul'dah                   | [2%]     | Mazmorras                | [0%]     | Habilidades              | [0%]     |
+| Limsa Lominsa            | [2%]     | Aether Currents          | [0%]     | Interfaz                 | [0%]     |
+| Mazmorras                | [0%]     | Misiones secundarias     | [0%]     | Ayuda                    | [0%]     |
 
 ## Software para la aplicación de la traducción
 El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
