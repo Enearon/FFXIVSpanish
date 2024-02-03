@@ -9,12 +9,45 @@ Os encontraréis varios directorios;<br/>
 - Archivos que no se deben traducir. Estos archivos existen en la traducción pero, no deben traducirse o interferirán con el funcionamiento del juego haciendo que el juego no funcione correctamente.
 
 ## Progreso de la Traducción 
-| Diálogos MSQ             | Progreso | Diálogos SideQuests      | Progreso | Interfaz / Miscelánea    | Progreso |
-| ------------------------ | :------: | ------------------------ | :------: | ------------------------ | :------: |
-| Gridania                 | [8%]     | Clases                   | [0%]     | Logros                   | [1%]     |
-| Ul'dah                   | [2%]     | Mazmorras                | [0%]     | Habilidades              | [0%]     |
-| Limsa Lominsa            | [2%]     | Aether Currents          | [0%]     | Interfaz                 | [0%]     |
-| Mazmorras                | [0%]     | Misiones secundarias     | [0%]     | Ayuda                    | [0%]     |
+<table>
+  <tr>
+    <th colspan="2">Diálogos MSQ</th>
+    <th colspan="2">Diálogos SideQuests</th>
+    <th colspan="2">Interfaz / Miscelánea</th>
+  </tr>
+  <tr>
+    <td>Gridania</td>
+    <td>[8%]</td>
+    <td>Clases</td>
+    <td>[0%]</td>
+    <td>Logros</td>
+    <td>[1%]</td>
+  </tr>
+  <tr>
+    <td>Ul'dah</td>
+    <td>[2%]</td>
+    <td>Mazmorras</td>
+    <td>[0%]</td>
+    <td>Habilidades</td>
+    <td>[0%]</td>
+  </tr>
+  <tr>
+    <td>Limsa Lominsa</td>
+    <td>[2%]</td>
+    <td>Aether Currents</td>
+    <td>[0%]</td>
+    <td>Interfaz</td>
+    <td>[0%]</td>
+  </tr>
+  <tr>
+    <td>Mazmorras</td>
+    <td>[0%]</td>
+    <td>Misiones secundarias</td>
+    <td>[0%]</td>
+    <td>Ayuda</td>
+    <td>[0%]</td>
+  </tr>
+</table>
 
 ## Software para la aplicación de la traducción
 El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
