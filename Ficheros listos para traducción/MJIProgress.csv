@@ -1,0 +1,50 @@
+﻿key,0,1,2
+#,Vision,Objective,PreviousObjective
+offset,0,4,8
+int32,str,str,str
+0,,,
+1,The Coziest of Cabins,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+2,The Coziest of Cabins,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball again.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+3,The Coziest of Cabins,"<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>With the Gather mode enabled, collect the necessary materials and report back to the felicitous furball.<hex:021402EC03><hex:021302EC03>",Speak with the felicitous furball again.
+4,The Coziest of Cabins,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Craft an islekeep's stone hatchet and report back to the felicitous furball.<hex:021402EC03><hex:021302EC03>,"With the Gather mode enabled, collect the necessary materials and report back to the felicitous furball."
+5,The Coziest of Cabins,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Construct the cozy cabin after collecting the requisite materials.<hex:021402EC03><hex:021302EC03>,Craft an islekeep's stone hatchet and report back to the felicitous furball.
+6,The Coziest of Cabins,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report to the felicitous furball.<hex:021402EC03><hex:021302EC03>,Construct the cozy cabin after collecting the requisite materials.
+7,Top Crops,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+8,Top Crops,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Request the produce producer to till the earth.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+9,Top Crops,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the produce producer.<hex:021402EC03><hex:021302EC03>,Request the produce producer to till the earth.
+10,Top Crops,"<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>With the Sow mode enabled, plant seeds in the cropland.<hex:021402EC03><hex:021302EC03>",Speak with the produce producer.
+11,Top Crops,"<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>With the Water mode enabled, water the seeds you sowed.<hex:021402EC03><hex:021302EC03>","With the Sow mode enabled, plant seeds in the cropland."
+12,Top Crops,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report to the produce producer.<hex:021402EC03><hex:021302EC03>,"With the Water mode enabled, water the seeds you sowed."
+13,Adorable Animals,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+14,Adorable Animals,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Request the creature comforter to build a pasture.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+15,Adorable Animals,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the creature comforter.<hex:021402EC03><hex:021302EC03>,Request the creature comforter to build a pasture.
+16,Adorable Animals,"<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>With the Capture mode enabled, capture a wild animal.<hex:021402EC03><hex:021302EC03>",Speak with the creature comforter.
+17,Adorable Animals,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the creature comforter.<hex:021402EC03><hex:021302EC03>,"With the Capture mode enabled, capture a wild animal."
+18,Adorable Animals,"<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>With the Feed mode enabled, feed an animal in the pasture.<hex:021402EC03><hex:021302EC03>",Speak with the creature comforter.
+19,Adorable Animals,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report to the creature comforter.<hex:021402EC03><hex:021302EC03>,"With the Feed mode enabled, feed an animal in the pasture."
+20,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+21,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Request the pathological pathfinder mk. I to level the ground.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+22,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the pathological pathfinder mk. I.<hex:021402EC03><hex:021302EC03>,Request the pathological pathfinder mk. I to level the ground.
+23,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Craft an islekeep's stone hammer after collecting the requisite materials.<hex:021402EC03><hex:021302EC03>,Speak with the pathological pathfinder mk. I.
+24,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Construct a workshop after collecting the requisite materials.<hex:021402EC03><hex:021302EC03>,Craft an islekeep's stone hammer after collecting the necessary materials.
+25,A Workshop of Wonders,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report to the pathological pathfinder mk. I.<hex:021402EC03><hex:021302EC03>,Construct a workshop after collecting the requisite materials.
+26,The Perfect Paradise,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+27,The Perfect Paradise,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Create the hideaway of your dreams.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+28,Passionate Pioneering,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+29,Passionate Pioneering,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Continue to develop your hideaway.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+30,Delightful Discovery,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+31,Delightful Discovery,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Investigate the mossy mountains.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+32,Delightful Discovery,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report back to the felicitous furball.<hex:021402EC03><hex:021302EC03>,Investigate the mossy mountains.
+33,Delightful Discovery,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the determined digger.<hex:021402EC03><hex:021302EC03>,Report back to the felicitous furball.
+34,Delightful Discovery,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Craft a set of mammet-sized spelunking tools and report back to the determined digger.<hex:021402EC03><hex:021302EC03>,Speak with the determined digger.
+35,The Land of Luxury,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+36,The Land of Luxury,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Enrich your island experience.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+37,A Subterranean Investigation,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+38,A Subterranean Investigation,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the determined digger.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+39,A Subterranean Investigation,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Investigate the mountain hollow.<hex:021402EC03><hex:021302EC03>,Speak with the determined digger.
+40,A Subterranean Investigation,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Report to the determined digger.<hex:021402EC03><hex:021302EC03>,Investigate the mountain hollow.
+41,A Subterranean Investigation,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Craft a set of splendiferous mammet-sized spelunking tools and report back to the determined digger.<hex:021402EC03><hex:021302EC03>,Report to the determined digger.
+42,An Idyllic Island,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Speak with the felicitous furball.<hex:021402EC03><hex:021302EC03>,
+43,An Idyllic Island,<hex:021306FEFFFFFFFF03><hex:021406FEFF0A699203>Cultivate your hideaway to its very limits.<hex:021402EC03><hex:021302EC03>,Speak with the felicitous furball.
+44,,,
+45,,,

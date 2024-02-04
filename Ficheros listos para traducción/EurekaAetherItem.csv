@@ -1,0 +1,7 @@
+﻿key,0,2,8
+#,Singular,Plural,Name
+offset,0,4,8
+int32,str,str,str
+0,,,
+1,Eurekan kettle,Eurekan kettles,Eurekan Kettle
+2,Eurekan firekettle,Eurekan firekettles,Eurekan Firekettle

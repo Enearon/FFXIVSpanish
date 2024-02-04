@@ -3,24 +3,24 @@
 offset,0,4
 int32,str,str
 0,,
-1,Fuerza,Afecta al daño físico que causan las armas.
-2,Destreza,Afecta al daño físico que causan las armas a distancia y al daño físico que causan las armas de Rogue.
-3,Vitalidad,Afecta a la cantidad máxima de HP.
-4,Inteligencia,Afecta a la potencia de los hechizos ofensivos cuando el rol es DPS.
-5,Mente,Afecta a la potencia de los hechizos curativos. También afecta a la potencia de la magia ofensiva cuando el rol es Healer.
-6,Devoción,Afecta a la regeneración de MP.<hex:02100103>El índice de regeneración se determina por la devoción y solo es aplicable durante el combate y cuando el rol es Healer.
+1,Strength,"Affects physical damage dealt by gladiator's arms, marauder's arms, pugilist's arms, lancer's arms, conjurer's arms, thaumaturge's arms, arcanist's arms, dark knight's arms, samurai's arms, reaper's arms, gunbreaker's arms, red mage's arms, astrologian's arms, sage's arms, and blue mage's arms."
+2,Dexterity,Affects physical ranged damage and damage dealt by rogue's arms.
+3,Vitality,Affects maximum HP.
+4,Intelligence,Affects attack magic potency when role is DPS.
+5,Mind,Affects healing magic potency. Also affects attack magic potency when role is Healer.
+6,Piety,Affects MP regeneration. Regeneration rate is determined by piety. Only applicable when in battle and role is Healer.
 7,HP,
 8,MP,
 9,TP,
 10,GP,
 11,CP,
-12,Daño Físico,
-13,Daño Mágico,
-14,GCD,
-15,Efecto Adicional: ,
-16,Velocidad de Ataque,
-17,Índice de Bloqueo,
-18,Fuerza del Bloqueo,
+12,Physical Damage,
+13,Magic Damage,
+14,Delay,
+15,Additional Effect: ,
+16,Attack Speed,
+17,Block Rate,
+18,Block Strength,
 19,Tenacity,"Affects the amount of physical and magic damage dealt and received, as well as HP restored. The higher the value, the more damage dealt, the more HP restored, and the less damage taken. Only applicable when role is Tank."
 20,Attack Power,"Affects amount of damage dealt by physical attacks. The higher the value, the more damage dealt."
 21,Defense,"Affects the amount of damage taken by physical attacks. The higher the value, the less damage taken."

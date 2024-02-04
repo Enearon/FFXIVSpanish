@@ -1,0 +1,305 @@
+﻿key,0
+#,Name
+offset,0
+int32,str
+0,
+1,Surprised
+2,Angry
+3,Furious
+4,Blush
+5,Bow
+6,Cheer
+7,Clap
+8,Beckon
+9,Comfort
+10,Cry
+11,Dance
+12,Doubt
+13,Doze
+14,Fume
+15,Goodbye
+16,Wave
+17,Huh
+18,Joy
+19,Kneel
+20,Chuckle
+21,Laugh
+22,Lookout
+23,Me
+24,No
+25,Deny
+26,Panic
+27,Point
+28,Poke
+29,Congratulate
+30,Psych
+31,Salute
+32,Shocked
+33,Shrug
+34,Rally
+35,Soothe
+36,Stagger
+37,Stretch
+38,Sulk
+39,Think
+40,Upset
+41,Welcome
+42,Yes
+43,Thumbs Up
+44,Examine Self
+45,Pose
+46,Blow Kiss
+47,Grovel
+48,Happy
+49,Disappointed
+50,Sit
+51,Stand Up
+52,Sit on Ground
+53,Stand Up
+54,Air Quotes
+55,Storm Salute
+56,Serpent Salute
+57,Flame Salute
+58,Pray
+59,Imperial Salute
+60,Visor
+61,Visor
+62,Megaflare
+63,Crimson Lotus
+64,Charmed
+65,Cheer On
+66,Cheer Wave
+67,Cheer Jump
+68,Straight Face
+69,Smile
+70,Grin
+71,Smirk
+72,Taunt
+73,Shut Eyes
+74,Sad
+75,Scared
+76,Amazed
+77,Ouch
+78,Annoyed
+79,Alert
+80,Worried
+81,Big Grin
+82,Reflect
+83,Furrow
+84,Scoff
+85,Throw
+86,Snowball
+87,Snowball
+88,Sleep
+89,
+90,Change Pose
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,Step Dance
+102,Harvest Dance
+103,Ball Dance
+104,Manderville Dance
+105,Pet
+106,Hand Over
+107,
+108,
+109,Bomb Dance
+110,Huzzah
+111,Slap
+112,Hug
+113,Embrace
+114,Most Gentlemanly
+115,Fist Bump
+116,
+117,
+118,Thavnairian Dance
+119,Gold Dance
+120,Sundrop Dance
+121,Battle Stance
+122,Victory
+123,Backflip
+124,Eastern Greeting
+125,Eureka
+126,Moogle Dance
+127,Haurchefant
+128,Eastern Stretch
+129,Eastern Dance
+130,Red Ranger Pose A
+131,Black Ranger Pose A
+132,Yellow Ranger Pose A
+133,Wink (Right)
+134,Red Ranger Pose B
+135,Black Ranger Pose B
+136,Yellow Ranger Pose B
+137,Facepalm
+138,Zantetsuken
+139,Flex
+140,Pay Respects
+141,Sneer
+142,Pretty Please
+143,Play Dead
+144,Diamond Dust
+145,Moonlift Dance
+146,Dote
+147,Dote
+148,Spectacles
+149,Songbird
+150,Water Float
+151,Water Flip
+152,Pucker Up
+153,Power Up
+154,Eastern Bow
+155,Squats
+156,Push-ups
+157,Sit-ups
+158,Breath Control
+159,Converse
+160,Concentrate
+161,Confused
+162,Simper
+163,Beam
+164,Attention
+165,At Ease
+166,Box
+167,Ritual Prayer
+168,
+169,Tremble
+170,Winded
+171,Aback
+172,Greeting
+173,Box Step
+174,Side Step
+175,Ultima
+176,Yol Dance
+177,
+178,Splash
+179,
+180,Sweat
+181,Shiver
+182,Elucidate
+183,Ponder
+184,Wink (Left)
+185,Get Fantasy
+186,Popoto Step
+187,Hum
+188,Confirm
+189,Scheme
+190,Endure
+191,Tomestone
+192,Heel Toe
+193,Goobbue Do
+194,Gratuity
+195,Fist Pump
+196,Reprimand
+197,Senor Sabotender
+198,Manderville Mambo
+199,Lali-ho
+200,Simulation M
+201,Simulation F
+202,Toast
+203,Lean
+204,Headache
+205,Snap
+206,Break Fast
+207,Read
+208,Insist
+209,Consider
+210,Wasshoi
+211,Flower Shower
+212,Flame Dance
+213,High Five
+214,Guard
+215,Malevolence
+216,Bee's Knees
+217,Lali Hop
+218,Change Pose
+219,Change Pose
+220,Eat Rice Ball
+221,Eat Apple
+222,Wring Hands
+223,Sweep Up
+224,Paint It Black
+225,Paint It Red
+226,Paint It Yellow
+227,Paint It Blue
+228,Fake Smile
+229,Pantomime
+230,Vexed
+231,Shush
+232,Eat Pizza
+233,Clutch Head
+234,Eat Chocolate
+235,Eat Egg
+236,Content
+237,Sheathe Weapon
+238,Draw Weapon
+239,Drink Tea
+240,Determined
+241,Show Right
+242,Show Left
+243,
+244,
+245,Deride
+246,Wow
+247,Eat Pumpkin Cookie
+248,Spirit
+249,Magic Trick
+250,Little Ladies' Dance
+251,Linkpearl
+252,Ear Wiggle
+253,
+254,
+255,
+256,Frighten
+257,Advent of Light
+258,Jump for Joy 1
+259,Jump for Joy 2
+260,Jump for Joy 3
+261,Jump for Joy 4
+262,Jump for Joy 5
+263,Hand to Heart
+264,Cheer On: Bright
+265,Cheer Wave: Violet
+266,Cheer Jump: Green
+267,All Saints' Charm
+268,
+269,Lop Hop
+270,Reference
+271,Eat Chicken
+272,Sundering
+273,Slump
+274,Love Heart
+275,Humble Triumph
+276,Victory Reveal
+277,
+278,
+279,
+280,
+281,
+282,
+283,
+284,
+285,
+286,
+287,
+288,
+289,
+290,
+291,
+292,
+293,
+294,
+295,
+296,
+297,
+298,
+299,
+300,

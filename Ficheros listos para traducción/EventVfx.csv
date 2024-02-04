@@ -1,0 +1,70 @@
+﻿key,0,2
+#,,
+offset,0,4
+int32,str,str
+0,None,
+1,Noise 1,vfx_nc_nise0013
+2,Reflection Blur,vfx_nc_blur0005
+3,Saturated Linework,gpose_syuchusen
+4,Canvas,gpose_canvas
+5,Wall,gpose_kabe
+6,,
+7,Polka Dot 1,gpose_mizutama_hanten
+8,Brilliant 1,gpose_niji_naname
+9,Watercolor,gpose_suisaifude
+10,Noise 2,gpose_filmnoise
+11,Brilliant 2,gpose_iroiro
+12,Picture Frame,gpose_frame_photo_kb
+13,Torn,gpose_frame_wasi
+14,Pencil 2,gpose_efude_sen2
+15,Sakura,gpose_sakura
+16,,
+17,,
+18,Ukiyo-e,gpose_frame_ukiyoewaku
+19,Particle,gpose_kirakira01
+20,,
+21,Frosted Glass,gpose_suriglass
+22,Instant Camera,gpose_frame_photo_pola_tate
+23,,
+24,,
+25,Pencil 1,gpose_efude_sen
+26,,
+27,,
+28,Polka Dot 2,gpose_mizutama_hanten_enbos
+29,Wall Frame,gpose_frame_hagaki_3mai
+30,Ornamental Border 1,gpose_frame_kousi_yoko
+31,Ornamental Border 2,gpose_frame_doma_yoko
+32,Cinema,gpose_frame_cinema
+33,Construction Paper 1,gpose_gayousi
+34,Pencil 3,gpose_akatsuki
+35,,
+36,,
+37,,
+38,,
+39,,
+40,,
+41,,
+42,Construction Paper 2,gpose_gayousi_sima
+43,,
+44,,
+45,,
+46,,
+47,,
+48,,
+49,,
+50,,
+51,,
+52,,
+53,,
+54,,
+55,,
+56,,
+57,,
+58,,
+59,,
+60,,
+61,,
+62,,
+63,,
+64,,
+65,,

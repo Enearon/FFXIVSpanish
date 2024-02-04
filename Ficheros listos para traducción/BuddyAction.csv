@@ -1,0 +1,12 @@
+﻿key,0,1
+#,Name,Description
+offset,0,4
+int32,str,str
+0,,
+1,,
+2,Withdraw,Dismiss your companion from battle.
+3,Follow,Order your companion to follow you.
+4,Free Stance,Allow your companion to make his own decisions in battle.
+5,Defender Stance,"Order your companion to focus on defensive maneuvers, using only actions learned from the <hex:024804F201F403><hex:024904F201F503>Defender<hex:0249020103><hex:0248020103> skill tree."
+6,Attacker Stance,"Order your companion to focus more on offensive maneuvers, using only actions learned from the <hex:024804F201F403><hex:024904F201F503>Attacker<hex:0249020103><hex:0248020103> skill tree."
+7,Healer Stance,"Order your companion to stop fighting and concentrate on healing maneuvers, using only actions learned from the <hex:024804F201F403><hex:024904F201F503>Healer<hex:0249020103><hex:0248020103> skill tree."

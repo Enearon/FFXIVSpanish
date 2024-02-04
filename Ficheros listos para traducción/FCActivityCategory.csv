@@ -1,0 +1,14 @@
+﻿key,1
+#,Name
+offset,0
+int32,str
+0,All
+1,Entitlements
+2,Membership
+3,Organizational
+4,Actions
+5,Housing
+6,Garden
+7,Chocobo Raising
+8,Company Workshop
+9,Airship/Submersible

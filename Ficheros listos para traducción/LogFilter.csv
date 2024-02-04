@@ -1,0 +1,282 @@
+﻿key,6,7
+#,Name,Example
+offset,0,4
+int32,str,str
+0,None,
+1,Say,Cloud Strife: Never mind...
+2,Shout,Cloud Strife: Can someone give me some gil?
+3,Tell,">> Cloud Strife: Nice shirt.<hex:02100103>Tifa Lockhart >> Eyes up here, Cloud."
+4,Party,(Cloud Strife) Where is everybody?
+5,Standard Emotes,Cloud Strife points at Bayohne.
+6,Custom Emotes,Cloud Strife wallows in self-pity...
+7,Free Company,"[FC]<Cloud Strife> Can I invite my friend, Zack?"
+8,Linkshell [1],[1]<Cloud Strife> Do I have time to grab my gunblade?
+9,Linkshell [2],[2]<Cloud Strife> Do I have time to grab my gunblade?
+10,Linkshell [3],[3]<Cloud Strife> Do I have time to grab my gunblade?
+11,Linkshell [4],[4]<Cloud Strife> Do I have time to grab my gunblade?
+12,Linkshell [5],[5]<Cloud Strife> Do I have time to grab my gunblade?
+13,Linkshell [6],[6]<Cloud Strife> Do I have time to grab my gunblade?
+14,Linkshell [7],[7]<Cloud Strife> Do I have time to grab my gunblade?
+15,Linkshell [8],[8]<Cloud Strife> Do I have time to grab my gunblade?
+16,Yell,Cloud Strife: Aeriiiiiith!
+17,Alliance,"((Cloud Strife)) All right, everyone, let's mosey."
+18,Novice Network,[NOVICE]<hex:0212024F03>Cloud Strife: Follow me.
+19,PvP Team,[PvP]<Cloud Strife> There's no “I” in team!
+20,Cross-world Linkshell [1],[CWLS1]<Cloud Strife> You guys seen Hojo anywhere?
+21,System Messages,You invite Cloud Strife to a party.
+22,,
+23,Gathering System Messages,There are no mineral deposits or rocky outcrops in this area.
+24,Error Messages,Message to Cloud Strife could not be sent.
+25,Echo,Echo
+26,NPC Dialogue,Baderon: Now off with ye. I got casks to tap.
+27,Loot Notices,You obtain <hex:024804F2023B03><hex:024904F2023C03>Excalipoor<hex:0249020103><hex:0248020103>.
+28,Own Progression Messages,You attain level 51!
+29,Others' Progression Messages,Cloud Strife attains level 2!
+30,Own Loot Messages,You roll on Need. 50!
+31,Others' Loot Messages,Cloud Strife rolls on Need. 1!
+32,Own Synthesis Messages,You synthesize a <hex:024804F2023B03><hex:024904F2023C03>suit of diamond armor<hex:0249020103><hex:0248020103>.
+33,Others' Synthesis Messages,Cloud Strife synthesizes a <hex:024804F2023B03><hex:024904F2023C03>boiled egg<hex:0249020103><hex:0248020103>.
+34,Message Book Alert,A new entry has been added to the free company estate message book.
+35,Own Gathering Messages,You begin quarrying.
+36,Others' Fishing Messages,Cloud Strife lands a <hex:024804F2022503><hex:024904F2022603>Nibelheim bass<hex:0249020103><hex:0248020103> measuring 7 ilms!
+37,Own Battle System Messages,You defeat the Shadow Lord.
+38,Others' Battle System Messages,Cloud Strife defeats the little ladybug.
+39,NPC Dialogue (Announcements),"Bremondt: Come one, come all!"
+40,Free Company Announcements,You adjust company hierarchy.
+41,Free Company Member Login Notifications,Cloud Strife has logged in.
+42,Party Members' Progression Messages,Cloud Strife attains level 2!
+43,Retainer Sale Notifications,The ribbon you put up for sale in Ul'dah has sold for 1 gil (after fees).
+44,Periodic Recruitment Notifications,"Of the 12 parties currently recruiting, 3 match your search conditions."
+45,Sign Messages for PC Targets,You mark Cloud Strife as “Target to Ignore 1.”
+46,Random Number Messages,Random! You roll a <hex:0212024A03>998.
+47,Novice Network Notifications,Novice - You've joined the Novice Network.<hex:02100103>There are currently 10 <hex:0212024F03>mentors and 30 <hex:0212024E03>new adventurers participating.
+48,Current Orchestrion Track Messages,<hex:021A020203>Under the Weight<hex:021A020103> is now playing.
+49,PvP Team Announcements,Tifa Lockhart has joined the team.
+50,PvP Team Member Login Notifications,Tifa Lockhart has logged in.
+51,Damage dealt by you.,You hit the Shadow Lord for 9999 damage.
+52,Failed attacks by you.,You miss the Shadow Lord.
+53,Actions initiated by you.,You begin casting Flare.<hex:02100103>You cancel Flare.
+54,Items used by you.,You ready a tuft of phoenix down.<hex:02100103>You cancel use of the tuft of phoenix down.
+55,Effects of healing spells cast by you.,  Cloud Strife recovers 7 HP.
+56,Beneficial effects granted by you.,  Cloud Strife gains the effect of Protect.
+57,Detrimental effects inflicted by you.,  The Shadow Lord suffers the effect of Rasp.
+58,Damage you are dealt.,The Shadow Lord hits you for 9999 damage.
+59,Failed attacks on you.,The Shadow Lord misses you.
+60,Actions used on you.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+61,Items used on you.,Cloud Strife readies a tuft of phoenix down.<hex:02100103>Cloud Strife cancels the use of the tuft of phoenix down.
+62,Effects of healing spells cast on you.,  You recover 411 HP.
+63,Beneficial effects granted to you.,  You gain the effect of Stoneskin.
+64,Detrimental effects inflicted on you.,  You suffer the effect of Bio.
+65,Beneficial effects on you ending.,You lose the effect of Stoneskin.
+66,Detrimental effects on you ending.,You recover from the effect of Bio.
+67,Alarm Notifications,<hex:0212026903> Alarm: 0 minutes until 12:00 p.m. 
+68,,
+69,,
+70,,
+71,Damage dealt by party members.,Cloud Strife hits the little ladybug for 2 damage.
+72,Failed attacks by party members.,Cloud Strife misses the little ladybug.
+73,Actions initiated by party members.,Cloud Strife begins casting Stone.<hex:02100103>Cloud Strife cancels Stone.
+74,Items used by party members.,Cloud Strife readies a tuft of phoenix down.<hex:02100103>Cloud Strife cancels the use of the tuft of phoenix down.
+75,Effects of healing spells cast by party members.,  Cloud Strife recovers 7 HP.
+76,Beneficial effects granted by party members.,  Cloud Strife gains the effect of Protect.
+77,Detrimental effects inflicted by party members.,  The Shadow Lord suffers the effect of Rasp.
+78,Damage party members are dealt.,The Shadow Lord hits Cloud Strife for 9999 damage.
+79,Failed attacks on party members.,The Shadow Lord misses Cloud Strife.
+80,Actions used on party members.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+81,Items used on party members.,Cloud Strife readies a tuft of phoenix down.<hex:02100103>Cloud Strife cancels the use of the tuft of phoenix down.
+82,Effects of healing spells cast on party members.,  Cloud Strife recovers 7 HP.
+83,Beneficial effects granted to party members.,  Cloud Strife gains the effect of Shock Spikes.
+84,Detrimental effects inflicted on party members.,  Cloud Strife suffers the effect of Amnesia.
+85,Beneficial effects on party members ending.,Cloud Strife loses the effect of Shock Spikes.
+86,Detrimental effects on party members ending.,Cloud Strife recovers from the effect of Amnesia.
+87,,
+88,,
+89,,
+90,,
+91,Damage dealt by others.,Cloud Strife hits the little ladybug for 2 damage.
+92,Failed attacks by others.,Cloud Strife misses the little ladybug.
+93,Actions initiated by others.,Cloud Strife begins casting Stone.<hex:02100103>Cloud Strife cancels Stone.
+94,Items used by others.,Cloud Strife readies a tuft of phoenix down.<hex:02100103>Cloud Strife cancels the use of the tuft of phoenix down.
+95,Effects of healing spells cast by others.,  Cloud Strife recovers 7 HP.
+96,Beneficial effects granted by others.,  Cloud Strife gains the effect of Protect.
+97,Detrimental effects inflicted by others.,  The Shadow Lord suffers the effect of Rasp.
+98,Damage others are dealt.,The Shadow Lord hits Cloud Strife for 9999 damage.
+99,Failed attacks on others.,The Shadow Lord misses Cloud Strife.
+100,Actions used on others.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+101,Items used on others.,Cloud Strife readies a tuft of phoenix down.<hex:02100103>Cloud Strife cancels the use of the tuft of phoenix down.
+102,Effects of healing spells cast on others.,  Cloud Strife recovers 7 HP.
+103,Beneficial effects granted to others.,  Cloud Strife gains the effect of Shock Spikes.
+104,Detrimental effects inflicted on others.,  Cloud Strife suffers the effect of Amnesia.
+105,Beneficial effects on others ending.,Cloud Strife loses the effect of Shock Spikes.
+106,Detrimental effects on others ending.,Cloud Strife recovers from the effect of Amnesia.
+107,,
+108,,
+109,,
+110,,
+111,Damage dealt by engaged enemies.,The Shadow Lord hits you for 9999 damage.
+112,Failed attacks by engaged enemies.,The Shadow Lord misses you.
+113,Actions initiated by engaged enemies.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+114,Items used by engaged enemies.,The Shadow Lord readies a mega-elixir.<hex:02100103>The Shadow Lord cancels the use of the mega-elixir.
+115,Effects of healing spells cast by engaged enemies.,  The Shadow Lord recovers 9999 HP.
+116,Beneficial effects granted by engaged enemies.,  The Shadow Lord gains the effect of Protect VII.
+117,Detrimental effects inflicted by engaged enemies.,  You suffer the effect of Amnesia.
+118,Damage engaged enemies are dealt.,You hit the Shadow Lord for 2 damage.
+119,Failed attacks on engaged enemies.,You miss the Shadow Lord.
+120,Actions used on engaged enemies.,You begin casting Stone.<hex:02100103>You cancel Stone.
+121,Items used on engaged enemies.,You ready a tuft of phoenix down.<hex:02100103>You cancel the use of the tuft of phoenix down.
+122,Effects of healing spells cast on engaged enemies.,  The Shadow Lord recovers 9999 HP.
+123,Beneficial effects granted to engaged enemies.,  The Shadow Lord gains the effect of Protect VII.
+124,Detrimental effects inflicted on engaged enemies.,  The Shadow Lord suffers the effect of Rasp.
+125,Beneficial effects on engaged enemies ending.,The Shadow Lord loses the effect of Protect VII.
+126,Detrimental effects on engaged enemies ending.,The Shadow Lord recovers from the effect of Rasp.
+127,,
+128,,
+129,,
+130,,
+131,Damage dealt by unengaged enemies.,The Shadow Lord hits Tifa Lockhart for 9999 damage.
+132,Failed attacks by unengaged enemies.,The Shadow Lord misses Tifa Lockhart.
+133,Actions initiated by unengaged enemies.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+134,Items used by unengaged enemies.,The Shadow Lord readies a mega-elixir.<hex:02100103>The Shadow Lord cancels the use of the mega-elixir.
+135,Effects of healing spells cast by unengaged enemies.,  The Shadow Lord recovers 9999 HP.
+136,Beneficial effects granted by unengaged enemies.,  The Shadow Lord gains the effect of Protect VII.
+137,Detrimental effects inflicted by unengaged enemies.,  Tifa Lockhart suffers the effect of Amnesia.
+138,Damage unengaged enemies are dealt.,Tifa Lockhart hits the Shadow Lord for 2 damage.
+139,Failed attacks on unengaged enemies.,Tifa Lockhart misses the Shadow Lord.
+140,Actions used on unengaged enemies.,Tifa Lockhart begins casting Stone.<hex:02100103>Tifa Lockhart cancels Stone.
+141,Items used on unengaged enemies.,Tifa Lockhart readies a tuft of phoenix down.<hex:02100103>Tifa Lockhart cancels the use of the tuft of phoenix down.
+142,Effects of healing spells cast on unengaged enemies.,  The Shadow Lord recovers 9999 HP.
+143,Beneficial effects granted to unengaged enemies.,  The Shadow Lord gains the effect of Protect VII.
+144,Detrimental effects inflicted on unengaged enemies.,  The Shadow Lord suffers the effect of Rasp.
+145,Beneficial effects on unengaged enemies ending.,The Shadow Lord loses the effect of Protect VII.
+146,Detrimental effects on unengaged enemies ending.,The Shadow Lord recovers from the effect of Rasp.
+147,,
+148,,
+149,,
+150,,
+151,Damage dealt by alliance members.,Ramza Beoulve hits the little ladybug for 2 damage.
+152,Failed attacks by alliance members.,Ramza Beoulve misses the little ladybug.
+153,Actions initiated by alliance members.,Ramza Beoulve begins casting Stone.<hex:02100103>Ramza Beoulve cancels Stone.
+154,Items used by alliance members.,Ramza Beoulve readies a tuft of phoenix down.<hex:02100103>Ramza Beoulve cancels the use of the tuft of phoenix down.
+155,Effects of healing spells cast by alliance members.,  Ramza Beoulve recovers 7 HP.
+156,Beneficial effects granted by alliance members.,  Ramza Beoulve gains the effect of Protect.
+157,Detrimental effects inflicted by alliance members.,  The Shadow Lord suffers the effect of Rasp.
+158,Damage alliance members are dealt.,The Shadow Lord hits Ramza Beoulve for 9999 damage.
+159,Failed attacks on alliance members.,The Shadow Lord misses Ramza Beoulve.
+160,Actions used on alliance members.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+161,Items used on alliance members.,Ramza Beoulve readies a tuft of phoenix down.<hex:02100103>Ramza Beoulve cancels the use of the tuft of phoenix down.
+162,Effects of healing spells cast on alliance members.,  Ramza Beoulve recovers 7 HP.
+163,Beneficial effects granted to alliance members.,  Ramza Beoulve gains the effect of Shock Spikes.
+164,Detrimental effects inflicted on alliance members.,  Ramza Beoulve suffers the effect of Amnesia.
+165,Beneficial effects on alliance members ending.,Ramza Beoulve loses the effect of Shock Spikes.
+166,Detrimental effects on alliance members ending.,Ramza Beoulve recovers from the effect of Amnesia.
+167,,
+168,,
+169,,
+170,,
+171,Damage dealt by friendly NPCs.,Agrias Oaks hits the little ladybug for 2 damage.
+172,Failed attacks by friendly NPCs.,Agrias Oaks misses the little ladybug.
+173,Actions initiated by friendly NPCs.,Agrias Oaks begins casting Stone.<hex:02100103>Agrias Oaks cancels Stone.
+174,Items used by friendly NPCs.,Agrias Oaks readies a tuft of phoenix down.<hex:02100103>Agrias Oaks cancels the use of the tuft of phoenix down.
+175,Effects of healing spells cast by friendly NPCs.,  Agrias Oaks recovers 7 HP.
+176,Beneficial effects granted by friendly NPCs.,  Agrias Oaks gains the effect of Protect.
+177,Detrimental effects inflicted by friendly NPCs.,  The Shadow Lord suffers the effect of Rasp.
+178,Damage friendly NPCs are dealt.,The Shadow Lord hits Agrias Oaks for 9999 damage.
+179,Failed attacks on friendly NPCs.,The Shadow Lord misses Agrias Oaks.
+180,Actions used on friendly NPCs.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+181,Items used on friendly NPCs.,Agrias Oaks readies a tuft of phoenix down.<hex:02100103>Agrias Oaks cancels the use of the tuft of phoenix down.
+182,Effects of healing spells cast on friendly NPCs.,  Agrias Oaks recovers 7 HP.
+183,Beneficial effects granted to friendly NPCs.,  Agrias Oaks gains the effect of Shock Spikes.
+184,Detrimental effects inflicted on friendly NPCs.,  Agrias Oaks suffers the effect of Amnesia.
+185,Beneficial effects on friendly NPCs ending.,Agrias Oaks loses the effect of Shock Spikes.
+186,Detrimental effects on friendly NPCs ending.,Agrias Oaks recovers from the effect of Amnesia.
+187,,
+188,,
+189,,
+190,,
+191,Damage dealt by your pets and companions.,Boco hits the little ladybug for 2 damage.
+192,Failed attacks by your pets and companions.,Boco misses the little ladybug.
+193,Actions initiated by your pets and companions.,Boco begins casting Stone.<hex:02100103>Boco cancels Stone.
+194,Items used by your pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+195,Effects of healing spells cast by your pets and companions.,  Boco recovers 7 HP.
+196,Beneficial effects granted by your pets and companions.,  Boco gains the effect of Protect.
+197,Detrimental effects inflicted by your pets and companions.,  The Shadow Lord suffers the effect of Rasp.
+198,Damage your pets and companions are dealt.,The Shadow Lord hits Boco for 9999 damage.
+199,Failed attacks on your pets and companions.,The Shadow Lord misses Boco.
+200,Actions used on your pets and companions.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+201,Items used on your pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+202,Effects of healing spells cast on your pets and companions.,  Boco recovers 7 HP.
+203,Beneficial effects granted to your pets and companions.,  Boco gains the effect of Shock Spikes.
+204,Detrimental effects inflicted on your pets and companions.,  Boco suffers the effect of Amnesia.
+205,Beneficial effects on your pets and companions ending.,Boco loses the effect of Shock Spikes.
+206,Detrimental effects on your pets and companions ending.,Boco recovers from the effect of Amnesia.
+207,,
+208,,
+209,,
+210,,
+211,Damage dealt by party members' pets and companions.,Boco hits the little ladybug for 2 damage.
+212,Failed attacks by party members' pets and companions.,Boco misses the little ladybug.
+213,Actions initiated by party members' pets and companions.,Boco begins casting Stone.<hex:02100103>Boco cancels Stone.
+214,Items used by party members' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+215,Effects of healing spells cast by party members' pets and companions.,  Boco recovers 7 HP.
+216,Beneficial effects granted by party members' pets and companions.,  Boco gains the effect of Protect.
+217,Detrimental effects inflicted by party members' pets and companions.,  The Shadow Lord suffers the effect of Rasp.
+218,Damage party members' pets and companions are dealt.,The Shadow Lord hits Boco for 9999 damage.
+219,Failed attacks on party members' pets and companions.,The Shadow Lord misses Boco.
+220,Actions used on party members' pets and companions.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+221,Items used on party members' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+222,Effects of healing spells cast on party members' pets and companions.,  Boco recovers 7 HP.
+223,Beneficial effects granted to party members' pets and companions.,  Boco gains the effect of Shock Spikes.
+224,Detrimental effects inflicted on party members' pets and companions.,  Boco suffers the effect of Amnesia.
+225,Beneficial effects on party members' pets and companions ending.,Boco loses the effect of Shock Spikes.
+226,Detrimental effects on party members' pets and companions ending.,Boco recovers from the effect of Amnesia.
+227,,
+228,,
+229,,
+230,,
+231,Damage dealt by alliance members' pets and companions.,Boco hits the little ladybug for 2 damage.
+232,Failed attacks by alliance members' pets and companions.,Boco misses the little ladybug.
+233,Actions initiated by alliance members' pets and companions.,Boco begins casting Stone.<hex:02100103>Boco cancels Stone.
+234,Items used by alliance members' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+235,Effects of healing spells cast by alliance members' pets and companions.,  Boco recovers 7 HP.
+236,Beneficial effects granted by alliance members' pets and companions.,  Boco gains the effect of Protect.
+237,Detrimental effects inflicted by alliance members' pets and companions.,  The Shadow Lord suffers the effect of Rasp.
+238,Damage alliance members' pets and companions are dealt.,The Shadow Lord hits Boco for 9999 damage.
+239,Failed attacks on alliance members' pets and companions.,The Shadow Lord misses Boco.
+240,Actions used on alliance members' pets and companions.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+241,Items used on alliance members' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+242,Effects of healing spells cast on alliance members' pets and companions.,  Boco recovers 7 HP.
+243,Beneficial effects granted to alliance members' pets and companions.,  Boco gains the effect of Shock Spikes.
+244,Detrimental effects inflicted on alliance members' pets and companions.,  Boco suffers the effect of Amnesia.
+245,Beneficial effects on alliance members' pets and companions ending.,Boco loses the effect of Shock Spikes.
+246,Detrimental effects on alliance members' pets and companions ending.,Boco recovers from the effect of Amnesia.
+247,,
+248,,
+249,,
+250,,
+251,Damage dealt by others' pets and companions.,Boco hits the little ladybug for 2 damage.
+252,Failed attacks by others' pets and companions.,Boco misses the little ladybug.
+253,Actions initiated by others' pets and companions.,Boco begins casting Stone.<hex:02100103>Boco cancels Stone.
+254,Items used by others' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+255,Effects of healing spells cast by others' pets and companions.,  Boco recovers 7 HP.
+256,Beneficial effects granted by others' pets and companions.,  Boco gains the effect of Protect.
+257,Detrimental effects inflicted by others' pets and companions.,  The Shadow Lord suffers the effect of Rasp.
+258,Damage others' pets and companions are dealt.,The Shadow Lord hits Boco for 9999 damage.
+259,Failed attacks on others' pets and companions.,The Shadow Lord misses Boco.
+260,Actions used on others' pets and companions.,The Shadow Lord begins casting Meteor.<hex:02100103>The Shadow Lord cancels Meteor.
+261,Items used on others' pets and companions.,Boco readies a tuft of phoenix down.<hex:02100103>Boco cancels the use of the tuft of phoenix down.
+262,Effects of healing spells cast on others' pets and companions.,  Boco recovers 7 HP.
+263,Beneficial effects granted to others' pets and companions.,  Boco gains the effect of Shock Spikes.
+264,Detrimental effects inflicted on others' pets and companions.,  Boco suffers the effect of Amnesia.
+265,Beneficial effects on others' pets and companions ending.,Boco loses the effect of Shock Spikes.
+266,Detrimental effects on others' pets and companions ending.,Boco recovers from the effect of Amnesia.
+267,,
+268,,
+269,,
+270,,
+300,Cross-world Linkshell [2],[CWLS2]<Cloud Strife> You guys seen Hojo anywhere?
+301,Cross-world Linkshell [3],[CWLS3]<Cloud Strife> You guys seen Hojo anywhere?
+302,Cross-world Linkshell [4],[CWLS4]<Cloud Strife> You guys seen Hojo anywhere?
+303,Cross-world Linkshell [5],[CWLS5]<Cloud Strife> You guys seen Hojo anywhere?
+304,Cross-world Linkshell [6],[CWLS6]<Cloud Strife> You guys seen Hojo anywhere?
+305,Cross-world Linkshell [7],[CWLS7]<Cloud Strife> You guys seen Hojo anywhere?
+306,Cross-world Linkshell [8],[CWLS8]<Cloud Strife> You guys seen Hojo anywhere?

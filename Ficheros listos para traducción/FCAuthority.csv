@@ -1,0 +1,80 @@
+﻿key,0
+#,Name
+offset,0
+int32,str
+0,Company Profile
+1,
+2,Rank Settings
+3,Crest Design
+4,Company Chest Settings
+5,Invitations
+6,Applications
+7,Member Dismissal
+8,Promotion/Demotion
+9,Company Board
+10,
+11,Short Message
+12,Company Credits
+13,Executing Actions
+14,Discarding Actions
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,Estate Hall Access
+44,Estate Renaming
+45,Greeting Customization
+46,Purchase/Relinquish Land
+47,Hall Construction/Removal
+48,Hall Remodeling
+49,No Furnishing Privileges
+50,Furnishing Placement
+51,Furnishing Placement/Removal
+52,Paint Fixtures/Furnishings
+53,Guest Access/Estate Tag Settings
+54,Message Book Management
+55,Planting
+56,Harvesting
+57,Crop Disposal
+58,Stabling Chocobos
+59,Training Members' Chocobos
+60,Aetherial Wheel Use
+61,Retainer Dispatchment
+62,Workshop Construction/Removal
+63,Project Commencement/Discontinuation
+64,Project Material Delivery
+65,Project Progression
+66,Project Item Collection
+67,Prototype Creation
+68,Registration & Dismantling
+69,Outfitting
+70,Color Customization
+71,Renaming
+72,Voyage Deployment/Recall
+73,Voyage Finalization
+74,Exploratory Mission Embarkation
+75,Orchestrion Operation

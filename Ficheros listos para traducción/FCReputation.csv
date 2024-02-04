@@ -1,0 +1,13 @@
+﻿key,4
+#,Name
+offset,0
+int32,str
+0,
+1,Neutral
+2,Recognized
+3,Friendly
+4,Trusted
+5,Respected
+6,Honored
+7,Sworn
+8,Allied

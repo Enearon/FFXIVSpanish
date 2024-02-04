@@ -1,0 +1,100 @@
+﻿key,0,2,8
+#,Singular,Plural,Name
+offset,0,4,8
+int32,str,str,str
+0,leather saddle,leather saddles,Leather Saddle
+1,Lominsan saddle,Lominsan saddles,Lominsan Saddle
+2,set of Lominsan half barding,sets of Lominsan half barding,Lominsan Half Barding
+3,set of Lominsan barding,sets of Lominsan barding,Lominsan Barding
+4,set of Lominsan crested barding,sets of Lominsan crested barding,Lominsan Crested Barding
+5,Gridanian saddle,Gridanian saddles,Gridanian Saddle
+6,set of Gridanian half barding,sets of Gridanian half barding,Gridanian Half Barding
+7,set of Gridanian barding,sets of Gridanian barding,Gridanian Barding
+8,set of Gridanian crested barding,sets of Gridanian crested barding,Gridanian Crested Barding
+9,Ul'dahn saddle,Ul'dahn saddles,Ul'dahn Saddle
+10,set of Ul'dahn half barding,sets of Ul'dahn half barding,Ul'dahn Half Barding
+11,set of Ul'dahn barding,sets of Ul'dahn barding,Ul'dahn Barding
+12,set of Ul'dahn crested barding,sets of Ul'dahn crested barding,Ul'dahn Crested Barding
+13,set of paladin barding,sets of paladin barding,Paladin Barding
+14,set of dragoon barding,sets of dragoon barding,Dragoon Barding
+15,set of white mage barding,sets of white mage barding,White Mage Barding
+16,set of Sleipnir barding,sets of Sleipnir barding,Sleipnir Barding
+17,set of behemoth barding,sets of behemoth barding,Behemoth Barding
+18,flyer shaffron,flyer shaffrons,Flyer Shaffron
+19,set of black mage barding,sets of black mage barding,Black Mage Barding
+20,set of sovereign barding,sets of sovereign barding,Sovereign Barding
+21,set of Starlight barding,sets of Starlight barding,Starlight Barding
+22,set of tidal barding,sets of tidal barding,Tidal Barding
+23,set of Barding of Light,sets of Barding of Light,Barding of Light
+24,set of egg barding,sets of egg barding,Egg Barding
+25,set of Levin barding,sets of Levin barding,Levin Barding
+26,set of plumed barding,sets of plumed barding,Plumed Barding
+27,set of eerie barding,sets of eerie barding,Eerie Barding
+28,set of ice barding,sets of ice barding,Ice Barding
+29,set of gambler barding,sets of gambler barding,Gambler Barding
+30,set of paramour barding,sets of paramour barding,Paramour Barding
+31,set of Ishgardian half barding,sets of Ishgardian half barding,Ishgardian Half Barding
+32,set of Ishgardian barding,sets of Ishgardian barding,Ishgardian Barding
+33,,,
+34,set of Expanse barding,sets of Expanse barding,Expanse Barding
+35,set of Hive barding,sets of Hive barding,Hive Barding
+36,set of noble barding,sets of noble barding,Noble Barding
+37,set of Orthodox barding,sets of Orthodox barding,Orthodox Barding
+38,set of highland barding,sets of highland barding,Highland Barding
+39,set of wild rose barding,sets of wild rose barding,Wild Rose Barding
+40,set of round table barding,sets of round table barding,Round Table Barding
+41,set of Sephirotic barding,sets of Sephirotic barding,Sephirotic Barding
+42,set of egg hunter barding,sets of egg hunter barding,Egg Hunter Barding
+43,set of Far Eastern barding,sets of Far Eastern barding,Far Eastern Barding
+44,set of race barding,sets of race barding,Race Barding
+45,set of Horde barding,sets of Horde barding,Horde Barding
+46,set of butlery barding,sets of butlery barding,Butlery Barding
+47,set of Sophic barding,sets of Sophic barding,Sophic Barding
+48,set of abigail barding,sets of abigail barding,Abigail Barding
+49,set of Mandervillian barding,sets of Mandervillian barding,Mandervillian Barding
+50,set of angelic barding,sets of angelic barding,Angelic Barding
+51,set of demonic barding,sets of demonic barding,Demonic Barding
+52,set of Zurvanite barding,sets of Zurvanite barding,Zurvanite Barding
+53,set of reveler's barding,sets of reveler's barding,Reveler's Barding
+54,set of Ala Mhigan barding,sets of Ala Mhigan barding,Ala Mhigan Barding
+55,set of blissful barding,sets of blissful barding,Blissful Barding
+56,set of Hingan barding,sets of Hingan barding,Hingan Barding
+57,set of Oriental barding,sets of Oriental barding,Oriental Barding
+58,set of Nezha barding,sets of Nezha barding,Nezha Barding
+59,set of Shinryu barding,sets of Shinryu barding,Shinryu Barding
+60,set of Ixion barding,sets of Ixion barding,Ixion Barding
+61,set of red mage barding,sets of red mage barding,Red Mage Barding
+62,set of Byakko barding,sets of Byakko barding,Byakko Barding
+63,chocobo raincoat,chocobo raincoats,Chocobo Raincoat
+64,set of lunar barding,sets of lunar barding,Lunar Barding
+65,set of Suzaku barding,sets of Suzaku barding,Suzaku Barding
+66,set of samurai barding,sets of samurai barding,Samurai Barding
+67,set of Seiryu barding,sets of Seiryu barding,Seiryu Barding
+68,set of Yojimbo barding,sets of Yojimbo barding,Yojimbo Barding
+69,set of Titania barding,sets of Titania barding,Titania Barding
+70,set of Innocence barding,sets of Innocence barding,Innocence Barding
+71,set of dancer barding,sets of dancer barding,Dancer Barding
+72,set of deepshadow barding,sets of deepshadow barding,Deepshadow Barding
+73,set of Hades barding,sets of Hades barding,Hades Barding
+74,set of saintly barding,sets of saintly barding,Saintly Barding
+75,set of Ruby barding,sets of Ruby barding,Ruby Barding
+76,set of machinist barding,sets of machinist barding,Machinist Barding
+77,set of True Barding of Light,sets of True Barding of Light,True Barding of Light
+78,set of Emerald barding,sets of Emerald barding,Emerald Barding
+79,set of queen's guard barding,sets of queen's guard barding,Queen's Guard Barding
+80,set of Bozjan barding,sets of Bozjan barding,Bozjan Barding
+81,set of Diamond barding,sets of Diamond barding,Diamond Barding
+82,set of barding of eternal Darkness,sets of barding of eternal Darkness,Barding of Eternal Darkness
+83,set of barding of divine Light,sets of barding of divine Light,Barding of Divine Light
+84,set of postmoogle barding,sets of postmoogle barding,Postmoogle Barding
+85,set of Thavnairian barding,sets of Thavnairian barding,Thavnairian Barding
+86,set of bluefeather barding,sets of bluefeather barding,Bluefeather Barding
+87,set of wolf barding,sets of wolf barding,Wolf Barding
+88,set of windswept barding,sets of windswept barding,Windswept Barding
+89,set of isle pioneer's barding,sets of isle pioneer's barding,Isle Pioneer's Barding
+90,set of flamecloaked barding,sets of flamecloaked barding,Flamecloaked Barding
+91,set of Allagan barding,sets of Allagan barding,Allagan Barding
+92,set of voidcast barding,sets of voidcast barding,Voidcast Barding
+93,set of felicitous barding,sets of felicitous barding,Felicitous Barding
+94,set of abyssal barding,sets of abyssal barding,Abyssal Barding
+95,set of wayfarer's barding,sets of wayfarer's barding,Wayfarer's Barding

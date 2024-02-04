@@ -1,0 +1,12 @@
+﻿key,4,5
+#,Name,Description
+offset,0,4
+int32,str,str
+0,,
+1,Basic Training: Physical,Overall Physical Ability +40
+2,Basic Training: Mental,Overall Mental Ability +40
+3,Basic Training: Tactical,Overall Tactical Ability +40
+4,Advanced Training: Physical & Mental,Overall Physical/Mental Abilities +20
+5,Advanced Training: Physical & Tactical,Overall Physical/Tactical Abilities +20
+6,Advanced Training: Mental & Tactical,Overall Tactical/Mental Abilities +20
+7,Comprehensive Training Course,None

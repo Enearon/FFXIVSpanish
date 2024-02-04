@@ -1,0 +1,65 @@
+﻿key,11,12,13,14,93,94,95,96,97,98,99,100,101,102,103,104
+#,VFX{Fire},VFX{Hit},VFX{Miss},VFX{Additional},Objective[0],Hint[0],Objective[1],Hint[1],,,,,,,,ActionText
+offset,244,248,252,256,192,196,200,204,208,212,216,220,224,228,232,236
+int32,str,str,str,str,str,str,str,str,str,str,str,str,str,str,str,str
+1,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,
+4,ev_snipe_clic0f,,,,Size Up the Dhalmel!,Creation of the perfect stuffed dhalmel<hex:02100103>begins with observation of a live<hex:02100103>specimen. Inspect the beast thoroughly.,,Look over every ilm of the dhalmel,,,,,,,,Observe
+5,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Hit All the Targets!,Determine the blowgun's effectiveness<hex:02100103>by hitting all the targets.,,Hit the specified targets,,,,,,,,Blow
+6,ev_snipe_clic0f,,,,Search the Shore!,Reports state someone has collapsed<hex:02100103>on shore. Search the area and confirm<hex:02100103>the account.,,Find the collapsed individual,,,,,,,,Confirm
+7,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Paralyze the Foper!,Locate the foper and use<hex:02100103>your blowgun to paralyze it.,,Hit the foper with the dart,,,,,,,,Blow
+8,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Silence the Imperial Patrol!,Locate the patrolling imperial<hex:02100103>guard and use your blowgun<hex:02100103>to put him to sleep.,,Hit the imperial with the dart,,,,,,,,Blow
+9,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Silence the Imperial Patrol!,Locate the patrolling imperial<hex:02100103>guards and use your blowgun<hex:02100103>to put them to sleep.,,Hit the imperials with the darts,,,,,,,,Blow
+10,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Silence the Imperial Patrol!,Use your blowgun to put<hex:02100103>the imperial guards patrolling<hex:02100103>Castrum Fluminis to sleep.,,Hit the imperials with the darts,,,,,,,,Blow
+11,ev_snipe_clic0f,,,,Follow the Traitor!,Find the soldier accused of<hex:02100103>treason and observe his actions.,,Observe the soldier,,,,,,,,Observe
+12,ev_snipe_clic0f,,,,Follow the Traitor!,Find the soldier accused of<hex:02100103>treason and observe his actions.,,Observe the soldier,,,,,,,,Observe
+13,ev_snipe_clic0f,,,,Follow the Traitor!,Find the soldier accused of<hex:02100103>treason and observe his actions.,,Observe the soldier,,,,,,,,Observe
+14,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Put the Sheep to Sleep!,Find the sheep that strayed from<hex:02100103>the flock and use your blowgun<hex:02100103>to put it to sleep.,,Hit the sheep with the darts,,,,,,,,Blow
+15,ev_snipe_clic0f,,,,Peer through the Looking Glass!,Journey through the looking glass<hex:02100103>to uncover what Master Gegeruju<hex:02100103>was spying with his little eye.,Do not let your eyes wander!,Discover the object of Gegeruju's attention,,,,,,,,Observe
+16,ev_snipe1cf,ev_snipe_hit0f,ev_snipe_mis0f,,Launch Bubbles at the Ray!,Single striped ray seeks meaningful<hex:02100103>relationship with female in heat. Enjoys<hex:02100103>stinging Lalafells and launching bubbles.,,Launch bubbles at the eligible female ray,,,,,,,,Launch
+17,ev_snipe_clic0f,,,,Learn More about the Yabby!,Observe the yabby to<hex:02100103>determine its vulnerabilities.,,Discover the yabby's weak point,,,,,,,,Observe
+18,ev_snipe_clic0f,,,,Learn More about the Phoebad!,Observe the phoebad to<hex:02100103>determine its vulnerabilities.,,Discover the phoebad's weak point,,,,,,,,Observe
+19,ev_snipe_clic0f,,,,Watch the Namazu!,One of the Namazu is acting odd.<hex:02100103>Keep a close eye on his movements.,,Observe the Namazu's actions,,,,,,,,Observe
+20,ev_snipe_clic0f,,,,Watch the Namazu!,One of the Namazu is acting odd.<hex:02100103>Keep a close eye on his movements.,,Observe the Namazu's actions,,,,,,,,Observe
+21,,,,,,,,,,,,,,,,
+22,ev_snipe2cf,ev_snipe2_hit0f,ev_snipe2_hit0f,ev_snipe2_mis0f,Eliminate the dharas!,Unruly dharas are threatening the<hex:02100103>Resistance encampment. Strike down<hex:02100103>the spirits before they reach the ore.,Do not allow them to reach the ore!,Fire upon the crazed dharas,,,,,,,,Fire
+23,ev_snipe_clic0f,,,,Find Ba'Gamnan!,The Bangaa captain is somewhere<hex:02100103>on the island. Find him before it is<hex:02100103>too late.,,Find Ba'Gamnan,,,,,,,,Confirm
+24,ev_snipe3cf,ev_snipe_hit0f,ev_snipe_hit0f,ev_snipe_hit0f,Hit the Target!,Demonstrate your skill with a bow<hex:02100103>by hitting the target held by Gyoshin.,Do not hit Gyoshin!,Hit the Namazu target,,,,,,,,Shoot
+25,ev_snipe3cf,ev_snipe_hit0f,ev_snipe_mis0f,,Hit the Targets!,Demonstrate your skill with a bow<hex:02100103>by hitting all the targets.,,Hit the Namazu targets,,,,,,,,Shoot
+26,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Hit the Swine!,Locate a razor-tusked swine and<hex:02100103>use your blowgun to paralyze it.,,Hit a razor-tusked swine,,,,,,,,Shoot
+27,ev_snipe_clic0f,,,,Browse the Wares!,Rhon Ron's eatery has a variety of<hex:02100103>goods available for purchase.<hex:02100103>Inspect each of his exotic dishes.,,Browse Rhon Ron's wares,,,,,,,,Confirm
+28,ev_snipe_clic0f,,,,Find the Timeworn Tablet!,Locate the timeworn tablet hidden<hex:02100103>in the church.,,Find the timeworn tablet,,,,,,,,Confirm
+29,ev_snipe_clic0f,,,,Observe the Murals!,Y'shtola has asked you to inspect<hex:02100103>the murals on the wall. See if there<hex:02100103>is aught you can learn from them while<hex:02100103>she inspects the monolith.,,Observe the murals,,,,,,,,Observe
+30,,,,,,,,,,,,,,,,
+31,,,,,,,,,,,,,,,,
+32,ev_snipe_clic0f,,,,Find the Mystel!,A Mystel youth with short blue hair<hex:02100103>has made off with Alphinaud's produce.<hex:02100103>Track him down!,,Locate the blue-haired Mystel youth,,,,,,,,Confirm
+33,ev_snipe_clic0f,,,,Find the Mysterious Person!,Find the mysterious person from<hex:02100103>the village spying in your direction.,,Locate the mysterious person,,,,,,,,Confirm
+34,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Hit the Dwarf!,Locate the dwarf who is wearing<hex:02100103>the wrong helm and shoot them<hex:02100103>with your slingshot.,,Shoot the dwarf wearing the wrong helm,,,,,,,,Shoot
+35,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Hit the Dwarf!,Locate the dwarf who is wearing<hex:02100103>the wrong helm and shoot them<hex:02100103>with your slingshot.,Do not hit a dwarf with a Tholl helm!,Shoot the dwarf wearing the wrong helm,,,,,,,,Shoot
+36,ev_snipe_clic0f,,,,Inspect the Buildings!,"Inspect the structures which comprise<hex:02100103>the Ondo Cups, and identify their most<hex:02100103>distinctive feature.",,Inspect the building for defining features,,,,,,,,Confirm
+37,ev_snipe_clic0f,,,,Count the Pixies!,Count the number of pixies within the time limit.,,Count the number of pixies,,,,,,,,Observe
+38,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Defeat the Ghilman!,Protect the bleary-eyed guard as he<hex:02100103>searches for his mother's pendant!,Objective failed if the ghilman reach the bleary-eyed guard.,Ghilman defeated: ,,,,,,,,Fire Enchanted Dart
+39,ev_snipe_clic0f,,,,Help Master Chai!,Alert Master Chai when it is safe to approach the Talos.,Objective failed if Master Chai is spotted along the way.,Give Master Chai the signal to approach,,,,,,,,Signal
+40,ev_snipe4cf,ev_snipe4_hit0f,ev_snipe4_mis0f,,Protect the flower-picking pixie!,Throw porxies at any threats that appear.,Objective failed if any threats reach the flower-picking pixie.,Threats Eliminated: ,,,,,,,,Throw
+41,,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,,
+45,ev_snipe_clic0f,,,,Help Master Chai!,Alert Master Chai when it is safe to approach the Talos.,Objective failed if Master Chai is spotted along the way.,Give Master Chai the signal to approach,,,,,,,,Signal
+46,ev_snipe_clic0f,,,,Identify an Anomaly!,Observe M-017 for an anomaly after<hex:02100103>Alisaie strikes the console with lightning.,,Identify an anomaly in M-017 when it manifests,,,,,,,,Confirm
+47,,,,,,,,,,,,,,,,
+48,ev_snipe5ct,ev_snipe5_hit0t,ev_snipe5_mis0t,,Fell the Colossi!,Use the plasma cannon to stop the colossi in their tracks.,Objective failed if the colossi nears the Immortal Flame delegate.,Bring down the magitek colossi,,,,,,,,
+49,ev_snipe6ct,ev_snipe6_hit0t,ev_snipe6_mis0t,,Find Runningway!,Locate the ever elusive<hex:02100103>Runningway and strike him with<hex:02100103>a ball of mousse flesh.,Do not hit the unassuming Loporrits!,Strike Runningway with a mousse ball,,,,,,,,Throw
+50,ev_snipe_clic0f,,,,Find Points of Interest!,"Show the Loporrits the important<hex:02100103>features of this apparatus, or at least, <hex:02100103>the features that <hex:021A020203>seem<hex:021A020103> important...",,Observe the mushroom-like thing,Observe the tanks,Observe the metallic tube,,,,,,Observe
+51,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Sedate the target!,Help Erenville capture his quarry.<hex:02100103>Look for the green bird which<hex:02100103>“caws” and sedate it with the dart.,Objective failed if the wrong bird is sedated.,Hit the right bird with the dart,,,,,,,,Blow
+52,ev_snipe_clic0f,,,,Find an Errant Omicron!,The Omicrons should be on standby.<hex:02100103>Search for any that are not.,,Find an Omicron behaving suspiciously,,,,,,,,Observe
+53,ev_snipe_clic0f,,,,Examine the Statue!,"Examine the different sections<hex:02100103>of the statue of Thaliak, and learn<hex:02100103>about the history of Sharlayan.",,Examine the statue of Thaliak,,,,,,,,Examine
+54,ev_snipe_clic0f,,,,How Many Loporrits?,Try and count the number of Loporrits scurrying about the carrot production station.,,Count the Loporrits,,,,,,,,Observe
+55,ev_snipe_clic0f,,,,Survey Horrea Campi!,Use the telescope to search for the local boy.,,Locate the boy,,,,,,,,Observe
+56,ev_snipe0cf,ev_snipe_hit0f,ev_snipe_mis0f,,Sedate the Rampaging Creation!,Use the blow dart to quiet the rampaging creature.,,Hit the creature with the blow dart,,,,,,,,Blow
+57,ev_snipe_clic0f,,,,Examine Hildibrand Manderville!,Inspect the unconscious body of Inspector Hildibrand and try to determine the cause of his coma.,,Inspect Hildibrand closely,,,,,,,,Inspect
+58,ev_snipe_clic0f,,,,Find the Alien Craft!,Locate the unidentified object spotted<hex:02100103>flying over Mare Lamentorum.,,Find the alien craft,,,,,,,,Inspect
+59,,,,,,,,,,,,,,,,
+60,,,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,

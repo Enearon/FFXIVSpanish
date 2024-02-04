@@ -1,0 +1,33 @@
+﻿key,0
+#,Category
+offset,0
+int32,str
+0,Tables
+1,Shelves/Chests
+2,Miscellaneous
+3,Walls/Partitions
+4,Chairs/Sofas
+5,Beds
+6,Plants
+7,Interactive Furnishings
+8,Walls/Pillars/Partitions
+9,Bathing
+10,Miscellaneous
+11,Shelves/Chests
+12,Lighting
+13,Interactive Furnishings
+14,Lighting
+15,Miscellaneous
+16,Plants
+17,Clocks
+18,Stuffed Toys/Figures
+19,Tableware/Foods
+20,Flags/Frames/Posters
+21,Miscellaneous
+22,Lighting
+23,Clocks
+24,Interactive Furnishings
+25,Shelves
+26,Plants
+27,Rugs
+28,Windows

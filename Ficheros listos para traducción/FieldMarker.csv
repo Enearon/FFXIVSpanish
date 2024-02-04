@@ -1,0 +1,14 @@
+﻿key,3
+#,Name
+offset,0
+int32,str
+0,
+1,Waymark A
+2,Waymark B
+3,Waymark C
+4,Waymark D
+5,Waymark 1
+6,Waymark 2
+7,Waymark 3
+8,Waymark 4
+9,Clear Waymarks

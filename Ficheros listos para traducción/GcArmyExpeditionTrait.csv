@@ -1,0 +1,28 @@
+﻿key,10
+#,
+offset,0
+int32,str
+0,
+1,physical ability is increased by <hex:022003E80203>%
+2,mental ability is increased by <hex:022003E80203>%
+3,tactical ability is increased by <hex:022003E80203>%
+4,physical ability for all squadron members is increased by <hex:022003E80203>%
+5,mental ability for all squadron members is increased by <hex:022003E80203>%
+6,tactical ability for all squadron members is increased by <hex:022003E80203>%
+7,EXP earned is increased by <hex:022003E80203>%
+8,EXP earned by all squadron members is increased by <hex:022003E80203>%
+9,party chemistry trigger rates increase by <hex:022003E80203>%
+10,there is a <hex:022003E80203>% chance to receive Contemporary Warfare: Defense
+11,there is a <hex:022003E80203>% chance to receive Contemporary Warfare: Magicks
+12,there is a <hex:022003E80203>% chance to receive Contemporary Warfare: Offense
+13,there is a <hex:022003E80203>% chance to receive bonus gil
+14,there is a <hex:022003E80203>% chance to receive bonus company seals
+15,there is a <hex:022003E80203>% chance to receive bonus MGP
+16,there is a <hex:022003E80203>% chance to receive tank-specific materia
+17,there is a <hex:022003E80203>% chance to receive physical DPS-specific materia
+18,there is a <hex:022003E80203>% chance to receive DoM-specific materia
+19,there is a <hex:022003E80203>% chance to receive DoL-specific materia
+20,there is a <hex:022003E80203>% chance to receive DoH-specific materia
+21,there is a <hex:022003E80203>% chance to receive crystal clusters
+22,there is a <hex:022003E80203>% chance to receive gatherers' scrips
+23,there is a <hex:022003E80203>% chance to receive crafters' scrips

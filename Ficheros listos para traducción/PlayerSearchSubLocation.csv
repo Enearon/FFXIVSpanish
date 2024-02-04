@@ -1,0 +1,37 @@
+﻿key,3,4,5
+#,,,
+offset,0,4,8
+int32,str,str,str
+0,無効,無効,無効
+1,world,world,world
+2,Limsa Lominsa,Limsa Lominsa,Limsa Lominsa
+3,La Noscea,La Noscea,La Noscea
+4,The Wolves' Den,The Wolves' Den,The Wolves' Den
+5,Gridania,Gridania,Gridania
+6,The Black Shroud,The Black Shroud,Black Shroud
+7,Ul'dah,Ul'dah,Ul'dah
+8,Thanalan,Thanalan,Thanalan
+9,The Gold Saucer,The Gold Saucer,Gold Saucer
+10,Ishgard,Ishgard,Ishgard
+11,Coerthas,Coerthas,Coerthas
+12,Abalathia's Spine,Abalathia's Spine,Abalathia's Spine
+13,Idyllshire,Idyllshire,Idyllshire
+14,Dravania,Dravania,Dravania
+15,Rhalgr's Reach,Rhalgr's Reach,Rhalgr's Reach
+16,Gyr Abania,Gyr Abania,Gyr Abania
+17,Kugane,Kugane,Kugane
+18,Othard,Othard,Othard
+19,Radz-at-Han,Radz-at-Han,Radz-at-Han
+20,Thavnair,Thavnair,Thavnair
+21,Garlemald,Garlemald,Garlemald
+22,The Crystarium,The Crystarium,Crystarium
+23,Eulmore,Eulmore,Eulmore
+24,Norvrandt,Norvrandt,Norvrandt
+25,Mor Dhona,Mor Dhona,Mor Dhona
+26,Old Sharlayan,Old Sharlayan,Old Sharlayan
+27,Labyrinthos,Labyrinthos,Labyrinthos
+28,The Sea of Stars,The Sea of Stars,Sea of Stars
+29,The World Unsundered,The World Unsundered,World Unsundered
+30,Elsewhere,Elsewhere,Elsewhere
+
+//No traducir central

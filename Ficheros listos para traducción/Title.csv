@@ -1,0 +1,729 @@
+﻿key,0,1
+#,Masculine,Feminine
+offset,0,4
+int32,str,str
+0,,
+1,The Insatiable,The Insatiable
+2,The True,The True
+3,Coeurlfist,Coeurlfist
+4,Ironeater,Ironeater
+5,Of the Vengeful Lance,Of the Vengeful Lance
+6,The Godsbow,The Godsbow
+7,The White,The White
+8,Starcaller,Starcaller
+9,The Exterminator,The Exterminator
+10,Notorious Monster Hunter,Notorious Monster Hunter
+11,Honest Gillionaire,Honest Gillionaire
+12,Ruthless Gillionaire,Ruthless Gillionaire
+13,Warmonger,Warmonger
+14,Archmage,Archmage
+15,Builder of the Realm,Builder of the Realm
+16,Provider of the Realm,Provider of the Realm
+17,Of the Golden Saw,Of the Golden Saw
+18,Of the Golden Anvil,Of the Golden Anvil
+19,Of the Golden Hammer,Of the Golden Hammer
+20,Of the Golden Leaf,Of the Golden Leaf
+21,Of the Golden Hide,Of the Golden Hide
+22,Of the Golden Needle,Of the Golden Needle
+23,Of the Golden Lead,Of the Golden Lead
+24,Of the Golden Ladle,Of the Golden Ladle
+25,Meadowbreaker,Meadowbreaker
+26,Forestbreaker,Forestbreaker
+27,Desertbreaker,Desertbreaker
+28,Of the Meadow Mines,Of the Meadow Mines
+29,Of the Forest Mines,Of the Forest Mines
+30,Of the Desert Mines,Of the Desert Mines
+31,Meadowreaper,Meadowreaper
+32,Forestreaper,Forestreaper
+33,Desertreaper,Desertreaper
+34,Of the Meadow Grasses,Of the Meadow Grasses
+35,Of the Forest Grasses,Of the Forest Grasses
+36,Of the Desert Grasses,Of the Desert Grasses
+37,Meadowcaster,Meadowcaster
+38,Forestcaster,Forestcaster
+39,Desertcaster,Desertcaster
+40,Of the Meadow Pools,Of the Meadow Pools
+41,Of the Forest Pools,Of the Forest Pools
+42,Of the Desert Pools,Of the Desert Pools
+43,Carrier of the Cauldron,Carrier of the Cauldron
+44,The Assimilator,The Assimilator
+45,Seeker of Blood,Seeker of Blood
+46,Seeker of Truth,Seeker of Truth
+47,Seeker of Skill,Seeker of Skill
+48,Seeker of Bounty,Seeker of Bounty
+49,Sidestepper,Sidestepper
+50,Lord Protector,Lady Protector
+51,Lord Creator,Lady Creator
+52,Peacemaker,Peacemaker
+53,The Last Resort,The Last Resort
+54,The Sword of La Noscea,The Sword of La Noscea
+55,The Sword of the Shroud,The Sword of the Shroud
+56,The Sword of Thanalan,The Sword of Thanalan
+57,The Sword of Eorzea,The Sword of Eorzea
+58,The Shield of La Noscea,The Shield of La Noscea
+59,The Shield of the Shroud,The Shield of the Shroud
+60,The Shield of Thanalan,The Shield of Thanalan
+61,The Shield of Eorzea,The Shield of Eorzea
+62,Brother of the Broken Blade,Sister of the Broken Blade
+63,The Warden's Wall,The Warden's Wall
+64,Bearer of the Horn,Bearer of the Horn
+65,The Uncommitted,The Uncommitted
+66,The Professional,The Professional
+67,Inquisitor,Inquisitor
+68,Divine Crusher,Divine Crusher
+69,Stonesplitter,Stonesplitter
+70,A Kobold's Worst Nightmare,A Kobold's Worst Nightmare
+71,An Ixal's Worst Nightmare,An Ixal's Worst Nightmare
+72,An Amalj'aa's Worst Nightmare,An Amalj'aa's Worst Nightmare
+73,The Guardian of Aleport,The Guardian of Aleport
+74,The Guardian of Hyrstmill,The Guardian of Hyrstmill
+75,The Guardian of the Golden Bazaar,The Guardian of the Golden Bazaar
+76,The Wind of Aleport,The Wind of Aleport
+77,The Wind of Hyrstmill,The Wind of Hyrstmill
+78,The Wind of the Golden Bazaar,The Wind of the Golden Bazaar
+79,The Hand of Aleport,The Hand of Aleport
+80,The Hand of Hyrstmill,The Hand of Hyrstmill
+81,The Hand of the Golden Bazaar,The Hand of the Golden Bazaar
+82,Wild Thing,Wild Thing
+83,The Winter Wyrm,The Winter Wyrm
+84,Messenger of Love,Messenger of Love
+85,Royal Seneschal,Princess for a Day
+86,Dreamseeker,Dreamseeker
+87,Cascadier,Cascadier
+88,Crystal Bearer,Crystal Bearer
+89,Stormlord,Stormlady
+90,Serpentlord,Serpentlady
+91,Flamelord,Flamelady
+92,The Stormsworn,The Stormsworn
+93,The Serpentsworn,The Serpentsworn
+94,The Flamesworn,The Flamesworn
+95,Stormcarrier,Stormcarrier
+96,Serpentcarrier,Serpentcarrier
+97,Flamecarrier,Flamecarrier
+98,Stormbringer,Stormbringer
+99,Serpentbringer,Serpentbringer
+100,Flamebringer,Flamebringer
+101,Featherfoot,Featherfoot
+102,A Bo's Best Friend,A Bo's Best Friend
+103,Lightning,Lightning
+104,Cavalier,Cavalier
+105,The Wanderer's Shadow,The Wanderer's Shadow
+106,Green Eyes,Green Eyes
+107,The Strategist,The Strategist
+108,The Reaper,The Reaper
+109,Dungeon Master,Dungeon Master
+110,Tempter of Fate,Temptress of Fate
+111,Elite Cascadier,Elite Cascadier
+112,Storm Puppy,Storm Puppy
+113,Storm Howler,Storm Howler
+114,Storm Growler,Storm Growler
+115,Storm Hound,Storm Hound
+116,Storm Stalker,Storm Stalker
+117,Storm Chaser,Storm Chaser
+118,Naago's Friend,Naago's Friend
+119,Naago's Partner,Naago's Partner
+120,Wings of Steel,Wings of Steel
+121,Wings of Fire,Wings of Fire
+122,Serpent Puppy,Serpent Puppy
+123,Serpent Howler,Serpent Howler
+124,Serpent Growler,Serpent Growler
+125,Serpent Hound,Serpent Hound
+126,Serpent Stalker,Serpent Stalker
+127,Serpent Chaser,Serpent Chaser
+128,Deep Canal Raider,Deep Canal Raider
+129,Deep Canal Dweller,Deep Canal Dweller
+130,The Luckiest of Lords,The Luckiest of Ladies
+131,Crimson Explorer,Crimson Explorer
+132,Flame Puppy,Flame Puppy
+133,Flame Howler,Flame Howler
+134,Flame Growler,Flame Growler
+135,Flame Hound,Flame Hound
+136,Flame Stalker,Flame Stalker
+137,Flame Chaser,Flame Chaser
+138,The Legend,The Legend
+139,Raubahn's Left Arm,Raubahn's Left Arm
+140,Of the Blue,Of the Blue
+141,Fashion Leader,Fashion Leader
+142,The Ravenous Wolf,The Ravenous Wolf
+143,The Alpha Wolf,The Alpha Wolf
+144,The Heart of the Party,The Heart of the Party
+145,Brother of Ash,Sister of Ash
+146,Sylph-Friend,Sylph-Friend
+147,Treasure Hunter,Treasure Hunter
+148,789th Order Champion,789th Order Champion
+149,Novv Clutchmate,Novv Clutchmate
+150,The Ambitious Angler,The Ambitious Angler
+151,The Meat Shield,The Meat Shield
+152,The Meat Axe,The Meat Axe
+153,Of the Stalwart Shield,Of the Stalwart Shield
+154,Of the Stalwart Axe,Of the Stalwart Axe
+155,Frontline Forerunner,Frontline Forerunner
+156,Storm Forerunner,Storm Forerunner
+157,Flame Forerunner,Flame Forerunner
+158,Serpent Forerunner,Serpent Forerunner
+159,Drone Sniper,Drone Sniper
+160,Heliodrome Hero,Heliodrome Hero
+161,Hunter for Hire,Hunter for Hire
+162,Seeker of Fortune,Seeker of Fortune
+163,Seasoned Tracker,Seasoned Tracker
+164,Bounty Hunter,Bounty Hunter
+165,Soldier of Fortune,Soldier of Fortune
+166,Captain of the Hunt,Captain of the Hunt
+167,Rafflesia Reaper,Rafflesia Reaper
+168,Melusine Mauler,Melusine Mauler
+169,The Avatar,The Avatar
+170,Domitor,Domitrix
+171,The Disassembler,The Disassembler
+172,Eversharp,Eversharp
+173,Bearer of the Coffer,Bearer of the Coffer
+174,Defender of Eorzea,Defender of Eorzea
+175,The Postman,The Postwoman
+176,Ehcatl Blackguard,Ehcatl Blackguard
+177,The Negotiator,The Negotiator
+178,The Final Witness,The Final Witness
+179,Of Dragons Deep,Of Dragons Deep
+180,Master Caster,Master Caster
+181,The New Sun,The New Sun
+182,The Shadow,The Shadow
+183,Icebreaker,Icebreaker
+184,Of the Silver Lining,Of the Silver Lining
+185,Gentleman,Gentlewoman
+186,Cupid,Cupid
+187,Tamer of Steeds,Tamer of Steeds
+188,The Unsevered,The Unsevered
+189,Slaughterhouse,Slaughterhouse
+190,The Hand of Mercy,The Hand of Mercy
+191,The Light in Hand,The Light in Hand
+192,The Light of the Land,The Light of the Land
+193,Z,Z
+194,Golemancer,Golemancer
+195,Gambler,Gambler
+196,High Roller,High Roller
+197,Chocobo Breeder,Chocobo Breeder
+198,Chocobo Trainer,Chocobo Trainer
+199,Bug Boy,Bug Girl
+200,Senior Jockey,Senior Jockey
+201,Veteran Jockey,Veteran Jockey
+202,The First Across,The First Across
+203,Deck Holder,Deck Holder
+204,Deck Hoarder,Deck Hoarder
+205,The Trinity,The Trinity
+206,Duelist,Duelist
+207,Keymaster,Gatekeeper
+208,The Fungah,The Fungah
+209,Moneybags,Moneybags
+210,Raiser of Mountains,Raiser of Mountains
+211,Bearer of the Torch,Bearer of the Torch
+212,Postmaster,Postmaster
+213,Half-boiled Hero,Half-boiled Heroine
+214,Unbeliever,Unbeliever
+215,The Redeemed,The Redeemed
+216,Nidhogg Slayer,Nidhogg Slayer
+217,Of the Silver Fuller,Of the Silver Fuller
+218,Imperial Nuisance,Imperial Nuisance
+219,Under-archon,Under-archon
+220,The End of Ascalon,The End of Ascalon
+221,Snake in the Grass,Snake in the Grass
+222,The Oathkeeper,The Oathkeeper
+223,Of the 14th Chakra,Of the 14th Chakra
+224,The Mythril Heart,The Mythril Heart
+225,The Azure Dragoon,The Azure Dragoon
+226,Skysinger,Skysinger
+227,Pure White,Pure White
+228,Annihilator,Annihilator
+229,Dreadspawn,Dreadspawn
+230,Nymian Marine,Nymian Marine
+231,The Darkest Shadow,The Darkest Shadow
+232,Blackblood,Blackblood
+233,Liberator,Liberator
+234,Stargazer,Stargazer
+235,Illuminati Quencher,Illuminati Quencher
+236,Finder of False Gods,Finder of False Gods
+237,Lighter than Air,Lighter than Air
+238,,
+239,Grandmaster of War,Grandmaster of War
+240,Grandmaster of Magic,Grandmaster of Magic
+241,Dark Driver,Dark Driver
+242,Of the Stalwart Sword,Of the Stalwart Sword
+243,Keeper of Knowledge,Keeper of Knowledge
+244,Canal Dweller,Canal Dweller
+245,Canal Lord,Canal Lady
+246,The Necromancer,The Necromancer
+247,,
+248,Grandmaster of the Hand,Grandmaster of the Hand
+249,Grandmaster of the Land,Grandmaster of the Land
+250,Molder of Masterpieces,Molder of Masterpieces
+251,Amasser of Masterpieces,Amasser of Masterpieces
+252,Business Associate,Business Associate
+253,Master Carpenter,Master Carpenter
+254,Master Blacksmith,Master Blacksmith
+255,Master Armorer,Master Armorer
+256,Master Goldsmith,Master Goldsmith
+257,Master Leatherworker,Master Leatherworker
+258,Master Weaver,Master Weaver
+259,Master Alchemist,Master Alchemist
+260,Master Culinarian,Master Culinarian
+261,Master Miner,Master Miner
+262,Master Botanist,Master Botanist
+263,Master Fisher,Master Fisher
+264,The Fortunate,The Fortunate
+265,Good Samaritan,Good Samaritan
+266,Minion Collector,Minion Collector
+267,Minion Master,Minion Master
+268,Mammeteer,Mammeteer
+269,Prince of Verminion,Princess of Verminion
+270,Lord of Verminion,Lady of Verminion
+271,House Fortemps Knight,House Fortemps Knight
+272,Sky Pirate,Sky Pirate
+273,The Noumenon,The Noumenon
+274,Sundrop Dancer,Sundrop Dancer
+275,Myth Breaker,Myth Breaker
+276,Veteran Explorer,Veteran Explorer
+277,Special Advisor,Special Advisor
+278,Notorious Monster Slayer,Notorious Monster Slayer
+279,Hungry Wolf,Hungry Wolf
+280,The Devourer,The Devourer
+281,The Unmoving,The Unmoving
+282,The Unrelenting,The Unrelenting
+283,The Unseen,The Unseen
+284,The Unleashed,The Unleashed
+285,The Undamaged,The Undamaged
+286,Mentor,Mentor
+287,Mentor of Mentors,Mentor of Mentors
+288,Carrier of the Kettle,Carrier of the Kettle
+289,The Gear of Change,The Gear of Change
+290,Allthoughts,Allthoughts
+291,The Newmind,The Newmind
+292,The Dragonsong,The Dragonsong
+293,Polis Raider,Polis Raider
+294,Polis Dweller,Polis Dweller
+295,Polis Lord,Polis Lady
+296,Pom Friend,Pom Friend
+297,Leader of the Pack,Leader of the Pack
+298,Beta Wolf,Beta Wolf
+299,Hunter Wolf,Hunter Wolf
+300,Bronze Wolf,Bronze Wolf
+301,Silver Wolf,Silver Wolf
+302,Gold Wolf,Gold Wolf
+303,Platinum Wolf,Platinum Wolf
+304,Diamond Wolf,Diamond Wolf
+305,Of the First Pack,Of the First Pack
+306,Of the Second Pack,Of the Second Pack
+307,Of the Hungry Pack,Of the Hungry Pack
+308,Of the Bronze Pack,Of the Bronze Pack
+309,Of the Silver Pack,Of the Silver Pack
+310,Of the Gold Pack,Of the Gold Pack
+311,Of the Platinum Pack,Of the Platinum Pack
+312,Of the Diamond Pack,Of the Diamond Pack
+313,The Knight of Glory,The Knight of Glory
+314,The Chief Mourner,The Chief Mourner
+315,The Wings of Time,The Wings of Time
+316,Surrenderer of Souls,Surrenderer of Souls
+317,Khloe's Friend,Khloe's Friend
+318,Khloe's Best Friend,Khloe's Best Friend
+319,Hero of Gelmorra,Hero of Gelmorra
+320,Lightbringer,Lightbringer
+321,Lonely Explorer,Lonely Explorer
+322,The Lucky,The Lucky
+323,Of the Sixth Sense,Of the Sixth Sense
+324,Corpse Dancer,Corpse Dancer
+325,Makai Master,Makai Master
+326,Garo,Garo
+327,Makai Monk,Makai Monk
+328,Barago,Barago
+329,Dan,Dan
+330,Makai Bard,Makai Bard
+331,Makai Black Mage,Makai Black Mage
+332,Makai White Mage,Makai White Mage
+333,Zero,Zero
+334,Makai Summoner,Makai Summoner
+335,Makai Scholar,Makai Scholar
+336,Kiba,Kiba
+337,Makai Machinist,Makai Machinist
+338,Makai Astrologian,Makai Astrologian
+339,Moonlifter,Moonlifter
+340,The Finest Pupil's Ally,The Finest Pupil's Ally
+341,Fatewalker,Fatewalker
+342,Of the Holy Body,Of the Holy Body
+343,Gigi's Best Friend,Gigi's Best Friend
+344,Tamer of the Undying Flame,Tamer of the Undying Flame
+345,Mortal Fist,Mortal Fist
+346,Rhalgr's Right Fist,Rhalgr's Right Fist
+347,Tablesetter,Tablesetter
+348,Halone's Cup Bearer,Halone's Cup Bearer
+349,Zhloe's Friend,Zhloe's Friend
+350,Zhloe's Best Friend,Zhloe's Best Friend
+351,Survivor of the Song,Survivor of the Song
+352,Ijin Traveler,Ijin Traveler
+353,Confederate,Confederate
+354,Adversary,Adversary
+355,Steppe Warrior,Steppe Warrior
+356,The Returned,The Returned
+357,Lyse's Right Fist,Lyse's Right Fist
+358,The Liberator,The Liberator
+359,Deltascape Deleter,Deltascape Deleter
+360,Ul Cup Champion,Ul Cup Champion
+361,The Fistful,The Fistful
+362,Loved by the Axe,Loved by the Axe
+363,The Blood Dragoon,The Blood Dragoon
+364,Of the True Autumn,Of the True Autumn
+365,Padjal Protector,Padjal Protector
+366,Gembreaker,Gembreaker
+367,The First Caller,The First Caller
+368,Keeper of the Lilacs,Keeper of the Lilacs
+369,Eorzean Ninja,Eorzean Ninja
+370,Of the Swirling Abyss,Of the Swirling Abyss
+371,The Howler,The Howler
+372,Of the Eastern Skies,Of the Eastern Skies
+373,The Red,The Red
+374,Muso,Muso
+375,God of War,Goddess of War
+376,God of Magic,Goddess of Magic
+377,God of the Hand,Goddess of the Hand
+378,God of the Land,Goddess of the Land
+379,Of the Longest Hunt,Of the Longest Hunt
+380,Of the Endless Hunt,Of the Endless Hunt
+381,Thrillseeker,Thrillseeker
+382,Ultimate Thrillseeker,Ultimate Thrillseeker
+383,Canal Raider,Canal Raider
+384,Hiruko Hunter,Hiruko Hunter
+385,Heavenly Gate Crasher,Heavenly Gate Crasher
+386,True Hero,True Hero
+387,Lone Hero,Lone Hero
+388,Hoarder,Hoarder
+389,Vanguard,Vanguard
+390,Kurenai's Best Friend,Kurenai's Best Friend
+391,Kurenai's Partner,Kurenai's Partner
+392,Under the Moonlight,Under the Moonlight
+393,Siltwater Socialite,Siltwater Socialite
+394,Matchmaker,Matchmaker
+395,Eorzean Ninja Warrior,Eorzean Ninja Warrior
+396,Calamatologist,Calamatologist
+397,The Ultimate Legend,The Ultimate Legend
+398,Monster Hunter,Monster Hunter
+399,FRC 2018 Champion,FRC 2018 Champion
+400,FRC 2018 Finalist,FRC 2018 Finalist
+401,FRC 2018 Ranker,FRC 2018 Ranker
+402,Prelude in Violet,Prelude in Violet
+403,Philanthropist,Philanthropist
+404,Altar Boy,Altar Girl
+405,The Devout,The Devout
+406,Invoker of Gods,Invoker of Gods
+407,Grandmaster Caster,Grandmaster Caster
+408,Kyubi Tamer,Kyubi Tamer
+409,Mahjong Enthusiast,Mahjong Enthusiast
+410,Mahjong Master,Mahjong Master
+411,Little Piggy,Little Piggy
+412,Tough Customer,Tough Customer
+413,Blue Blood,Blue Blood
+414,Mask of the Blue,Mask of the Blue
+415,Perfect Blue,Perfect Blue
+416,Eurekan Explorer,Eurekan Explorer
+417,A Requiem For Heroes,A Requiem For Heroes
+418,The Soboro,The Soboro
+419,Kageyama Killer,Kageyama Killer
+420,Kingsglaive,Kingsglaive
+421,Lord of the Fetch,Lady of the Fetch
+422,Soul of War,Soul of War
+423,Soul of Magic,Soul of Magic
+424,Soul of the Craft,Soul of the Craft
+425,Soul of the Harvest,Soul of the Harvest
+426,Outlander,Outlander
+427,The Fae-touched,The Fae-touched
+428,Seeker of Hidden Truths,Seeker of Hidden Truths
+429,Of the Sunless Sea,Of the Sunless Sea
+430,Enemy of Innocence,Enemy of Innocence
+431,Shadowbringer,Shadowbringer
+432,Sworn Protector,Sworn Protector
+433,The Heart's Beat,The Heart's Beat
+434,Living Memory,Living Memory
+435,Bulwark between Worlds,Bulwark between Worlds
+436,The Transcendent,The Transcendent
+437,Worldcleaver,Worldcleaver
+438,Bolt from the Black,Bolt from the Black
+439,The Song upon the Wind,The Song upon the Wind
+440,Firstblessed,Firstblessed
+441,Of Stranger Shadow,Of Stranger Shadow
+442,Farcaller,Farcaller
+443,Knower of Twin Worlds,Knower of Twin Worlds
+444,Shadow of the Other,Shadow of the Other
+445,The Boundless Dark,The Boundless Dark
+446,The Shot Heard Across Worlds,The Shot Heard Across Worlds
+447,Distant Stargazer,Distant Stargazer
+448,Dualistic Duelist,Dualistic Duelist
+449,Samurai in a Strange Land,Samurai in a Strange Land
+450,Wandering Vanguard,Wandering Vanguard
+451,Riftdancer,Riftdancer
+452,Otherworld Smith,Otherworld Smith
+453,Otherworld Artisan,Otherworld Artisan
+454,Otherworld Apothecary,Otherworld Apothecary
+455,Otherworld Seeker,Otherworld Seeker
+456,Otherworld Angler,Otherworld Angler
+457,The Multifaceted,The Multifaceted
+458,Trusted Friend,Trusted Friend
+459,The Invisible Hand,The Invisible Hand
+460,Charming Brute,Charming Brute
+461,The Fabulously Feral,The Fabulously Feral
+462,Of Unyielding Oath,Of Unyielding Oath
+463,Of Unyielding Steel,Of Unyielding Steel
+464,Of Unyielding Principle,Of Unyielding Principle
+465,Of Unyielding Lealty,Of Unyielding Lealty
+466,Dungeon Raider,Dungeon Raider
+467,Dungeon Dweller,Dungeon Dweller
+468,Dungeon Lord,Dungeon Lady
+469,Kindred Sword,Kindred Sword
+470,,
+471,,
+472,,
+473,,
+474,,
+475,,
+476,Of Virtuous Deeds,Of Virtuous Deeds
+477,Kai-Shirr's Best Mate,Kai-Shirr's Best Mate
+478,Honeybee,Honeybee
+479,Sweet Dreamer,Sweet Dreamer
+480,The Perfect Legend,The Perfect Legend
+481,Blue to the Bone,Blue to the Bone
+482,Blue Luminary,Blue Luminary
+483,Masked of the Round,Masked of the Round
+484,Unbound Blue,Unbound Blue
+485,Blue Justice,Blue Justice
+486,The Battleforged,The Battleforged
+487,Champion of the Blue,Champion of the Blue
+488,Saint of the Firmament,Saint of the Firmament
+489,Beatus of the Firmament,Beata of the Firmament
+490,Frame of the Firmament,Frame of the Firmament
+491,Forge of the Firmament,Forge of the Firmament
+492,Hammer of the Firmament,Hammer of the Firmament
+493,Jewel of the Firmament,Jewel of the Firmament
+494,Knife of the Firmament,Knife of the Firmament
+495,Weave of the Firmament,Weave of the Firmament
+496,Panacea of the Firmament,Panacea of the Firmament
+497,Pan of the Firmament,Pan of the Firmament
+498,Pick of the Firmament,Pick of the Firmament
+499,Hatchet of the Firmament,Hatchet of the Firmament
+500,Rod of the Firmament,Rod of the Firmament
+501,The Hand of Creation,The Hand of Creation
+502,Divine Provider,Divine Provider
+503,The Nest's Own Carpenter,The Nest's Own Carpenter
+504,The Nest's Own Blacksmith,The Nest's Own Blacksmith
+505,The Nest's Own Armorer,The Nest's Own Armorer
+506,The Nest's Own Goldsmith,The Nest's Own Goldsmith
+507,The Nest's Own Leatherworker,The Nest's Own Leatherworker
+508,The Nest's Own Weaver,The Nest's Own Weaver
+509,The Nest's Own Alchemist,The Nest's Own Alchemist
+510,The Nest's Own Culinarian,The Nest's Own Culinarian
+511,The Nest's Own Miner,The Nest's Own Miner
+512,The Nest's Own Botanist,The Nest's Own Botanist
+513,The Nest's Own Fisher,The Nest's Own Fisher
+514,Fortune's Favored Kupo,Fortune's Favored Kupo
+515,Ocean Fisher,Ocean Fisher
+516,Octopus Traveler,Octopus Traveler
+517,Shark Hunter,Shark Hunter
+518,Jellyfish Fanatic,Jellyfish Fanatic
+519,Sea Dragoon,Sea Dragoon
+520,Echo of a Fallen Star,Echo of a Fallen Star
+521,Ronkan Historian,Ronkan Historian
+522,A Dragon's Best Friend,A Dragon's Best Friend
+523,Tinker Tutor,Tinker Tutor
+524,Partner in Teatime,Partner in Teatime
+525,Vrai Ami,Vraie Amie
+526,Tank Technician,Tank Technician
+527,Shepherd to the Stars,Shepherd to the Stars
+528,Featherfall's Finest Carpenter,Featherfall's Finest Carpenter
+529,Featherfall's Finest Blacksmith,Featherfall's Finest Blacksmith
+530,Featherfall's Finest Armorer,Featherfall's Finest Armorer
+531,Featherfall's Finest Goldsmith,Featherfall's Finest Goldsmith
+532,Featherfall's Finest Leatherworker,Featherfall's Finest Leatherworker
+533,Featherfall's Finest Weaver,Featherfall's Finest Weaver
+534,Featherfall's Finest Alchemist,Featherfall's Finest Alchemist
+535,Featherfall's Finest Culinarian,Featherfall's Finest Culinarian
+536,Featherfall's Finest Miner,Featherfall's Finest Miner
+537,Featherfall's Finest Botanist,Featherfall's Finest Botanist
+538,Featherfall's Finest Fisher,Featherfall's Finest Fisher
+539,The Decisive Blow,The Decisive Blow
+540,Skirmisher,Skirmisher
+541,Siege Liege,Siege Liege
+542,Gabriel's Downfall,Gabriel's Downfall
+543,Queller of Beasts,Queller of Beasts
+544,The Death of Flame,The Death of Flame
+545,Sword of the South,Sword of the South
+546,Guardian Angel,Guardian Angel
+547,Saint of the Firmament,Saint of the Firmament
+548,Beatus of the Firmament,Beata of the Firmament
+549,Writer of Histories,Writer of Histories
+550,Of the Truest Blue,Of the Truest Blue
+551,Blue Ranger,Blue Ranger
+552,The Azure and Omega,The Azure and Omega
+553,Balloon Catcher,Balloon Catcher
+554,Deadliest Catcher,Deadliest Catcher
+555,Manta Maniac,Manta Maniac
+556,World-class Troller,World-class Troller
+557,Saint of the Firmament,Saint of the Firmament
+558,Beatus of the Firmament,Beata of the Firmament
+559,Tournament Leader,Tournament Leader
+560,Secret Finder,Secret Finder
+561,Secret Keeper,Secret Keeper
+562,Gaolbreaker,Gaolbreaker
+563,Master of the Sea,Master of the Sea
+564,Delubrum Delver,Delubrum Delver
+565,The Risensung Carpenter,The Risensung Carpenter
+566,The Risensung Blacksmith,The Risensung Blacksmith
+567,The Risensung Armorer,The Risensung Armorer
+568,The Risensung Goldsmith,The Risensung Goldsmith
+569,The Risensung Leatherworker,The Risensung Leatherworker
+570,The Risensung Weaver,The Risensung Weaver
+571,The Risensung Alchemist,The Risensung Alchemist
+572,The Risensung Culinarian,The Risensung Culinarian
+573,The Risensung Miner,The Risensung Miner
+574,The Risensung Botanist,The Risensung Botanist
+575,The Risensung Fisher,The Risensung Fisher
+576,Jack of All Cards,Jack of All Cards
+577,Speed Demon,Speed Demon
+578,The Indefatigable,The Indefatigable
+579,Lord of Far Waters,Lady of Far Waters
+580,Big Fish,Big Fish
+581,Charlemend's Angel,Charlemend's Angel
+582,Lifesaver,Lifesaver
+583,Dawn Treader,Dawn Treader
+584,Witness to the Dark Apocalypse,Witness to the Dark Apocalypse
+585,Dalriada Raider,Dalriada Raider
+586,The Hypertuned,The Hypertuned
+587,Commander Conqueror,Commander Conqueror
+588,Lyon Tamer,Lyon Tamer
+589,Hero of Zadnor,Hero of Zadnor
+590,Gunnhildr's Blade,Gunnhildr's Blade
+591,The Emblazoned,The Emblazoned
+592,Queen's Elect,Queen's Elect
+593,At War's Horizon,At War's Horizon
+594,At Magic's Horizon,At Magic's Horizon
+595,At Art's Horizon,At Art's Horizon
+596,At Land's Horizon,At Land's Horizon
+597,Magus Resister,Magus Resister
+598,Moonwalker,Moonwalker
+599,Lightingway,Lightingway
+600,Vrtra's Valiant,Vrtra's Valiant
+601,Elpiphoros,Elpiphoros
+602,Hope's Legacy,Hope's Legacy
+603,Endwalker,Endwalker
+604,Lemures,Lemures
+605,The Sagacious,The Sagacious
+606,Erudite Smith,Erudite Smith
+607,Erudite Artisan,Erudite Artisan
+608,Erudite Apothecary,Erudite Apothecary
+609,Erudite Seeker,Erudite Seeker
+610,Erudite Angler,Erudite Angler
+611,Honorary Academic,Honorary Academic
+612,The Seventh Dawn,The Seventh Dawn
+613,Of Unbreakable Oath,Of Unbreakable Oath
+614,Of Unbreakable Steel,Of Unbreakable Steel
+615,Of Unbreakable Principle,Of Unbreakable Principle
+616,Of Unbreakable Lealty,Of Unbreakable Lealty
+617,Gleaning Machine,Gleaning Machine
+618,The Keen,The Keen
+619,The Excruciatingly Excited,The Excruciatingly Excited
+620,On the Hype Tron,On the Hype Tron
+621,Lunaire Riche,Lunaire Riche
+622,Patron of the Fates,Patron of the Fates
+623,The Arbiter,The Arbiter
+624,Bronze Bearer,Bronze Bearer
+625,Silver Bearer,Silver Bearer
+626,Gold Bearer,Gold Bearer
+627,Platinum Bearer,Platinum Bearer
+628,Diamond Bearer,Diamond Bearer
+629,Crystal Keeper,Crystal Keeper
+630,Of the Final Conflict,Of the Final Conflict
+631,Of the Endless Conflict,Of the Endless Conflict
+632,Of the Rising Conflict,Of the Rising Conflict
+633,Hippo Hero,Hippo Hero
+634,Ami d'Améliance,Amie d'Améliance
+635,Academic Advocate,Academic Advocate
+636,The Heavens' Legend,The Heavens' Legend
+637,Newfound Adventurer,Newfound Adventurer
+638,Blessed Relief,Blessed Relief
+639,Makai Samurai,Makai Samurai
+640,Makai Red Mage,Makai Red Mage
+641,Makai Gunbreaker,Makai Gunbreaker
+642,Makai Dancer,Makai Dancer
+643,Makai Reaper,Makai Reaper
+644,Makai Sage,Makai Sage
+645,Sanctuary Seeker,Sanctuary Seeker
+646,Trader of Paradise,Trader of Paradise
+647,Cieldalaes Connoisseur,Cieldalaes Connoisseur
+648,Voidbound,Voidbound
+649,Of the Final Conflict,Of the Final Conflict
+650,Of the Endless Conflict,Of the Endless Conflict
+651,Of the Rising Conflict,Of the Rising Conflict
+652,Of the Final Conflict,Of the Final Conflict
+653,Of the Endless Conflict,Of the Endless Conflict
+654,Of the Rising Conflict,Of the Rising Conflict
+655,Barista at the End of the Universe,Barista at the End of the Universe
+656,Sultana's Shadow,Sultana's Shadow
+657,Infamy of Sil'dih,Infamy of Sil'dih
+658,Fiendslayer,Fiendslayer
+659,Leaf Whisperer,Leaf Whisperer
+660,Man-maker,Man-maker
+661,Duskfall,Duskfall
+662,True Steel,True Steel
+663,Once and Future King,Once and Future Queen
+664,The Accursed,The Accursed
+665,Sovereign Hero,Sovereign Hero
+666,Dreaming Worker,Dreaming Worker
+667,The Alpha Legend,The Alpha Legend
+668,Agonistes,Agonistes
+669,Gymnasiarch,Gymnasiarch
+670,Olympian,Olympian
+671,Of the Final Conflict,Of the Final Conflict
+672,Of the Endless Conflict,Of the Endless Conflict
+673,Of the Rising Conflict,Of the Rising Conflict
+674,Of the Final Conflict,Of the Final Conflict
+675,Of the Endless Conflict,Of the Endless Conflict
+676,Of the Rising Conflict,Of the Rising Conflict
+677,Throneshaker,Throneshaker
+678,Wolf of Easy Street,Wolf of Easy Street
+679,Doom of the Deep,Doom of the Deep
+680,Sea Comber,Sea Comber
+681,Squidzure Dragoon,Squidzure Dragoon
+682,Shrimp Mariner,Shrimp Mariner
+683,Of the Final Conflict,Of the Final Conflict
+684,Of the Endless Conflict,Of the Endless Conflict
+685,Of the Rising Conflict,Of the Rising Conflict
+686,Of the Final Conflict,Of the Final Conflict
+687,Of the Endless Conflict,Of the Endless Conflict
+688,Of the Rising Conflict,Of the Rising Conflict
+689,CCRC 2023 Champion,CCRC 2023 Champion
+690,CCRC 2023 Finalist,CCRC 2023 Finalist
+691,CCRC 2023 Ranker,CCRC 2023 Ranker
+692,Glitterier than Goldor,Glitterier than Goldor
+693,Blueblazer,Blueblazer
+694,Forbidden Blue,Forbidden Blue
+695,Reincarnator,Reincarnator
+696,Ascendant Ascetic,Ascendant Ascetic
+697,Sparrow's Harmony,Sparrow's Harmony
+698,Force of Nature,Force of Nature
+699,Sleepless Scholar,Sleepless Scholar
+700,The Resourceful,The Resourceful
+701,The Mandervillous,The Mandervillous
+702,Of the Relentless Sledge,Of the Relentless Sledge
+703,Of the Keen Hatchet,Of the Keen Hatchet
+704,Of the Irresistible Lure,Of the Irresistible Lure
+705,Wavewalker,Wavewalker
+706,The Final Fish,The Final Fish
+707,Count of Monte Cowrie,Countess of Monte Cowrie
+708,King Bean,Queen Bean
+709,Embraced by Gods,Embraced by Gods
+710,,
+711,Wyrm Whisperer,Wyrm Whisperer
+712,Growing Light,Growing Light
+713,Sunchaser,Sunchaser
+714,Of the Final Conflict,Of the Final Conflict
+715,Of the Endless Conflict,Of the Endless Conflict
+716,Of the Rising Conflict,Of the Rising Conflict
+717,Of the Final Conflict,Of the Final Conflict
+718,Of the Endless Conflict,Of the Endless Conflict
+719,Of the Rising Conflict,Of the Rising Conflict
+720,Of the Final Conflict,Of the Final Conflict
+721,Of the Endless Conflict,Of the Endless Conflict
+722,Of the Rising Conflict,Of the Rising Conflict
+723,Epic Hero,Epic Hero
+724,The First's Foremost,The First's Foremost

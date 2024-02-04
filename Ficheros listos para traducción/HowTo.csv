@@ -1,0 +1,292 @@
+﻿key,0
+#,Name
+offset,0
+int32,str
+0,
+1,Basic Controls
+2,Initiating Quests
+3,Duty List
+4,Navigation
+5,Key Items
+6,Interacting
+7,Battle
+8,Experience Points
+9,Handing Over Items
+10,Changing Classes
+11,Collecting Rewards
+12,Accepting Quests
+13,Return
+14,Main Menu
+15,Aetheryte
+16,KO
+17,Linkshells
+18,Gear
+19,Aethernet
+20,Shops
+21,The Armoire
+22,Moogle Delivery Service
+23,Finding Mature Trees
+24,Gathering
+25,Gathering Interface
+26,Sneak
+27,Harvesting
+28,Crafting Log
+29,Crafting
+30,Improving Item Quality
+31,Gear Condition
+32,Repairing Gear
+33,Accepting Guildleves
+34,Initiating Levequests
+35,Levequest Difficulty
+36,Sanctuaries
+37,Armoury Chest
+38,Unlocking Classes
+39,Emotes
+40,
+41,
+42,Levequest Duty
+43,Collecting Levequest Rewards
+44,Rechallenging Levequests
+45,Hunting Log
+46,Minions
+47,Markets
+48,Searching for an Item in the Markets
+49,Purchasing an Item from the Markets
+50,Selling an Item in the Markets
+51,Retainers
+52,Hiring a Retainer
+53,A Retainer's Many Tasks
+54,Gathering Point Characteristics
+55,Unspoiled Locations
+56,
+57,Clearing Instanced Raids
+58,Material Condition
+59,
+60,High-quality Items
+61,Unique Items
+62,Binding Items
+63,Player Search
+64,The FATE System
+65,Combos
+66,FATE Rewards
+67,Tradecraft Leves
+68,Completing Leves
+69,Fieldcraft Leves
+70,Completing Fieldcraft Leves
+71,Guildhests
+72,Guildhest Objectives
+73,Hazardous Zones
+74,Being KO'd During a Guildhest
+75,Guildhest Rewards
+76,Leve Linking
+77,
+78,Joining a Party
+79,Special Instances
+80,Main Scenario Quests
+81,Rental Chocobos
+82,Dismounting Rental Chocobos
+83,Porters
+84,Dismounting Porters
+85,Personal Chocobos
+86,Dismounting Personal Chocobos
+87,Grand Companies
+88,Class Quest Rewards
+89,Supply & Provisioning Missions
+90,Expert Delivery Missions
+91,Free Companies
+92,Limit Break
+93,Level Sync
+94,Jobs
+95,Dyeing
+96,Fighting with Your Chocobo
+97,Extracting Materia
+98,Affixing Materia
+99,Advanced Materia Melding
+100,Meld Requests
+101,Untradable Items
+102,Using Items
+103,
+104,Adding Members
+105,Finding Mineral Deposits
+106,Quarrying
+107,
+108,Companion Skills
+109,Ordering Your Chocobo
+110,Opening Treasure Coffers
+111,Collecting Bounties
+112,Grand Company Leves
+113,Free Company Petitions
+114,Joining a Free Company
+115,Changing Affiliation
+116,Company Chest
+117,Company Crest
+118,Company Actions
+119,Readying Your Line
+120,Fishing Log
+121,Using Lures
+122,Mooching
+123,Skyfishing & Dunefishing
+124,Fish Size
+125,Fishing Holes
+126,Quick Synthesis
+127,Umbral Ice & Astral Fire
+128,Pugilist Forms
+129,Pets
+130,Crystalline Conflict
+131,Quest Battles
+132,Achievements
+133,Recommended Duties
+134,
+135,Fishing
+136,Armoury Bonus
+137,Allagan Tomestones
+138,Using Items on Areas
+139,Using Key Items on Targets
+140,
+141,PvP Rewards
+142,
+143,Housing
+144,Placards
+145,Duties for Alliances
+146,Weekly Reward Limits
+147,The Party Finder
+148,Hidden Items
+149,Timeworn Maps
+150,Deciphering Timeworn Maps
+151,Finding Treasure
+152,The Tribes and Their Tribulations
+153,Reputation
+154,Transporting
+155,Transparency
+156,The Pet Hotbar
+157,Aesthetician
+158,The Duty Roulette
+159,Vote Dismiss
+160,Player Commendation
+161,Applying to a Free Company
+162,Challenge Log
+163,Master Recipes
+164,Glamours
+165,Gardening
+166,Tending Your Garden
+167,Harvesting Crops
+168,Retainer Ventures
+169,Exploration Ventures
+170,Communicating with Others
+171,Auto-translation Dictionary
+172,The Wish List
+173,Retainer Class
+174,Trials of the Braves
+175,Sphere Scrolls
+176,Frontline
+177,Repairing Your Own Gear
+178,Sightseeing Log
+179,Allied Seals
+180,Toy Chest
+181,Artillery
+182,Releasing Fish
+183,Desynthesis
+184,Chocobo Raising
+185,Ixal Quests
+186,Ehcatl Nine Delivery Quests
+187,
+188,Transfiguration
+189,Soulglazing
+190,Fish Population
+191,Fish and Weather
+192,Mudra and Ninjutsu
+193,The Ceremony of Eternal Bonding
+194,Bonding Ceremony Etiquette
+195,Bonding Ceremony Invitations
+196,Fledgling and Race Chocobos
+197,Race Abilities
+198,Retirement and Covering
+199,Challenging the Masters
+200,Triple Triad
+201,The Manderville Gold Saucer
+202,Entering a Chocobo Race
+203,Specialists
+204,Submitting Collectables
+205,Flying Mounts
+206,
+207,
+208,The Mentor System
+209,Ephemeral Gathering Points
+210,Hidden Characteristics
+211,
+212,Aetherial Reduction
+213,Legendary Nodes and Tomes of Regional Folklore
+214,
+215,
+216,Loot Rules
+217,Setting Loot Rules
+218,Temple Leves
+219,Collectables
+220,
+221,Collectable Fish
+222,
+223,
+224,Lord of Verminion
+225,Minion Types
+226,Verminion Structures
+227,Quest Sync
+228,Class/Job-specific Quests
+229,The Orchestrion
+230,Flowerpots
+231,Treasure Dungeons
+232,Aquariums
+233,Pet Glamours
+234,Item Level
+235,Increasing Item Level
+236,
+237,
+238,Swimming and Diving
+239,Duty Actions
+240,Rival Wings
+241,Spearfishing
+242,Teeming Waters
+243,
+244,Role Actions
+245,Performance Actions
+246,The Fashion Report
+247,Glamour Dressers
+248,Glamouring Gear
+249,Equipping Glamour Plates
+250,Using Glamour Plates
+251,Adventuring in Eureka
+252,Chocobo Saddlebag
+253,Duty Recorder
+254,Recording Duties
+255,Viewing Recorded Duties
+256,Happy Bunnies
+257,Message Books
+258,Companion Makeovers
+259,Shifting Sanctums
+260,Mannequins
+261,Logos Manipulator
+262,Upgraded Logos Manipulator
+263,Multi-seat Mounts
+264,World Visit
+265,Blue Magic
+266,Bicolor Gemstones
+267,Fishing and Regional Folklore
+268,Swimming Shadows
+269,Collection
+270,Expert Recipes
+271,Patience
+272,Fashion Accessories
+273,
+274,
+275,Gathering Collectables
+276,Trial Synthesis
+277,Gatherer's Boon
+278,Perception Requirements
+279,Spearfishing Interface
+280,Fish Population (Spearfishing)
+281,
+282,Quality Requirements
+283,Prime and Sublime Collectables
+284,Gatherer Role Actions
+285,
+286,
+287,

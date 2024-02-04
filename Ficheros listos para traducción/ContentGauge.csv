@@ -1,0 +1,81 @@
+﻿key,1,4
+#,Name,TextString
+offset,0,4
+int32,str,str
+0,,
+1,,
+2,,
+3,Corrupted Aether,ContentGaugeMax_negative
+4,Aether Transfer,ContentGaugeMax_negative
+5,Earthen Accord,ContentGaugeMax_negative
+6,Funds,ContentGaugeMax_negative
+7,Alluring Embrace,ContentGaugeMax_negative
+8,Mana,ContentGaugeMax_negative
+9,Aethertrail Attunement,ContentGaugeMax_negative
+10,Emptiness,ContentGaugeMax_negative
+11,Fordola's Aether,ContentGaugeMax_negative
+12,Mateus's Aether,ContentGaugeMax_negative
+13,Aetherial Acceleration,ContentGaugeMax_negative
+14,Genbu's Focus,ContentGaugeMax_negative
+15,Affinity,
+16,Down Gauge,ContentGaugeMax_positive
+17,Suffering,ContentGaugeMax_negative
+18,Monkey Magicks,ContentGaugeMax_negative
+19,Ultima Aether,ContentGaugeMax_negative
+20,Mana,ContentGaugeMax_negative
+21,Mana,ContentGaugeMax_negative
+22,Divine Epicness,ContentGaugeMax_negative
+23,Scarlet Melody,ContentGaugeMax_negative
+24,Midgardsormr's Aether,ContentGaugeMax_negative
+25,Meteor Impact,ContentGaugeMax_negative
+26,Dark Aether,ContentGaugeMax_negative
+27,Electromagnetic Induction,ContentGaugeMax_negative
+28,Holy Blade,ContentGaugeMax_negative
+29,Seiryu's Focus,ContentGaugeMax_negative
+30,Barrier Strength,
+31,Aether Transfer,ContentGaugeMax_negative
+32,Swordplay,ContentGaugeMax_negative
+33,Titania's Power,ContentGaugeMax_negative
+34,Immaculate Authority,ContentGaugeMax_negative
+35,Fervor of the Ancients,ContentGaugeMax_negative
+36,Charge,ContentGaugeMax_negative
+37,Hacking,ContentGaugeMax_negative
+38,Flood of Light,ContentGaugeMax_negative
+39,Charge,ContentGaugeMax_negative
+40,Dalamud Reborn,ContentGaugeMax_negative
+41,Limit Break,ContentGaugeMax_negative
+42,Mother Porxie's Magic,ContentGaugeMax_negative
+43,Gaia's Memories,
+44,Za Da's Tempering,
+45,Sovereignty ,ContentGaugeMax_negative
+46,Chaos,ContentGaugeMax_negative
+47,Despair,ContentGaugeMax_negative
+48,Summoning of the Irmin Hedge,ContentGaugeMax_negative
+49,Threat Awareness,ContentGaugeMax_negative
+50,Zodiark's Power,ContentGaugeMax_negative
+51,Conviction,ContentGaugeMax_negative
+52,,
+53,Nidhogg's Influence,ContentGaugeMax_negative
+54,,
+55,Profane Fafnir's Magic,ContentGaugeMax_negative
+56,Phoinix Fire,ContentGaugeMax_negative
+57,Venat's Aether,ContentGaugeMax_negative
+58,Blade Energy,ContentGaugeMax_negative
+59,Midgardsormr's Aether,ContentGaugeMax_negative
+60,Scarmiglione's Power,ContentGaugeMax_negative
+61,Lahabrea's Power,ContentGaugeMax_negative
+62,Nidhogg's Rancor,ContentGaugeMax_negative
+63,Satiety,
+64,Barrier Strength,
+65,Knights' Resolve,
+66,Cagnazzo's Power,ContentGaugeMax_negative
+67,Barrier Strength,
+68,Barrier Strength,
+69,Rubicante's Power,ContentGaugeMax_negative
+70,Andromalius's Power,ContentGaugeMax_negative
+71,Ascian Prime's Power,ContentGaugeMax_negative
+72,The Fury's Frost,ContentGaugeMax_negative
+73,The Lover's Power,ContentGaugeMax_negative
+74,Athena's Power,ContentGaugeMax_negative
+75,,
+76,,

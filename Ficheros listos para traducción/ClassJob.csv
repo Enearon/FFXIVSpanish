@@ -1,0 +1,47 @@
+﻿key,0,1,2,27
+#,Name,Abbreviation,,Name{English}
+offset,0,4,8,16
+int32,str,str,str,str
+0,adventurer,ADV,,Adventurer
+1,gladiator,GLA,剣,Gladiator
+2,pugilist,PGL,格,Pugilist
+3,marauder,MRD,斧,Marauder
+4,lancer,LNC,槍,Lancer
+5,archer,ARC,弓,Archer
+6,conjurer,CNJ,幻,Conjurer
+7,thaumaturge,THM,呪,Thaumaturge
+8,carpenter,CRP,木,Carpenter
+9,blacksmith,BSM,鍛,Blacksmith
+10,armorer,ARM,甲,Armorer
+11,goldsmith,GSM,彫,Goldsmith
+12,leatherworker,LTW,革,Leatherworker
+13,weaver,WVR,裁,Weaver
+14,alchemist,ALC,錬,Alchemist
+15,culinarian,CUL,調,Culinarian
+16,miner,MIN,採,Miner
+17,botanist,BTN,園,Botanist
+18,fisher,FSH,漁,Fisher
+19,paladin,PLD,ナ,Paladin
+20,monk,MNK,モ,Monk
+21,warrior,WAR,戦,Warrior
+22,dragoon,DRG,竜,Dragoon
+23,bard,BRD,吟,Bard
+24,white mage,WHM,白,White Mage
+25,black mage,BLM,黒,Black Mage
+26,arcanist,ACN,巴,Arcanist
+27,summoner,SMN,召,Summoner
+28,scholar,SCH,学,Scholar
+29,rogue,ROG,双,Rogue
+30,ninja,NIN,忍,Ninja
+31,machinist,MCH,機,Machinist
+32,dark knight,DRK,暗,Dark Knight
+33,astrologian,AST,占,Astrologian
+34,samurai,SAM,侍,Samurai
+35,red mage,RDM,赤,Red Mage
+36,blue mage,BLU,青,Blue Mage
+37,gunbreaker,GNB,ガ,Gunbreaker
+38,dancer,DNC,踊,Dancer
+39,reaper,RPR,リ,Reaper
+40,sage,SGE,賢,Sage
+41,,,,
+42,,,,

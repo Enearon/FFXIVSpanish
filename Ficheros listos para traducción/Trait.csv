@@ -1,0 +1,552 @@
+﻿key,0
+#,Name
+offset,0
+int32,str
+0,
+1,Enhanced Vitality
+2,Enhanced Vitality II
+3,Enhanced Vitality III
+4,Enhanced Vitality
+5,Enhanced Vitality II
+6,Enhanced Vitality III
+7,Enhanced Strength
+8,Enhanced Strength II
+9,Enhanced Strength III
+10,Enhanced Greased Lightning
+11,Enhanced Greased Lightning II
+12,Enhanced Strength
+13,Enhanced Strength II
+14,Enhanced Strength III
+15,Enhanced Dexterity
+16,Enhanced Dexterity II
+17,Heavier Shot
+18,Increased Action Damage
+19,Enhanced Dexterity III
+20,Increased Action Damage II
+21,Enhanced Mind
+22,Enhanced Mind II
+23,Maim and Mend
+24,Enhanced Mind III
+25,Freecure
+26,Maim and Mend II
+27,Enhanced Intelligence
+28,Enhanced Intelligence II
+29,Maim and Mend
+30,Enhanced Intelligence III
+31,Maim and Mend II
+32,Firestarter
+33,Thundercloud
+34,Auto Triangulate
+35,Enhanced Stealth
+36,Enhanced Stealth II
+37,Enhanced Stealth III
+38,Auto Prospect
+39,Enhanced Stealth
+40,Enhanced Stealth II
+41,Enhanced Stealth III
+42,Tree Whisperer
+43,Tree Whisperer II
+44,Tree Whisperer III
+45,Tree Whisperer IV
+46,Enhanced Twelve's Bounty
+47,Enhanced Twelve's Bounty II
+48,Stone Whisperer
+49,Stone Whisperer II
+50,Stone Whisperer III
+51,Stone Whisperer IV
+52,Enhanced Twelve's Bounty
+53,Enhanced Twelve's Bounty II
+54,Dunefishing
+55,Skyfishing
+56,Enhanced Stealth
+57,Enhanced Stealth II
+58,Enhanced Stealth III
+59,Gulleye
+60,Gulleye II
+61,Gulleye III
+62,Double Mooching
+63,Aetherdam
+64,Enhanced Intelligence
+65,Enhanced Intelligence II
+66,Maim and Mend
+67,Aetherdam II
+68,Enhanced Intelligence III
+69,Maim and Mend II
+70,Aetherdam III
+71,Enhanced Strength
+72,Increased HP
+73,Enhanced Accuracy
+74,Enhanced Critical Hit
+75,Enhanced Strength
+76,Increased HP
+77,Enhanced Strength
+78,Increased HP
+79,Enhanced Accuracy
+80,Enhanced Critical Hit
+81,Enhanced Strength
+82,Increase Attack Speed
+83,Enhanced Mind
+84,Increased HP
+85,Enhanced Accuracy
+86,Enhanced Critical Hit
+87,Enhanced Mind
+88,Increased HP
+89,Enhanced Dexterity
+90,All Fours
+91,Enhanced Dexterity II
+92,Enhanced Dexterity III
+93,Fleet of Foot
+94,Nymeia's Ward
+95,Stone Whisperer V
+96,Enhanced Stealth IV
+97,Enhanced Stealth V
+98,Enhanced Stealth VI
+99,Nymeia's Ward
+100,Tree Whisperer V
+101,Enhanced Stealth IV
+102,Enhanced Stealth V
+103,Enhanced Stealth VI
+104,Gulleye IV
+105,Gulleye V
+106,Cloudfishing
+107,Enhanced Stealth IV
+108,Enhanced Stealth V
+109,Enhanced Stealth VI
+110,Hellfishing
+111,Aetherfishing
+112,Enhanced Vitality
+113,Enhanced Vitality II
+114,Enhanced Vitality III
+115,Enhanced Dexterity
+116,Enhanced Dexterity II
+117,Increased Action Damage
+118,Enhanced Dexterity III
+119,Increased Action Damage II
+120,Enhanced Mind
+121,Enhanced Mind II
+122,Maim and Mend
+123,Enhanced Mind III
+124,Enhanced Benefic
+125,Maim and Mend II
+126,Enhanced Stealth VII
+127,Enhanced Stealth VIII
+128,Enhanced Stealth IX
+129,Enhanced Stealth VII
+130,Enhanced Stealth VIII
+131,Enhanced Stealth IX
+132,Enhanced Stealth VII
+133,Enhanced Stealth VIII
+134,Enhanced Stealth IX
+135,Saltfishing
+136,Gulleye VI
+137,Gulleye VII
+138,Quality Assurance
+139,Quality Assurance
+140,Quality Assurance
+141,Quality Assurance
+142,Quality Assurance
+143,Quality Assurance
+144,Quality Assurance
+145,Quality Assurance
+146,Stroke of Genius
+147,Stroke of Genius
+148,Stroke of Genius
+149,Stroke of Genius
+150,Stroke of Genius
+151,Stroke of Genius
+152,Stroke of Genius
+153,Stroke of Genius
+154,Auto Fathom
+155,Fish Whisperer
+156,Enhanced Cover
+157,Enhanced Infuriate
+158,Blackblood
+159,Enhanced Blackblood
+160,Deep Meditation
+161,Enhanced Tackle
+162,Lance Mastery
+163,Life of the Dragon
+164,Dripping Blades
+165,Shukiho
+166,Enhanced Shukuchi
+167,Enhanced Mug
+168,Bite Mastery
+169,Enhanced Empyreal Arrow
+170,Shot Mastery
+171,Thunder Mastery
+172,Thunder Mastery II
+173,Enhanced Umbral Heart
+174,Enhanced Enochian
+175,Corruption Mastery
+176,Enhanced Ruin II
+177,Corruption Mastery II
+178,Enhanced Dreadwyrm Trance
+179,Stone Mastery
+180,Aero Mastery
+181,Stone Mastery II
+182,Stone Mastery III
+183,Secret of the Lily II
+184,Broil Mastery II
+185,Quickened Aetherflow
+186,Combust Mastery
+187,Malefic Mastery
+188,Malefic Mastery II
+189,Hyper Lightspeed
+190,Endless Toil of the Mountaineer
+191,Endless Toil of the Pioneer
+192,Enhanced GP Regeneration
+193,Enhanced GP Regeneration
+194,Enhanced GP Regeneration
+195,Enhanced Jolt
+196,Secret of the Lily
+197,Enhanced Intelligence
+198,Enhanced Intelligence II
+199,Enhanced Intelligence III
+200,Maim and Mend
+201,Maim and Mend II
+202,Enhanced Strength
+203,Enhanced Strength II
+204,Enhanced Strength III
+205,Dripping Blades II
+206,Enhanced Jolt II
+207,Divine Magic Mastery
+208,Kenki Mastery II
+209,Oath Mastery
+210,Enhanced Mind
+211,Enhanced Mind II
+212,Enhanced Mind III
+213,Enhanced Enkindle
+214,Broil Mastery
+215,Kenki Mastery
+216,Dualcast
+217,Ruin Mastery
+218,Berserk Mastery
+219,Learning
+220,Maim and Mend
+221,Maim and Mend II
+222,Maim and Mend III
+223,Maim and Mend IV
+224,Maim and Mend V
+225,Enhanced Stealth X
+226,Enhanced Stealth XI
+227,Enhanced Stealth XII
+228,Enhanced Stealth X
+229,Enhanced Stealth XI
+230,Enhanced Stealth XII
+231,Enhanced Stealth X
+232,Enhanced Stealth XI
+233,Enhanced Stealth XII
+234,Gulleye VIII
+235,Gulleye IX
+236,Enhanced GP Regeneration II
+237,Enhanced GP Regeneration II
+238,Enhanced GP Regeneration II
+239,Enhanced GP Regeneration III
+240,Enhanced GP Regeneration III
+241,Enhanced GP Regeneration III
+242,Enhanced Solid Reason
+243,Enhanced Ageless Words
+244,Angler's Art
+245,Deep Meditation II
+246,Chivalry
+247,Lance Mastery II
+248,
+249,The Beast Within
+250,Enhanced Kassatsu
+251,Increased Action Damage
+252,Fourfold Fantasy
+253,Increased Action Damage II
+254,Enhanced En Avant
+255,Esprit
+256,Enhanced En Avant II
+257,Cartridge Charge
+258,Enhanced Brutal Shell
+259,Danger Zone Mastery
+260,Rage of Halone Mastery
+261,Enhanced Prominence
+262,Enhanced Sheltron
+263,Enhanced Requiescat
+264,Sword Oath
+265,Inner Beast Mastery
+266,Steel Cyclone Mastery
+267,Nascent Chaos
+268,Mastering the Beast
+269,Enhanced Thrill of Battle
+270,
+271,Darkside Mastery
+272,Enhanced Plunge
+273,Riddle of Wind
+274,Enhanced Fists of Fire
+275,Jump Mastery
+276,Life of the Dragon Mastery
+277,Enhanced Iaijutsu
+278,Enhanced Fugetsu and Fuka
+279,Enhanced Shukuchi II
+280,Shukiho II
+281,
+282,Straight Shot Mastery
+283,Enhanced Quick Nock
+284,Bite Mastery II
+285,Heavy Shot Mastery
+286,Enhanced Army's Paeon
+287,Soul Voice
+288,Split Shot Mastery
+289,Slug Shot Mastery
+290,Clean Shot Mastery
+291,Hot Shot Mastery
+292,Charged Action Mastery
+293,Enhanced Wildfire
+294,Promotion
+295,Enhanced Freeze
+296,Aspect Mastery
+297,Enhanced Polyglot
+298,Enhanced Dreadwyrm Trance II
+299,Enhanced Egi Assault
+300,Enhanced Tri-disaster
+301,Enhanced Bane
+302,Enhanced Firebird Trance
+303,Scatter Mastery
+304,Enhanced Displacement
+305,Enhanced Manafication
+306,Red Magic Mastery
+307,Aero Mastery II
+308,Stone Mastery IV
+309,Transcendent Afflatus
+310,Enhanced Asylum
+311,Corruption Mastery II
+312,Broil Mastery III
+313,Enhanced Sacred Soil
+314,Combust Mastery II
+315,Malefic Mastery III
+316,Enhanced Essential Dignity
+317,Tank Mastery
+318,Tank Mastery
+319,Tank Mastery
+320,Tank Mastery
+321,Enhanced Sharpcast
+322,Enhanced Enochian II
+323,
+324,Corruption Mastery
+325,One with the Mountain
+326,One with the Forest
+327,One with the Ocean
+328,Auto Sneak
+329,Auto Sneak
+330,Auto Sneak
+331,Enhanced Twelve's Bounty III
+332,Enhanced Twelve's Bounty III
+333,Bountiful Yield Mastery
+334,Unearth Mastery
+335,Impulsive Appraisal Mastery
+336,Bountiful Harvest Mastery
+337,Leaf Turn Mastery
+338,Impulsive Appraisal Mastery
+339,Basic Synthesis Mastery
+340,Basic Synthesis Mastery
+341,Basic Synthesis Mastery
+342,Basic Synthesis Mastery
+343,Basic Synthesis Mastery
+344,Basic Synthesis Mastery
+345,Basic Synthesis Mastery
+346,Basic Synthesis Mastery
+347,Rapid Synthesis Mastery
+348,Rapid Synthesis Mastery
+349,Rapid Synthesis Mastery
+350,Rapid Synthesis Mastery
+351,Rapid Synthesis Mastery
+352,Rapid Synthesis Mastery
+353,Rapid Synthesis Mastery
+354,Rapid Synthesis Mastery
+355,Enhanced Outburst
+356,Practice Makes Perfect
+357,Practice Makes Perfect
+358,Practice Makes Perfect
+359,Practice Makes Perfect
+360,Practice Makes Perfect
+361,Practice Makes Perfect
+362,Practice Makes Perfect
+363,Practice Makes Perfect
+364,Greased Lightning
+365,Enhanced Greased Lightning
+366,Enhanced Greased Lightning II
+367,Enhanced Greased Lightning III
+368,Maim and Mend
+369,Maim and Mend II
+370,Addersgall
+371,Somanoutic Oath
+372,Somanoutic Oath II
+373,Addersting
+374,Offensive Magic Mastery
+375,Enhanced Kerachole
+376,Offensive Magic Mastery II
+377,Enhanced Healing Magic
+378,Enhanced Zoe
+379,Soul Gauge
+380,Death Scythe Mastery
+381,Enhanced Avatar
+382,Hellsgate
+383,Tempered Soul
+384,Shroud Gauge
+385,Enhanced Arcane Crest
+386,Enhanced Shroud
+387,Enhanced Arcane Circle
+388,Inner Quiet
+389,Inner Quiet
+390,Inner Quiet
+391,Inner Quiet
+392,Inner Quiet
+393,Inner Quiet
+394,Inner Quiet
+395,Inner Quiet
+396,Careful Synthesis Mastery
+397,Careful Synthesis Mastery
+398,Careful Synthesis Mastery
+399,Careful Synthesis Mastery
+400,Careful Synthesis Mastery
+401,Careful Synthesis Mastery
+402,Careful Synthesis Mastery
+403,Careful Synthesis Mastery
+404,Groundwork Mastery
+405,Groundwork Mastery
+406,Groundwork Mastery
+407,Groundwork Mastery
+408,Groundwork Mastery
+409,Groundwork Mastery
+410,Groundwork Mastery
+411,Groundwork Mastery
+412,Sheltron Mastery
+413,Enhanced Intervention
+414,Divine Magic Mastery II
+415,Spirits Within Mastery
+416,Enhanced Divine Veil
+417,Enhanced Shake It Off
+418,Raw Intuition Mastery
+419,Enhanced Nascent Flash
+420,Enhanced Equilibrium
+421,Enhanced Onslaught
+422,Enhanced Unmend
+423,Enhanced Living Shadow II
+424,Heart of Stone Mastery
+425,Enhanced Aurora
+426,Enhanced Continuation
+427,Cartridge Charge II
+428,Steel Peak Mastery
+429,Howling Fist Mastery
+430,Arm of the Destroyer Mastery
+431,Enhanced Thunderclap
+432,Enhanced Brotherhood
+433,Enhanced Perfect Balance
+434,Blood of the Dragon
+435,Enhanced Coerthan Torment
+436,Enhanced Spineshatter Dive
+437,Lance Mastery III
+438,Enhanced Life Surge
+439,Shukiho III
+440,Enhanced Meisui
+441,Enhanced Raiton
+442,Enhanced Tsubame-gaeshi
+443,Enhanced Meikyo Shisui
+444,Quick Nock Mastery
+445,Enhanced Bloodletter
+446,Enhanced Apex Arrow
+447,Enhanced Troubadour
+448,Minstrel's Coda
+449,Spread Shot Mastery
+450,Enhanced Reassemble
+451,Queen's Gambit
+452,Enhanced Tactician
+453,Enhanced Technical Finish
+454,Enhanced Esprit
+455,Enhanced Flourish
+456,Enhanced Shield Samba
+457,Enhanced Devilment
+458,Aspect Mastery II
+459,Aspect Mastery III
+460,Enochian
+461,Enhanced Foul
+462,Aspect Mastery IV
+463,Enhanced Manafont
+464,Enhanced Sharpcast II
+465,Aspect Mastery V
+466,Enhanced Aethercharge
+467,Enhanced Aethercharge II
+468,Ruby Summoning Mastery
+469,Topaz Summoning Mastery
+470,Emerald Summoning Mastery
+471,Enkindle
+472,
+473,Ruin Mastery II
+474,Aethercharge Mastery
+475,Enhanced Energy Siphon
+476,Ruin Mastery III
+477,Outburst Mastery
+478,Outburst Mastery II
+479,Ruin Mastery IV
+480,Enhanced Radiant Aegis
+481,Enkindle II
+482,Mana Stack
+483,Red Magic Mastery II
+484,Red Magic Mastery III
+485,Enhanced Acceleration
+486,Enhanced Manafication II
+487,Glare Mastery
+488,Holy Mastery
+489,Enhanced Healing Magic
+490,Enhanced Divine Benison
+491,Broil Mastery IV
+492,Art of War Mastery
+493,Enhanced Healing Magic
+494,Enhanced Deployment Tactics
+495,Enhanced Draw
+496,Enhanced Draw II
+497,Malefic Mastery IV
+498,Gravity Mastery
+499,Enhanced Healing Magic
+500,Enhanced Celestial Intersection
+501,Starfishing
+502,Enhanced Summon Bahamut
+503,Elemental Mastery
+504,Melee Mastery
+505,Melee Mastery
+506,Melee Mastery
+507,Melee Mastery
+508,Lance Mastery IV
+509,Enhanced Enochian III
+510,Physis Mastery
+511,Enhanced Living Shadow
+512,Flint Strike Mastery
+513,Tornado Kick Mastery
+514,Enhanced Ikishoten
+515,Adept Assassination
+516,Melee Mastery
+517,Marksman's Mastery
+518,Melee Mastery
+519,Fuga Mastery
+520,Way of the Samurai
+521,Way of the Samurai II
+522,Melee Mastery II
+523,Death Scythe Mastery II
+524,
+525,
+526,
+527,
+528,
+529,
+530,
+531,
+532,
+533,
+534,
+535,
+536,
+537,
+538,
+539,
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547,
