@@ -53,7 +53,6 @@ Os encontraréis varios directorios;<br/>
 El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
 
 ## ¿Cómo contribuyo con la traducción?
-Todo granito de arena es bien recibido, ya sea mediante aportes al repositorio o correcciones a la traducción<br/>
 Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.
 
 ## Creditos
