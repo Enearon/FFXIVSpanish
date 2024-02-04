@@ -114,12 +114,12 @@ int32,str,str
 109,TEXT_MANFST000_00083_BREMONDT_000_33,"Todos tenemos algunos secretos, ¿verdad? Yo... ¡docenas!"
 110,TEXT_MANFST000_00083_BREMONDT_000_34,"Y preferiría que siguieran fueran secretos, por eso no me gusta meterme donde no me llaman."
 111,TEXT_MANFST000_00083_BREMONDT_000_35,"Siempre debes recordar que hay cosas mas importantes que la fortuna y la gloria. Como, por ejemplo, ¡respirar! No hay ningún beneficio en estar muerto, eso es un hecho."
-112,TEXT_MANFST000_00083_WOODWAILER_000_36,(-Guardabosques-)¡ALTO! ¡No sigais adelante!
+112,TEXT_MANFST000_00083_WOODWAILER_000_36,¡ALTO! ¡No sigais adelante!
 113,TEXT_MANFST000_00083_BREMONDT_000_37,¿Que está ocurriendo?
 114,TEXT_MANFST000_00083_BREMONDT_000_38,Uwaaah!
 115,TEXT_MANFST000_00083_COACHMAN_000_39,(-Conductor del Carro-)¿¡Que está pasando!?
-116,TEXT_MANFST000_00083_WOODWAILER_000_40,"(-Guardabosques-)¡Los Ixal han iniciado una escaramuza cerca! Por vuestra seguridad, debéis quedaros aquí hasta que..."
-117,TEXT_MANFST000_00083_WOODWAILER_000_41,(-Guardabosques-)¡Maldición! ¡Los detendremos aquí! ¡Tratad de alejaros!
+116,TEXT_MANFST000_00083_WOODWAILER_000_40,"¡Los Ixal han iniciado una escaramuza cerca! Por vuestra seguridad, debéis quedaros aquí hasta que..."
+117,TEXT_MANFST000_00083_WOODWAILER_000_41,¡Maldición! ¡Los detendremos aquí! ¡Tratad de alejaros!
 118,TEXT_MANFST000_00083_BREMONDT_000_42,Eso ha estado demasiado cerca...
 119,TEXT_MANFST000_00083_BREMONDT_000_43,"Que amable por parte de los Ixal enviarnos una fiesta de bienvenida, ¿verdad?"
 120,TEXT_MANFST000_00083_BREMONDT_000_44,"Bromas aparte, no será la última vez que te encuentres con nuestros emplumados amigos, debes tener cuidado ¿vale?"
@@ -147,6 +147,6 @@ int32,str,str
 142,TEXT_MANFST000_00083_300300_NARRATION,"Que la Matrona lo lleve a Su seno, donde nunca le falte de nada."
 143,TEXT_MANFST000_00083_300310_NARRATION,"Y en su corazón siembre serenidad, pureza y santidad."
 144,TEXT_MANFST000_00083_BERTENNANT_000_70,"(-???-)¡Tú! ¡Sí, tú!"
-145,TEXT_MANFST000_00083_BERTENNANT_000_71,"(-Guardabosques-)No me suena tu rostro. Eres un recien llegado, ¿verdad?"
+145,TEXT_MANFST000_00083_BERTENNANT_000_71,"No me suena tu rostro. Eres un recien llegado, ¿verdad?"
 146,TEXT_MANFST000_00083_BERTENNANT_000_72,"Soy Bertennant, Guardabosques de Gridania."
 147,TEXT_MANFST000_00083_BERTENNANT_000_73,Es mi deber proteger la nación de sus enemigos mientras doy la bienvenida a aquellos que quieren demostrar ser nuestros amigos. Veamos a que grupo perteneces.
