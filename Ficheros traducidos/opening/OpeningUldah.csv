@@ -12,4 +12,4 @@ int32,str,str
 7,TEXT_OPENINGULDAH_FST_SYSTEM_000_23,"Por favor, selecciona el esquema de control que te gustaría usar."
 8,TEXT_OPENINGULDAH_FST_SYSTEM_Q_01,¿Qué esquema de controles te gustaría usar?
 9,TEXT_OPENINGULDAH_FST_SYSTEM_A_01,Usaré el Teclado y el Ratón
-10,TEXT_OPENINGULDAH_FST_SYSTEM_A_02,Usaré un Mando
+10,TEXT_OPENINGULDAH_FST_SYSTEM_A_02,"<hex:02081AE1E94C02FF0B>Usaré un Mando<hex:FF08>Gamepad<hex:03>."

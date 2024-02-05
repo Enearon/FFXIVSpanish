@@ -75,14 +75,14 @@ int32,str,str
 70,TEXT_MANFST000_00083_000020_MOTHERCRYSTAL,Escucha... Siente...
 71,TEXT_MANFST000_00083_000030_MOTHERCRYSTAL,Escucha... Siente... Piensa...
 72,TEXT_MANFST000_00083_BREMONDT_000_1,(-???-)...Oi!
-73,TEXT_MANFST000_00083_BREMONDT_000_2,(-???-)¿Te encuentras bien?
+73,TEXT_MANFST000_00083_BREMONDT_000_2,(-???-)"¿Te encuentras bien?"
 74,TEXT_MANFST000_00083_BREMONDT_000_3,"(-Pasajero amigable-)Estabas farfullando en sueños, y sudando a mares debo añadir."
 75,TEXT_MANFST000_00083_BREMONDT_000_4,"(-Pasajero amigable-)Debe ser el Aether, supongo. Algunos son mas propensos a enfermar que otros."
 76,TEXT_MANFST000_00083_BREMONDT_000_5,"(-Pasajero amigable-)No hay necesidad de preocuparse, pronto te acostumbrarás a ello."
 77,TEXT_MANFST000_00083_KUPLOKOPP_000_6,"(-Criatura Peluda-)¿Te sientes mejor, kupo?"
-78,TEXT_MANFST000_00083_KUPLOKOPP_000_7,"(-Criatura Peluda-)¡Aha! ¡Puedes vernos! Tenía la sensación de que podías hacerlo, kupo!"
+78,TEXT_MANFST000_00083_KUPLOKOPP_000_7,"(-Criatura Peluda-)¡Aha! <hex:021A020203>¡Puedes vernos!<hex:021A020103> Tenía la sensación de que podías hacerlo, kupo!"
 79,TEXT_MANFST000_00083_KUPLOKOPP_000_8,"(-Moogle-)Somos moogles, y vivimos en este bosque."
-80,TEXT_MANFST000_00083_KUPLOKOPP_000_9,"(-Moogle-)La gente común no puede vernos ni escucharnos, lo que te hace especial, kupo."
+80,TEXT_MANFST000_00083_KUPLOKOPP_000_9,"(-Moogle-)La gente común no puede vernos ni escucharnos, lo que te hace <hex:021A020203>especial<hex:021A020103>, kupo."
 81,TEXT_MANFST000_00083_KUPLOKOPP_000_10,"(-Moogle-)Y viendo que eres especial, quizá puedas decirnos algo."
 82,TEXT_MANFST000_00083_KUPLOKOPP_000_11,"(-Moogle-)El bosque ha estado inquieto últimamente, están pasando muchas cosas extrañas ¿Has tenido oportunidad de ver algo sospechoso, kupo?"
 83,TEXT_MANFST000_00083_KUPLOKOPP_000_12,"(-Moogle-)Por supuesto que no, acabas de llegar."
@@ -91,7 +91,7 @@ int32,str,str
 86,TEXT_MANFST000_00083_BREMONDT_000_15,"(-Pasajero amigable-)A esos jóvenes no parece gustarles mucho la conversación, como puedes ver."
 87,TEXT_MANFST000_00083_BREMONDT_000_16,Bremondt es mi nombre y el comercio mi oficio.
 88,TEXT_MANFST000_00083_BREMONDT_000_17,"En cuanto a ti, juzgando por ese atuendo tan poco común, diría que eres uno de esos nuevos aventureros ¿Estoy en lo cierto?"
-89,TEXT_MANFST000_00083_BREMONDT_000_18,"¡Lo sabía! Vas a donde sopla el viento, buscando fortuna y gloria.<hex:02100103>¡A eso le llamo vivir!"
+89,TEXT_MANFST000_00083_BREMONDT_000_18,"¡Lo sabía! Vas a donde sopla el viento, buscando fortuna y gloria.<hex:021A020203>¡A eso<hex:021A020103> le llamo vivir!"
 90,TEXT_MANFST000_00083_BREMONDT_000_19,"Claro está, mientras puedas evitar a la muerte. No es ningún secreto que la vida del aventurero es arriesgada, especialmente en estos tiempos."
 91,TEXT_MANFST000_00083_BREMONDT_000_20,¿Qué fue lo que te atrajó para ser aventurero?
 92,TEXT_MANFST000_00083_Q1_000_1,¿Por qué decidiste ser aventurero?
@@ -110,12 +110,12 @@ int32,str,str
 105,TEXT_MANFST000_00083_BREMONDT_000_29,"Una vez que hayas aprendido como defenderte y valerte por ti mismo en combate deberías visitar alguno de los gremios de artesanos o el gremio de recolección, será el primer paso para amasar esa deseada fortuna."
 106,TEXT_MANFST000_00083_BREMONDT_000_30,"Gridania es bien conocida por sus curtidores y carpinteros, sin olvidar a sus botánicos."
 107,TEXT_MANFST000_00083_BREMONDT_000_31,La vida del aventurero no trata solo de matar cosas a fin de cuentas. Un pasatiempo pacífico bien podría ayudarte a amasar una fortuna.
-108,TEXT_MANFST000_00083_BREMONDT_000_32,"Bueno, si no te apetece contarlo no seré yo quien indague. Puede que el viejo Bremondt sea un poco parlanching, pero lo que no es, es un cotilla."
-109,TEXT_MANFST000_00083_BREMONDT_000_33,"Todos tenemos algunos secretos, ¿verdad? Yo... ¡docenas!"
+108,TEXT_MANFST000_00083_BREMONDT_000_32,"Bueno, si no te apetece contarlo no seré yo quien indague. Puede que el viejo Bremondt sea un poco parlanchin, pero lo que no es, es un cotilla."
+109,TEXT_MANFST000_00083_BREMONDT_000_33,"Todos tenemos algunos secretos, ¿verdad? Yo... <hex:021A020203>¡docenas!<hex:021A020103>"
 110,TEXT_MANFST000_00083_BREMONDT_000_34,"Y preferiría que siguieran fueran secretos, por eso no me gusta meterme donde no me llaman."
-111,TEXT_MANFST000_00083_BREMONDT_000_35,"Siempre debes recordar que hay cosas mas importantes que la fortuna y la gloria. Como, por ejemplo, ¡respirar! No hay ningún beneficio en estar muerto, eso es un hecho."
+111,TEXT_MANFST000_00083_BREMONDT_000_35,"Siempre debes recordar que hay cosas mas importantes que la fortuna y la gloria. Como, por ejemplo, <hex:021A020203>¡respirar!<hex:021A020103> No hay ningún beneficio en estar muerto, eso es un hecho."
 112,TEXT_MANFST000_00083_WOODWAILER_000_36,¡ALTO! ¡No sigais adelante!
-113,TEXT_MANFST000_00083_BREMONDT_000_37,¿Que está ocurriendo?
+113,TEXT_MANFST000_00083_BREMONDT_000_37,"¿Qué está ocurriendo?"
 114,TEXT_MANFST000_00083_BREMONDT_000_38,Uwaaah!
 115,TEXT_MANFST000_00083_COACHMAN_000_39,(-Conductor del Carro-)¿¡Que está pasando!?
 116,TEXT_MANFST000_00083_WOODWAILER_000_40,"¡Los Ixal han iniciado una escaramuza cerca! Por vuestra seguridad, debéis quedaros aquí hasta que..."
@@ -129,7 +129,7 @@ int32,str,str
 124,TEXT_MANFST000_00083_A2_000_2,No.
 125,TEXT_MANFST000_00083_BREMONDT_000_46,"¿De verdad? Bueno, deja que este experimentado viajero te cuente los pormenores de tu destino."
 126,TEXT_MANFST000_00083_BREMONDT_000_47,"Ya imaginaba que no. Pero, estoy seguro de que ha habido algunos cambios desde tu última visita. Permite que un viajero experimentado te enseñe algunas cosas nuevas sobre tu destino. Ejem..."
-127,TEXT_MANFST000_00083_BREMONDT_000_48,"La ciudad de Gridania se encuentra en el centro del "Black Shroud", el más grande y exuberante bosque de toda Eorzea."
+127,TEXT_MANFST000_00083_BREMONDT_000_48,"La ciudad de Gridania se encuentra en el centro del Black Shroud, el más grande y exuberante bosque de toda Eorzea."
 128,TEXT_MANFST000_00083_BREMONDT_000_49,"Aunque ya no es tan exuberante como solía ser, creo yo. No desde que la Calamidad dejó la mitad en ruinas."
 129,TEXT_MANFST000_00083_BREMONDT_000_50,"La destrucción provocó que manadas de criaturas desagradables se mudaran y alentó, innecesariamente, a los Ixal. Los ataques de los hombres pájaro ya se han convertido en algo cotidiano."
 130,TEXT_MANFST000_00083_BREMONDT_000_51,"Ah, por fin."
@@ -139,12 +139,12 @@ int32,str,str
 134,TEXT_MANFST000_00083_300270_NARRATION,"Tiempo atrás, un santuario del mundo más allá del Borde, incluso los poderosos elementales, guardianes eternos del bosque, no pudieron ver la llegada de la Séptima Era Umbral."
 135,TEXT_MANFST000_00083_300280_NARRATION,"Sin embargo, la diosa Nophica nunca abandonaría a sus hijos, y hoy da la bienvenida a otra alma valiente..."
 136,TEXT_MANFST000_00083_300290_NARRATION,Una que quizás desempeñe un papel importante en la historia de este gran reino.
-137,TEXT_MANFST000_00083_BREMONDT_000_60,Y aquí es donde nos separamos.
+137,TEXT_MANFST000_00083_BREMONDT_000_60,"Y aquí es donde nos separamos."
 138,TEXT_MANFST000_00083_BREMONDT_000_61,"Voy a los mercados a entregar mis mercancías; Después de eso, volveré a la carretera principal."
 139,TEXT_MANFST000_00083_BREMONDT_000_62,"Toma, quiero que tengas esto, es una muestra de agradecimiento por haberme hecho compañía durante el viaje."
 140,TEXT_MANFST000_00083_BREMONDT_000_63,"Ahora que lo pienso... Nunca me dijiste tu nombre, ¿verdad? Bueno, tengo una idea..."
 141,TEXT_MANFST000_00083_BREMONDT_000_64,"Conviértete en un aventurero famoso del que pueda presumir haber conocido, de esta manera estaremos en paz."
-142,TEXT_MANFST000_00083_300300_NARRATION,"Que la Matrona lo lleve a Su seno, donde nunca le falte de nada."
+142,TEXT_MANFST000_00083_300300_NARRATION,"Que la Matrona la lleve a Su seno, donde nunca le falte de nada."
 143,TEXT_MANFST000_00083_300310_NARRATION,"Y en su corazón siembre serenidad, pureza y santidad."
 144,TEXT_MANFST000_00083_BERTENNANT_000_70,"(-???-)¡Tú! ¡Sí, tú!"
 145,TEXT_MANFST000_00083_BERTENNANT_000_71,"No me suena tu rostro. Eres un recien llegado, ¿verdad?"

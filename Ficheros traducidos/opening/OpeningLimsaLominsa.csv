@@ -14,5 +14,5 @@ int32,str,str
 9,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22,Cuando estés listo para proceder habla con Ryssfloh.
 10,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23,"Por favor, selecciona el esquema de control que te gustaría usar."
 11,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01,¿Qué esquema de controles te gustaría usar?
-12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,Usaré el Teclado y el Ratón
-13,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02,Usaré un Mando
+12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,Usaré el Teclado y el Ratón.
+13,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02,"<hex:02081AE1E94C02FF0B>Usaré un Mando<hex:FF08>Gamepad<hex:03>."
