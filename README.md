@@ -53,7 +53,8 @@ Os encontraréis varios directorios;<br/>
 El Software de traducción está en proceso de uso para testeo interno. El repositorio se usa para trabajar en la traducción; Una vez tengamos un avance significativo se publicará el traductor en releases.
 
 ## ¿Cómo contribuyo con la traducción?
-Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.
+Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.<br/>
+A medida que se traduce encontraréis códigos hexadecimales; La mayoría de ellos son funcionales y se usan para poner el texto en cursiva o dar color. Desgraciadamente, si encuentras un código que se usa para definir una conversación según el género habrá que eliminarlo y cambiarlo por una expresión neutral dado que estos códigos no son funcionales.
 
 ## Creditos
 Aquí se incluirán a todos aquellos que contribuyan en la traducción.
