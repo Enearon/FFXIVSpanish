@@ -20,7 +20,7 @@ int32,str,str
 15,TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE,<hex:02100103><hex:02100103>No hay otras Aethernet shards disponibles.<hex:02100103><hex:02100103>
 16,TEXT_AETHERYTE_AETHERNET_DEST_NAME,<hex:02280FFF0A>PlaceName<hex:E8020103>.
 17,TEXT_AETHERYTE_AETHERNET_MENU_CANCEL,Salir.
-18,TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL,<hex:02280DFF06>Instancia<hex:F6018FC90103>
+18,TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL,<hex:02280DFF06>Addon<hex:F6018FC90103>
 19,TEXT_AETHERYTE_FIRST_OPEN_01,Ahora tienes acceso a la Aethernet.
 20,TEXT_AETHERYTE_FIRST_OPEN_02,"Podrás viajar a través de la ciudad simplemente poniendo tu mano sobre los Fragmentos de Aethernet."
 21,TEXT_AETHERYTE_FULL_OPEN_FST,"Has sincronizado tu aether con todos los Fragmentos de Aethernet de Gridania. La Puerta del Mapache Azul, la Puerta de la Sierpe Amarilla, y la Zona de Aterrizaje de Dirigibles serán accesibles como destino en la Aethernet."
