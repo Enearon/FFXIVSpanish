@@ -1,0 +1,35 @@
+﻿key,0,1
+#,Name,Description
+offset,0,4
+int32,str,str
+0,,
+1,Auto-Ataque,"Realiza ataques automáticos en tu objetivo actual a un intervalo de tiempo determinado por el arma."
+2,Saltar,"Realiza un salto desde el suelo u otra base mediante la flexión y extensión muscular repentina de las piernas."
+3,"Rompelímites","Utiliza la energía almacenada en el medidor de Límite del grupo para ejecutar una poderosa técnica de batalla. La técnica ejecutada será determinada por el <hex:024804F201F403><hex:024904F201F503>rol<hex:0249020103><hex:0248020103> del miembro de grupo que la utilice.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Tanque:<hex:0249020103><hex:0248020103> Incrementa la defensa de todos los miembros del grupo en un área de 50y.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Reducción de daño: <hex:0249020103><hex:0248020103>20% / 40% / 80%<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración: <hex:0249020103><hex:0248020103>10s<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>DPS Cuerpo a Cuerpo:<hex:0249020103><hex:0248020103> Realiza un poderoso ataque a un único enemigo.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Potencia: <hex:0249020103><hex:0248020103>2400 / 5250 / 9000<hex:02100103>※El daño y la potencia pueden variar en función del total de potencia de las armas de todos los miembros del grupo.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>DPS a Distancia (Daño Físico):<hex:0249020103><hex:0248020103> Ataca a todos los enemigos en una línea recta frente al ejecutor en un rango de 30y.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Potencia: <hex:0249020103><hex:0248020103>1650 / 3600 / 6150<hex:02100103>※El daño y la potencia pueden variar en función del total de potencia de las armas de todos los miembros del grupo.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>DPS a Distancia (Daño Mágico):<hex:0249020103><hex:0248020103> Conjura un poderoso hechizo en una zona determinada del campo de batalla.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Área de Efecto: <hex:0249020103><hex:0248020103>8y / 10y / 15y<hex:02100103><hex:024804F201F803><hex:024904F201F903>Potencia: <hex:0249020103><hex:0248020103>1650 / 3600 / 6150<hex:02100103>※El daño y la potencia pueden variar en función del total de potencia de las armas de todos los miembros del grupo.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Sanador:<hex:0249020103><hex:0248020103> Restaura la Vitalidad y Poder Mágico de todos los miembros del grupo en un área de 50y.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Nivel 1: <hex:0249020103><hex:0248020103>Restaura un 25% de PH y PM.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Nivel 2: <hex:0249020103><hex:0248020103>Restaura un 60% de PH y PM.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Nivel 3: <hex:0249020103><hex:0248020103>Restaura un 100% de PH y PM y revive a todos los miembros del grupo caidos.<hex:02100103>※Si el objetivo no está afligido por la debilidad de resurrección cuando es resucitado, volverá a la vida sin este estado. <hex:02100103>※Si el objetivo estaba afligido por la debilidad de resurrección cuando es resucitado, el contador de debilidad se reiniciará."
+4,Esprint,"Aumenta la velocidad de movimiento.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración: <hex:0249020103><hex:0248020103>10s (20s si no estás en combate)<hex:02100103>※No disponible en PvP."
+5,Desintetizar,"Destruye un objeto en uno, o más, de los materiales originales."
+6,Reparar,"Usa Materia Oscura para reparar un objeto de equipamiento dañado."
+7,Teletransporte,"Reduce tu cuerpo a Aether y te teletransporta a cualquier Aetheryte con el que previamente te hayas sincronizado. Requiere una pequeña cantidad de Gil que será cobrada al llegar a tu destino."
+8,Retorno,"Vuelve al punto seleccionado como Hogar."
+9,Ruleta de Monturas,"Invoca a una montura aleatoria."
+10,Ruleta de Minions,"Invoca un minion aleatorio."
+11,,
+12,"Fusión de Materia","Añade una Materia en un arma o armadura."
+13,"Fusión de Materia Avanzada","Añade una Materia en un arma o armadura. Permite añadir Materia por encima del límite de ranuras pero, el éxito no está garantizado."
+14,"Extracción de Materia","Extrae el Aether de un objeto en el que se haya completado el Vínculo Espiritual, tras ello se recristaliza el residuo resultante en una sustancia concentrada conocida como Materia."
+15,"Teñir","Tiñe una pieza de equipo."
+16,Apuntar hacia adelante,"Cambia de objetivos entre los enemigos cercanos que tengamos delante."
+17,Apuntar hacia atrás,"Cambia de objetivos entre los enemigos cercanos que tengamos detrás."
+18,Dejar,"Deja el objeto que estás cargando."
+19,Descifrar,"Extrae un mapa desgastado de su prisión de cristal y desvela sus misterios."
+20,Cavar,"Localiza los cofres del tesoro enterrados en un rango de 30 yalms y los desentierra."
+21,"Reducción Aetherica","Destruye un objeto a sus componentes aethéricos."
+22,"Lanzar Glamour","Usa un Prisma de Glamour para lanzar una ilusión óptica sobre una pieza de equipo, alterando su apariencia."
+23,Desmontar,"Desmonta de tu actual montura."
+24,"Ruleta de Monturas Voladoras","Invoca a una montura voladora aleatoria."
+25,"Placa de Glamour","Crea un conjunto de varios glamours para aplicarlos de una sola vez."
+26,"Acción de Deber I","Ejecuta una acción específica del deber que estés cumpliendo."
+27,"Acción de Deber II","Ejecuta una acción específica del deber que estés cumpliendo."
+28,Poner a un lado,"Guarda tus efectos personales."
+29,"Organizar Barra de Mascotas","Cambia el orden de las acciones asignadas a una barra de acceso rápido."
+30,"Organizar Barra de Mascotas","Cambia el orden de las acciones asignadas a una barra de acceso rápido."

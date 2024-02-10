@@ -24,22 +24,22 @@ int32,str,str,str,str
 19,"Paladín",PLD,ナ,"Paladín"
 20,"Monje",MNK,モ,"Monje"
 21,"Guerr<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>",WAR,戦,Guerr<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>
-22,"Dragoon",DRG,竜,Dragoon
+22,"Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Dragón",DRG,竜,Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Dragón
 23,"Ba<hex:02080DE905FF04>rda<hex:FF04>rdo<hex:03>",BRD,吟,Ba<hex:02080DE905FF04>rda<hex:FF04>rdo<hex:03>
 24,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Bla<hex:02080DE905FF04>nca<hex:FF04>nco<hex:03>",WHM,白,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Bla<hex:02080DE905FF04>nca<hex:FF04>nco<hex:03>"
-25,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>",BLM,黒,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>"
+25,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Ne<hex:02080DE905FF04>gra<hex:FF04>gro<hex:03>",BLM,黒,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Ne<hex:02080DE905FF04>gra<hex:FF04>gro<hex:03>"
 26,"Arcanista",ACN,巴,Arcanista
 27,"Invocad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>",SMN,召,Invocad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>
 28,"Erud<hex:02080DE905FF04>ita<hex:FF04>ito<hex:03>",SCH,学,Erud<hex:02080DE905FF04>ita<hex:FF04>ito<hex:03>
-29,"Pícaro",ROG,双,"Pícaro"
-30,ninja,NIN,忍,Ninja
-31,"Maquinista",MCH,機,Maquinista
-32,"Caball<hex:02080DE905FF04>ero<hex:FF04>era<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>",DRK,暗,"Caball<hex:02080DE905FF04>ero<hex:FF04>era<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>"
+29,"Band<hex:02080DE905FF04>ida<hex:FF04>ido<hex:03>",ROG,双,Band<hex:02080DE905FF04>ida<hex:FF04>ido<hex:03>
+30,"Ninja",NIN,忍,Ninja
+31,"Ingeni<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>",MCH,機,Ingeni<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>
+32,"Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>",DRK,暗,"Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>"
 33,"Astról<hex:02080DE905FF04>oga<hex:FF04>ogo<hex:03>",AST,占,"Astról<hex:02080DE905FF04>oga<hex:FF04>ogo<hex:03>"
 34,"Samurai",SAM,侍,Samurai
 35,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> R<hex:02080DE905FF04>oja<hex:FF04>ojo<hex:03>",RDM,赤,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> R<hex:02080DE905FF04>oja<hex:FF04>ojo<hex:03>"
 36,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Azul",BLU,青,"M<hex:02080DE905FF04>aga<hex:FF04>ago<hex:03> Azul"
-37,"Gunbreaker",GNB,ガ,Gunbreaker
+37,"Sablepistol<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>",GNB,ガ,Sablepistol<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>
 38,"Bailar<hex:02080DE905FF04>ina<hex:FF04>in <hex:03>",DNC,踊,Bailar<hex:02080DE905FF04>ina<hex:FF04>in <hex:03>
 39,"Segad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>",RPR,リ,Segad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>
 40,"Sa<hex:02080DE905FF04>bia<hex:FF04>bio<hex:03>",SGE,賢,Sa<hex:02080DE905FF04>bia<hex:FF04>bio<hex:03>
