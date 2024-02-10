@@ -4921,8 +4921,8 @@ int32,str
 5497,Quest: ???
 5498,This quest has already been completed.<hex:02100103>You will not receive a reward.
 5499,Return Timer
-5500,Open the FINAL FANTASY XIV Lodestone playguide in your default web browser?
-5501,Yes
+5500,"Bienven<hex:02080DE905FF04>ida<hex:FF04>ido<hex:03> a Final Fantasy XIV. Traducción al español por <hex:024804F201F403><hex:024904F201F503>Enearon<hex:0249020103><hex:0248020103><hex:02100103><hex:024804F201F803><hex:024904F201F903>Última Actualización: <hex:0249020103><hex:0248020103>10/02/2024"
+5501,Sí
 5502,No
 5503,
 5504,Playguide

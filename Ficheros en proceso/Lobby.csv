@@ -3,184 +3,178 @@
 offset,0,4,8
 int32,str,str,str
 0,,,
-1,Start Game,,
-2,Configuration,,
-3,Opening Movie,,
-4,Credits,,
+1,Comenzar Juego,,
+2,"Configuración",,
+3,"Cinemática Introductoria",,
+4,"Créditos",,
 5,,,
-6,Calibrate controller?<hex:02100103>※Settings can be changed at any time via the System Configuration menu.,,
-7,Yes,,
+6,"¿Calibrar el controlador?<hex:02100103>※Las opciones pueden ser cambiadas en cualquier momento desde el menú de Configuración.",,
+7,Sí,,
 8,No,,
 9,,,
-10,Service Account,,
-11,Select a service account.,,
+10,Cuenta de Servicio,,
+11,Selecciona una Cuenta de Servicio,,
 12,Version: <hex:022903EA0203> (<hex:022903EA0303>),,
-13,<hex:024804F201F403><hex:024904F201F503>Warning!<hex:0249020103><hex:0248020103> Screen resolution is set to Low (480p/i 576p/i)<hex:02100103>The recommended setting is High (720p).,,
+13,"<hex:024804F201F403><hex:024904F201F503>¡Aviso!<hex:0249020103><hex:0248020103> La resolución de la pantalla está en Bajo (480p/i 576p/i)<hex:02100103>La resolución recomendada es Alta (720p).",,
 14,,,
 15,OK,,
-16,Cancel,,
-17,Select the features you wish to change from the list on the right. Those marked with ??? have yet to be confirmed.,,
-18,Select the features you wish to change from the list on the right and press OK to reflect the changes.,,
-19,Select the features you wish to change from the list on the right. Those marked with ??? have yet to be confirmed.,,
-20,Delete Character,,
-21,"Delete <hex:022903EA0203>?<hex:02100103>Please be aware that if you delete this character, you will lose all items, gil, and hired retainers in their possession.<hex:02100103>If this character is master of a free company for which there is no eligible successor, the free company will be automatically disbanded, causing company estates and all items within the company chest to be deleted as well.",,
-22,I understand and wish to delete this character.,,
-23,Change Name,,
-24,Change Retainer Name,,
-25,Log in with <hex:022903EA0203>?,,
-26,A name change is required to log in with this character.,,
-27,<hex:020885E1E80201FF45>Please change your character's name after retrieving character data.<hex:FF39>A name change is required to log in with this character.<hex:03>,,
-28,Change this character's name to <hex:022903EA0203>?,,
-29,Change this retainer's name to <hex:022903EA0203>?,,
-30,New Character,,
-31,Quit character creation and lose all progress?,,
-32,Begin a new game with this character?,,
-33,Create a new character?,,
-34,You cannot create any more characters. To create a new character you must first delete an existing one.,,
+16,Cancelar,,
+17,"Selecciona las características que deseas cambiar en el listado de la derecha. Aquellas marcadas con ??? aun deben ser confirmadas.",,
+18,"Selecciona las características que deseas cambiar en el listado de la derecha y presiona OK para que los cambios se vean reflejados.",,
+19,"Selecciona las características que deseas cambiar en el listado de la derecha. Aquellas marcadas con ??? aun deben ser confirmadas.",, 
+20,"Eliminar Personaje",,
+21,"¿Eliminar el personaje <hex:022903EA0203>?<hex:02100103>Por favor, se consciente de que si eliminas el personaje perderás todos los objetos, gil y custodios en su posesión.<hex:02100103>Si este personaje es líder de una Compañía Libre para la que no hay un sucesor, dicha compañía será disuelta y todos sus bienes en el alijo de la compañía e inmuebles serán eliminados también.",,
+22,"Lo entiendo y deseo eliminar a este personaje.",,
+23,Cambiar Nombre,,
+24,Cambiar Nombre de Custodio,,
+25,"¿Deseas conectar con <hex:022903EA0203>?",,
+26,"Un cambio de nombre es requerido para conectar con este personaje.",,
+27,"<hex:020885E1E80201FF45>Por favor, cambia el nombre de tu personaje tras recibir los datos de este.<hex:FF39>Un cambio de nombre es requerido para conectar con este personaje.<hex:03>",,
+28,"¿Cambiar el nombre de este personaje a <hex:022903EA0203>?",,
+29,"¿Cambiar el nombre de este custodio a <hex:022903EA0203>?",,
+30,"Nuevo Personaje",,
+31,"¿Abandonar la creación del personaje y perder todo el progreso?",,
+32,"¿Comenzar una nueva aventura con este personaje?",,
+33,"¿Quieres crear un nuevo personaje?",,
+34,"No puedes crear mas personajes. Para crear un nuevo personaje deberás eliminar primero uno de los existentes.",,
 35,<hex:022003E80203>/<hex:022003E80303>,,
-36,Location,,
-37,<hex:0209BAE803FF04>1st<hex:FF04>2nd<hex:FF04>3rd<hex:FF04>4th<hex:FF04>5th<hex:FF04>6th<hex:FF04>7th<hex:FF04>8th<hex:FF04>9th<hex:FF05>10th<hex:FF05>11th<hex:FF05>12th<hex:FF05>13th<hex:FF05>14th<hex:FF05>15th<hex:FF05>16th<hex:FF05>17th<hex:FF05>18th<hex:FF05>19th<hex:FF05>20th<hex:FF05>21st<hex:FF05>22nd<hex:FF05>23rd<hex:FF05>24th<hex:FF05>25th<hex:FF05>26th<hex:FF05>27th<hex:FF05>28th<hex:FF05>29th<hex:FF05>30th<hex:FF05>31st<hex:FF05>32nd<hex:03> Sun of the <hex:020993E802FF0B>1st Astral<hex:FF0B>1st Umbral<hex:FF0B>2nd Astral<hex:FF0B>2nd Umbral<hex:FF0B>3rd Astral<hex:FF0B>3rd Umbral<hex:FF0B>4th Astral<hex:FF0B>4th Umbral<hex:FF0B>5th Astral<hex:FF0B>5th Umbral<hex:FF0B>6th Astral<hex:FF0B>6th Umbral<hex:03> Moon,,
-38,（<hex:022003E80203>/<hex:022003E80303>）,,
+36,Ubicación,,
+37,"<hex:0209BAE804FF04>1st<hex:FF04>2nd<hex:FF04>3rd<hex:FF04>4th<hex:FF04>5th<hex:FF04>6th<hex:FF04>7th<hex:FF04>8th<hex:FF04>9th<hex:FF05>10th<hex:FF05>11th<hex:FF05>12th<hex:FF05>13th<hex:FF05>14th<hex:FF05>15th<hex:FF05>16th<hex:FF05>17th<hex:FF05>18th<hex:FF05>19th<hex:FF05>20th<hex:FF05>21st<hex:FF05>22nd<hex:FF05>23rd<hex:FF05>24th<hex:FF05>25th<hex:FF05>26th<hex:FF05>27th<hex:FF05>28th<hex:FF05>29th<hex:FF05>30th<hex:FF05>31st<hex:FF05>32nd<hex:03> Sol de la <hex:020993E802FF0B>Primera Luna Astral<hex:FF0B>Primera Luna Umbral<hex:FF0B>Segunda Luna Astral<hex:FF0B>Segunda Luna Umbral<hex:FF0B>Tercera Luna Astral<hex:FF0B>Tercera Luna Umbral<hex:FF0B>Cuarta Luna Astral<hex:FF0B>Cuarta Luna Umbral<hex:FF0B>Quinta Luna Astral<hex:FF0B>Quinta Luna Umbral<hex:FF0B>Sexta Luna Astral<hex:FF0B>Sexta Luna Umbral<hex:03>",,
+38,"（<hex:022003E80203><hex:022003E80303>）",,
 39,,,
-40,First Astral Moon,,
-41,First Umbral Moon,,
-42,Second Astral Moon,,
-43,Second Umbral Moon,,
-44,Third Astral Moon,,
-45,Third Umbral Moon,,
-46,Fourth Astral Moon,,
-47,Fourth Umbral Moon,,
-48,Fifth Astral Moon,,
-49,Fifth Umbral Moon,,
-50,Sixth Astral Moon,,
-51,Sixth Umbral Moon,,
+40,Primera Luna Astral,,
+41,Primera Luna Umbral,,
+42,Segunda Luna Astral,,
+43,Segunda Luna Umbral,,
+44,Tercera Luna Astral,,
+45,Tercera Luna Umbral,,
+46,Cuarta Luna Astral,,
+47,Cuarta Luna Umbral,,
+48,Quinta Luna Astral,,
+49,Quinta Luna Umbral,,
+50,Sexta Luna Astral,,
+51,Sexta Luna Umbral,,
 52,,,
 53,<hex:0209BAE804FF04>1st<hex:FF04>2nd<hex:FF04>3rd<hex:FF04>4th<hex:FF04>5th<hex:FF04>6th<hex:FF04>7th<hex:FF04>8th<hex:FF04>9th<hex:FF05>10th<hex:FF05>11th<hex:FF05>12th<hex:FF05>13th<hex:FF05>14th<hex:FF05>15th<hex:FF05>16th<hex:FF05>17th<hex:FF05>18th<hex:FF05>19th<hex:FF05>20th<hex:FF05>21st<hex:FF05>22nd<hex:FF05>23rd<hex:FF05>24th<hex:FF05>25th<hex:FF05>26th<hex:FF05>27th<hex:FF05>28th<hex:FF05>29th<hex:FF05>30th<hex:FF05>31st<hex:FF05>32nd<hex:03> Sun of the <hex:020993E803FF0B>1st Astral<hex:FF0B>1st Umbral<hex:FF0B>2nd Astral<hex:FF0B>2nd Umbral<hex:FF0B>3rd Astral<hex:FF0B>3rd Umbral<hex:FF0B>4th Astral<hex:FF0B>4th Umbral<hex:FF0B>5th Astral<hex:FF0B>5th Umbral<hex:FF0B>6th Astral<hex:FF0B>6th Umbral<hex:03> Moon,,
 54,,,
 55,,,
-56,<hex:022903EA0203><hex:020951E803FF01><hex:FF0A> (Legacy)<hex:FF06> (NA)<hex:FF0D> (NA Legacy)<hex:FF06> (EU)<hex:FF0D> (EU Legacy)<hex:FF06> (OC)<hex:FF0D> (OC Legacy)<hex:FF01><hex:03>,,
-57,Obtaining the World list...,,
-58,Unable to obtain the World list.,,
-59,Obtain updated World information. This feature can only be used once every <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> <hex:020816E4E80202FF07>minute<hex:FF08>minutes<hex:03>.,,
-60,"This account has no available character slots. To create a new character, you must first delete an existing one by selecting the “Delete” option from the subcommand menu.",,
-61,"You cannot create any more characters. To create a new character, you must first delete an existing one. This can be done by selecting the “Delete” option from the subcommand menu.",,
-62,You cannot create any more characters on this World. Please select another.,,
-63,"This World is not accepting any more new characters. You may either wait for the restriction to be lifted, or you may select another World.",,
-64,You cannot select this character with your current account.,,
-65,"You are granted one opportunity to edit your character's race, tribe, gender, appearance, and name.",,
-66,<hex:02089CE1E80201FF4B>Please change your retainer's name after retrieving your character's data.<hex:FF4A>To log in with this character you must first change your retainer's name.<hex:03>,,
-67,"If you wish, you can edit your character's race, sex, and appearance.",,
-68,To log in with this character you must first install <hex:02280FFF0A>ExVersion<hex:E8020103>.,,
-69,"To edit this character's race, sex, or appearance you must first install <hex:02280FFF0A>ExVersion<hex:E8020103>.",,
-70,"To log in with this character from version 1.0, you must first specify the Disciple of War or Magic class you wish to begin the game as.",,
+56,<hex:022903EA0203><hex:020943E803FF01><hex:FF09>(LEGACY)<hex:FF01><hex:FF09>(LEGACY)<hex:FF05>(EU)<hex:FF0C>(LEGACY/EU)<hex:FF05>(OC)<hex:FF0C>(LEGACY/OC)<hex:FF01><hex:03>,,
+57,"Obteniendo listado de Mundos...",,
+58,"Imposible obtener el listado de Mundos.",,
+59,"Obtener información actualizada del Mundo. Esta caracaterísticas solo puede ser usada cada <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>un<hex:FF04>dos<hex:FF06>tres<hex:FF05>cuatro<hex:FF05>cinco<hex:FF04>seis<hex:FF06>siete<hex:FF06>ocho<hex:FF05>nueve<hex:FF04>diez<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> <hex:020816E4E80202FF07>minuto<hex:FF08>minutos<hex:03>.",,
+60,"Esta cuenta no tiene ranuras de personaje disponibles. Para crear un nuevo personaje debes eliminar uno existente seleccionando la opción "Eliminar" el menú de subcomandos.",,
+61,"No puedes crear mas personajes. Para crear un nuevo personaje debes eliminar uno existente seleccionando la opción "Eliminar" el menú de subcomandos.",,
+62,"No puedes crear mas personajes en este Mundo. Selecciona otro.",,
+63,"Este Mundo no acepta nuevos personajes. Puedes esperar a que la restricción sea eliminada o seleccionar otro Mundo.",,
+64,"No puedes elegir este personaje con tu cuenta actual.",,
+65,"Tienes la oportunidad de editar la raza, género, apariencia y nombre de tu personaje.",,
+66,"<hex:02089CE1E80201FF4B>Por favor, cambia el nombre de tu custodio tras recibidor los datos del personaje.<hex:FF4A>Para conectar con este personaje primero debes cambiar el nombre del custodio.<hex:03>",,
+67,"Si lo deseas, puedes cambiar la raza, género y apariencia de tu personaje.",,
+68,"Para conectar con este personaje primero debes instalar <hex:02280FFF0A>ExVersion<hex:E8020103>.,,
+69,"Para editar la raza, género o apariencia de este personaje primero debes instalar <hex:02280FFF0A>ExVersion<hex:E8020103>.",,
+70,"Para conectar con este personaje de la versión 1.0, primero debes especificar la clase de Adepto de la Guerra o Magia con la que deseas comenzar la aventura.",,
 71,OK,,
-72,Cancel,,
-73,You have elected to begin FINAL FANTASY XIV: A Realm Reborn as <hex:0208B0E4E8020BFF15>an <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF94><hex:020890E4E8020FFF15>an <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF74><hex:020870E4E80206FF15>an <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF54><hex:020850E4E8021BFF15>an <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF34><hex:020830E4E80222FF15>an <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF14>a <hex:02280EFF09>ClassJob<hex:E8020103><hex:03><hex:03><hex:03><hex:03><hex:03>. You will start your new adventure in <hex:02280AFF05>Town<hex:E8030103>.,,
+72,Cancelar,,
+73,"Has elegido comenzar FINAL FANTASY XIV: A Realm Reborn como  <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF94> <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF74> <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF54> <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF34> <hex:02280EFF09>ClassJob<hex:E8020103><hex:FF14> <hex:02280EFF09>ClassJob<hex:E8020103><hex:03><hex:03><hex:03><hex:03><hex:03>. Comenzarás tu aventura en <hex:02280AFF05>Town<hex:E8030103>.",,
 74,OK,,
-75,Cancel,,
-76,"To log in with this character from version 1.0, you must first specify the Disciple of War or Magic class you wish to begin the game as. You are also granted one opportunity to edit your character's race, tribe, gender, appearance, and name.",,
-77,Edit now.,,
-78,Edit later.,,
-79,Re-edit Character,,
-80,Create new character with saved appearance data.,,
-81,Save Appearance Data,,
-82,Load Appearance Data,,
-83,"To better facilitate the login process, the display of character information has been simplified.",,
-84,"Welcome to Eorzea!<hex:02100103>Before your adventure can begin, you must first create a character.",,
-85,Proceed,,
-86,"Welcome to Eorzea!<hex:02100103>Start your adventure by selecting an existing character, or creating a new one.<hex:02100103>You currently have <hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> <hex:02081CE4E80202FF0A>character<hex:FF0B>characters<hex:03> on <hex:022903EA0203>. To select another World, press the World button in the upper right of your screen.",,
-87,Proceed,,
-88,Select a World.,,
-89,Worlds are separated into two groups based on server location. Check their ping status to see which group is best for you.,,
+75,Cancelar,,
+76,"Para conectar con este personaje de la versión 1.0, primero debes especificar la clase de Adepto de la Guerra o Magia con la que deseas comenzar la aventura. Además se te dará la oportunidad de editar la raza, tribu, género, apariencia y nombre del personaje.",,
+77,Editar ahora.,,
+78,"Editar después.",,
+79,"Re-editar Personaje",,
+80,"Crear un nuevo personaje con una Apariencia guardada.",,
+81,"Guardar Datos de Apariencia",,
+82,"Cargar Datos de Apariencia",,
+83,"Para facilitar el proceso de conexión la información que se mostrará del personaje ha sido simplificada.",,
+84,"¡Te damos la Bienvenida a Eorzea!<hex:02100103>Antes de que comiences tu aventura debes crear un personaje.",,
+85,Proceder,,
+86,"¡Te damos la Bienvenida a Eorzea!<hex:02100103>Comienza tu aventura seleccionando un personaje existente o creando uno nuevo.<hex:02100103>Actualmente tienes <hex:020860E803FF54><hex:020850E2E8030BFF42><hex:02093EE803FF04>un<hex:FF04>dos<hex:FF06>tres<hex:FF05>cuatro<hex:FF05>cinco<hex:FF04>seis<hex:FF06>siete<hex:FF06>ocho<hex:FF05>nueve<hex:FF04>diez<hex:03><hex:FF07><hex:022003E80303><hex:03><hex:FF07><hex:022003E80303><hex:03> <hex:02081CE4E80202FF0A>personaje<hex:FF0B>personajes<hex:03> en <hex:022903EA0203>. Para seleccionar otro Mundo, presiona el botón de Mundo en la parte superior derecha de tu pantalla.",,
+87,Proceder,,
+88,"Seleccionar Mundo.",,
+89,"Los Mundos están separados en dos grupos basados en la ubicación del servidor. Comprueba la latencia para ver cual es mejor para ti.",,
 90,,,
 91,,,
 92,,,
 93,,,
 94,,,
-95,"Logging in with <hex:022903EA0203>.<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Your character is currently on a World Server different from your Home World. Visit an aetheryte in either Limsa Lominsa, Gridania, or Ul'dah to return.<hex:0249020103><hex:0248020103>",,
-96,"Logging in with <hex:022903EA0203>.<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Your character is currently in a data center different from your Home World's. To return, select “Return to Home World” from the character subcommand menu before logging in.<hex:0249020103><hex:0248020103>",,
+95,"Conectando con <hex:022903EA0203>.<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Tu personaje esta actualmente en un Mundo diferente de tu Mundo de Origen. Visita un Aetheryte en Limsa Lominsa, Gridania o Ul'dah para volver a tu Mundo.<hex:0249020103><hex:0248020103>",,
+96,"Conectando con <hex:022903EA0203>.<hex:02100103><hex:02100103><hex:024804F201FA03><hex:024904F201FB03>Tu personaje esta actualmente en un Centro de Datos diferente al de tu Mundo de Origen. Para volver, selecciona Volver a Mi Mundo de Origen desde el menú de subcomandos del personaje con el que quieres conectar.<hex:0249020103><hex:0248020103>",,
 97,,,
 98,,,
-99,<hex:02100103><hex:02100103>Starting Attributes: STR <hex:022003E80203>/DEX <hex:022003E80403>/VIT <hex:022003E80303>/INT <hex:022003E80503>/MND <hex:022003E80603>,,
+99,<hex:02100103><hex:02100103>Atributos de Inicio: FUE <hex:022003E80203>/DES <hex:022003E80403>/VIT <hex:022003E80303>/INT <hex:022003E80503>/MEN <hex:022003E80603>,,
 100,? ? ?,,
-101,Race & Gender,種族,
-102,Clan,部族,
-103,Gender,性別,
-104,Appearance,ルックス,
-105,Nameday,誕生日,
-106,Guardian,守護神,
-107,Class,クラス,
-108,Home World,ワールド,
-109,Name,名前,
-110,Hyur<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"The Hyur are said to have first traveled to Eorzea from her surrounding
-continents and islands. Three great migratory waves later, they are now
-the most populous of all the civilized races. They exhibit a relatively
-modest physique, both in height and build, and are known for their
-peculiarly short, rounded ears. Hyurs are well suited for traveling long
-distances by foot, a trait thought to account for their swift proliferation.
+101,"Raza & Género",種族,
+102,"Clan",部族,
+103,"Género",性別,
+104,"Apariencia",ルックス,
+105,"Día del Nombre",誕生日,
+106,"Guardian",守護神,
+107,"Clase",クラス,
+108,"Mundo de Origen",ワールド,
+109,"Nombre",名前,
+110,Hyur<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los Hyur llegaron al reino de Eorzea en tres oleadas de migración desde los
+continentes e islas que lo rodean, trayendo con sigo una tecnología sofisticada
+y complejo espíritu templado por el extenso mundo exterior. En poco tiempo
+pasaron a ser una gran fuerza impulsora, y ahora se les atribuye ampliamente
+el progreso de la cultura y civilización eorzense, convirtiéndose en la raza
+más populosa de toda Eorzea.
 
-Their espousal of an eclectic variety of languages and traditions is
-a legacy of their diverse heritage－as is their resulting lack of a
-unified cultural identity."
+Uno de los puntos fuertes de esta raza es la asombrosa variedad de idiomas y
+tradiciones sociales que exhiben. Se dice que esto explica su gran convicción por la libertad
+personal, aunque también resulta en una relativa falta de solidaridad y cohesión unificada."
 111,,,
-112,Elezen<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"In former times, the Elezen were the sole inhabitants of Eorzea,
-claiming dominion over her. Traditionally a nomadic people, the tall,
-slender Elezen believed the realm to be theirs by divine right.
-Unfortunately, this belief made the eventual appearance of the
-Hyur in their multitudes akin to an invasion, and a long history of
-conflict ensued.
+112,Elezen<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"En tiempos antiguos, los Elezen eran los únicos habitantes de Eorzea, 
+reclamando el dominio sobre ella. Tradicionalmente un pueblo nómada, los altos
+y esbeltos Elezen creían que el reino les pertenecía por derecho divino. 
+Desafortunadamente, esta creencia hizo que la aparición eventual de los Hyur
+fuera similar a una invasión, y se desató una larga historia de conflictos.
 
-Ultimately, the Elezen diverged into the two clans that exist today.
-The Wildwood Elezen took to the forests to protect their homeland,
-while the Duskwight Elezen withdrew to caves and subterrane, opting
-instead to avoid all contact with any but their own."
+En última instancia, los Elezen se dividieron en los dos clanes que hoy existen. 
+Los Elezen del clan Bosque Salvaje se adentraron en los bosques para proteger su 
+tierra natal, mientras que los Elezen del clan Luz del Anochecer se retiraron a 
+cuevas y subterráneos, optando, en su lugar, por evitar todo contacto excepto con los suyos."
 113,,,
-114,Lalafell<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"A wee people sporting short, rotund bodies, the Lalafell appear as
-no more than children to the eyes of most. Many of these nimble
-little folk hail from the islands of the south seas, where they practice
-a simple agricultural lifestyle. It was not until the opening of maritime
-trade routes that the gradual migration of Lalafells to Eorzea began.
+114,Lalafell<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Una gente pequeña de cuerpos cortos y robustos, los Lalafell parecen 
+no ser más que niños a los ojos de la mayoría. Muchos de estos ágiles pequeños 
+provienen de las islas de los mares del sur, donde practican un estilo de vida agrícola simple.
+No fue hasta la apertura de las rutas comerciales marítimas que comenzó la migración gradual de 
+los Lalafells a Eorzea. Ahora son una de las razas más arraigadas en el reino, los Lalafells pueden 
+encontrarse en gran número en casi todas las ciudades. 
 
-Now one of the most well-established races in the realm, Lalafells
-can be found in great numbers in nearly every city. Though Lalafellin
-culture places great emphasis on blood relations, individuals are known
-for getting along amicably with members of all races."
+Aunque la cultura Lalafellin pone gran énfasis en las relaciones familiares, 
+los individuos son conocidos por llevarse amigablemente con miembros de todas las razas."
 115,,,
-116,Miqo'te<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"The ancestors of the Miqo'te made their way to Eorzea during the
-Age of Endless Frost, traversing the frozen seas in pursuit of the
-wildlife upon which they subsisted. Adaptation to a hunting lifestyle
-has fashioned them with a keen sense of smell, powerful legs, and
-a tail which provides them with exceptional balance.
+116,Miqo'te<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los antepasados de los Miqo'te llegaron a Eorzea durante la Edad de la Helada Interminable,
+cruzando los mares congelados en busca de la vida salvaje de la cual subsistían.
+La adaptación a un estilo de vida de cazadores los ha dotado de un agudo sentido del olfato,
+piernas fuertes y una cola que les proporciona un equilibrio excepcional.
 
-Miqo'te are known to be very territorial, and many individuals tend
-to lead solitary lifestyles, particularly males."
+Se sabe que los Miqo'te son muy territoriales y muchos individuos tienden a llevar 
+estilos de vida solitarios, especialmente los machos."
 117,,,
-118,Roegadyn<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Known for their brawny builds and piercing eyes, the Roegadyn
-are the largest and most rugged of Eorzea's races. The majority
-of the realm's Roegadyn belong to the Sea Wolf clan, a maritime
-people who earn their keep on or by the sea, be it as sailors,
-fishermen, or pirates. Comparatively fewer in number are the
-Hellsguard, who are known for their more earnest demeanors
-and can often be found working as bodyguards and smithies."
+118,Roegadyn<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Conocidos por su constitución corpulenta y mirada penetrante,
+los Roegadyn son la raza más grande y resistente de Eorzea. La mayoría de
+los Roegadyn del reino pertenecen al clan Lobos de Mar, un pueblo marítimo
+que gana su sustento en o junto al mar, ya sea como marineros, pescadores o piratas. 
+
+Comparativamente menos numerosos son los Roegadyn del clan Guardianes del Infierno,
+conocidos por su comportamiento más serio y que a menudo se dedican a trabajar
+como guardaespaldas y herreros."
 119,,,
-120,Midlander,,"The Midlander clan comprises over half of the total population of
-Eorzea's Hyurs. They have established themselves throughout
-every city in the realm and lead lives as diverse as their heritage.
+120,Midlander,,"El clan Midlander comprende más de la mitad de la población total de los Hyur en Eorzea. 
+Se han establecido en todas las ciudades del reino y llevan vidas tan diversas como su herencia.
 
-Trained in letters from infancy, the Midlanders are generally more
-educated than many of the other races and clans. Despite the fact
-that males tend to be slightly taller than females, there are no
-significant differences between the genders."
+Entrenados en letras desde la infancia, los Midlanders generalmente tienen más educación que muchas 
+de las otras razas y clanes. A pesar de que los hombres tienden a ser ligeramente más altos que las mujeres, 
+no hay diferencias significativas entre los géneros."
 121,,,
-122,Highlander,,"The Highlanders were the first of the Hyur to reach Eorzea.
-Their name derives from their long tradition of building strongholds
-in the mountains. Compared to their Midland brethren, the
-Highlanders are noticeably larger in build.
+122,Clan de las Tierras Altas,,"Los Hyur del clan de las Tierras Altas fueron los primeros de los Hyur en llegar a Eorzea.
+El nombre de su clan deriva de su larga tradición de construir fortalezas en las montañas. En comparación con sus hermanos
+de las Tierras Bajas, son notablemente más grandes en constitución.
 
-Of late, Highlanders have become an increasingly rare sight
-in Eorzea, their number represented almost exclusively by those
-who fled Ala Mhigo after its fall and now work in the desert
-city-state of Ul'dah as mercenaries and sellswords."
+Últimamente, estos Hyur se han vuelto cada vez más raros en Eorzea, y su número está representado casi exclusivamente por 
+aquellos que huyeron de Ala Mhigo después de su caída. La mayoría de ellos trabajan en la ciudad-estado de Ul'dah en el
+desierto de Thanalan como mercenarios y espadachines a sueldo."
 123,,,
 124,Wildwood,,"For hundreds of years, the Wildwood Elezen have lived in the
 relative safety of Eorzea's lush forests. With the formation of
@@ -333,32 +327,32 @@ have for countless generations."
 149,,,
 150,,,
 151,,,
-152,Custom,,
+152,Aleatorio,,
 153,,,
 154,Halone,,
-155,The Fury,,
+155,La Furia,,
 156,Menphina,,
-157,The Lover,,
+157,La Amante,,
 158,Thaliak,,
-159,The Scholar,,
+159,El Erudito,,
 160,Nymeia,,
-161,The Spinner,,
+161,La Hilandera,,
 162,Llymlaen,,
-163,The Navigator,,
+163,La Navegante,,
 164,Oschon,,
-165,The Wanderer,,
+165,El Peregrino,,
 166,Byregot,,
-167,The Builder,,
+167,El Constructor,,
 168,Rhalgr,,
-169,The Destroyer,,
+169,El Destructor,,
 170,Azeyma,,
-171,The Warden,,
+171,La Vigilante,,
 172,Nald'thal,,
-173,The Traders,,
+173,Los Comerciantes,,
 174,Nophica,,
-175,The Matron,,
+175,La Matrona,,
 176,Althyk,,
-177,The Keeper,,
+177,El Custodio,,
 178,Gladiator,,"Gladiators specialize in the handling of all manner of one-handed
 blades, from daggers to longswords, be they single- or double-edged,
 straight or curved. A defining characteristic of the art is its emphasis
