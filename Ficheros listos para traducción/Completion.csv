@@ -2,63 +2,63 @@
 #,LookupTable,Text,GroupTitle
 offset,8,0,4
 int32,str,str,str
-100,@,【Languages】,Languages.
-101,,Please use the auto-translate function.,-
-102,,Japanese language,-
-103,,English language,-
-104,,French language,-
-105,,German language,-
-106,,Can you speak Japanese?,-
-107,,Can you speak English?,-
-108,,Can you speak French?,-
-109,,Can you speak German?,-
-110,,I don't speak any English.,-
-111,,I don't speak any Japanese.,-
-112,,I don't speak any French.,-
-113,,I don't speak any German.,-
-114,,Please listen.,-
-115,,Can you hear me?,-
-116,,I can speak a little.,-
-117,,I can understand a little.,-
-118,,Please use simple words.,-
-119,,Please do not abbreviate your words.,-
-120,,I need some time to put together my answer.,-
-121,,What is your native language?,-
-200,@,【Greetings】,Greetings.
-201,,Nice to meet you.,-
-202,,Good morning!,-
-203,,Hello!,-
-204,,Good evening!,-
-205,,Good night!,-
-206,,Good-bye.,-
-207,,I had fun today!,-
-208,,See you again!,-
-209,,Let's play together again sometime!,-
-210,,I'm back!,-
-211,,Welcome back.,-
-212,,Congratulations!,-
-213,,Good job!,-
-214,,Good luck!,-
-215,,All right!,-
-216,,Thank you.,-
-217,,You're welcome.,-
-218,,Take care.,-
-219,,I'm sorry.,-
-220,,Please forgive me.,-
-221,,That's too bad.,-
-222,,Excuse me...,-
-223,,Have a safe journey.,-
-224,,This is my first time here.,-
-225,,I'm looking forward to it!,-
-226,,Good game!,-
-227,,Let's do it!,-
-228,,Thank you. I must now take my leave.,-
-229,,Let's have some fun!,-
-230,,I'll do my best!,-
-231,,Let's give it our best shot!,-
-232,,This should be fun!,-
-233,,"If we stay cool, everything will be fine!",-
-300,@,【Questions】,Questions.
+100,@,【Idiomas】,Languages.
+101,,"Por favor, usa la función de auto-traducción".,-
+102,,"Japonés",-
+103,,"Inglés",-
+104,,"Francés",-
+105,,"Alemán",-
+106,,"¿Puedes hablar en Japonés?",-
+107,,"¿Puedes habar en Inglés?",-
+108,,"¿Puedes hablar en Francés?",-
+109,,"¿Puedes hablar en Alemán",-
+110,,"No hablo Inglés.",-
+111,,"No hablo Japonés.",-
+112,,"No hablo Francés",-
+113,,"No hablo Alemán.",-
+114,,"Por favor, escucha.",-
+115,,"¿Me estás leyendo?",-
+116,,"Puedeo hablarlo un poco.",-
+117,,"Puede entender un poco.",-
+118,,"Por favor, usa palabras simples.",-
+119,,"Por favor, no abrevies las palabras.",-
+120,,"Necesito un poco de tiempo para poder responder en tu idioma.",-
+121,,"¿Cual es tu idioma nativo?",-
+200,@,【Saludos】,Greetings.
+201,,"¡Encant<hex:02080DE905FF04>ada<hex:FF04>ado<hex:03> de conocerte!",-
+202,,"¡Buenos días!",-
+203,,"¡Hola!",-
+204,,"¡Buenas tardes!",-
+205,,"¡Buenas noches!",-
+206,,"Adios.",-
+207,,"Me lo he pasado bien hoy.",-
+208,,"¡Espero verte pronto!",-
+209,,"¡Espero que pronto juguemos juntos de nuevo!",-
+210,,"¡He vuelto!",-
+211,,"¡Bienvenido de vuelta!",-
+212,,"¡Felicidades!",-
+213,,"¡Buen trabajo!",-
+214,,"¡Buena suerte!",-
+215,,"¡De acuerdo!",-
+216,,"Gracias.",-
+217,,"No hay de que.",-
+218,,"Cuídate.",-
+219,,"Lo siento.",-
+220,,"Por favor, perdóname.",-
+221,,"Que mal.",-
+222,,"Disculpa...",-
+223,,"Ten un viaje seguro-",-
+224,,"Es mi primera vez aquí.",-
+225,,"Estoy deseando que llegue el momento de hacerlo!",-
+226,,"¡Bien jugado!",-
+227,,"¡Hagámoslo!",-
+228,,"Gracias, ahora debo irme.",-
+229,,"¡Hagamos algo divertido!",-
+230,,"¡Lo haré lo mejor que pueda!",-
+231,,"¡Hagamos nuestro mejor esfuerzo!",-
+232,,"¡Esto va a ser divertido!",-
+233,,"¡Si estamos tranquilos todo irá bien!",-
+300,@,【Preguntas】,Questions.
 301,,Who?,-
 302,,Which?,-
 303,,How?,-
