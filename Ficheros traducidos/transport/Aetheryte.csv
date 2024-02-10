@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_AETHERYTE_MAINMENU_TITLE,Bienvenido a <hex:02280FFF0A>PlaceName<hex:E8020103>.
+0,TEXT_AETHERYTE_MAINMENU_TITLE,"Bienven<hex:02080DE905FF04>ida<hex:FF04>ido<hex:03> a <hex:02280FFF0A>PlaceName<hex:E8020103>."
 1,TEXT_AETHERYTE_TOWN_WARP,<hex:0212024603> Aethernet.
 2,TEXT_AETHERYTE_HOUSING_WARP,<hex:0212024603> Aethernet del Distrito Residencial.
 3,TEXT_AETHERYTE_MENU_WKT,"<hex:0212024603> Visitar otro Mundo (Servidor)."
