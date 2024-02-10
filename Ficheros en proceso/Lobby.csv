@@ -70,7 +70,7 @@ int32,str,str,str
 65,"Tienes la oportunidad de editar la raza, género, apariencia y nombre de tu personaje.",,
 66,"<hex:02089CE1E80201FF4B>Por favor, cambia el nombre de tu custodio tras recibidor los datos del personaje.<hex:FF4A>Para conectar con este personaje primero debes cambiar el nombre del custodio.<hex:03>",,
 67,"Si lo deseas, puedes cambiar la raza, género y apariencia de tu personaje.",,
-68,"Para conectar con este personaje primero debes instalar <hex:02280FFF0A>ExVersion<hex:E8020103>.,,
+68,"Para conectar con este personaje primero debes instalar <hex:02280FFF0A>ExVersion<hex:E8020103>.",,
 69,"Para editar la raza, género o apariencia de este personaje primero debes instalar <hex:02280FFF0A>ExVersion<hex:E8020103>.",,
 70,"Para conectar con este personaje de la versión 1.0, primero debes especificar la clase de Adepto de la Guerra o Magia con la que deseas comenzar la aventura.",,
 71,OK,,
