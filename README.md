@@ -8,9 +8,7 @@ En este repositorio se subirán los ficheros de traducción que necesitan ser tr
 
 Os encontraréis varios directorios;<br/>
 - Archivos listos para traducción que están preparados para ser traducidos. Solo hay que cambiar los textos del inglés al español; Se pueden usar tildes y la letra ñ.<br/>
-- Archivos dudosos. Estos archivos están bajo investigación en como actúan en el juego.<br/>
 - Archivos traducidos. Son aquellos que ya están traducidos, pueden ser revisados para mejorar la traducción.<br/>
-- Archivos que no se deben traducir. Estos archivos existen en la traducción pero, no deben traducirse o interferirán con el funcionamiento del juego haciendo que el juego no funcione correctamente.
 
 ## Progreso de la Traducción 
 <table>
