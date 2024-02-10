@@ -31,7 +31,7 @@ Os encontraréis varios directorios;<br/>
     <td>Mazmorras</td>
     <td>[0%]</td>
     <td>Habilidades</td>
-    <td>[0%]</td>
+    <td>[1%]</td>
   </tr>
   <tr>
     <td>Limsa Lominsa</td>
@@ -39,7 +39,7 @@ Os encontraréis varios directorios;<br/>
     <td>Aether Currents</td>
     <td>[0%]</td>
     <td>Interfaz</td>
-    <td>[1%]</td>
+    <td>[4%]</td>
   </tr>
   <tr>
     <td>Mazmorras</td>
