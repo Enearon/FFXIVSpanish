@@ -63,7 +63,7 @@ int32,str,str,str
 58,"Imposible obtener el listado de Mundos.",,
 59,"Obtener información actualizada del Mundo. Esta caracaterísticas solo puede ser usada cada <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>un<hex:FF04>dos<hex:FF06>tres<hex:FF05>cuatro<hex:FF05>cinco<hex:FF04>seis<hex:FF06>siete<hex:FF06>ocho<hex:FF05>nueve<hex:FF04>diez<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> <hex:020816E4E80202FF07>minuto<hex:FF08>minutos<hex:03>.",,
 60,"Esta cuenta no tiene ranuras de personaje disponibles. Para crear un nuevo personaje debes eliminar uno existente seleccionando la opción Eliminar el menú de subcomandos.",,
-61,"No puedes crear mas personajes. Para crear un nuevo personaje debes eliminar uno existente seleccionando la opción "Eliminar" el menú de subcomandos.",,
+61,"No puedes crear mas personajes. Para crear un nuevo personaje debes eliminar uno existente seleccionando la opción Eliminar el menú de subcomandos.",,
 62,"No puedes crear mas personajes en este Mundo. Selecciona otro.",,
 63,"Este Mundo no acepta nuevos personajes. Puedes esperar a que la restricción sea eliminada o seleccionar otro Mundo.",,
 64,"No puedes elegir este personaje con tu cuenta actual.",,
