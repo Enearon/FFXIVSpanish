@@ -112,214 +112,79 @@ int32,str,str,str
 107,"Clase",クラス,
 108,"Mundo de Origen",ワールド,
 109,"Nombre",名前,
-110,Hyur<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los Hyur llegaron al reino de Eorzea en tres oleadas de migración desde los
-continentes e islas que lo rodean, trayendo con sigo una tecnología sofisticada
-y complejo espíritu templado por el extenso mundo exterior. En poco tiempo
-pasaron a ser una gran fuerza impulsora, y ahora se les atribuye ampliamente
-el progreso de la cultura y civilización eorzense, convirtiéndose en la raza
-más populosa de toda Eorzea.
+110,Hyur<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los Hyur llegaron al reino de Eorzea en tres oleadas de migración desde los continentes e islas que lo rodean, trayendo con sigo una tecnología sofisticada y complejo espíritu templado por el extenso mundo exterior. 
+En poco tiempo pasaron a ser una gran fuerza impulsora, y ahora se les atribuye ampliamente el progreso de la cultura y civilización eorzense, convirtiéndose en la raza más populosa de toda Eorzea.
 
-Uno de los puntos fuertes de esta raza es la asombrosa variedad de idiomas y
-tradiciones sociales que exhiben. Se dice que esto explica su gran convicción por la libertad
-personal, aunque también resulta en una relativa falta de solidaridad y cohesión unificada."
+Uno de los puntos fuertes de esta raza es la asombrosa variedad de idiomas y tradiciones sociales que exhiben. Se dice que esto explica su gran convicción por la libertad personal, aunque también resulta en una relativa falta de solidaridad y cohesión unificada."
 111,,,
-112,Elezen<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"En tiempos antiguos, los Elezen eran los únicos habitantes de Eorzea, 
-reclamando el dominio sobre ella. Tradicionalmente un pueblo nómada, los altos
-y esbeltos Elezen creían que el reino les pertenecía por derecho divino. 
-Desafortunadamente, esta creencia hizo que la aparición eventual de los Hyur
-fuera similar a una invasión, y se desató una larga historia de conflictos.
+112,Elezen<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"En tiempos antiguos, los Elezen eran los únicos habitantes de Eorzea, reclamando el dominio sobre ella. Tradicionalmente un pueblo nómada, los altos y esbeltos Elezen creían que el reino les pertenecía por derecho divino. Desafortunadamente, esta creencia hizo que la aparición eventual de los Hyur fuera similar a una invasión, y se desató una larga historia de conflictos.
 
-En última instancia, los Elezen se dividieron en los dos clanes que hoy existen. 
-Los Elezen del clan Bosque Salvaje se adentraron en los bosques para proteger su 
-tierra natal, mientras que los Elezen del clan Luz del Anochecer se retiraron a 
-cuevas y subterráneos, optando, en su lugar, por evitar todo contacto excepto con los suyos."
+En última instancia, los Elezen se dividieron en los dos clanes que hoy existen. Los Elezen del clan Bosque Salvaje se adentraron en los bosques para proteger su tierra natal, mientras que los Elezen del clan Luz del Anochecer se retiraron a cuevas y subterráneos, optando, en su lugar, por evitar todo contacto excepto con los suyos."
 113,,,
-114,Lalafell<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Una gente pequeña de cuerpos cortos y robustos, los Lalafell parecen 
-no ser más que niños a los ojos de la mayoría. Muchos de estos ágiles pequeños 
-provienen de las islas de los mares del sur, donde practican un estilo de vida agrícola simple.
-No fue hasta la apertura de las rutas comerciales marítimas que comenzó la migración gradual de 
-los Lalafells a Eorzea. Ahora son una de las razas más arraigadas en el reino, los Lalafells pueden 
-encontrarse en gran número en casi todas las ciudades. 
+114,Lalafell<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Una gente pequeña de cuerpos cortos y robustos, los Lalafell parecen no ser más que niños a los ojos de la mayoría. Muchos de estos ágiles pequeños provienen de las islas de los mares del sur, donde practican un estilo de vida agrícola simple. No fue hasta la apertura de las rutas comerciales marítimas que comenzó la migración gradual de los Lalafells a Eorzea. Ahora son una de las razas más arraigadas en el reino, los Lalafells pueden encontrarse en gran número en casi todas las ciudades. 
 
-Aunque la cultura Lalafellin pone gran énfasis en las relaciones familiares, 
-los individuos son conocidos por llevarse amigablemente con miembros de todas las razas."
+Aunque la cultura Lalafellin pone gran énfasis en las relaciones familiares, los individuos son conocidos por llevarse amigablemente con miembros de todas las razas."
 115,,,
-116,Miqo'te<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los antepasados de los Miqo'te llegaron a Eorzea durante la Edad de la Helada Interminable,
-cruzando los mares congelados en busca de la vida salvaje de la cual subsistían.
-La adaptación a un estilo de vida de cazadores los ha dotado de un agudo sentido del olfato,
-piernas fuertes y una cola que les proporciona un equilibrio excepcional.
+116,Miqo'te<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los antepasados de los Miqo'te llegaron a Eorzea durante la Edad de la Helada Interminable, cruzando los mares congelados en busca de la vida salvaje de la cual subsistían. La adaptación a un estilo de vida de cazadores los ha dotado de un agudo sentido del olfato, piernas fuertes y una cola que les proporciona un equilibrio excepcional.
 
-Se sabe que los Miqo'te son muy territoriales y muchos individuos tienden a llevar 
-estilos de vida solitarios, especialmente los machos."
+Se sabe que los Miqo'te son muy territoriales y muchos individuos tienden a llevar estilos de vida solitarios, especialmente los machos."
 117,,,
-118,Roegadyn<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Conocidos por su constitución corpulenta y mirada penetrante,
-los Roegadyn son la raza más grande y resistente de Eorzea. La mayoría de
-los Roegadyn del reino pertenecen al clan Lobos de Mar, un pueblo marítimo
-que gana su sustento en o junto al mar, ya sea como marineros, pescadores o piratas. 
+118,Roegadyn<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Conocidos por su constitución corpulenta y mirada penetrante, los Roegadyn son la raza más grande y resistente de Eorzea. La mayoría de los Roegadyn del reino pertenecen al clan Lobos de Mar, un pueblo marítimo que gana su sustento en o junto al mar, ya sea como marineros, pescadores o piratas. 
 
-Comparativamente menos numerosos son los Roegadyn del clan Guardianes del Infierno,
-conocidos por su comportamiento más serio y que a menudo se dedican a trabajar
-como guardaespaldas y herreros."
+Comparativamente menos numerosos son los Roegadyn del clan Guardianes del Infierno, conocidos por su comportamiento más serio y que a menudo se dedican a trabajar como guardaespaldas y herreros."
 119,,,
-120,Midlander,,"El clan Midlander comprende más de la mitad de la población total de los Hyur en Eorzea. 
-Se han establecido en todas las ciudades del reino y llevan vidas tan diversas como su herencia.
+120,Hyur de las Tierras Bajas,,"Los Hyur de las Tierras Bajas comprenden más de la mitad de la población total de los Hyur en Eorzea. Se han establecido en todas las ciudades del reino y llevan vidas tan diversas como su herencia.
 
-Entrenados en letras desde la infancia, los Midlanders generalmente tienen más educación que muchas 
-de las otras razas y clanes. A pesar de que los hombres tienden a ser ligeramente más altos que las mujeres, 
-no hay diferencias significativas entre los géneros."
+Entrenados en letras desde la infancia, generalmente tienen más educación que muchas de las otras razas y clanes. A pesar de que los hombres tienden a ser ligeramente más altos que las mujeres, no hay diferencias significativas entre los géneros."
 121,,,
-122,Clan de las Tierras Altas,,"Los Hyur del clan de las Tierras Altas fueron los primeros de los Hyur en llegar a Eorzea.
-El nombre de su clan deriva de su larga tradición de construir fortalezas en las montañas. En comparación con sus hermanos
-de las Tierras Bajas, son notablemente más grandes en constitución.
+122,Hyur de las Tierras Altas,,"Los Hyur de las Tierras Altas fueron los primeros en llegar a Eorzea. Su nombre deriva de su larga tradición de construir fortalezas en las montañas. En comparación con sus hermanos de las Tierras Bajas, son notablemente más grandes en constitución.
 
-Últimamente, estos Hyur se han vuelto cada vez más raros en Eorzea, y su número está representado casi exclusivamente por 
-aquellos que huyeron de Ala Mhigo después de su caída. La mayoría de ellos trabajan en la ciudad-estado de Ul'dah en el
-desierto de Thanalan como mercenarios y espadachines a sueldo."
+Últimamente, estos Hyur se han vuelto cada vez más raros en Eorzea, y su número está representado casi exclusivamente por aquellos que huyeron de Ala Mhigo después de su caída. La mayoría de ellos trabajan en la ciudad-estado de Ul'dah en el desierto de Thanalan como mercenarios y espadachines a sueldo."
 123,,,
-124,Wildwood,,"For hundreds of years, the Wildwood Elezen have lived in the
-relative safety of Eorzea's lush forests. With the formation of
-Eorzea's governments, however, many Wildwood ventured forth
-from the forests, drawn to the exhilarating cosmopolitanism of
-nearby Gridania. There is minimal dimorphism between the two
-genders, though males are generally considered to be milder and
-more chivalrous in demeanor. Among their Duskwight brethren,
-Wildwood Elezen are referred to as Greens, for their love of the forest."
+124,Bosque Salvaje,,"Durante cientos de años, los Elezen del Clan Bosque Salvaje han vivido en la relativa seguridad de los exuberantes bosques de Eorzea. Sin embargo, con la formación de los gobiernos de Eorzea, muchos miembros del Clan Bosque Salvaje se aventuraron fuera de los bosques, atraídos por el estimulante cosmopolitismo de la cercana Gridania. 
+
+Hay una mínima diferencia en la morfología entre ambos géneros, aunque generalmente se considera que los varones son más suaves y corteses en su comportamiento. Entre sus hermanos del clan Luz del Anochecer, a los Elezen del Clan Bosque Salvaje se les conoce como Verdes, por su amor al bosque."
 125,,,
-126,Duskwight,,"Centuries ago, a number of Elezen sought out a life of peace and
-seclusion in the depths of Eorzea's caves and caverns. Today,
-they are called the Duskwight, though to their Wildwood cousins
-they are known simply as the Greys, after their preference for
-darkness and stone.
+126,Luz del Anochecer,,"Hace siglos, un grupo de Elezen buscaron una vida de paz y aislamiento en las profundidades de las cuevas y cavernas de Eorzea. Hoy en día, se les conoce como el Clan Luz del Anochecer, aunque para sus hermanos del Clan Bosque Salvaje son simplemente los Grises, debido a su preferencia por la oscuridad y la piedra.
 
-The cave-dwelling ways of the Duskwight persist, with some
-among them turning to robbery and pillaging to survive, earning
-them the scorn of their woodland relatives. There are few
-differences between the genders, but Duskwight females are
-often regarded as being the more passionate and unyielding of
-the two."
+Las costumbres de los miembros de este clan que viven en las cuevas persisten, y algunos de ellos recurren al robo y al pillaje para sobrevivir, lo que les granjea el desprecio de sus parientes del bosque. Hay pocas diferencias entre los géneros, pero a menudo se considera que las mujeres Luz del Anochecer son más apasionadas y decididas."
 127,,,
-128,Plainsfolk,,"From the flat landscapes of the Plainsfolk's home islands are where
-this Lalafellin clan takes its name. Their distinct hair coloration－
-a myriad of earthy and grassy tones－helps them to blend in well
-with their environment, acting as an effective camouflage against
-would-be attackers. It was the similarity of La Noscea's grassy
-fields to those in their homeland which drew the first settlers to
-the island of Vylbrand and what is now Limsa Lominsa.
+128,Gente de las Llanuras,,"Desde los paisajes llanos de las islas natales de los Lalafell de las Llanuras es de donde toma su nombre este clan Lalafellin. La distintiva coloración de su cabello, una miríada de tonos terrosos y herbáceos, les ayuda a fusionarse bien con su entorno, actuando como un eficaz camuflaje contra posibles atacantes. La similitud de los campos de La Noscea con los de su tierra natal fue lo que atrajo a los primeros colonos a la isla de Vylbrand y lo que ahora es Limsa Lominsa.
 
-They are a clever and opportunistic people, and crafty with
-their words. The generally accepted view of Plainsfolk is that
-they are a vibrant lot, with a penchant for excessive conversation."
+Son un pueblo astuto y oportunista, hábil con sus palabras. Su visión generalmente aceptada es que son un grupo vibrante, con inclinación hacia conversaciones excesivas."
 129,,,
-130,Dunesfolk,,"Perhaps the most unique characteristic of the Dunesfolk is their
-luminous eyes─a result of a glossy, protective layer which covers
-the pupil, an evolutionary response to their homeland's glaring sunlight.
-Many individuals wear a small, traditional gemstone on their forehead,
-a symbol of their zodiacal sign. They are adamant about scholasticism,
-placing the advancement of knowledge before all else. Other races
-tend to perceive male Dunesfolk as introverts who care more for
-books, business, and the prosperity of Ul'dah─a city-state built upon
-Dunesfolk ingenuity─than the goings-on of the rest of the realm."
+130,Gente de las Dunas,,"Quizás la característica más única de los Lalafell de las Dunas es la luminosidad de sus ojos, resultado de una capa brillante y protectora que cubre la pupila, una respuesta evolutiva a la intensa luz solar de su tierra natal. Muchos individuos llevan una pequeña gema tradicional en la frente, un símbolo de su signo zodiacal. Son fervientes defensores de la erudición, dando prioridad al avance del conocimiento por encima de todo. Otras razas tienden a percibir a los Lalafell masculinos como introvertidos que se preocupan más por los libros, los negocios y la prosperidad de Ul'dah, una ciudad-estado construida sobre la ingeniosidad de estos Lalafell, que por lo que sucede en el resto del reino."
 131,,,
-132,Seekers of the Sun,,"The self-proclaimed Seekers of the Sun are the diurnal clan of
-the Miqo'te race. Their preference for the warm light of day
-pervades all aspects of their culture, as is apparent in their
-devout reverence for Azeyma, the Warden, keeper of the sun
-and goddess of inquiry.
+132,Buscadores del Sol,,"Los autodenominados Buscadores del Sol son el clan diurno de la raza Miqo'te. Su preferencia por la cálida luz del día impregna todos los aspectos de su cultura, como se evidencia en su devota reverencia por Azeyma, la Guardiana, guardiana del sol y diosa de la indagación.
 
-They are perhaps known best for their striking eyes－the result
-of their vertically aligned pupils and faintly colored irises. It is also
-not uncommon for their eyes to be disparately colored from birth,
-a trait considered auspicious amongst their kind.
+Quizás son mejor conocidos por sus llamativos ojos, resultado de sus pupilas alineadas verticalmente e iris ligeramente coloreados. También es común que sus ojos tengan colores dispares desde el nacimiento, un rasgo considerado auspicioso entre los suyos.
 
-Seeker tribes can be found throughout Eorzea, with large
-concentrations appearing near Limsa Lominsa and the Sagolii Desert."
+Las tribus de los Buscadores se encuentran en todo Eorzea, con grandes concentraciones cerca de Limsa Lominsa y el Desierto de Sagolii."
 133,,,
-134,Keepers of the Moon,,"The nocturnal among the Miqo'te have dubbed themselves the
-Keepers of the Moon. Shying from the garish light of day, they
-revel in the shroud of night, with most offering their piety to
-Menphina, the Lover, goddess of the moon.
+134,Guardianes de la Luna,,"Los nocturnos entre los Miqo'te se autodenominan los Guardianes de la Luna. Alejándose de la deslumbrante luz del día, se deleitan en el manto de la noche, ofreciendo la mayor parte de su piedad a Menphina, la Amante, diosa de la luna. Se distinguen de sus primos diurnos por su pelaje más oscuro, orejas más grandes, ojos más redondos, colmillos más pronunciados y colas más largas y delgadas. La aplicación ritual de la pintura de guerra en la cara todavía se practica regularmente, ya que se cree que los colores vívidos otorgan poderes lunares.
 
-They are distinguishable from their diurnal cousins by their
-darker fur, larger ears, rounder eyes, more pronounced canines,
-and longer, skinnier tails. The ritual application of war paint to
-the face is still regularly practiced, as it is believed the vivid
-colors grant lunar powers.
+Después de muchos veranos de conflicto con la gente de Gridania, finalmente hicieron las paces con los habitantes de la ciudad-estado selvática, e incluso algunos eligen hacer sus hogares allí."
+135,Guardianes de la Luna,,
+136,Lobos de Mar,,"Hace mucho tiempo, ninguna nave o aldea costera estaba a salvo de la furia de los Lobos del Mar y su marca marítima de brutalidad. La mera mención del clan era suficiente para infundir miedo en los corazones de aquellos que obtenían su sustento del mar. Los Lobos del Mar son originarios de las islas de los mares del extremo norte, donde todavía subsisten como pescadores.
 
-After a great many summers of conflict with the people of
-Gridania, the Keepers have finally made amends with the
-people of the sylvan city-state, with some even choosing
-to make their homes there."
-135,,,
-136,Sea Wolves,,"Long ago, no vessel or coastal village was safe from
-the fury of the Sea Wolves and their maritime brand
-of brutality. The mere mention of the clan was enough
-to strike fear into the hearts of any who drew their
-livelihood from the sea. The Sea Wolves originally hail
-from the islands of the far north seas, where they still
-subsist as fishermen and women.
-
-It was not until the large-scale deployment of Limsa
-Lominsa's armada that the Sea Wolves' appetite for
-piracy diminished. Now, it is not uncommon to see them
-employed as sailors or naval mercenaries on all manner
-of vessels. However, they have never forgotten the
-ways of their homeland, and still use the ancient
-Roegadyn language in their names."
+No fue hasta la implementación, a gran escala, de la armada de Limsa Lominsa que el apetito de los Lobos del Mar por la piratería disminuyó. Ahora, no es raro verlos empleados como marineros o mercenarios navales en todo tipo de embarcaciones. Sin embargo, nunca han olvidado las costumbres de su tierra natal y todavía las utilizan."
 137,,,
-138,Hellsguard,,"The Hellsguard are a Roegadyn clan with body and mind
-tempered by the unforgiving heat of the volcanic regions
-they inhabit. Believing these mountains of flame to be
-gates to the underworld, their line has for centuries
-stood vigil to prevent the passage of souls back to the
-realm of the living.
+138,Guardia del Infierno,,"Los Guardias del Infierno son un clan de Roegadyn con cuerpo y mente templados por el calor implacable de las regiones volcánicas que habitan. Creyendo que estas montañas de fuego son puertas al inframundo, su linaje ha permanecido en vigilia durante siglos para evitar el paso de las almas de regreso al reino de los vivos.
 
-As the harsh environs of their homelands produce
-little sustenance, the second- and third-born are often
-sent forth from their mountain villages, with many and
-more making their way to the great cities. It is there that
-their sheer girth and steely demeanors place them in
-high demand as soldiers and sellswords, allowing the
-young of even the largest families to surpass their
-elder siblings in prosperity."
+Dado que los entornos severos de sus tierras natales producen poco sustento, los nacidos en segundo y tercer lugar a menudo son enviados desde sus aldeas en la montaña, y muchos de ellos se dirigen a las grandes ciudades. Es allí donde su gran corpulencia y actitudes inflexibles los colocan en alta demanda como soldados y mercenarios, permitiendo que los jóvenes de incluso las familias más grandes superen a sus hermanos mayores en prosperidad."
 139,,,
-140,Au Ra<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"The curved horns and beautifully patterned scales that characterize
-the Au Ra oft give rise to speculation that members of this Hyur-like
-race native to the Far Eastern continent of Othard are, in fact, the
-progeny of dragons. This, however, has long been disputed, with
-scholars citing several distinct differences in the two races as
-evidence of decidedly dissimilar roots─the first and foremost being
-the enhanced hearing and spatial recognition granted by an Au Ra's
-cranial projections (traits not attributed to draconian horns), and the
-second being the gross disproportion in body mass between Auri
-males and females (again, a trait widely unseen in dragons)."
+140,Au Ra<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los cuernos curvos y las escamas bellamente decoradas que caracterizan a los Au Ra a menudo dan lugar a especulaciones de que los miembros de esta raza parecida a los Hyur, nativa del continente oriental de Othard, son, de hecho, descendientes de dragones.
+
+Sin embargo, esto ha sido motivo de disputa durante mucho tiempo, con académicos citando varias diferencias distintivas entre las dos razas como evidencia de raíces decididamente diferentes, siendo la primera y la más importante la audición mejorada y el reconocimiento espacial otorgado por las proyecciones craneales de un
+Au Ra (rasgos no atribuidos a los cuernos draconianos), y la segunda la gran desproporción en la masa corporal entre los machos y las hembras Auri (nuevamente, un rasgo ampliamente desconocido en los dragones)."
 141,,,
-142,Raen,,"Auri creation myth tells of a Dawn Father and a
-Dusk Mother from whom all Au Ra are descended.
-The Raen believe their veins to run thick with the
-blood of the former─their brilliant white scales and
-iron wills serving as proof of this divine lineage.
+142,Raen,,"La mitología de la creación Auri cuenta la historia de un Padre del Amanecer y una Madre del Anochecer de los cuales todos los Au Ra descienden. Los Raen creen que sus venas fluyen gruesas con la sangre del primero, y sus brillantes escamas blancas y su voluntad de hierro sirven como prueba de esta linaje divino.
 
-Unlike their sister clan, the Xaela, who bloody the
-land with endless tribal conflict, the Raen have
-embraced a life of tranquility and solitude, long
-abandoning the nomadic lifestyle of their ancestors
-to settle the deep valleys of Othard's mountainous
-eastern reaches. Only on rare occasions will one
-emerge from the valley mists to seek adventure
-in realms afar."
+A diferencia de su clan hermano, los Xaela, que ensangrientan la tierra con interminables conflictos tribales, los Raen han abrazado una vida de tranquilidad y soledad, abandonando hace mucho el estilo de vida nómada de sus ancestros para establecerse en los profundos valles de las montañosas regiones orientales de Othard. Solo en raras ocasiones uno de ellos emergerá de las brumas del valle en busca de aventuras en tierras lejanas."
 143,,,
-144,Xaela,,"Auri creation myth tells of a Dawn Father and a
-Dusk Mother from whom all Au Ra are descended.
-The Xaela believe their veins to run thick with the
-blood of the latter─their lustrous black scales and
-fiery wills serving as proof of this divine lineage.
+144,Xaela,,"La mitología de la creación Auri cuenta la historia de un Padre del Amanecer y una Madre del Anochecer de los cuales todos los Au Ra descienden. Los Xaela creen que sus venas fluyen gruesas con la sangre de esta última, y sus lustrosas escamas negras y sus voluntades ardientes sirven como prueba de este linaje divino.
 
-Unlike their sister clan, the Raen, who lead solitary
-lives hidden behind the savage peaks of Othard's
-eastern reaches, the Xaela are free spirits who
-roam the vast western steppe in close-knit tribes
-hunting, gathering, and warring as their ancestors
-have for countless generations."
+A diferencia de su clan hermano, los Raen, que llevan vidas solitarias ocultas tras las salvajes cimas de las regiones orientales de Othard, los Xaela son espíritus libres que deambulan por la vasta estepa occidental en tribus unidas, cazando, recolectando y guerreando, como lo han hecho sus ancestros durante incontables generaciones."
 145,,,
 146,,,
 147,,,
@@ -353,81 +218,27 @@ have for countless generations."
 175,La Matrona,,
 176,Althyk,,
 177,El Custodio,,
-178,Gladiator,,"Gladiators specialize in the handling of all manner of one-handed
-blades, from daggers to longswords, be they single- or double-edged,
-straight or curved. A defining characteristic of the art is its emphasis
-on diverse combat tactics, training its members to bring their martial
-skills to bear in any situation. As such, there are practitioners who
-marry sword with shield, seeking to defend their fellow companions.
-Others opt for an empty off hand, choosing instead to focus entirely
-on their sword arm. In all instances, the ages-old art of the sword
-makes the gladiator a formidable adversary in any encounter."
+178,Gladiador,,"Los gladiadores se especializan en el manejo de todo tipo de cuchillas de una mano, desde dagas hasta espadas largas, ya sean de filo simple o doble, rectas o curvas. Una característica definitoria de este arte es su énfasis en diversas tácticas de combate, entrenando a sus miembros para aplicar sus habilidades marciales en cualquier situación. Como tal, hay practicantes que combinan la espada con el escudo, buscando defender a sus compañeros. Otros optan por no llevar nada en la mano secundaria, eligiendo en cambio centrarse completamente en su brazo con la espada. En todos los casos, el arte ancestral de la espada hace del gladiador un adversario formidable en cualquier encuentro."
 179,,,
-180,Pugilist,,"The path of the pugilist is one of incessant training aimed at mastering
-the traditional techniques of hand-to-hand combat. Though they
-command formidable power when unarmed, they are wont to use metal,
-leather, and bone weaponry to maximize their destructive potential.
+180,Pugilista,,"El camino del pugilista es de entrenamiento incesante destinado a dominar las técnicas tradicionales del combate cuerpo a cuerpo. Aunque tienen un poder formidable cuando están desarmados, tienen la costumbre de usar armas de metal, cuero y hueso para maximizar su potencial destructivo.
 
-Their preference for fighting at close quarters makes negotiating
-distances an absolute necessity. This is why many pugilists are quick
-to learn that lightweight gear allowing for maximum agility ensures them
-better success in battle than does cumbersome plate or chain."
+Su preferencia por luchar a corta distancia hace que negociar distancias sea una necesidad absoluta. Por eso, muchos pugilistas aprenden rápidamente que llevar equipo liviano, que permita una máxima agilidad, les asegura un mejor éxito en la batalla a diferencia de si llevaran armaduras pesadas o de cadena."
 181,,,
-182,Marauder,,"The marauder is a combat specialist whose weapon of choice is
-the greataxe－a fearsome arm emblematic of Eorzea's pirates.
-Their approach to battle is one of brute force, relying on strength
-and steel to crush enemies and sunder weapons. They are highly
-sought after for their ferocity and intimidating presence, and are
-often employed to hunt down monsters plaguing the land, or to turn
-the tide of battle between warring nations."
+182,Merodeador,,"El merodeador es un especialista en combate que prefiere el uso de armas grandes como grandes hachas, armas temibles emblemáticas de los piratas de Eorzea. Su enfoque en la batalla es el de la fuerza bruta, confiando en la fuerza y el acero para aplastar a los enemigos. Son muy solicitados por su ferocidad y presencia intimidante y, a menudo son empleados para cazar monstruos que asolan la tierra o para cambiar el curso de la batalla entre naciones en guerra."
 183,,,
-184,Lancer,,"The strategy of the lancers is to outrange and fluster opponents
-with their long, two-handed polearms, peppering them with a barrage
-of thrusting attacks. They are trained with a number of weapons,
-giving a diversity to their attacks that makes them extremely
-versatile combatants.
+184,Lancero,,"La estrategia de los lanceros es superar en alcance y desconcertar a los oponentes con sus largas lanzas de dos manos, bombardeándolos con una serie de ataques de estocada. Están entrenados con varios tipos de armas, lo que les otorga una diversidad en sus ataques que los convierte en combatientes extremadamente versátiles.
 
-In former times, the longspear saw the most widespread use,
-due in great part to the influence of the proud lancer legions of
-Ala Mhigo. Since then, the guild has greatly expanded its armories
-to include a variety of weaponry, such as the halberd and the trident."
+En tiempos antiguos, las grandes lanzas veían el uso más extendido, en gran parte debido a la influencia de las orgullosas legiones de lanceros de Ala Mhigo. Desde entonces, el gremio ha expandido considerablemente sus armerías para incluir una variedad de armas, como la alabarda y el tridente."
 185,,,
-186,Archer,,"The enduring popularity of the bow is a testament to its elegant
-design, but this simple weapon would be of little worth without the
-surpassing skill of those who master it－the archers. Projectile
-techniques such as high-angle fire enable archers to assail their
-foes with deadly precision even at great distances.
+186,Arquero,,"La perdurable popularidad del arco es un testimonio de su diseño elegante, pero esta simple arma tendría poco valor sin la habilidad excepcional de aquellos que la dominan: los arqueros. Técnicas de proyectiles como el disparo de alto ángulo permiten a los arqueros atacar a sus enemigos con una precisión letal incluso a largas distancias.
 
-Constant assessment of the battlefield enables them to carefully
-determine the most advantageous ground from which to loose,
-as well as the nature of the arrows best suited to their enemy.
-Together with the longbow sentries of the Elezen military, the
-shortbow hunters among the Miqo'te are widely regarded as
-most skilled with the bow."
+La evaluación constante del campo de batalla les permite determinar cuidadosamente el terreno más ventajoso desde el cual disparar sus flechas, así como elegir las más adecuadas para su enemigo. Junto con los centinelas de arco largo del ejército Elezen, los cazadores de arco corto, entre los Miqo'te, son ampliamente reconocidos como los más hábiles con el arco."
 187,,,
-188,Conjurer,,"Conjury calls upon elemental forces present in nature and concentrates
-them to a potency at which spells can be woven. Through practiced
-meditation on the essences of creation, conjurers draw forth and
-absorb aether from their immediate surroundings. A wand or cane
-made from unworked wood is then utilized to focus the aether until it
-manifests as the desired spell. The seat of the Conjurers' Guild lies at
-Stillglade Fane in Gridania, where the voices of Eorzea's elementals are
-said to be most powerful."
+188,Conjurador,,"Los Conjuradores convocan fuerzas elementales presentes en la naturaleza y las concentra en una potencia en la cual se pueden tejer hechizos. A través de la meditación practicada sobre las esencias de la creación, los conjuradores extraen y absorben el éter de su entorno inmediato. Luego, se utiliza una varita o bastón hecho de madera sin trabajar para focalizar el éter hasta que se manifieste como el hechizo deseado. La sede del Gremio de Conjuradores se encuentra en el Santuario de la Serenidad en Gridania, donde se dice que las voces de los elementales de Eorzea son más poderosas."
 189,,,
-190,Thaumaturge,,"In the hands of a skilled practitioner, thaumaturgy can be a force of
-terrifying destruction. At the heart of this school of magic lies the
-ability to call forth and command the latent aether within oneself
-through deep introspection. To then mold that aether into sorcery,
-the thaumaturge makes use of a scepter or staff, within which is
-housed a medium－a natural stone imbued with magical properties."
+190,Taumaturgo,,"En manos de un practicante hábil, la taumaturgia puede ser una fuerza de destrucción aterradora. En el corazón de esta escuela de magia se encuentra la capacidad de invocar y comandar el éter latente dentro de uno mismo a través de una profunda introspección. Luego, para moldear ese éter en forma de un hechizo, el taumaturgo utiliza un cetro o bastón, dentro del cual se encuentra un medio, una piedra natural imbuida de propiedades mágicas."
 191,,,
-192,Arcanist,,"Adepts of the art of arcanum derive their might from symbols of power
-born of geometric techniques hailing from across the southern seas.
-Held within occult grimoires, these symbols lend shape to the arcanist's
-aether, thereby allowing him to produce myriad powerful spells. Using
-the selfsame symbols to unlock the latent power contained within
-gemstones, arcanists are also able to summon forth the familiar known
-as Carbuncle to carry out their bidding."
+192,Arcanista,,"Los adeptos al arte del arcanismo derivan su poder de símbolos de poder nacidos de técnicas geométricas procedentes de los mares del sur. Contenidos en grimorios ocultos, estos símbolos dan forma al éter del arcanista, permitiéndole así producir una gran variedad de poderosos hechizos. Utilizando esos mismos símbolos para liberar el poder latente contenido en las gemas, los arcanistas también pueden convocar al familiar conocido como Carbuncle, el cual llevará a cabo las órdenes de este."
 193,,,
 194,Blacksmith,,不要：新生ではキャラメイクで選択できるのは戦闘職のみ。
 195,,,
@@ -435,101 +246,101 @@ as Carbuncle to carry out their bidding."
 197,,,
 198,,,
 199,,,
-200,Presets,,
-201,Height,,
-202,Skin Color,,
-203,Voice,,
-204,Muscle Tone,,
+200,Preajustes,,
+201,Altura,,
+202,Color de Piel,,
+203,Voz,,
+204,Tono Muscular,,
 205,,,
 206,,,
-207,Muscle Tone,,
+207,Tono Muscular,,
 208,,,
-209,Bust Size,,
-210,Ear Size,,
-211,Ear Shape,,
+209,Tamaño del Pecho,,
+210,Tamaño de las Orejas,,
+211,Forma de las Orejas,,
 212,,,
-213,Ear Size,,
-214,Ear Shape,,
-215,Bust Size,,
-216,Ear Size,,
-217,Ear Shape,,
+213,Tamaño de las Orejas,,
+214,Forma de las Orejas,,
+215,Tamaño del Pecho,,
+216,Tamaño de las Orejas,,
+217,Forma de las Orejas,,
 218,,,
-219,Ear Size,,
-220,Ear Shape,,
-221,Bust Size,,
-222,Tail Length,,
-223,Tail Shape,,
+219,Tamaño de las Orejas,,
+220,Forma de las Orejas,,
+221,Tamaño del Pecho,,
+222,Longitud de la Cola,,
+223,Forma de la Cola,,
 224,,,
-225,Tail Length,,
-226,Tail Shape,,
-227,Bust Size,,
-228,Muscle Tone,,
+225,Longitud de la Cola,,
+226,Forma de la Cola,,
+227,Tamaño del Pecho,,
+228,Tono Muscular,,
 229,,,
 230,,,
-231,Muscle Tone,,
+231,Tono Muscular,,
 232,,,
-233,Bust Size,,
-234,Hairstyle,,
-235,Hair Features,,
-236,Hair Color,,
-237,Highlights,,
-238,Face,,
-239,Facial Features,,
-240,Facial Feature Color,,
-241,Jaw,,
-242,Eyebrows,,
-243,Eye Shape,,
-244,Iris Size,,
-245,Eye Color,,
-246,Nose,,
-247,Mouth,,
-248,Lip Color,,
-249,Face Paint,,
-250,Face Paint Color,,
+233,Tamaño del Pecho,,
+234,Peinado,,
+235,Características del Cabello,,
+236,Color del Cabello,,
+237,Extensiones,,
+238,Cara,,
+239,Características Faciales,,
+240,Color de las Características Faciales,,
+241,Mandíbula,,
+242,Pestañas,,
+243,Forma de los Ojos,,
+244,Tamaño del Iris,,
+245,Color de los Ojos,,
+246,Nariz,,
+247,Boca,,
+248,Color de los Labios,,
+249,Pintura Facial,,
+250,Color de la Pintura Facial,,
 251,OK,,
-252,Face,,
-253,Tail Length,,
-254,Tail Shape,,
+252,Cara,,
+253,Longitud de la Cola,,
+254,Forma de la Cola,,
 255,,,
-256,Tail Length,,
-257,Tail Shape,,
-258,Bust Size,,
+256,Longitud de la Cola,,
+257,Forma de la Cola,,
+258,Tamaño del Pecho,,
 259,,,
 260,,,
 261,,,
 262,,,
 263,,,
 264,,,
-265,Short,,
-266,Short,,
-267,Average,,
-268,Tall,,
-269,Tall,,
-270,Approximately <hex:022003E80203>.<hex:022003E80303> <hex:020811E1E80401FF07>inches<hex:FF03>cm<hex:03>,,
+265,Bajo,,
+266,Bajo,,
+267,Promedio,,
+268,Alto,,
+269,Alto,,
+270,Approximadamente <hex:022003E80203>.<hex:022003E80303> <hex:020811E1E80401FF07>in    <hex:FF03>cm<hex:03>,,
 271,,,
 272,,,
 273,,,
 274,,,
-275,Type 1,,
-276,Type 2,,
-277,Type 3,,
-278,Type 4,,
-279,Type 5,,
-280,Type 6,,
-281,Type 7,,
-282,Type 8,,
-283,Type 9,,
-284,Type 10,,
-285,Type 11,,
-286,Type 12,,
+275,Tipo 1,,
+276,Tipo 2,,
+277,Tipo 3,,
+278,Tipo 4,,
+279,Tipo 5,,
+280,Tipo 6,,
+281,Tipo 7,,
+282,Tipo 8,,
+283,Tipo 9,,
+284,Tipo 10,,
+285,Tipo 11,,
+286,Tipo 12,,
 287,,,
 288,,,
 289,,,
-290,Smooth,,
-291,Smooth,,
-292,Average,,
-293,Chiseled,,
-294,Chiseled,,
+290,Suave,,
+291,Suave,,
+292,Promedio,,
+293,Esculpido,,
+294,Esculpido,,
 295,,,
 296,,,
 297,,,
@@ -540,116 +351,116 @@ as Carbuncle to carry out their bidding."
 302,,,
 303,,,
 304,,,
-305,Smooth,,
-306,Smooth,,
-307,Average,,
-308,Chiseled,,
-309,Chiseled,,
+305,Suave,,
+306,Suave,,
+307,Promedio,,
+308,Esculpido,,
+309,Esculpido,,
 310,,,
 311,,,
 312,,,
 313,,,
 314,,,
-315,Small,,
-316,Small,,
-317,Average,,
-318,Large,,
-319,Large,,
-320,Short,,
-321,Short,,
-322,Average,,
-323,Long,,
-324,Long,,
-325,Type 1,,
-326,Type 2,,
-327,Type 3,,
-328,Type 4,,
+315,Pequeño,,
+316,Pequeño,,
+317,Promedio,,
+318,Grande,,
+319,Grande,,
+320,Corta,,
+321,Corta,,
+322,Promedio,,
+323,Larga,,
+324,Larga,,
+325,Tipo 1,,
+326,Tipo 2,,
+327,Tipo 3,,
+328,Tipo 4,,
 329,,,
 330,,,
 331,,,
 332,,,
 333,,,
 334,,,
-335,Short,,
-336,Short,,
-337,Average,,
-338,Long,,
-339,Long,,
-340,Type 1,,
-341,Type 2,,
-342,Type 3,,
-343,Type 4,,
+335,Corta,,
+336,Corta,,
+337,Promedio,,
+338,Larga,,
+339,Larga,,
+340,Tipo 1,,
+341,Tipo 2,,
+342,Tipo 3,,
+343,Tipo 4,,
 344,,,
-345,Small,,
-346,Small,,
-347,Average,,
-348,Large,,
-349,Large,,
-350,Short,,
-351,Short,,
-352,Average,,
-353,Long,,
-354,Long,,
-355,Type 1,,
-356,Type 2,,
-357,Type 3,,
-358,Type 4,,
+345,Pequeño,,
+346,Pequeño,,
+347,Promedio,,
+348,Grande,,
+349,Grande,,
+350,Corta,,
+351,Corta,,
+352,Promedio,,
+353,Larga,,
+354,Larga,,
+355,Tipo 1,,
+356,Tipo 2,,
+357,Tipo 3,,
+358,Tipo 4,,
 359,,,
 360,,,
 361,,,
 362,,,
 363,,,
 364,,,
-365,Short,,
-366,Short,,
-367,Average,,
-368,Long,,
-369,Long,,
-370,Type 1,,
-371,Type 2,,
-372,Type 3,,
-373,Type 4,,
+365,Corta,,
+366,Corta,,
+367,Promedio,,
+368,Larga,,
+369,Larga,,
+370,Tipo 1,,
+371,Tipo 2,,
+372,Tipo 3,,
+373,Tipo 4,,
 374,,,
-375,Small,,
-376,Small,,
-377,Average,,
-378,Large,,
-379,Large,,
-380,Short,,
-381,Short,,
-382,Average,,
-383,Long,,
-384,Long,,
-385,Type 1,,
-386,Type 2,,
-387,Type 3,,
-388,Type 4,,
+375,Pequeño,,
+376,Pequeño,,
+377,Promedio,,
+378,Grande,,
+379,Grande,,
+380,Corta,,
+381,Corta,,
+382,Promedio,,
+383,Larga,,
+384,Larga,,
+385,Tipo 1,,
+386,Tipo 2,,
+387,Tipo 3,,
+388,Tipo 4,,
 389,,,
 390,,,
 391,,,
 392,,,
 393,,,
 394,,,
-395,Short,,
-396,Short,,
-397,Average,,
-398,Long,,
-399,Long,,
-400,Type 1,,
-401,Type 2,,
-402,Type 3,,
-403,Type 4,,
+395,Corta,,
+396,Corta,,
+397,Promedio,,
+398,Larga,,
+399,Larga,,
+400,Tipo 1,,
+401,Tipo 2,,
+402,Tipo 3,,
+403,Tipo 4,,
 404,,,
-405,Small,,
-406,Small,,
-407,Average,,
-408,Large,,
-409,Large,,
-410,Smooth,,
-411,Smooth,,
-412,Average,,
-413,Chiseled,,
-414,Chiseled,,
+405,Pequeño,,
+406,Pequeño,,
+407,Promedio,,
+408,Grande,,
+409,Grande,,
+410,Suave,,
+411,Suave,,
+412,Promedio,,
+413,Esculpido,,
+414,Esculpido,,
 415,,,
 416,,,
 417,,,
@@ -660,29 +471,29 @@ as Carbuncle to carry out their bidding."
 422,,,
 423,,,
 424,,,
-425,Smooth,,
-426,Smooth,,
-427,Average,,
-428,Chiseled,,
-429,Chiseled,,
+425,Suave,,
+426,Suave,,
+427,Promedio,,
+428,Esculpido,,
+429,Esculpido,,
 430,,,
 431,,,
 432,,,
 433,,,
 434,,,
-435,Small,,
-436,Small,,
-437,Average,,
-438,Large,,
-439,Large,,
+435,Pequeño,,
+436,Pequeño,,
+437,Promedio,,
+438,Grande,,
+439,Grande,,
 440,,,
 441,,,
 442,,,
 443,,,
 444,,,
-445,Disciples of War,,
+445,Adeptos de la Guerra,,
 446,,,
-447,Disciples of Magic,,
+447,Adeptos de la Magia,,
 448,,,
 449,,,
 450,,,
@@ -693,73 +504,33 @@ as Carbuncle to carry out their bidding."
 455,,,
 456,,,
 457,,,
-458,Hrothgar<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Hailing from the distant shores of Ilsabard, the Hrothgar are a burly
-people of lionlike appearance—or the males are, at least. Females
-number staggeringly few among their population, and thus are
-rarely so much as glimpsed by the other races.
+458,Hrothgar<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Los Hrothgar, provenientes de las lejanas costas de Ilsabard, son una gente fornida de apariencia leonina, al menos los machos. Las hembras son escasas en su población y, por lo tanto, rara vez son vislumbradas por otras razas.
 
-The Hrothgar's imposing countenance─mitigated not at all by their
-sharp claws and still sharper fangs—incited panic amongst
-Eorzeans upon their arrival. As they were also unable to
-communicate, initial interactions with the commonfolk often
-escalated into conflict. It was not until the Hrothgar gained mastery
-of the common tongue that fears were allayed, and in time they
-would be as neighbors, welcome in all corners of the realm."
+La imponente presencia de los Hrothgar, sin mitigar en absoluto por sus afiladas garras y colmillos, provocó pánico entre los Eorzeanos a su llegada. Dado que tampoco podían comunicarse, las interacciones iniciales con la gente común a menudo escalaban hacia el conflicto. No fue hasta que los Hrothgar dominaron la lengua común que se disiparon los temores y, con el tiempo, se convirtieron en vecinos bienvenidos en todos los rincones del reino."
 459,,,
-460,Viera<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"Of tall stature and slender frame, the Viera's physical appearance is
-strikingly similar to that of the Hyur and Elezen, save for their
-distinctive long ears. Adhering to a strict code known as the Green
-Word, they are prohibited from contact with the outside world under
-threat of exile. Their society is purely matriarchal, and males of age
-are seldom, if ever, found within the bounds of any village. They
-instead serve as protectors of the wood from the shadows, that no
-evil may ever encroach on their sacred lands."
+460,Viera<hex:02090FE802FF04> ©<hex:FF04> ®<hex:FF01><hex:03>,,"De estatura alta y complexión delgada, la apariencia física de los Viera es sorprendentemente similar a la de los Hyur y Elezen, salvo por sus distintivas orejas largas. Siguiendo un estricto código conocido como la Palabra Verde, se les prohíbe el contacto con el mundo exterior bajo amenaza de exilio. Su sociedad es puramente matriarcal y los hombres en edad adulta rara vez, si es que alguna vez, se encuentran dentro de los límites de cualquier aldea. En cambio, sirven como protectores del bosque desde las sombras, para que ningún mal pueda invadir sus tierras sagradas."
 461,,,
-462,Helions,,"Helions have traditionally been content to reside in southern Ilsabard
-with their respective tribes, devout servants to their queens,
-one and all—and thus have they only but recently begun to make
-their presence felt throughout the remainder of the three continents.
-Though these Hrothgar initially had no word to describe themselves,
-scholars came to call them ""Helions"" after observing how their lives
-all but revolved about their queen's needs, as planets circle the sun."
+462,Helions,,"Históricamente, los Helions han estado contentos de residir en el sur de Ilsabard con sus tribus respectivas, siendo devotos sirvientes de sus reinas, todos y cada uno de ellos, y es solo recientemente que han comenzado a hacer sentir su presencia en el resto de los tres continentes. Aunque estos Hrothgar inicialmente no tenían una palabra para describirse a sí mismos, los estudiosos llegaron a llamarlos Helions después de observar cómo sus vidas giraban en torno a las necesidades de su reina, similar a como los planetas orbitan alrededor del sol."
 463,,,
-464,The Lost,,"Unlike their Helion brethren, the Lost are unbound by the whims of any
-reigning monarch, having long since found themselves bereft of the
-warm radiance of their queen. Most find that a nomadic lifestyle
-best suits their situation, and are known to ply a variety of trades
-that align with their propensity to travel—seasonal laborer,
-mercenary, and peddler among them."
+464,Los Perdidos,,"A diferencia de sus hermanos Helion, los Perdidos no están atados a los caprichos de ningún monarca reinante, ya que hace mucho tiempo se encontraron privados de la cálida radiancia de su reina. La mayoría descubre que un estilo de vida nómada se adapta mejor a su situación y se les conoce por dedicarse a una variedad de oficios que concuerdan con su propensión a viajar, como trabajador estacional, mercenario y vendedor, entre otros."
 465,,,
-466,Rava,,"Viera of the Rava clan live primarily in the Golmore Jungle, their
-umber skin allowing them to readily blend in with their surroundings.
-Though the males stand as wards of the forest, the females are
-adept hunters and protectors in their own right, fiercely guarding their homes and
-their young. Despite attempts by the Dalmascans to subjugate
-them, they have ever maintained a self-governing dominion. Though
-most would adhere to the traditions of the wood, some few have
-chosen to venture out into the world."
+466,Rava,,"Los Viera del clan Rava viven principalmente en la Selva de Golmore, con su piel de tono umbrío que les permite fusionarse fácilmente con su entorno. Aunque los hombres sirven como guardianes del bosque, las mujeres son hábiles cazadoras y protectoras por derecho propio, defendiendo ferozmente sus hogares y a sus crías. A pesar de los intentos de los dalmascanos de subyugarlas, han mantenido un dominio autogobernado. Aunque la mayoría sigue las tradiciones del bosque, algunos han optado por aventurarse en el mundo exterior."
 467,,,
-468,Veena,,"With skin as fair as the snowcapped mountains towering above, the
-Veena clan make their homes in the forests lining the southwestern
-foothills of the Skatay Range. Like the members of their sister clan,
-the Veena live as hunters and gatherers, laboring not only to protect
-the woods, but to nurture them. As the winds of war swept up a
-number of those who left their mountain homes, many such
-hardened hunters chose to set out for the distant shores of Eorzea."
+468,Veena,,"Con una piel tan clara como las montañas nevadas, que se alzan sobre ellos, el clan Veena hace sus hogares en los bosques que bordean las colinas del suroeste de la cordillera Skatay. Al igual que los miembros de su clan hermano, los Veena viven como cazadores y recolectores, trabajando no solo para proteger los bosques, sino también para nutrirlos. A medida que los vientos de la guerra arrastraron a algunos de ellos a abandonar sus hogares en las montañas, muchos de estos cazadores optaron por embarcarse hacia las lejanas costas de Eorzea."
 469,,,
 470,,,
-471,"Halone, mover of glaciers and goddess of war, is the<hex:02100103>guardian deity of Ishgard. She commands the element of<hex:02100103>ice and is associated with the first moon of the Eorzean<hex:02100103>calendar. Halone is the daughter of Rhalgr, and a bitter<hex:02100103>rival of Nophica. She is most often depicted as a<hex:02100103>relentless warrioress armed with a bronze greatshield.<hex:02100103>Her symbol is the three spears.",,
-472,"Menphina is keeper of the moon and the goddess of love.<hex:02100103>She commands the element of ice and is associated with<hex:02100103>the second moon of the Eorzean calendar. Menphina is the<hex:02100103>sister of Azeyma, and the divine lover of Oschon. She is<hex:02100103>most often depicted as a maid carrying a round skillet.<hex:02100103>Her symbol is the full moon.",,
-473,"Thaliak, ruler of rivers and wisdom, and god of knowledge,<hex:02100103>is the guardian deity of Sharlayan. He commands the<hex:02100103>element of water and is associated with the third moon<hex:02100103>of the Eorzean calendar. Thaliak is the father of Llymlaen,<hex:02100103>and the teacher of Byregot. He is most often depicted as a<hex:02100103>reserved scholar holding an ashen staff. His symbol is the scroll.",,
-474,"Nymeia is the watcher of celestial bodies and goddess<hex:02100103>of fate. She commands the element of water and is<hex:02100103>associated with the fourth moon of the Eorzean calendar.<hex:02100103>Nymeia is the younger sister of Althyk, and master of<hex:02100103>Rhalgr. She is most often depicted as a weaver donning<hex:02100103>a white silken veil. Her symbol is the spinning wheel.",,
-475,"Llymlaen, watcher of the seas and goddess of navigation,<hex:02100103>is the guardian deity of Limsa Lominsa. She commands<hex:02100103>the element of wind and is associated with the fifth<hex:02100103>moon of the Eorzean calendar. Llymlaen is the daughter<hex:02100103>of Thaliak, and the elder sister of Nophica. She is most<hex:02100103>often depicted as a strong fisherwoman wielding a<hex:02100103>long-bladed harpoon. Her symbol is the wave.",,
-476,"Oschon is ruler of the mountains and god of travelers<hex:02100103>and vagrants. He commands the element of wind and is<hex:02100103>associated with the sixth moon of the Eorzean calendar.<hex:02100103>Oschon is the brother of Nald'thal, and the close<hex:02100103>companion of Halone. He is most often depicted as a<hex:02100103>carefree ranger wielding a bow of yew. His symbol is<hex:02100103>the walking stick.",,
-477,"Byregot is the purveyor of architecture and industry,<hex:02100103>and god of the arts. He commands the element of<hex:02100103>lightning and is associated with the seventh moon of<hex:02100103>the Eorzean calendar. Byregot is the elder brother of<hex:02100103>Halone, and pupil of Thaliak. He is most often depicted<hex:02100103>as an ardent smith with a two-headed hammer.<hex:02100103>His symbol is the hand.",,
-478,"Rhalgr, breaker of worlds, is the god of destruction<hex:02100103>and guardian deity of the now-fallen nation of Ala Mhigo.<hex:02100103>He commands the element of lightning and is associated<hex:02100103>with the eighth moon of the Eorzean calendar. Rhalgr is<hex:02100103>the father of both Byregot and Halone, and serves as<hex:02100103>attendant to Nymeia. He is most often depicted as a<hex:02100103>magus carrying a staff of bronze. His symbol is the<hex:02100103>streaking meteor.",,
-479,"Azeyma is keeper of the sun and goddess of inquiry.<hex:02100103>She commands the element of fire and is associated<hex:02100103>with the ninth moon of the Eorzean calendar. Azeyma<hex:02100103>is the daughter of Althyk, and the elder sister of<hex:02100103>Menphina. She is most often depicted as a noble lady<hex:02100103>holding a golden fan. Her symbol is the radiant sun.",,
-480,"Nald'thal, overseer of the underworld and god of<hex:02100103>commerce, is the guardian deity of Ul'dah. He<hex:02100103>commands the element of fire and is associated<hex:02100103>with the tenth moon of the Eorzean calendar.<hex:02100103>Nald'thal is the single manifestation of the deific<hex:02100103>twins Nald and Thal. He is most often depicted<hex:02100103>as a discerning merchant holding a balance.<hex:02100103>His symbol is the cowry, an ancient shell currency.",,
-481,"Nophica, tender of soils and harvests, and goddess<hex:02100103>of abundance, is the guardian deity of Gridania.<hex:02100103>She commands the element of earth and is<hex:02100103>associated with the eleventh moon of the Eorzean<hex:02100103>calendar. Nophica is the daughter of Azeyma, and<hex:02100103>the younger sister of Llymlaen. She is most often<hex:02100103>depicted as a jubilant farmer holding a scythe of<hex:02100103>steel. Her symbol is the spring leaf.",,
-482,"Althyk is the surveyor of change and space,<hex:02100103>and god of time. He commands the element of<hex:02100103>earth and is associated with the twelfth moon of<hex:02100103>the Eorzean calendar. Althyk is the father of<hex:02100103>Azeyma and Menphina, and elder brother to<hex:02100103>Nymeia. He is most often depicted as an<hex:02100103>austere emperor wielding a mythril greataxe.<hex:02100103>His symbol is the hourglass.",,
+471,"Halone, la movilizadora de glaciares y diosa de la guerra, es la deidad guardiana de Ishgard. Ella comanda el elemento de hielo y está asociada con la primera luna del calendario de Eorzea. Halone es la hija de Rhalgr y una amarga rival de Nophica. A menudo se la representa como una guerrera implacable armada con un gran escudo de bronce. Su símbolo son las tres lanzas.",,
+472,"Menphina es la guardiana de la luna y la diosa del amor. Ella comanda el elemento del hielo y está asociada con la segunda luna del calendario de Eorzea. Menphina es la hermana de Azeyma y la amante divina de Oschon. A menudo se la representa como una doncella que lleva una sartén redonda. Su símbolo es la luna llena.",,
+473,"Thaliak, gobernante de los ríos y la sabiduría, y dios del conocimiento, es la deidad guardiana de Sharlayan. Él comanda el elemento del agua y está asociado con la tercera luna del calendario de Eorzea. Thaliak es el padre de Llymlaen y el maestro de Byregot. A menudo se le representa como un erudito reservado que sostiene un bastón ceniciento. Su símbolo es el pergamino.",,
+474,"Nymeia es la observadora de cuerpos celestiales y diosa del destino. Ella comanda el elemento del agua y está asociada con la cuarta luna del calendario de Eorzea. Nymeia es la hermana menor de Althyk y la maestra de Rhalgr. A menudo se la representa como una tejedora que lleva un velo de seda blanca. Su símbolo es la rueca.",,
+475,"Llymlaen, observadora de los mares y diosa de la navegación, es la deidad guardiana de Limsa Lominsa. Ella comanda el elemento del viento y está asociada con la quinta luna del calendario de Eorzea. Llymlaen es la hija de Thaliak y la hermana mayor de Nophica. A menudo se la representa como una fuerte pescadora que empuña un arpón de hoja larga. Su símbolo es la ola.",,
+476,"Oschon es el gobernante de las montañas y dios de los viajeros y vagabundos. Comanda el elemento del viento y está asociado con la sexta luna del calendario de Eorzea. Oschon es el hermano de Nald'thal y compañero cercano de Halone. A menudo se le representa como un despreocupado guardabosques que empuña un arco de tejo. Su símbolo es el bastón de caminar.",,
+477,"Byregot es el proveedor de la arquitectura y la industria, así como el dios de las artes. Comanda el elemento del rayo y está asociado con la séptima luna del calendario de Eorzea. Byregot es el hermano mayor de Halone y discípulo de Thaliak. A menudo se le representa como un ardiente herrero con un martillo de dos cabezas. Su símbolo es la mano.",,
+478,"Rhalgr, el destructor de mundos, es el dios de la destrucción y la deidad guardiana de la ahora caída nación de Ala Mhigo. Comanda el elemento del rayo y está asociado con la octava luna del calendario de Eorzea. Rhalgr es el padre tanto de Byregot como de Halone, y sirve como asistente de Nymeia. A menudo se le representa como un mago que lleva un bastón de bronce. Su símbolo es el meteoro que se desplaza.",,
+479,"Azeyma es la guardiana del sol y diosa de la indagación. Comanda el elemento del fuego y está asociada con la novena luna del calendario de Eorzea. Azeyma es la hija de Althyk y la hermana mayor de Menphina. A menudo se la representa como una dama noble que sostiene un abanico dorado. Su símbolo es el sol radiante.",,
+480,"Nald'thal, supervisor del inframundo y dios del comercio, es el dios guardián de Ul'dah. Comanda el elemento del fuego y está asociado con la décima luna del calendario de Eorzea. Nald'thal es la única manifestación de los dioses gemelos Nald y Thal. A menudo se le representa como un comerciante perspicaz que sostiene una balanza. Su símbolo es el caurí, una antigua moneda de concha.",,
+481,"Nophica, cuidadora de los suelos y las cosechas, y diosa de la abundancia, es la diosa guardiana de Gridania. Comanda el elemento de la tierra y está asociada con la undécima luna del calendario de Eorzea. Nophica es la hija de Azeyma y la hermana menor de Llymlaen. A menudo se la representa como una granjera jubilosa que sostiene una guadaña de acero. Su símbolo es la hoja de primavera.",,
+482,"Althyk es el observador del cambio y el espacio, y dios del tiempo. Comanda el elemento de la tierra y está asociado con la duodécima luna del calendario de Eorzea. Althyk es el padre de Azeyma y Menphina, y hermano mayor de Nymeia. A menudo se le representa como un emperador austero que empuña un gran hacha de mitrilo. Su símbolo es el reloj de arena.",,
 483,,,
 484,,,
 485,,,
@@ -777,20 +548,20 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 497,,,
 498,,,
 499,,,
-500,Character Creation,,
+500,"Creación de Personaje",,
 501,,,
 502,Viper,,
 503,,,
-504,Gear,,
-505,Create Character,,
-506,Confirm,,
-507,Return,,
+504,Equipamiento,,
+505,Crear Personaje,,
+506,Confirmar,,
+507,Volver,,
 508,,,
 509,,,
-510,Pre-made (Midlander ♂),,
-511,Save Slot <hex:022003E80203>: <hex:020929E804FF12><hex:02280BFF06>Tribe<hex:E8030103>♂<hex:FF12><hex:02280BFF06>Tribe<hex:E8030203>♀<hex:03>,,
-512,This character was designed specially for the benchmark and his gear cannot be changed.,,
-513,There are no comments.,,
+510,Pre-Establecido (Midlander ♂),,
+511,"Ranura de Guardado <hex:022003E80203>: <hex:020929E804FF12><hex:02280BFF06>Tribu<hex:E8030103>♂<hex:FF12><hex:02280BFF06>Tribu<hex:E8030203>♀<hex:03>",,
+512,"Este personaje ha sido diseñado especificamente para realizar un Test de Rendimiento (Benchmark) y su equipamiento no puede ser cambiado.",,
+513,No hay comentarios.,,
 514,,,
 515,,,
 516,,,
@@ -808,45 +579,45 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 528,,,
 529,,,
 530,,,
-531,Gladiator (Ul'dah),,
-532,Pugilist (Ul'dah),,
-533,Marauder (Limsa Lominsa),,
-534,Lancer (Gridania),,
-535,Archer (Gridania),,
-536,Conjurer (Gridania),,
-537,Thaumaturge (Ul'dah),,
-538,Arcanist (Limsa Lominsa),,
+531,Gladiador (Ul'dah),,
+532,Pugilista (Ul'dah),,
+533,Merodeador (Limsa Lominsa),,
+534,Lancero (Gridania),,
+535,Arquero (Gridania),,
+536,Conjurador (Gridania),,
+537,Taumaturgo (Ul'dah),,
+538,Arcanista (Limsa Lominsa),,
 539,,,
-540,Short,,
-541,Short,,
-542,Average,,
-543,Long,,
-544,Long,,
-545,Type 1,,
-546,Type 2,,
-547,Type 3,,
-548,Type 4,,
+540,Corta,,
+541,Corta,,
+542,Promedio,,
+543,Larga,,
+544,Larga,,
+545,Tipo 1,,
+546,Tipo 2,,
+547,Tipo 3,,
+548,Tipo 4,,
 549,,,
 550,,,
 551,,,
 552,,,
 553,,,
 554,,,
-555,Short,,
-556,Short,,
-557,Average,,
-558,Long,,
-559,Long,,
-560,Type 1,,
-561,Type 2,,
-562,Type 3,,
-563,Type 4,,
+555,Corta,,
+556,Corta,,
+557,Promedio,,
+558,Larga,,
+559,Larga,,
+560,Tipo 1,,
+561,Tipo 2,,
+562,Tipo 3,,
+563,Tipo 4,,
 564,,,
-565,Small,,
-566,Small,,
-567,Average,,
-568,Large,,
-569,Large,,
+565,Pequeño,,
+566,Pequeño,,
+567,Promedio,,
+568,Grande,,
+569,Grande,,
 570,,,
 571,,,
 572,,,
@@ -877,9 +648,9 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 597,,,
 598,,,
 599,,,
-600,<hex:021E021803> Rotate Camera <hex:021E021503> Rotate Background <hex:021E020D03>+<hex:021E021903> Zoom <hex:0212021403> Reverse Camera,LOBBY_PAD_GUIDE_CENTER_CAMERA,
+600,"<hex:021E021803> Rotar Cámara <hex:021E021503> Rotar Fondo <hex:021E020D03>+<hex:021E021903> Zoom <hex:0212021403> Invertir Cámara",LOBBY_PAD_GUIDE_CENTER_CAMERA,
 601,<hex:0212021303>,LOBBY_PAD_GUIDE_RETURN,
-602,<hex:021E021803> Rotate Camera <hex:021E021503> Rotate Background <hex:021E020D03>+<hex:021E021903> Zoom <hex:021E020D03>+<hex:021E021603> Tilt Camera <hex:0212021403> Reverse Camera,MAKE_PAD_GUIDE_CENTER_CAMERA,
+602,"<hex:021E021803> Rotar Cámara <hex:021E021503> Rotar Fondo <hex:021E020D03>+<hex:021E021903> Zoom <hex:021E020D03>+<hex:021E021603> Inclinar Cámara <hex:0212021403> Invertir Cámara",MAKE_PAD_GUIDE_CENTER_CAMERA,
 603,<hex:0212021303>,MAKE_PAD_GUIDE_RETURN,
 604,<hex:0212021103>,MAKE_PAD_GUIDE_POSE,
 605,<hex:0212021203>,MAKE_PAD_GUIDE_ATTIRE,
@@ -887,40 +658,40 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 607,<hex:021E021003>,MAKE_PAD_GUIDE_BG_R,
 608,<hex:0212020C03>,MAKE_PAD_GUIDE_TIME,
 609,<hex:0212020B03>,MAKE_PAD_GUIDE_CONFIG,
-610,<hex:021E020C03> Keyboard,,
-611,<hex:021E020B03> Subcommands,,
-612,Rotate Camera Rotate Background Zoom,,
-613,Rotate Camera Rotate Background Zoom Tilt Camera,,
+610,<hex:021E020C03> Teclado,,
+611,<hex:021E020B03> Subcomandos,,
+612,Rotar Cámara Rotar Fondo Zoom,,
+613,Rotar Cámara Rotar Fondo Zoom Inclinar Cámara,,
 614,,,
-615,Days of Play Time Remaining: <hex:022003E80203>,,
-616,Veteran Reward Rank: <hex:020813E1E80201FF07><hex:022003E80203><hex:FF05>None<hex:03>,,
-617,Total Days Subscribed: <hex:022206E802FF022C03><hex:02082CE4E80301FF01><hex:FF24><hex:02100103>Days Until Next Rank: <hex:022206E803FF022C03><hex:03>,,
-618,You have <hex:022003E80203> <hex:020810E4E80202FF04>day<hex:FF05>days<hex:03> of play time remaining. Proceed to the Mog Station (https://sqex.to/Msp) to renew.,,
-619,You have <hex:022003E80203> <hex:020810E4E80202FF04>day<hex:FF05>days<hex:03> left on your free trial. Proceed to <hex:020869E4E94C01FF33>the Square Enix Online Store (https://sqex.to/Msp)<hex:FF2F><hex:02082BE4E94F64FF14>PlayStation™Store<hex:FF10>Microsoft Store<hex:03><hex:03> to purchase the full version of FINAL FANTASY XIV and unlock all the game's features.,,
+615,"Días de Subscripción Restantes: <hex:022003E80203>",,
+616,"Rango de Recompensas de Veterano: <hex:020813E1E80201FF07><hex:022003E80203><hex:FF05>None<hex:03>",,
+617,"Días Totales de Subscripción: <hex:022206E802FF022C03><hex:02082CE4E80301FF01><hex:FF24><hex:02100103>Días hasta el próximo rango: <hex:022206E803FF022C03><hex:03>",,
+618,"Tienes <hex:022003E80203> <hex:020810E4E80202FF04>día<hex:FF05>días<hex:03> de tiempo de juego restante. Para renovar dirígete a la Mog Station (https://sqex.to/Msp).",,
+619,"Tienes <hex:022003E80203> <hex:020810E4E80202FF04>día<hex:FF05>días<hex:03> de tiempo de juego restante en tu prueba grautita. Dirígete a <hex:020869E4E94C01FF33>la tienda de Square Enix (https://sqex.to/Msp)<hex:FF2F><hex:02082BE4E94F64FF14>PlayStation™Store<hex:FF10>Microsoft Store<hex:03><hex:03> para comprar la versión completa de FINAL FANTASY XIV y desbloquear todas las funciones.",,
 620,,,
-621,Finalize your retainer's appearance?,,
-622,Cancel retainer customization.,,
-623,Cancel retainer customization?,,
+621,"¿Terminar de personalizar a tu Custodio?",,
+622,"Cancelar personalización de Custodio.",,
+623,"¿Cancelar la personalización del Custodio?",,
 624,,,
-625,Cancel character customization and discard changes?,,
-626,Finalize your character's appearance?,,
-627,Revert to your character's current appearance?,,
+625,"¿Cancelar la personalización del personaje y descartar los cambios?",,
+626,"¿Terminar de personalizar a tu personaje?",,
+627,"¿Volver al aspecto actual de tu personaje?.",,
 628,,,
-629,Log in with <hex:022903EA0203>?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Cancel and access the subcommand menu to re-edit your character.<hex:0249020103><hex:0248020103>,,
-630,"You are granted one opportunity to edit your character's race, tribe, gender, and appearance.",,
-631,"Are you certain you wish to alter your character's appearance?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Aesthetician-exclusive hairstyles or face paint patterns will be unavailable.<hex:02100103>※Depending on the race selected, certain hairstyles and helmets will be unavailable. <hex:02100103>※You may log in with this character as is.<hex:0249020103><hex:0248020103>",,
-632,"To re-edit your character's appearance, you must first log in and remove all your equipment. Return to the login screen when ready.",,
-633,"Are you satisfied with the changes?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Depending on your selected race, certain hairstyles may be unavailable. <hex:0249020103><hex:0248020103>",,
-634,Cancel appearance customization?,,
+629,"¿Conectarte con <hex:022903EA0203>?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Cancelar y acceder al menú de subcomando para re-editar la apariencia de tu personaje.<hex:0249020103><hex:0248020103>",,
+630,"Se te ha concedido la oportunidad para editar la raza, tribu, género y apariencia de tu personaje.",,
+631,"¿Estás seguro de que deseas cambiar la apariencia de tu personaje?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Los peinados y pinturas faciales exclusivos del Esteticien no estarán disponibles.<hex:02100103>※Dependiendo de la raza seleccionada, algunos peinados y cascos podrían no estar disponibles.<hex:02100103>※Puedes conectar con este personaje tal y como está.<hex:0249020103><hex:0248020103>",,
+632,"Para editar la apariencia de tu personaje, primero debes conectar y quitarte todas las piezas de equipamiento. Vuelve a la pantalla de inicio de sesión cuando lo hayas hecho.",,
+633,"¿Estás satisfecho con los cambios?<hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Dependiendo de la raza que hayas seleccionado, algunos peinados podrían no estar disponibles. <hex:0249020103><hex:0248020103>",,
+634,"¿Cancelar la personalización de apariencia?",,
 635,,,
-636, Pin Hairstyle,,
-637,<hex:021E020E03> Pin Hairstyle,,
-638,Show Only Pinned Hairstyles,,
-639,Requires <hex:02310CFF05>Item<hex:02E802020203> to unlock this hairstyle at the aesthetician.,,
-640,Requires <hex:02310CFF05>Item<hex:02E802020203> or completion of the seasonal quest “For the Winsome” to unlock this hairstyle at the aesthetician.,,
-641,Hairstyle available in preparation for the Ceremony of Eternal Bonding.,,
-642,Requires <hex:02310CFF05>Item<hex:02E802020203> or completion of the All Saints' Wake seasonal quests from “Affright and Delight” through “Yes We Cant” to unlock this face paint at the aesthetician.,,
-643,Requires <hex:02310CFF05>Item<hex:02E802020203> to unlock this face paint at the aesthetician.,,
+636, Marcar Peinado,,
+637,<hex:021E020E03> Marcar Peinado,,
+638,Mostrar solo Peinados Marcados,,
+639,"Necesitas <hex:02310CFF05>Item<hex:02E802020203> para desbloquear este peinado en el Esteticien.",,
+640,"Necesitas <hex:02310CFF05>Item<hex:02E802020203> o completar la misión estacional “Para Winsome” para desbloquear este peinado en el Esteticien.",,
+641,"Peinado disponible en la preparación para la Ceremonia de la Unión Eterna.",,
+642,"Necesitas <hex:02310CFF05>Item<hex:02E802020203> o completar la misión estacional de Todos Los Santos desde “Espanto y Deleite” hasta “Si nosotros no podemos” para desbloquear esta Pintura Facial en el Esteticien.",,
+643,"Necesitas <hex:02310CFF05>Item<hex:02E802020203> para desbloquear esta Pintura Facial en el Esteticien.",,
 644,,,
 645,,,
 646,,,
@@ -957,35 +728,35 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 677,,,
 678,,,
 679,,,
-680,Job-specific Gear (Level 90),,
-681,Race-specific Gear,,
-682,Job-specific Gear (Level 50),,
-683,Job-specific Gear (Level 60),,
-684,Job-specific Gear (Level 70),,
-685,Job-specific Gear (Level 80),,
-686,Dreadwyrm Gear,,
-687,Ironworks Gear,,
-688,Lynxliege Gear,,
-689,Alexandrian Gear,,
-690,Behemoth King Gear,,
-691,Storm Elite Gear,,
-692,Serpent Elite Gear,,
-693,Flame Elite Gear,,
-694,Omega Gear,,
-695,Genji Gear,,
-696,Hellhound Gear,,
-697,Dwarven Gear,,
-698,Edenmorn Gear,,
-699,Legacy Gear,,
-700,Wild Rose Attire,,
-701,Strife Attire,,
-702,Leonheart Attire,,
-703,Tantalus Attire,,
-704,Abes/High Summoner Attire,,
-705,Snow's/Lightning's Attire,,
-706,Sharlayan Prodigy's Suit,,
-707,Lucian Prince's Attire,,
-708,Swine Suit,,
+680,"Equipo Específico de que Clase Avanzada (Nivel 90)",,
+681,"Equipo Específico de Raza",,
+682,Equipo Específico de que Clase Avanzada (Nivel 50),,
+683,Equipo Específico de que Clase Avanzada (Nivel 60),,
+684,Equipo Específico de que Clase Avanzada (Nivel 70),,
+685,Equipo Específico de que Clase Avanzada (Nivel 80),,
+686,"Equipo de DreadWyrm",,
+687,"Equipo de Ironworks",,
+688,"Equipo de Lynxliege",,
+689,"Equipo de Alexandrian",,
+690,"Equipo del Rey Behemoth",,
+691,"Equipo de Élite de la Tormenta",,
+692,"Equipo de Élite de la Sierpe",,
+693,"Equipo de Élite de la Llama",,
+694,"Equipo de Omega",,
+695,"Equipo de Genji",,
+696,"Equipo del Perro Infernal",,
+697,"Equipo de Enano",,
+698,"Equipo de Edenmorn",,
+699,"Equipo de Legado",,
+700,"Equipo de la Rosa Salvaje",,
+701,"Atuendo de Cloud Strife",,
+702,"Atuendo de Squall Leonheart",,
+703,"Atuendo de Tantalus",,
+704,"Atuendo de los Zanarkand Abes / Alta Invocadora",,
+705,"Atuendo de Snow / Lighting",,
+706,"Traje de Prodigio de Sharlayan",,
+707,"Atuendo del Príncipe Lucian",,
+708,"Traje de Cerdo",,
 709,,,
 710,,,
 711,,,
@@ -1077,30 +848,30 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 797,,,
 798,,,
 799,,,
-800,Data Center Selection,,
+800,"Selección de Centro de Datos",,
 801,,,
-802,Data Center,,
-803,Information,,
-804,Worlds,,
+802,"Centro de Datos",,
+803,"Información",,
+804,"Mundos",,
 805,<hex:020928E802FF05>JP 1<hex:FF05>JP 2<hex:FF05>JP 3<hex:FF08>DC NA 1<hex:FF05>NA 2<hex:FF03>EU<hex:03>,,
-806,"FINAL FANTASY XIV requires connecting to one of several data centers to play. The closer your physical location to the data center, the smoother gameplay will be.<hex:02100103><hex:02100103><hex:0208F202A7E1E80201FFF20216>The center you have selected is recommended for residents of <hex:02093DE802FF06>Japan<hex:FF0E>North America<hex:FF07>Europe<hex:FF08>Oceania<hex:FF01><hex:FF01><hex:FF0E>North America<hex:03>. Select if you wish to create a character and play in one of the Worlds listed.<hex:02100103><hex:02088BE4E80208FF83><hex:024804F2023703><hex:024904F2023803>This data center is for cloud stress testing only. No connections can be made outside the test period.<hex:0249020103><hex:0248020103><hex:02100103><hex:FF01><hex:03><hex:02100103>Each data center contains several unique Worlds (servers). If you have already decided which World on which you are going to play, you should select the corresponding data center.<hex:FF88>First choose your region, and then select your data center. All data centers within the same region offer the same quality of gameplay.<hex:03>",,
+806,"FINAL FANTASY XIV requiere una conexión a uno de varios centros de datos para poder jugar. Seleccionar uno cercano a tu ubicación física hará que tu jugabilidad sea mas fluida.",,
 807,<hex:022903EA0203><hex:020951E803FF01><hex:FF0A> (Legacy)<hex:FF06> (NA)<hex:FF0D> (NA Legacy)<hex:FF06> (EU)<hex:FF0D> (EU Legacy)<hex:FF06> (OC)<hex:FF0D> (OC Legacy)<hex:FF01><hex:03>,,
-808,Connecting to data center.,,
-809,Acquiring character list.,,
-810,Proceed,,
-811,Cancel,,
-812,Japanese Data Centers,,
-813,North American Data Centers,,
-814,European Data Centers,,
-815,Oceanian Data Center,,
-816,NA Cloud Data Center (Beta),,
+808,Conectando al centro de datos.,,
+809,Recibiendo listado de personajes.,,
+810,Proceder,,
+811,Cancelar,,
+812,Centros de datos Japoneses,,
+813,Centros de datos Norte Americanos,,
+814,Centros de datos Europeos,,
+815,Centros de datos de Oceania,,
+816,Centro de datos de NA Cloud (Beta),,
 817,,,
 818,,,
 819,,,
-820,"“World” is another name for the server on which your character will reside.<hex:02100103>Once you have chosen a Home World, chances to move to another will be limited,<hex:02100103>so if you have made plans to play FINAL FANTASY XIV with friends, make<hex:02100103>certain that you all select the same one.<hex:02100103><hex:02100103>Worlds are divided between nine different data centers based on the location of<hex:02100103>their servers. To ensure you encounter the fewest number of latency issues,<hex:02100103>it is recommended, but not required, that you select a data center that is<hex:02100103>closer to where you will be playing. Legacy Worlds (servers existing since the<hex:02100103>original launch) are indicated in parentheses.<hex:02100103><hex:02100103><hex:02282CFF11>WorldDCGroupType<hex:E802FF16>WORLDDCGROUPTYPE_NAME<hex:03>, this World's data center, is recommended for residents of <hex:020849E1E80401FF41><hex:02093DE804FF06>Japan<hex:FF0E>North America<hex:FF07>Europe<hex:FF08>Oceania<hex:FF01><hex:FF01><hex:FF0E>North America<hex:03><hex:FF01><hex:03>.<hex:02088BE4E80408FF83><hex:024804F2023703><hex:024904F2023803>This data center is for cloud stress testing only. No connections can be made outside the test period.<hex:02100103><hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:020882E4E80302FF7A><hex:02100103><hex:02100103><hex:0212026403><hex:024804F201FA03><hex:024904F201FB03>EXP bonuses are currently being granted to all new players<hex:02100103>created on this world.<hex:0249020103><hex:0248020103><hex:FF01><hex:03><hex:0208F20142E4E80303FFF20138><hex:02100103><hex:02100103><hex:024804F201FE03><hex:024904F201FF03>The creation of characters on this World is currently restricted. You must<hex:02100103>either wait for this restriction to be lifted, or create a character on another<hex:02100103>World. In the event you create a character on another World, you may use the<hex:02100103>World Visit system to play on this one.<hex:0249020103><hex:0248020103><hex:FF01><hex:03>",,
-821,(Skipped),,
-822,Save <hex:02092FE803FF14><hex:02280BFF06>Tribe<hex:E8020103> male<hex:FF16><hex:02280BFF06>Tribe<hex:E8020203> female<hex:03> character creation data to slot <hex:022003E80403>?,,
-823,Load character creation data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> saved to slot <hex:022003E80303> at <hex:020703E80203><hex:022002DB03>:<hex:022402DA03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>?,,
+820,"“Mundo” es otro nombre que se le da al servidor donde tu personaje residirá. Una vez que hayas seleccionado un Mundo de Origen, las oportunidades para moverse a otro serán limitadas, así que si tienes planes de jugar a FINAL FANTASY XIV con amigos aseguraros de seleccionar todos el mismo.<hex:02100103><hex:02100103>Los mundos están divididos en nueve centros de datos basados en la ubicación de los servidores. Para asegurar que no te encontrarás con problemas de latencia se recomienda, aunque no es obligaotrio, que selecciones el centro de datos mas cercano a la ubicación donde juegas. Los servidores de Legado existen desde su lanzamiento original y están marcados con paréntesis. Lo recomendable es elegir mundos marcados como recomendados donde los nuevos jugadores y personajes creados recibirán un bonus de experiencia. Algunos mundos se marcarán con el nombre en gris indicando que no aceptan la creación de nuevos personajes; Esta puede ser una medida temporal debido a un alto volumen de conexiones.",,
+821,(Saltando),,
+822,"¿Quieres guardar la apariencia en la ranura <hex:022003E80303>?",,
+823,"¿Quieres cargar la apariencia guardada en la ranura <hex:022003E80303>?",,
 824,Saved appearance data found in the FINAL FANTASY XIV folder. Select data to load and continue to the final step.,,
 825,Character creation data saved. Please wait until patch data download is complete. Finishing character creation will return you to the launcher.,,
 826,Character creation data saved. Please wait until patch data download is complete. Finishing character creation will return you to the launcher.,,
@@ -1277,8 +1048,8 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 997,,,
 998,,,
 999,,,
-1000,Tail Length,,
-1001,Tail Shape,,
+1000,Longitud de la Cola,,
+1001,Forma de la Cola,,
 1002,,,
 1003,Short,,
 1004,やや短め,,
@@ -1294,7 +1065,7 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1014,Fur Color,,
 1015,Ear Length,,
 1016,Ear Shape,,
-1017,Bust Size,,
+1017,Tamaño del Pecho,,
 1018,Short,,
 1019,やや短め,,
 1020,標準,,
@@ -2017,8 +1788,8 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1737,,,
 1738,,,
 1739,,,
-1740,Facial Features,,
-1741,Facial Features,,
+1740,Características Faciales,,
+1741,Características Faciales,,
 1742,Tattoos,,
 1743,Ear Clasps,,
 1744,Tattoo Color,,
@@ -2028,8 +1799,8 @@ hardened hunters chose to set out for the distant shores of Eorzea."
 1748,Limbal Ring Color,,
 1749,Tattoos,,
 1750,Tattoo Color,,
-1751,Facial Features,,
-1752,Eye Color,,
+1751,Características Faciales,,
+1752,Color de los Ojos,,
 1753,Fang Length,,
 1754,,,
 1755,Tattoos,,
@@ -2425,12 +2196,12 @@ His two aspects lie in the east and west of the city."
 2121,Current,,
 2122,Dark,,
 2123,Light,,
-2124,Eye Color,,
+2124,Color de los Ojos,,
 2125,Odd Eyes,,
 2126,Randomize Appearance,,
 2127,None,,
-2128,Hair Color,,
-2129,Highlights,,
+2128,Color del Cabello,,
+2129,Extensiones,,
 2130,Ping Status,,
 2131,Group JP,,
 2132,Group NA/EU,,
@@ -2461,16 +2232,16 @@ His two aspects lie in the east and west of the city."
 2157,,,
 2158,,,
 2159,,,
-2160,Save <hex:02092FE803FF14><hex:02280BFF06>Tribe<hex:E8020103> male<hex:FF16><hex:02280BFF06>Tribe<hex:E8020203> female<hex:03> appearance data to slot <hex:022003E80403>?,,
+2160,"Guardar" <hex:02092FE803FF14><hex:02280BFF06>Tribu<hex:E8020103>♂<hex:FF16><hex:02280BFF06>Tribu<hex:E8020203>♀<hex:03> datos de apariencia en la ranura <hex:022003E80403>?,,
 2161,Comment,,
 2162,Yes,,
 2163,No,,
-2164,Load appearance data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> saved to slot <hex:022003E80303> at <hex:020703E80203><hex:022002DB03>:<hex:022402DA03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>?,,
+2164,"¿Quieres cargar la apariencia guardada en la ranura <hex:022003E80303>?",,
 2165,Yes,,
 2166,No,,
-2167,"Load appearance data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> <hex:022903EA0303> hailing from Version 1.0 World, <hex:022903EA0203>?",,
-2168,Load appearance data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> saved to Version 1.0 save slot <hex:022003E80303>?,,
-2169,Overwrite appearance data for the <hex:02092FE805FF14>male <hex:02280BFF06>Tribe<hex:E8040103><hex:FF16>female <hex:02280BFF06>Tribe<hex:E8040203><hex:03> saved to slot <hex:022003E80303> at <hex:020703E80203><hex:022002DB03>:<hex:022402DA03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>?,,
+2167,"¿Quieres cargar la apariencia guardada en la ranura <hex:022003E80303>?",,
+2168,"¿Quieres cargar la apariencia guardada en la ranura de la Version 1.0 <hex:022003E80303>?",,
+2169,"¿Quieres sobreescribir la apariencia guardada de la ranura <hex:022003E80303>?",,
 2170,(Version 1.0),,
 2171,(β Version),,
 2172,(Benchmark),,
