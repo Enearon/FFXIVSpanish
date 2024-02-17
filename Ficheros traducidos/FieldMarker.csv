@@ -3,12 +3,12 @@
 offset,0
 int32,str
 0,
-1,Marca de Suelo A
-2,Marca de Suelo B
-3,Marca de Suelo C
-4,Marca de Suelo D
-5,Marca de Suelo 1
-6,Marca de Suelo 2
-7,Marca de Suelo 3
-8,Marca de Suelo 4
-9,Eliminar Marcas de Suelo
+1,"Marcador de Campo A"
+2,"Marcador de Campo B"
+3,"Marcador de Campo C"
+4,"Marcador de Campo D"
+5,"Marcador de Campo 1"
+6,"Marcador de Campo 2"
+7,"Marcador de Campo 3"
+8,"Marcador de Campo 4"
+9,"Eliminar Marcadores de Campo"

@@ -1,4 +1,4 @@
-﻿key,0,1,2,27
+﻿﻿key,0,1,2,27
 #,Name,Abbreviation,,Name{English}
 offset,0,4,8,16
 int32,str,str,str,str
@@ -21,7 +21,7 @@ int32,str,str,str,str
 16,"Min<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>",MIN,採,Min<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>
 17,"Botán<hex:02080DE905FF04>ica<hex:FF04>ico<hex:03>",BTN,園,"Botán<hex:02080DE905FF04>ica<hex:FF04>ico<hex:03>"
 18,"Pescad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>",FSH,漁,Pescad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>
-19,"Palad<hex:02080DE905FF04>ina<hex:FF04>ín <hex:03>",PLD,ナ,"Palad<hex:02080DE905FF04>ina<hex:FF04>ín <hex:03>"
+19,"Palad<hex:02080DE905FF04>ina<hex:FF04>ín<hex:03>",PLD,ナ,"Palad<hex:02080DE905FF04>ina<hex:FF04>ín<hex:03>"
 20,"Monje",MNK,モ,"Monje"
 21,"Guerr<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>",WAR,戦,Guerr<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>
 22,"Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Dragón",DRG,竜,Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Dragón

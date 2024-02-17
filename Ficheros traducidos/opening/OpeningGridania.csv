@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_OPENINGGRIDANIA_BERTENNANT_000_01,"Oye! Si, tú!"
 1,TEXT_OPENINGGRIDANIA_BERTENNANT_000_02,¿Me estás escuchando? Ven aquí y me encargaré de guiarte.
 2,TEXT_OPENINGGRIDANIA_ULTA_000_03,¿A donde crees que vas? ¡El Gremio de Aventureros está <hex:021A020203>por ahí<hex:021A020103>!
-3,TEXT_OPENINGGRIDANIA_CAPUCINE_000_05,¡ALTO! Los forasteros que no se hayan registrado no pueden pasar de este punto. Si quieres permanecer en nuestra ciudad debes obedecer las normas y proceder a la "Carline Canopy" en este mismo instante.
+3,TEXT_OPENINGGRIDANIA_CAPUCINE_000_05,"¡ALTO! Los forasteros que no se hayan registrado no pueden pasar de este punto. Si quieres permanecer en nuestra ciudad debes obedecer las normas y proceder a la Carline Canopy en este mismo instante."
 4,TEXT_OPENINGGRIDANIA_ADALHARD_000_10,No eres de por aquí ¿verdad? Lo primero que deberías hacer es hablar con Mama Miounne. Está tras el mostrador del Gremio de Aventureros.
 5,TEXT_OPENINGGRIDANIA_BERTENNANT_000_15,Tras estas puertas estás sujeto a nuestras leyes. Leyes con las que sin duda no estás familiarizado.
 6,TEXT_OPENINGGRIDANIA_BERTENNANT_000_16,Escucha bien y me encargaré de guiarte.

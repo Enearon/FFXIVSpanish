@@ -1,0 +1,22 @@
+﻿key,2
+#,Name
+offset,0
+int32,str
+0,
+1,"Objetivo de Ataque 1"
+2,"Objetivo de Ataque 2"
+3,"Objetivo de Ataque 3"
+4,"Objetivo de Ataque 4"
+5,"Objetivo de Ataque 5"
+6,"Objetivo de Inmovilización 1"
+7,"Objetivo de Inmovilización 2"
+8,"Objetivo de Inmovilización 3"
+9,"Objetivo a Ignorar 1"
+10,"Objetivo a Ignorar 2"
+11,"Cuadrado"
+12,"Círculo"
+13,"Cruz"
+14,"Triángulo"
+15,"Objetivo de Ataque 6"
+16,"Objetivo de Ataque 7"
+17,"Objetivo de Ataque 8"
