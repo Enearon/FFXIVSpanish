@@ -3,22 +3,22 @@
 offset,0
 int32,str
 0,
-1,OK
-2,Cancel
-3,Yes.
-4,No.
-5,Quit
+1,"OK"
+2,"Cancelar"
+3,"Si."
+4,"No."
+5,"Salir"
 6,<hex:020983E802FF0F><hex:024804F2022503><hex:024904F2022603><hex:FF0F><hex:024804F2022703><hex:024904F2022803><hex:FF0F><hex:024804F2022903><hex:024904F2022A03><hex:FF0F><hex:024804F2022B03><hex:024904F2022C03><hex:FF0F><hex:024804F2022D03><hex:024904F2022E03><hex:FF0F><hex:024804F2022F03><hex:024904F2023003><hex:FF0F><hex:024804F2023103><hex:024904F2023203><hex:FF0F><hex:024804F2023303><hex:024904F2023403><hex:03>
-7,None
+7,"Ninguno"
 8,...
 9, 
-10,Japanese
-11,English
-12,German
-13,French
-14,Simplified Chinese
+10,"Japonés"
+11,"Inglés"
+12,"Alemán"
+13,"Francés"
+14,"Chino Simplificado"
 15,<hex:02081AE4E94F64FF0A>Online ID<hex:FF09>Gamertag<hex:03>: <hex:022903EA0203>
-16,...
+16,"..."
 17,<hex:022206E802FF022C03>
 18,<hex:022206E802FF022C03>
 19,<hex:022003E80203>/<hex:022003E80303>
@@ -37,11 +37,11 @@ int32,str
 32,<hex:020703E80203><hex:022002DA03>:<hex:022402D903>:<hex:022402D803>
 33,<hex:022003E80203>:<hex:022403E80303>
 34,<hex:020823E90CFF1E><hex:02091AE90C02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022403E90D03> <hex:020811E0E90C0DFF05>p.m.<hex:FF05>a.m.<hex:03>
-35,Lv. <hex:022003E80203>
-36,Lv. <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
+35,Nv. <hex:022003E80203>
+36,Nv. <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
 37,《<hex:022903EA0203>》
 38,<hex:022903EA0203>.<hex:022903EA0303>
-39,A few minutes ago
+39,"Hace unos minutos"
 40,<hex:022003E80203>m
 41,<hex:022003E80203>h
 42,<hex:022003E80203>d
@@ -52,349 +52,349 @@ int32,str
 47,––/––/––
 48,––:––
 49,<hex:022003E80203>s
-50,Send Tell
-51,View Search Info
-52,Edit Search Info
-53,Trade
-54,Invite to Party
-55,Promote
-56,Kick from Party
-57,Attack
-58,Examine
-59,Add to Blacklist
-60,Remove from Blacklist
-61,Send Friend Request
-62,Cancel Friend Request
-63,Respond to Friend Request
-64,Decline Friend Request
-65,Remove from Friend List
-66,View
-67,Reply
-68,Delete
-69,Remove Item
-70,Follow
-71,Hide Linkshell Log
-72,Show Linkshell Log
-73,Activate Linkshell
-74,Disband Linkshell
-75,Accept Linkshell Invite
-76,Decline Linkshell Invite
-77,Quit Linkshell
-78,Promote to Linkshell Master
-79,Promote to Linkshell Leader
-80,Demote from Linkshell Leader
-81,Kick from Linkshell
-82,Deactivate Linkshell
-83,Invite to Linkshell
-84,Step Down as Linkshell Leader
-85,Remove
-86,Split Tab
-87,Delete Tab
-88,Hand Over
-89,Unequip
-90,Use
-91,Discard
-92,Split
-93,Sell
-94,Attach
-95,Trade
-96,Equip
-97,Entrust to Retainer
-98,Retrieve from Retainer
-99,Put Up for Sale
-100,Copy
-101,Paste
-102,Cut
-103,Execute
-104,Delete
-105,Undo
-106,Redo
-107,Repair
-108,Leave party and abandon your current duty?
-109,Abandon your current duty?
-110,<hex:024804F201FC03><hex:024904F201FD03>Discard <hex:02082FE4E80302FF10><hex:02310CFF05>Item<hex:03E802020203><hex:FF18><hex:022003E80303> <hex:02310DFF05>Item<hex:04E802E8030203><hex:03>?<hex:0249020103><hex:0248020103>
-111,Return to <hex:023123FF0A>PlaceName<hex:03FF13><hex:02280FFF0A>Aetheryte<hex:E8020903><hex:030203>?
-112,Accept Raise?
-113,Accept Rebirth from <hex:022903EA0203>?
-114,Equip items in gear set <hex:022003E80303> (<hex:022903EA0203>)?
-115,Log out and return to the title screen?
-116,Log out and exit the game?
-117,Return to your home point?
-118,Return to the starting point for<hex:02100103><hex:022903EB3903>?
-119,Return to the starting point for<hex:02100103><hex:022903EB3903>? <hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※You may be unable to re-enter ongoing battles.<hex:0249020103><hex:0248020103>
-120,Join <hex:022903EA0203>'s party?
-121,Decline <hex:022903EA0203>'s party invite?
-122,Leave party?
-123,Disband party?
-124,Add <hex:022903EA0203> to your blacklist?
-125,Remove <hex:022903EA0203> from your blacklist?
-126,"Accept friend request from <hex:022903EA0203>? <hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Pending friend requests will be rendered void after a certain period of time. Responding to an expired request will remove the sender's name from your friend list, regardless of the option you choose.<hex:0249020103><hex:0248020103>"
-127,Decline friend request from <hex:022903EA0203>?
-128,Cancel friend request to <hex:022903EA0203>?
-129,Remove <hex:022903EA0203> from your friend list?
-130,Send letter to <hex:022903EA0203>?
-131,Letters can only be sent to players on your friend list. <hex:022903EA0203> is not on that list.
-132,Delete this letter?
-133,"To send this message, you must first select a recipient from your friend list."
-134,Accept linkshell invite to “<hex:022903EA0203>”?
-135,Decline linkshell invite to “<hex:022903EA0203>”?
-136,Quit “<hex:022903EA0203>”?
-137,You will not be able to restore this linkshell once it has been disbanded. Are you sure this is what you want?
-138,Yes. This is absolutely what I want.
-139,Expel <hex:022903EA0203> from your linkshell?
-140,Promote <hex:022903EA0203> to linkshell leader?
-141,Demote <hex:022903EA0203> from linkshell leader?
-142,"Promote <hex:022903EA0203> to linkshell master, transferring all rights associated with the position?"
-143,"Yes, immediately."
+50,"Enviar Susurro"
+51,"Ver Información de Búsqueda"
+52,"Editar Información de Búsqueda"
+53,"Comerciar"
+54,"Invitar al Grupo"
+55,"Promocionar a Líder de Grupo"
+56,"Expulsar del Grupo"
+57,"Atacar"
+58,"Examinar"
+59,"Bloquear Jugador"
+60,"Desbloquear Jugador"
+61,"Enviar Solicitud de Amistad"
+62,"Cancelar Solicitud de Amistad"
+63,"Responder a la Solicitud de Amistad"
+64,"Recharza Solicitud de Amistad"
+65,"Eliminar de la Lista de Amigos"
+66,"Ver"
+67,"Responder"
+68,"Eliminar"
+69,"Eliminar Objeto"
+70,"Seguir"
+71,"Ocultar Registro del Linkshell"
+72,"Mostrar Registro del Linkshell"
+73,"Activar Linkshell"
+74,"Disolver Linkshell"
+75,"Aceptar Invitación al Linkshell"
+76,"Rechazar Invitación al Linkshell"
+77,"Salir del Linkshell"
+78,"Promocionar a Maestro del Linkshell"
+79,"Promocionar a Líder del Linkshell"
+80,"Destituir como Líder del Linkshell"
+81,"Expulsar del Linkshell"
+82,"Desactivar Linkshell"
+83,"Invitar al Linkshell"
+84,"Renunciar como Líder del Linkshell"
+85,"Eliminar"
+86,"Dividir Pestaña"
+87,"Eliminar Pestaña"
+88,"Entregar"
+89,"Desequipar"
+90,"Usar"
+91,"Descartar"
+92,"Dividir"
+93,"Vender"
+94,"Adjuntar"
+95,"Comerciar"
+96,"Equipar"
+97,"Confiar al Custodio"
+98,"Recuperar del Custodio"
+99,"Poner en Venta"
+100,"Copiar"
+101,"Pegar"
+102,"Cortar"
+103,"Ejecutar"
+104,"Eliminar"
+105,"Deshacer"
+106,"Rehacer"
+107,"Reparar"
+108,"¿Dejar el grupo y abandonar tu deber actual?"
+109,"¿Abandonar tu deber actual?"
+110,"<hex:024804F201FC03><hex:024904F201FD03>¿Quieres Descartar <hex:02280AFF05>Item<hex:E8020103>×<hex:022003E80303>?<hex:0249020103><hex:0248020103>"
+111,"¿Volver al Aetheryte de <hex:02280FFF0A>PlaceName<hex:E8020103>?"
+112,"¿Aceptar Resurrección?"
+113,"¿Aceptar Resurrección de <hex:022903EA0203>?"
+114,"¿Equipar objetos del conjunto <hex:022003E80303> (<hex:022903EA0203>)?
+115,"¿Desconectar y volver a la pantalla de título?"
+116,"¿Desconectar y salir del juego?"
+117,"¿Volver al punto marcado como hogar?"
+118,"¿Volver al punto de inicio de<hex:02100103><hex:022903EB3903>?"
+119,"¿Volver al punto de inicio de<hex:02100103><hex:022903EB3903>?<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>※Es posible que no puedas volver a entrar a las batallas en curso.<hex:0249020103><hex:0248020103>"
+120,"¿Unirse al grupo de <hex:022903EA0203>?"
+121,"¿Rechazar la invitación al grupo de <hex:022903EA0203>?"
+122,"¿Dejar grupo?"
+123,"¿Disolver grupo?"
+124,"¿Quieres bloquear a <hex:022903EA0203>?"
+125,"¿Quieres desbloquear a <hex:022903EA0203>?"
+126,"¿Aceptar la solicitud de amistad de <hex:022903EA0203>? <hex:02100103><hex:024804F201FA03><hex:024904F201FB03>※Las solicitudes de amistad pendientes se considerarán nulas después de un cierto periodo de tiempo. Responder a una solicitud caducada eliminará el nombre del remitente de tu lista de amigos, independientemente de la opción que elijas.<hex:0249020103><hex:0248020103>"
+127,"¿Rechazar la solicitud de amistad de <hex:022903EA0203>?"
+128,"¿Cancelar la solicitud de amistad a <hex:022903EA0203>?"
+129,"¿Eliminar a <hex:022903EA0203> de tu lista de amigos?"
+130,"¿Enviar carta a <hex:022903EA0203>?"
+131,"Las cartas solo pueden enviarse a personajes en tu lista de amigos. <hex:022903EA0203> no está en tu lista de amigos."
+132,"¿Eliminar esta carta?"
+133,"Para enviar este mensaje, primero debes seleccionar a un destinatario de tu lista de amigos."
+134,"¿Aceptar la invitación al Linkshell “<hex:022903EA0203>?"
+135,"¿Rechazar la invitación al Linkshell “<hex:022903EA0203>”?"
+136,"¿Salir de “<hex:022903EA0203>”?
+137,"No será posible restaurar este Linkshell una vez que haya sido disuelto. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de continuar?"
+138,"Si, esto es lo que quiero."
+139,"¿Expulsar a <hex:022903EA0203> del Linkshell?"
+140,"¿Promocionar a <hex:022903EA0203> a líder del Linkshell?"
+141,"¿Destituir a <hex:022903EA0203> como líder del Linkshell?"
+142,"¿Promocionar a <hex:022903EA0203> a maestro del Linkshell, transfiriendo todos los derechos que el rango reporta?"
+143,"Si, inmediatamente."
 144,
-145,Timers
+145,"Temporizadores"
 146,<hex:022B1BFF19><hex:022815FF10>InstanceContent<hex:E8020403><hex:03>
-147,Next Leve Allowance
-148,  <hex:022003E80203>:<hex:022403E80303> Remaining  <hex:020703E80403><hex:022903EA0503><hex:02081FE4E94E04FF0C><hex:022002DC03>/<hex:022002DE03><hex:FF0C><hex:022002DE03>/<hex:022002DC03><hex:03> <hex:022002DB03>:<hex:022402DA03><hex:022903EA0603>
-149,Send friend request to <hex:022903EA0203>?
+147,"Siguiente Concesión de Leve"
+148,"  <hex:022003E80203>:<hex:022403E80303> Restantes  <hex:020703E80403><hex:022903EA0503><hex:02081FE4E94E04FF0C><hex:022002DC03>/<hex:022002DE03><hex:FF0C><hex:022002DE03>/<hex:022002DC03><hex:03> <hex:022002DB03>:<hex:022402DA03><hex:022903EA0603>"
+149,"¿Enviar solicitud de amistad a <hex:022903EA0203>?"
 150, 
-151,Are you certain you wish to use the collectable?
-152,Discard collectable.
-153,<hex:024804F201FC03><hex:024904F201FD03>Discard <hex:02310CFF05>Item<hex:03E802020203><hex:020829E1E80301FF21> (Collectability Rating: <hex:022003E80303>)<hex:FF01><hex:03>?<hex:0249020103><hex:0248020103>
-154,Lower Quality
-155,<hex:024804F201FC03><hex:024904F201FD03>Lower the quality of <hex:02082FE4E80302FF10><hex:02310CFF05>Item<hex:03E802020203><hex:FF18><hex:022003E80303> <hex:02310DFF05>Item<hex:04E802E8030203><hex:03> resulting in the following:<hex:0249020103><hex:0248020103>
-156,<hex:024804F201FC03><hex:024904F201FD03>Lower the quality of <hex:02310CFF05>Item<hex:03E802020203> (Collectability Rating: <hex:022003E80303>) resulting in the following:<hex:0249020103><hex:0248020103>
-157,Lower quality of collectable.
-158,Lower quality of item.
-159,Copy Item Name
+151,"¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres usar este coleccionable?"
+152,"Descartar coleccionable"
+153,"<hex:024804F201FC03><hex:024904F201FD03>¿Quieres Descartar <hex:02310CFF05>Item<hex:03E802020203><hex:020829E1E80301FF21> (Valor de Recolección: <hex:022003E80303>)<hex:FF01><hex:03>?<hex:0249020103><hex:0248020103>"
+154,"Reducir Calidad"
+155,"¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres reducir la calidad de <hex:02280AFF05>Item<hex:E8020103><hex:020810E1E80401FF08>x<hex:022003E80303><hex:FF01><hex:03>para transformarlo en el siguiente objeto？"
+156,"El valor de recolección de <hex:02280AFF05>Item<hex:E8020103> es de <hex:022003E80303>. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres reducir la calidad para transformarlo en el siguiente objeto?"
+157,"Reducir calidad del coleccionable"
+158,"Reducir calidad del objeto"
+159,"Copiar Nombre del Objeto"
 160,<hex:022D1EFF1C022818FF13476174686572696E67506F696E744E616D65E802010303>
-162,Record Ready Check
+162,"Ready Check de Grabación"
 163,<hex:022B03EA0203>
 164,<hex:022D03EA0203>
-165,Kick <hex:022903EA0203> from party?
-166,<hex:022903EA0203> wishes to teleport you to <hex:023123FF0A>PlaceName<hex:03FF13><hex:02280FFF0A>Aetheryte<hex:E8030903><hex:030203>.
+165,"¿Expulsar a <hex:022903EA0203> del grupo?"
+166,"<hex:022903EA0203> quiere teletransportarte al Aetheryte de <hex:02280FFF0A>PlaceName<hex:E8020103>."
 167,<hex:022D03EA0203>
-168,Accept
-169,Decline
-170,Party Invite
-171,Friend Request
-172,Linkshell Invite
-173,Promote <hex:022903EA0203> to party leader?
-174,Invite to <hex:022903EA0303>
-175,Solo
-176,Party
-177,Light Party
-178,Full Party
-179,Mounted
-180,Disciplines of War
-181,Disciplines of Magic
-182,Disciplines of the Land
-183,Disciplines of the Hand
-184,Specialized Job
+168,"Aceptar"
+169,"Rechazar"
+170,"Invitación a Grupo"
+171,"Solicitud de Amistad"
+172,"Invitación a Linkshell"
+173,"¿Promocionar a <hex:022903EA0203> como líder de grupo?
+174,"Invitar a <hex:022903EA0303>"
+175,"Solo"
+176,"Grupo"
+177,"Grupo Pequeño"
+178,"Grupo Completo"
+179,"Montado"
+180,"Disciplinas de la Guerra"
+181,"Disciplinas de la Magia"
+182,"Disciplinas de la Tierra"
+183,"Disciplinas de la Mano"
+184,"Clase Avanzadada Especializada"
 185,
-186,Teleport
-187,Select a destination.<hex:02100103>Current Gil: <hex:022206E802FF022C03>
+186,"Teletransporte"
+187,"Selecciona un destino.<hex:02100103>Gil Actual: <hex:022206E802FF022C03>"
 192,
-193,Role-play
-194,Return to the starting point for<hex:02100103><hex:022903EB3903>?
-195,Exit the game?
-196,Return to <hex:023123FF0A>PlaceName<hex:03FF13><hex:02280FFF0A>Aetheryte<hex:E8020903><hex:030203>?
-197,Return to the starting point for<hex:02100103><hex:022903EB3903>?
+193,"Rolear"
+194,"¿Volver al punto de inicio de<hex:02100103><hex:022903EB3903>?"
+195,"¿Salir del Juego?"
+196,"¿Volver al Aetheryte de <hex:02280FFF0A>PlaceName<hex:E8020103>?"
+197,"¿Volver al punto de inicio de<hex:02100103><hex:022903EB3903>?"
 198,<hex:022903EA0403><hex:02100103><hex:020817E802FF0A> <hex:022003E80303>m <hex:FF08><hex:022003E80303>s<hex:03>
-199,<hex:022903EA0203> wishes to teleport you to <hex:02095EE803FF0D>New Gridania<hex:FF13>Bentbranch Meadows<hex:FF12>the Hawthorne Hut<hex:FF0B>Quarrymill<hex:FF0E>Camp Tranquil<hex:FF0A>Fallgourd<hex:03>.
-200,<hex:02100103><hex:024804F201F403><hex:024904F201F503>Spell ready in <hex:020859E802FF21><hex:022003E80203> <hex:020816E4E80202FF07>minute<hex:FF08>minutes<hex:03><hex:FF33><hex:02082FE1E8031FFF13>less than a minute<hex:FF15>less than 30 seconds<hex:03><hex:03>.<hex:0249020103><hex:0248020103>
-201,Trade
+199,"<hex:022903EA0203> quiere teletransportarte al Aetheryte de <hex:02280FFF0A>PlaceName<hex:E8020103>."
+200,"<hex:02100103><hex:024804F201F403><hex:024904F201F503>Hechizo listo en <hex:020859E802FF21><hex:022003E80203> <hex:020816E4E80202FF07>minuto<hex:FF08>minutos<hex:03><hex:FF33><hex:02082FE1E8031FFF13>menos de un minuto<hex:FF15>menos de 30 segundos.<hex:03><hex:03>.<hex:0249020103><hex:0248020103>"
+201,"Comerciar"
 202,
-203,Trade
-204,Cancel
-205,gil
-206,Specify quantity.
-207,Distancing yourself from the target will cause the trade to be canceled.
-208,OK
-209,<hex:021E020B03> Withdraw Item
-210,Synthesis
+203,"Comerciar"
+204,"Cancelar"
+205,"gil"
+206,"Especificar cantidad."
+207,"Alejarte del objetivo hará que la transacción se cancele."
+208,"OK"
+209,"<hex:021E020B03> Retirar Objeto"
+210,"Síntesis"
 211,
-212,Quit
-213,Progress
-214,Durability
-215,Condition
-216,Quality
-217,HQ
-218,Step
+212,"Salir"
+213,"Progreso"
+214,"Durabilidad"
+215,"Condición"
+216,"Calidad"
+217,"HQ"
+218,"Paso"
 219,/
-220,Quick Synthesis
+220,"Síntesis Rápida"
 221,
-222,Quit
-223,Succeeded
-224,Failed
+222,"Salir"
+223,"Éxito"
+224,"Fracaso"
 225,/
-226,Normal
-227,Good
-228,Excellent
-229,Poor
-230,Character
+226,"Normal"
+227,"Buena"
+228,"Excelente"
+229,"Pobre"
+230,"Personaje"
 231,
-232,HP
-233,MP
-234,TP
+232,"PS"
+233,"PM"
+234,"TP"
 235,"<hex:02081AE1E802F2270FFF07>9,999+<hex:FF0A><hex:022206E802FF022C03><hex:03><hex:02082BE1E80401FF23>/ <hex:02081AE1E803F2270FFF07>9,999+<hex:FF0A><hex:022206E803FF022C03><hex:03><hex:FF01><hex:03>"
 236,<hex:020816E1E802F2270FFF06>9999+<hex:FF07><hex:022003E80203><hex:03><hex:020827E1E80401FF1F>/ <hex:020816E1E803F2270FFF06>9999+<hex:FF07><hex:022003E80303><hex:03><hex:FF01><hex:03>
 237,
 238,<hex:022D09FF07022903EA020303>
-239,Centered
-240,Sturdy
-241,Pliant
-242,Lv. ???
-243,Fire
-244,Water
-245,Lightning
-246,Wind
-247,Earth
-248,Ice
+239,"Centrado"
+240,"Resistente"
+241,"Flexible"
+242,"Nv. ???"
+243,"Fuego"
+244,"Agua"
+245,"Rayo"
+246,"Viento"
+247,"Tierra"
+248,"Hielo"
 249,
 250,
 251,
 252,
 253,
 254,
-255,Physical Properties
-256,Attack Power
-257,Defense
-258,Accuracy
-259,Evasion
-260,Mental Properties
-261,Attack Magic Potency
-262,Healing Magic Potency
-263,Magic Accuracy
-264,Enhancing Magic Potency
-265,Enfeebling Magic Potency
-266,Magic Evasion
-267,Damage
-268,Delay
-269,Defensive Properties
-270,Block Rate
-271,Block Strength
-273,Crafting
-274,Craftsmanship
-275,Control
-276,Gathering
-277,Gathering
-278,Perception
-279,Magic Defense
-280,Skip
-281,Skip cutscene?
-282,<hex:021E020B03> Delete<hex:020848E95FFF3E>  <hex:020838E4E94F64FF18><hex:021E020C03> Software Keyboard<hex:FF19><hex:021E020C03> On-screen Keyboard<hex:03><hex:FF05><hex:021D0103><hex:03>
+255,"Propiedades Físicas"
+256,"Poder de Ataque"
+257,"Defensa"
+258,"Precisión"
+259,"Evasión"
+260,"Propiedades Mentales"
+261,"Potencía del Ataque Mágico"
+262,"Potencia de la Magia de Curación"
+263,"Precisión Mágica"
+264,"Potencia de la Magia de Mejora"
+265,"Potencia de la Magia Debilitante"
+266,"Evasión Mágica"
+267,"Daño"
+268,"Retraso"
+269,"Propiedades Defensivas"
+270,"Índice de Bloqueo"
+271,"Fuerza de Bloqueo"
+273,"Artesanía"
+274,"Destreza Artesanal"
+275,"Control"
+276,"Recolección"
+277,"Recolección"
+278,"Percepción"
+279,"Defensa Mágica"
+280,"Saltar"
+281,"¿Quieres saltar la cinemática?"
+282,<hex:021E020B03> Eliminar<hex:020848E95FFF3E>  <hex:020838E4E94F64FF18><hex:021E020C03> Software Keyboard<hex:FF19><hex:021E020C03> On-screen Keyboard<hex:03><hex:FF05><hex:021D0103><hex:03>
 283,♀
 284,♂
-285,Physical Damage
-286,Auto-attack
-287,Delay
-288,Magic Damage
-289,"※In the release version, the<hex:02100103>silhouette displayed here will<hex:02100103>be replaced with a 3D model."
-290,Social
+285,"Daño Físico"
+286,"Auto-ataque"
+287,"Retraso"
+288,"Daño Mágico"
+289,"※En la versión de lanzamiento, la<hex:02100103>siluete que se ve aquí<hex:02100103>será reemplazada con un modelo 3D."
+290,"Social"
 291,
-292,Search Conditions
-293,Name
-294,Class/Job
-295,GC
-296,Location
-297,Company
-298,Lang.
-299,The list is empty.
-300,Blacklist
+292,"Condiciones de Búsqueda"
+293,"Nombre"
+294,"Clase/Clase Avanzada"
+295,"GC"
+296,"Ubicación"
+297,"Compañía"
+298,"Idioma"
+299,"La lista está vacía"
+300,"Lista de Bloqueos"
 301,
-302,Add
-303,Name
-304,The list is empty.
-305,Search Info
+302,"Añadir"
+303,"Nombre"
+304,"La lista está vacía"
+305,"Información de Búsqueda"
 306,
 307,<hex:02081DE804FF11><hex:021A020203><hex:022003E80203><hex:021A020103><hex:FF07><hex:022003E80203><hex:03>
 308, «<hex:022903EA0203>»
 309,<hex:022903EA0203> (<hex:022903EA0303>)
-310,Party
+310,"Grupo"
 311,
-312,Leave
-313,Disband
-314,Name
-315,Class/Job
-316,GC
-317,Location
-318,Company
-319,Lang.
+312,"Salir"
+313,"Disolver"
+314,"Nombre"
+315,"Clase/Clase Avanzada"
+316,"GC"
+317,"Ubicación"
+318,"Compañía"
+319,"Idioma"
 320,<hex:021D0103>
-321,There are no party members.
-322,<hex:021E020903> Change Order  <hex:021E020B03> Subcommands
-323,<hex:022003E80203>.<hex:022003E80303>
-324,<hex:021E020C03> Execute Search
-325,Search
+321,"No hay miembros del grupo"
+322,"<hex:021E020903> Cambiar Orden  <hex:021E020B03> Subcomandos"
+323,"<hex:022003E80203>.<hex:022003E80303>"
+324,"<hex:021E020C03> Ejecutar Búsqueda"
+325,"Buscar"
 326,
-327,Execute
-328,Cancel
-329,Reset
-330,First Name
-331,Last Name
-332,Name
-333,Online Status
-334,Class/Job
-335,Level
-336,Location
-337,Grand Company
-338,Language
-339,No search results.
-340,OK
-341,Cancel
-342,Search Comment
-343,Up to 200 search results displayed.
-344,"Highlighted letters indicate the languages available to the player: Japanese (J), English (E), German (D), French (F). The underlined letter indicates the current client language."
-345,Add
-346,Update
-347,Add Player to Blacklist
-348,Add Player to Friend List
-349,Move online players to top of list.
-350,Shop
+327,"Ejecutar"
+328,"Cancelar"
+329,"Resetear"
+330,"Nombre"
+331,"Apellido"
+332,"Nombre"
+333,"Estado en Línea"
+334,"Clase/Clase Avanzada"
+335,"Nivel"
+336,"Ubicación"
+337,"Gran Compañía"
+338,"Idioma"
+339,"No hay resultados de la búsqueda."
+340,"OK"
+341,"Cancelar"
+342,"Comentario de Búsqueda"
+343,"Se mostrarán hasta 200 resultados."
+344,"Las letras resaltadas indican los idiomas disponibles del jugador: Japonés (J), Inglés (E), Alemán (D), Francés (F). La letra subryada indica el idioma del cliente del jugador."
+345,"Añadir"
+346,"Actualizar"
+347,"Bloquear Jugador"
+348,"Añadir Jugador a la Lista de Amigos"
+349,"Mover a los jugadores en línea al principio de la lista."
+350,"Tienda"
 351,
-352,Current Stock
-353,Buyback
-354,Select quantity.
-355,Item
-356,Quantity
-357,Price
-358,Bag
-359,<hex:021E020B03> Subcommands  <hex:021E020903> Purchase　<hex:021E020C03> Select Item to Sell
-360,Item Request
+352,"Existencias actuales"
+353,"Recuperar"
+354,"Seleccionar cantidad."
+355,"Objeto"
+356,"Cantidad"
+357,"Precio"
+358,"Bolsa"
+359,"<hex:021E020B03> Subcomandos  <hex:021E020903> Comprar　<hex:021E020C03> Seleccionar Objeto para Vender"
+360,"Solicitud de Objeto"
 361,
-362,Hand Over
-363,Cancel
-364,<hex:020816E4E80201FF07>Enable<hex:FF08>Disable<hex:03> text auto-advance?<hex:02100103><hex:02100103>※Use <hex:020828E4E95101FF1B><hex:020817E4E94F04FF08>[space]<hex:FF08>[Space]<hex:03><hex:FF06><hex:021E020C03><hex:03> to toggle functionality.<hex:02100103><hex:0249020103><hex:0248020103><hex:02100103>The following can be used to adjust speed in unvoiced cutscenes:<hex:02100103>  <hex:0212020703> <hex:02082CE4E96B64FF06>D-pad<hex:FF1F>Left/Right Directional Buttons<hex:03><hex:02100103>　<hex:020829E4E94F04FF11>[tab][shift+tab]<hex:FF11>[Tab][Shift+Tab]<hex:03>
-365,The Buyback list contains a record of the last 10 items sold.
-366,"Once an item is removed from the list, it cannot be bought back."
-367,The list will be cleared upon changing areas.
-368,Reply in Selected Chat Mode
-369,Unknown
-370,Hide Log Window
+362,"Entregar"
+363,"Cancelar"
+364,"¿Quieres activar / desactivar la función de auto-avance?<hex:02100103><hex:02100103>※Usa <hex:020828E4E95101FF1B><hex:020817E4E94F04FF08>Espacio<hex:FF08>Espacio<hex:03><hex:FF06><hex:021E020C03><hex:03> para alternar la funcionalidad.<hex:02100103><hex:0249020103><hex:0248020103><hex:02100103>Puedes usar los botones direccionales para ajustar la velocidad en las cinemáticas sin doblaje de voz."
+365,"La lista de Recuperación contiene un registro de los 10 últimos artículos vendidos."
+366,"Una vez que un objeto es eliminado de la lista, ya no se podrá recuperar."
+367,"La lista se limpiará al cambiar de área."
+368,"Responder en el Modo de Chat Seleccionado"
+369,"Desconocido"
+370,"Ocultar Ventana de Chat"
 371,<hex:024804F201F403><hex:024904F201F503><hex:0249020103><hex:0248020103><hex:022903EA0203>
-372,Edit Macro
-373,What would you like to do?
-374,Cancel
+372,"Editar Macro"
+373,"¿Que quieres hacer?"
+374,"Cancelar"
 376,<hex:024804F2020503><hex:0248020103>
 377,<hex:024804F2020603><hex:0248020103>
 378,<hex:022003E80203>%
-379,Current Job: <hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
-380,Buyback
+379,Clase Avanzada Actual: <hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
+380,"Recuperar"
 381,
-382,The Buyback list contains a record of the last 20 items sold.
-383,"Once an item is removed from the list, it cannot be bought back."
-384,The list will be cleared upon retainer dismissal.
-385,There are no items to display.
-386,Speed　<hex:020841E4E95101FF23><hex:02081FE4E94F04FF0C>[shift+tab]<hex:FF0C>[Shift+Tab]<hex:03><hex:FF17><hex:02080EE4E96B64FF06>D-pad<hex:FF01><hex:03><hex:021E020403><hex:03>
+382,"La lista de Recuperación contiene un registro de los 20 últimos artículos vendidos."
+383,"Una vez que un objeto es eliminado de la lista, ya no se podrá recuperar."
+384,"La lista se limpiará una vez el Custodio sea retirado."
+385,"No hay objetos para mostrar."
+386,Velocidad　<hex:020841E4E95101FF23><hex:02081FE4E94F04FF0C>[shift+tab]<hex:FF0C>[Shift+Tab]<hex:03><hex:FF17><hex:02080EE4E96B64FF06>D-pad<hex:FF01><hex:03><hex:021E020403><hex:03>
 387,<hex:020835E4E95101FF17><hex:020813E4E94F04FF06>[tab]<hex:FF06>[Tab]<hex:03><hex:FF17><hex:021E020503><hex:02080EE4E96B64FF06>D-pad<hex:FF01><hex:03><hex:03>
-388,Player Team
-389,Enemy Team
-390,Need
-391,Greed
-392,Pass
-393,Unique
+388,"Equipo del Jugador"
+389,"Equipo del Enemigo"
+390,"Necesidad"
+391,"Codicia"
+392,"Pasar"
+393,"Único"
 394,s
-395,Treasure Coffer
-397,This item has materia attached. Are you certain you wish to sell it?
-398,Your spiritbond with this item is 100%. Are you certain you wish to sell it?
-399,This item is unique and untradable. Are you certain you wish to sell it?
-400,User Macros
+395,"Cofre del Tesoro"
+397,"Este objeto tiene materia fusionada. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres venderlo?"
+398,"El objeto tiene un vínculo espiritual de 100%. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres venderlo?"
+399,"Este objeto es único y no se puede intercambiar. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres venderlo?"
+400,"Macros del Usuario"
 401,
 402,Text Commands
 403,Dictionary
