@@ -87,7 +87,7 @@ int32,str
 82,
 83,
 84,PGL LNC MNK DRG SAM RPR
-85,Clases Avanzadas de los Adeptos de la Guerra o de la Magia
+85,Profesiones de los Adeptos de la Guerra o de la Magia
 86,PLD WAR DRK GNB MNK DRG NIN SAM
 87,BRD MCH DNC BLM SMN RDM WHM SCH AST
 88,GLA MRD PGL LNC ARC ROG PLD MNK WAR DRG BRD NIN MCH
@@ -112,7 +112,7 @@ int32,str
 107,PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST
 108,Adeptos de la Guerra o la Magia
 109,
-110,Clases Avanzadas de los Adeptos de la Guerra o de la Magia
+110,Profesiones de los Adeptos de la Guerra o de la Magia
 111,SAM
 112,RDM
 113,GLA MRD PLD WAR DRK GNB
@@ -132,7 +132,7 @@ int32,str
 127,MNK DRG BLM SMN NIN SAM RDM BLU RPR
 128,WHM BLM SMN SCH AST RDM BLU SGE
 129,BLU
-130,Todas las Clases y Clases Avanzadas (Excluyendo Clases Limitadas)
+130,Todas las Clases y Profesiones (Excluyendo Profesiones Limitadas)
 131,MNK DRG BRD BLM SMN NIN MCH SAM RDM DNC RPR
 132,MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE
 133,WHM SCH AST SGE
@@ -144,11 +144,11 @@ int32,str
 139,BRD MCH DNC
 140,WHM BLM SMN SCH AST RDM SGE
 141,PLD MNK WAR DRG BRD WHM BLM SMN SCH MCH DRK AST SAM RDM GNB DNC RPR SGE
-142,Cualquier Adepto de la Guerra o la Magia (Excluyendo Clases Limitadas)
-143,Adeptos de la Guerra (Excluyendo Clases Limitadas)
-144,Adeptos de la Magia (Excluyendo Clases Limitadas)
+142,Cualquier Adepto de la Guerra o la Magia (Excluyendo Profesiones Limitadas)
+143,Adeptos de la Guerra (Excluyendo Profesiones Limitadas)
+144,Adeptos de la Magia (Excluyendo Profesiones Limitadas)
 145,PLD MNK WAR DRG BRD NIN MCH DRK SAM GNB DNC RPR
-146,Cualquier Clase Avanzada (Excluyendo Clases Limitadas)
+146,Cualquier Profesión (Excluyendo Profesiones Limitadas)
 147,BLM SMN RDM
 148,MNK DRG NIN SAM RPR
 149,GNB
@@ -158,10 +158,10 @@ int32,str
 153,"ALC, CUL"
 154,"MIN, BTN"
 155,FSH
-156,Tanque (Excluyendo Clases Limitadas)
-157,Sanador (Excluyendo Clases Limitadas)
-158,DPS de daño Físico (Excluyendo Clases Limitadas)
-159,DPS de daño Mágico (Excluyendo Clases Limitadas)
+156,Tanque (Excluyendo Profesiones Limitadas)
+157,Sanador (Excluyendo Profesiones Limitadas)
+158,DPS de daño Físico (Excluyendo Profesiones Limitadas)
+159,DPS de daño Mágico (Excluyendo Profesiones Limitadas)
 160,ACN SCH
 161,GLA PGL MRD LNC ARC PLD MNK WAR DRG BRD ROG NIN MCH DRK SAM GNB DNC RPR
 162,PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC
@@ -188,13 +188,13 @@ int32,str
 183,
 184,
 185,
-186,Tanque (Excluyendo Clases Limitadas)
-187,Sanador (Excluyendo Clases Limitadas)
-188,DPS Cuerpo a Cuerpo (Excluyendo Clases Limitadas)
-189,DPS a Distancia -Daño físico- (Excluyendo Clases Limitadas)
-190,DPS a Distancia -Daño Mágico- (Excluyendo Clases Limitadas)
+186,Tanque (Excluyendo Profesiones Limitadas)
+187,Sanador (Excluyendo Profesiones Limitadas)
+188,DPS Cuerpo a Cuerpo (Excluyendo Profesiones Limitadas)
+189,DPS a Distancia -Daño físico- (Excluyendo Profesiones Limitadas)
+190,DPS a Distancia -Daño Mágico- (Excluyendo Profesiones Limitadas)
 191,PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE
-192,Cualquier Adepto de la Guerra y la Magia (Excluyendo Clases Limitadas)
+192,Cualquier Adepto de la Guerra y la Magia (Excluyendo Profesiones Limitadas)
 193,PGL LNC ARC ROG CNJ THM ACN MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE
 194,GLA MRD CNJ PLD WAR WHM SCH DRK AST GNB SGE
 195,GLA MRD PGL LNC ARC ROG THM ACN PLD MNK WAR DRG BRD BLM SMN NIN MCH DRK SAM RDM GNB DNC RPR

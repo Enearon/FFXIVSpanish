@@ -185,7 +185,7 @@ int32,str
 181,"Disciplinas de la Magia"
 182,"Disciplinas de la Tierra"
 183,"Disciplinas de la Mano"
-184,"Clase Avanzadada Especializada"
+184,"Profesión Especializada"
 185,
 186,"Teletransporte"
 187,"Selecciona un destino.<hex:02100103>Gil Actual: <hex:022206E802FF022C03>"
@@ -265,7 +265,7 @@ int32,str
 265,"Potencia de la Magia Debilitante"
 266,"Evasión Mágica"
 267,"Daño"
-268,"Retraso"
+268,"retraso en seg"
 269,"Propiedades Defensivas"
 270,"Índice de Bloqueo"
 271,"Fuerza de Bloqueo"
@@ -283,14 +283,14 @@ int32,str
 284,♂
 285,"Daño Físico"
 286,"Auto-ataque"
-287,"Retraso"
+287,"retraso en seg"
 288,"Daño Mágico"
 289,"※En la versión de lanzamiento, la<hex:02100103>siluete que se ve aquí<hex:02100103>será reemplazada con un modelo 3D."
 290,"Social"
 291,
 292,"Condiciones de Búsqueda"
 293,"Nombre"
-294,"Clase/Clase Avanzada"
+294,"Clase"
 295,"GC"
 296,"Ubicación"
 297,"Compañía"
@@ -311,7 +311,7 @@ int32,str
 312,"Salir"
 313,"Disolver"
 314,"Nombre"
-315,"Clase/Clase Avanzada"
+315,"Clase"
 316,"GC"
 317,"Ubicación"
 318,"Compañía"
@@ -330,7 +330,7 @@ int32,str
 331,"Apellido"
 332,"Nombre"
 333,"Estado en Línea"
-334,"Clase/Clase Avanzada"
+334,"Clase"
 335,"Nivel"
 336,"Ubicación"
 337,"Gran Compañía"
@@ -374,7 +374,7 @@ int32,str
 376,<hex:024804F2020503><hex:0248020103>
 377,<hex:024804F2020603><hex:0248020103>
 378,<hex:022003E80203>%
-379,Clase Avanzada Actual: <hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
+379,Profesión Actual: <hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
 380,"Recuperar"
 381,
 382,"La lista de Recuperación contiene un registro de los 20 últimos artículos vendidos."
@@ -396,271 +396,271 @@ int32,str
 399,"Este objeto es único y no se puede intercambiar. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres venderlo?"
 400,"Macros del Usuario"
 401,
-402,Text Commands
-403,Dictionary
-404,Name
-405,Macro #
-406,Icons
+402,"Comandos de Texto"
+403,"Diccionario"
+404,"Nombre"
+405,"Macro #"
+406,"Iconos"
 407,
-408,<hex:021E020B03> Subcommands  <hex:021E020C03> Text Commands
-409,CWLS [<hex:022003E80203>]: <hex:022903EA0303>
-410,Linkshells
+408,"<hex:021E020B03> Subcomandos  <hex:021E020C03> Comandos de Texto"
+409,"CWLS [<hex:022003E80203>]: <hex:022903EA0303>"
+410,"Linkshells"
 411,
-412,List
-413,Name
-414,Class/Job
-415,GC
-416,Location
-417,Company
-418,Lang.
-419,Online: <hex:022003E80203>
-420,Moogle Delivery Service
+412,"Lista"
+413,"Nombre"
+414,"Clase"
+415,"GC"
+416,"Ubicación"
+417,"Compañía"
+418,"Idioma"
+419,"En Línea: <hex:022003E80203>"
+420,"Servicio de Entrega Moogle"
 421,
-422,Unopened
-423,Opened
-424,New
-425,Select amount.
+422,"Sin Abrir"
+423,"Abierto"
+424,"Nuevo"
+425,"Selecciona cantidad."
 426,<hex:022003E80203> / <hex:022003E80303> / <hex:022003E80403>
-427,<hex:021E020B03> Subcommand  <hex:021E020C03> New Letter
-428,"You have no unopened letters, gil transfers, or packages."
-429,You have no opened letters.
-430,Take All
-431,Delete
+427,"<hex:021E020B03> Subcomando  <hex:021E020C03> Nueva Carta"
+428,"No tienes cartas sin abrir, transferencias de gil o paquetes."
+429,"No tienes cartas sin abrir."
+430,"Coger Todo"
+431,"Eliminar"
 432,
-433,Reply
-434,Recipient
-435,<hex:021E020B03> Subcommands
-436,<hex:021E020903><hex:021E020B03>Subcommands  <hex:021E020A03>Back
-437,Number of system letters. Up to 10 are saved.
-438,Number of campaign item letters. Up to 20 are saved.
-439,Number of letters with attachments from friends. Up to 20 attachments are saved.
-440,Letter Editor
+433,"Responder"
+434,"Destinatario"
+435,"<hex:021E020B03> Subcomandos"
+436,"<hex:021E020903><hex:021E020B03>Subcomandos  <hex:021E020A03>Volver"
+437,"Número de cartas del sistema. Se guardan un máximo de 10."
+438,"Número de cartas de objetos de campaña. Se guardan un máximo de 20."
+439,"Número de cartas con adjuntos de amigos. Se guardan un máximo de 20."
+440,"Editor de Cartas"
 441,
-442,Edit
-443,Send
+442,"Editar"
+443,"Enviar"
 444,
-445,Body
+445,"Cuerpo del mensaje"
 446,<hex:022E0507F2026A03>
-447,Discard the letter and return any attached items or gil to your inventory?
-448,<hex:021E020903> Target Attachment
-449,<hex:021E020B03> Prioritize in Duty List <hex:021E021903> Scroll
-450,Journal
+447,"¿Quieres descartar la carta y devolver los objetos o gil adjuntos a tu inventario?"
+448,"<hex:021E020903> Adjunto"
+449,"<hex:021E020B03> Priorizar en la Lista de Deberes <hex:021E021903> Desplazar"
+450,"Diario"
 451,
-452,Current
-453,Complete
-454,Quests
-455,Levequests
-456,Allowances
-457,Leve History
+452,"Actual"
+453,"Completadas"
+454,"Misiones"
+455,"Misiones de Apoyo"
+456,"Concesiones"
+457,"Historial de Misiones de Apoyo"
 458,/
-459,You have no pending duties.
-460,Accept
-461,Decline
-462,Objectives
-463,Reward
-464,Lv.
-465,Options
-466,History
-467,Map
-468,Retry
-469,Abandon
-470,Initiate
-471,Completion Bonus
-472,Complete
-473,Abandon “<hex:022903EA0303>”?
-474,Quests
-475,Levequests
-476,Summary
-477,You haven't completed any duties.
-478,You can reattempt a failed levequest for <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> leve allowance<hex:02080AE4E80202FF01><hex:FF02>s<hex:03>. Proceed?
-479,This quest is not yet available.
-480,History
-481,Materia
-482,0%
+459,"No tienes deberes pendientes."
+460,"Aceptar"
+461,"Rechazar"
+462,"Objetivos"
+463,"Recompensa"
+464,"Nv."
+465,"Opciones"
+466,"Historial"
+467,"Mapa"
+468,"Reintentar"
+469,"Abandonar"
+470,"Iniciar"
+471,"Bonificación por Completar"
+472,"Completo"
+473,"¿Quieres abandonar “<hex:022903EA0303>”?"
+474,"Misiones"
+475,"Misiones de Apoyo"
+476,"Sumario"
+477,"No has completado ningún deber."
+478,"Puedes reintentar las misiones de apoyo fallidas usando tus concesiones.<hex:02100103>Usar<hex:022003E80203> de tus concesiones?"
+479,"Esta misión no está disponible por el momento."
+480,"Historial"
+481,"Materia"
+482,"0%"
 483,<hex:022003E80203>%
-484,Sells for <hex:022206E802FF022C03> gil <hex:02081BE803FF01><hex:FF15>　Market Prohibited<hex:03>
-485,Perception
-486,Output
-487,Gathering
-488,Block Strength
-489,Block Rate
-490,More: Ctrl+Alt
-491,Materia
-492,Bonuses
-493,HQ
-494,Unique
-495,Untradable
-496,Binding
-497,Crafting & Repairs
-498,Condition
-499,Spiritbond
-500,Repair Level
-501,Base Item
-502,Extractable
-503,Unsellable <hex:02081BE802FF01><hex:FF15>　Market Prohibited<hex:03>
+484,"Vender por <hex:022206E802FF022C03> gil <hex:02081BE803FF01><hex:FF15>Comercio Prohibido  <hex:03>"
+485,"Percepción"
+486,"Cantidad"
+487,"Recolección"
+488,"Fuerza de Bloqueo"
+489,"Índice de Bloqueo"
+490,"Mas: Ctrl+Alt"
+491,"Materia"
+492,"Bonificaciones"
+493,"HQ"
+494,"Único"
+495,"Incomerciable"
+496,"Vinculado"
+497,"Artesanía y Reparaciones"
+498,"Condición"
+499,"Vínculo Espiritual"
+500,"Nivel de Reparación"
+501,"Objeto Base"
+502,"Extraible"
+503,"No se puede vender <hex:02081BE802FF01><hex:FF15>Comercio Prohibido  <hex:03>"
 504,<hex:02081AE804FF14><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:FF01><hex:03>(<hex:020814E802FF08>+<hex:022003E80303><hex:FF07><hex:022003E80303><hex:03>)<hex:020816E804FF10><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF01><hex:03>
 505,<hex:020857E804FF3A><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:020814E802FF08>+<hex:022003E80303><hex:FF07><hex:022003E80303><hex:03><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF18><hex:020814E802FF08>+<hex:022003E80303><hex:FF07><hex:022003E80303><hex:03><hex:03>
 506,
-507,Recommended: Lv. <hex:022003E80203>
-508,Lv. <hex:022003E80203>
-509,Delay
-510,Damage
-511,DPS
+507,"Nivel Recomendado: <hex:022003E80203>"
+508,"Nv. <hex:022003E80203>"
+509,"Retraso en seg"
+510,"Daño"
+511,"DPS"
 512,<hex:02088BE805FF54><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:02280FFF0A>BaseParam<hex:E8020203> <hex:02080AE3E80401FF01><hex:FF02>+<hex:03><hex:022003E80403><hex:020808E806FF02>%<hex:FF01><hex:03><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF32><hex:02280FFF0A>BaseParam<hex:E8020203> <hex:02080AE3E80401FF01><hex:FF02>+<hex:03><hex:022003E80403><hex:020808E806FF02>%<hex:FF01><hex:03><hex:03>
 513,<hex:020843E803FF30><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:02280AFF05>Item<hex:E8020A03><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03>
-514,<hex:022903EA0203> Lv. <hex:022003E80303>
+514,"<hex:022903EA0203> Nv. <hex:022003E80303>"
 515,<hex:02280AFF05>Item<hex:E8020A03><hex:02100103><hex:022206E803FF022C03> gil
-516,Sell
-517,Non-extractable
-518,Materials
-519,Quest: <hex:022903EA0203>
-520,Inventory
+516,"Vender"
+517,"No Extraible"
+518,"Materiales"
+519,"Misión: <hex:022903EA0203>"
+520,"Inventario"
 521,
 522,(<hex:020816E802FF0A> +<hex:022903EA0303> <hex:FF07><hex:022903EA0303><hex:03>)
 523,
-524,Crystals
-525,Difficulty
-526,Abandon
+524,"Cristales"
+525,"Dificultad"
+526,"Abandonar"
 527,<hex:02087FE805FF4E><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:02280FFF0A>BaseParam<hex:E8020203><hex:020816E803FF0A> +<hex:022003E80403> <hex:FF07><hex:022003E80403><hex:03><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF2C><hex:02280FFF0A>BaseParam<hex:E8020203><hex:020816E803FF0A> +<hex:022003E80403> <hex:FF07><hex:022003E80403><hex:03><hex:03>
-528,Inventory
+528,"Inventario"
 529,
-530,Sell
-531,Trade
-532,Retainer
-533,Remove how many from stack?
+530,"Vender"
+531,"Comerciar"
+532,"Custodio"
+533,"¿Cuantos quieres quitar de la pila?"
 534,<hex:022003E80203>/<hex:022003E80303>
 535,<hex:02280FFF0A>BaseParam<hex:E8020203> <hex:020815E803FF09>+<hex:022003E80403> <hex:FF07><hex:022003E80403><hex:03>
-536,Key Items
+536,"Objetos Clave"
 537,
-538,Equip
-539,Open Armoury Chest
-540,Sell unique/untradable item.
-541,Discard unique/untradable item.
-542,Item Level <hex:022003E80203>
-543,Description
-544,Key Items
+538,"Equipar"
+539,"Abrir Arsenal"
+540,"Vender objeto único/incomerciable."
+541,"Descartar objeto único/incomerciable."
+542,"Nivel de Objeto <hex:022003E80203>"
+543,"Descripción"
+544,"Objetos Clave"
 545,
-546,<hex:021E020B03> Subcommands
-547,<hex:021E020B03> Subcommands  <hex:021E020A03> Return
-548,Markets
-549,Letters
-550,HUD Layout
+546,<hex:021E020B03> Subcomandos
+547,<hex:021E020B03> Subcomandos  <hex:021E020A03> Volver
+548,"Mercados"
+549,"Cartas"
+550,"Diseño de la IU"
 551,
-552,Save
-553,Default All
-554,Current UI Element
-555,Show All
-556,Show
-557,Combat Transparency
-558,Target Transparency
-559,Active Transparency Level
-560,Passive Transparency Level
-561,Element Size
-562,Restore HUD layout defaults for this slot?
-563,Memories of an Era Past
-564,Arms of Eld
+552,"Guardar"
+553,"Todo por Defecto"
+554,"Elemento Actual de la IU"
+555,"Mostrar Todo"
+556,"Mostrar"
+557,"Transparencia en Combate"
+558,"Transparencia de Objetivo"
+559,"Nivel de Transparencia Activo"
+560,"Nivel de Transparencia Pasivo"
+561,"Tamaño del Elemento"
+562,"¿Restaurar a su valor por defecto el diseño de la IU en esta ranura?"
+563,"Memorias de una Era Pasada"
+564,"Armas de Eld"
 565,<hex:020835E803FF29><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:022903EA0203><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF07><hex:022903EA0203><hex:03>
 566,<hex:020835E803FF29><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:022903EA0203><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF07><hex:022903EA0203><hex:03>
-567,Arms of Eld - <hex:02094BE802FF08>Curtana<hex:FF08>Spharai<hex:FF08>Bravura<hex:FF09>Gae Bolg<hex:FF0C>Artemis Bow<hex:FF07>Thyrus<hex:FF0D>Stardust Rod<hex:03> (Step <hex:022003E80303>)
+567,"Armas de Eld - <hex:02094BE802FF08>Curtana<hex:FF08>Spharai<hex:FF08>Bravura<hex:FF09>Gae Bolg<hex:FF0C>Artemis Bow<hex:FF07>Thyrus<hex:FF0D>Stardust Rod<hex:03> (Step <hex:022003E80303>)"
 568,(Total: <hex:022206E802FF022C03><hex:020819E1E80401FF11> /  <hex:022206E803FF022C03><hex:FF01><hex:03>)
 569,"<hex:02081AE1E802F2270FFF07>9,999+<hex:FF0A><hex:022206E802FF022C03><hex:03>/<hex:022206E803FF022C03> (Total: <hex:022206E804FF022C03><hex:020819E1E80601FF11> /  <hex:022206E805FF022C03><hex:FF01><hex:03>)"
-570,Leve History
+570,"Historial de Misiones de Apoyo"
 571,
-572,Confirm
-573,Cancel
-574,Guildleves
-575,Discard housing item.
-576,Yes
-577,No
-578,???
-579,Grand Company Leves
-580,Confirm
-581,Cancel
-582,Difficulty:
-583,[Note]
-584,"Changing classes during the course of this duty, or using a class above the recommended level, may reduce the amount of experience awarded upon completion."
-585,Recommended Level +<hex:022003E80203>
-586,Unable to commence levequest. One or more party members are too far away.
-587,You do not have any more leve allowances. You will earn your next allowance in <hex:020834E802FF2E><hex:02082AE4E80202FF11><hex:022003E80203> hour and <hex:FF12><hex:022003E80203> hours and <hex:03><hex:FF01><hex:03><hex:022003E80303> <hex:020816E4E80302FF07>minute<hex:FF08>minutes<hex:03>.
-588,You cannot accept any more levequests.
+572,"Confirmar"
+573,"Cancelar"
+574,"Misiones de Apoyo"
+575,"Descartar objeto de vivienda."
+576,"Si"
+577,"No"
+578,"???"
+579,"Misiones de Apoyo de Gran Compañía"
+580,"Confirmar"
+581,"Cancelar"
+582,"Dificultad:"
+583,[Nota]
+584,"Cambiar de clase durante el transcurso de este deber o usar una clase por encima del nivel recomendado puede reducir la cantidad de experiencia otorgada al completarlo."
+585,"Nivel Recomendado +<hex:022003E80203>"
+586,"Imposible comenzar la misión de apoyo. Uno o más miembros del grupo están demasiado lejos."
+587,"No tienes más concesiones para hacer misiones de apoyo. Conseguirás una concesión en<hex:020834E802FF2E><hex:02082AE4E80202FF11><hex:022003E80203>   hora y <hex:FF12><hex:022003E80203>   horas y <hex:03><hex:FF01><hex:03><hex:022003E80303> <hex:020816E4E80302FF07>minuto<hex:FF08>minutos<hex:03>."
+588,"No puedes aceptar más misiones de apoyo."
 589,"<hex:02081AE1E802F2270FFF07>9,999+<hex:FF0A><hex:022206E802FF022C03><hex:03>/<hex:022206E803FF022C03>"
-590,Levequests
+590,"Misiones de Apoyo"
 591,
-592,Leve History
-593,Journal
-594,Battlecraft
-595,Fieldcraft
-596,Tradecraft
-597,Faction
-598,Levequests
-599,Allowances
-600,Level
+592,"Historial de Misiones de Apoyo"
+593,"Diario"
+594,"Arte de la Guerra"
+595,"Arte de la Recolección"
+596,"Arte de la Artesanía"
+597,"Facción"
+598,"Misiones de Apoyo"
+599,"Concesiones"
+600,"Nivel"
 601,/
-602,Recommended Level: <hex:022003E80203>
-603,Time Limit: <hex:022003E80203>m
-604,There are no guildleves available at this time.
-605,There are no more guildleves available at this time.
-606,The discrepancy between your current level and the levequest's recommended level is too great. Continue and you will suffer an experience point penalty.
-607,Are you certain you wish to abandon the levequest?
-608,"Your home point is not set to an aetheryte in this area. If you return to your current home point at any time during the levequest, you will automatically abandon the duty. Proceed?"
-609,Location: <hex:022903EA0203>
-610,Gathering Log
+602,"Nivel Recomendado: <hex:022003E80203>"
+603,"Tiempo Límite: <hex:022003E80203>m"
+604,"No hay misiones de apoyo disponibles en este momento."
+605,"No hay más misiones de apoyo disponibles en este momento."
+606,"La diferencia entre tú nivel actual y el nivel recomendado de la misión de apoyo es muy grande. Si decides continuar recibirás una penalización en la experiencia obtenida."
+607,"¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres abandonar la misión de apoyo?"
+608,"El punto de hogar no está establecido en el Aetheryte de este área. Si en algún momento durante la misión de apoyo decides regresar a tu punto de hogar actual, la tarea se abandonará automáticamente."
+609,"Ubicación: <hex:022903EA0203>"
+610,"Registro de Recolección"
 611,
-612,Category
-613,Level
-614,There are no items to display.
-615,<hex:021E020D03><hex:021E020E03> Select Category
+612,"Categoría"
+613,"Nivel"
+614,"No hay objetos para mostrar."
+615,"<hex:021E020D03><hex:021E020E03> Seleccionar Categoría"
 616,★
 617,???
-618,Qty.
-619,Qty.  <hex:022003E80203>/<hex:022003E80303>
-620,Logging & Harvesting
+618,"Ctd."
+619,"Ctd.  <hex:022003E80203>/<hex:022003E80303>"
+620,"Tala y Cosecha"
 621,
-622,Nothing
+622,"Nada"
 623, →
-624,Unknown
+624,"Desconocido"
 625,%
-626,Out of Reach
-627,Hidden
-628,Rare
-629,Hidden
-630,Gathering Log （<hex:022903EA0203>）
-631,Log Filters
-632,Subcommands Not Available
-633,Focus Target
-634,Away
-635,Emote
-636,Mark
-637,Dismount
-638,Stay Attack
-639,Withdraw
-640,Retrieve
-641,PvP Team
-642,Use Key Item
-643,End Synthesis
-644,Dismiss
-645,Shout
-646,Free Company
-647,Yell
-648,Alliance
-649,<hex:024804F201F803><hex:024904F201F903>Complete<hex:0249020103><hex:0248020103>
-650,Reset Striking Dummy Enmity
-651,Novice Network
-652,Tell
-653,Say
-654,Party
-655,LS #<hex:022003E80203>: <hex:022903EA0303>
-656,Log #<hex:022003E80203>
-657,Input new tab name.
-658,Delete tab?
-659,Rename Tab
-662,General
-663,Battle
-664,Name
-665,Event
-666,Tell <hex:022903EA0203>
+626,"Fuera de Alcance"
+627,"Oculto"
+628,"Raro"
+629,"Oculto"
+630,"Registro de Recolección （<hex:022903EA0203>）"
+631,"Filtros del Registro"
+632,"Subcomandos No Disponibles"
+633,"Objetivo en Foco"
+634,"Ausente"
+635,"Usar Emoción"
+636,"Marca"
+637,"Desmontar"
+638,"Mantener el Ataque"
+639,"Retirarse"
+640,"Recuperar"
+641,"Equipo JcJ"
+642,"Usar Objeto Clave"
+643,"Finalizar Síntesis"
+644,"Retirar"
+645,"Gritar"
+646,"Compañía Libre"
+647,"Chillar"
+648,"Alianza"
+649,<hex:024804F201F803><hex:024904F201F903>Completo<hex:0249020103><hex:0248020103>
+650,"Resetear Enemistad del Muñeco de Prácticas"
+651,"Red de Novatos"
+652,"Susurro"
+653,"Decir"
+654,"Grupo"
+655,"LS #<hex:022003E80203>: <hex:022903EA0303>"
+656,"Chat #<hex:022003E80203>"
+657,"Teclea el nombre de la nueva pestaña."
+658,"¿Quieres eliminar esta pestaña?"
+659,"Renombrar pestaña"
+662,"General"
+663,"Batalla"
+664,"Nombre"
+665,"Evento"
+666,"Susurrar a <hex:022903EA0203>"
 669,<hex:020825E802FF1F><hex:02091BE802FF05> <hex:FF05> <hex:FF05> <hex:FF05> <hex:03><hex:FF01><hex:03>
-670,Map
+670,"Mapa"
 671,
 672,X:
 673,Y:
@@ -668,335 +668,335 @@ int32,str
 675,> 
 676,––
 677,<hex:022903EA0303> <hex:02081BE802FF15><hex:020911E802FF06><hex:0212024C03><hex:FF06><hex:0212024B03><hex:03><hex:FF01><hex:03>
-678,Levemete
-679,<hex:021E020B03> Set to Hotbar  <hex:021E020903> Execute Action
-680,Actions & Traits
+678,"Oficina de Emisión Misiones de Apoyo"
+679,<hex:021E020B03> Poner en Barra de Acción  <hex:021E020903> Ejecutar Acción
+680,"Acciones y Rasgos"
 681,
-682,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Level <hex:022003E80203><hex:021A020103><hex:FF0D>Level <hex:022003E80203><hex:03>
-683,Actions
-684,Job
-685,Traits
-686,Gatherer Role
-687,General
-688,Additional Actions
-689,<hex:022D12FF1002280CFF07416374537472E802010303><hex:02100103><hex:020811E803FF0B>Lv. <hex:022003E80303><hex:FF01><hex:03>
-690,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>HP: <hex:022003E80403>
-691,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>MP: <hex:022003E80403>
-692,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>MP: All
-693,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>TP: <hex:022003E80403>
-694,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>TP: All
-695,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>GP: <hex:022003E80403>
-696,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>CP: <hex:022003E80403>
-697,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Lv. <hex:022003E80303> <hex:FF01><hex:03>MP: <hex:022003E80403>  TP: <hex:022003E80503>
+682,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Nivel <hex:022003E80203><hex:021A020103><hex:FF0D>Nivel <hex:022003E80203><hex:03>
+683,"Acciones"
+684,"Profesión"
+685,"Rasgos"
+686,"Rol de Recolector"
+687,"General"
+688,"Acciones Adicionales"
+689,<hex:022D12FF1002280CFF07416374537472E802010303><hex:02100103><hex:020811E803FF0B>Nv. <hex:022003E80303><hex:FF01><hex:03>
+690,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>HP: <hex:022003E80403>
+691,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>MP: <hex:022003E80403>
+692,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>MP: All
+693,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>TP: <hex:022003E80403>
+694,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>TP: All
+695,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>GP: <hex:022003E80403>
+696,<hex:022B12FF10><hex:02280CFF07>ActStr<hex:E8020103><hex:03><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>CP: <hex:022003E80403>
+697,<hex:02280CFF07>ActStr<hex:E8020103><hex:02100103><hex:020812E803FF0C>Nv. <hex:022003E80303> <hex:FF01><hex:03>MP: <hex:022003E80403>  TP: <hex:022003E80503>
 698,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
-699,Instant
-700,More: Ctrl+Alt
-701,Cast
-702,Recast
-703,Recast
-704,HP Cost
-705,MP Cost
-706,TP Cost
-707,CP Cost
-708,GP Cost
-709,Range 
-710,Radius 
-711,Acquired
-712,Affinity
+699,"Instantáneo"
+700,"Mas: Ctrl+Alt"
+701,"Lanzamiento"
+702,"Recarga"
+703,"Recarga"
+704,"Coste de PV"
+705,"Coste de PM"
+706,"Coste de PT"
+707,"Coste de PC"
+708,"Coste de PR"
+709,"Rango "
+710,"AoE "
+711,"Adquirido"
+712,"Afinidad"
 713,<hex:022003E80203>y
 714,<hex:022903EA0203>s
-715,<hex:022903EA0203> steps
-716,Lv. <hex:022003E80203>
+715,<hex:022903EA0203> pasos
+716,Nv. <hex:022003E80203>
 717, (<hex:022003E80203>)
 718,<hex:022816FF11>ClassJobCategory<hex:E8020103>
-719,Resist
+719,"Resistir"
 720, EXP
-721,Enmity
-722,Flash
-723,Miss
-724,MP
-725,TP
-726,Dodge
-727, (<hex:022003E80203>% resisted)
-728, (<hex:022003E80203>% blocked)
-729, (<hex:022003E80203>% parried)
-730, (+<hex:022003E80203>%)
-731,Invulnerable
-732,Rank
-733,Free Company
-734,City-state
+721,"Enemistad"
+722,"Destello"
+723,"Fallo"
+724,"PM"
+725,"PT"
+726,"Esquiva"
+727," (<hex:022003E80203>% resistido)"
+728," (<hex:022003E80203>% bloqueado)"
+729," (<hex:022003E80203>% parado)"
+730," (+<hex:022003E80203>%)"
+731,"Invulnerable"
+732,"Rango"
+733,"Compañía Libre"
+734,"Ciudad Estado"
 735,♀
 736,♂
-737,<hex:0209BAE804FF04>1st<hex:FF04>2nd<hex:FF04>3rd<hex:FF04>4th<hex:FF04>5th<hex:FF04>6th<hex:FF04>7th<hex:FF04>8th<hex:FF04>9th<hex:FF05>10th<hex:FF05>11th<hex:FF05>12th<hex:FF05>13th<hex:FF05>14th<hex:FF05>15th<hex:FF05>16th<hex:FF05>17th<hex:FF05>18th<hex:FF05>19th<hex:FF05>20th<hex:FF05>21st<hex:FF05>22nd<hex:FF05>23rd<hex:FF05>24th<hex:FF05>25th<hex:FF05>26th<hex:FF05>27th<hex:FF05>28th<hex:FF05>29th<hex:FF05>30th<hex:FF05>31st<hex:FF05>32nd<hex:03> Sun of the <hex:020993E803FF0B>1st Astral<hex:FF0B>1st Umbral<hex:FF0B>2nd Astral<hex:FF0B>2nd Umbral<hex:FF0B>3rd Astral<hex:FF0B>3rd Umbral<hex:FF0B>4th Astral<hex:FF0B>4th Umbral<hex:FF0B>5th Astral<hex:FF0B>5th Umbral<hex:FF0B>6th Astral<hex:FF0B>6th Umbral<hex:03> Moon
-738,Main Hand
-739,Off Hand
-740,Head
-741,Body
-742,Hands
-743,Waist
-744,Legs
-745,Feet
-746,Ears
-747,Neck
-748,Wrists
-749,Right Ring
-750,Left Ring
-751,Soul Crystal
-752,Throwing Weapon
-753,Undershirt
-754,Undergarment
-755,Gear Score
-756,Gear Set
-757,Equip
-758,Attributes
-759,Profile
-760,Classes/Jobs
-761,Currency
-762,<hex:02280AFF05>Town<hex:E8020103>
-763,<hex:021E020B03> Subcommands
-764,Gear Set List
-765,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Level <hex:022003E80203><hex:021A020103><hex:FF0D>Level <hex:022003E80203><hex:03>
-766,<hex:021E021803> Scroll  <hex:021E020C03> Switch Area  <hex:021E020D03>+<hex:021E021803> Zoom  <hex:021E020E03> Toggle Map
-767,<hex:021E021803> Scroll  <hex:021E020C03> Toggle Floor  <hex:021E020D03>+<hex:021E021803> Zoom  <hex:021E020E03> Toggle Map
+737,"Sol:<hex:0209BAE804FF04> 1o<hex:FF04> 2o<hex:FF04> 3o<hex:FF04> 4o<hex:FF04> 5o<hex:FF04> 6o<hex:FF04> 7o<hex:FF04> 8o<hex:FF04> 9o<hex:FF05> 10o<hex:FF05> 11o<hex:FF05> 12o<hex:FF05> 13o<hex:FF05> 14o<hex:FF05> 15o<hex:FF05> 16o<hex:FF05> 17o<hex:FF05> 18o<hex:FF05> 19o<hex:FF05> 20o<hex:FF05> 21o<hex:FF05> 22o<hex:FF05> 23o<hex:FF05> 24o<hex:FF05> 25o<hex:FF05> 26o<hex:FF05> 27o<hex:FF05> 28o<hex:FF05> 29o<hex:FF05> 30o<hex:FF05> 31o<hex:FF05> 32o<hex:03> - Luna: <hex:020993E803FF0B>1ª Astral<hex:FF0B>1ª Umbral<hex:FF0B>2ª Astral<hex:FF0B>2ª Umbral<hex:FF0B>3ª Astral<hex:FF0B>3ª Umbral<hex:FF0B>4ª Astral<hex:FF0B>4ª Umbral<hex:FF0B>5ª Astral<hex:FF0B>5ª Umbral<hex:FF0B>6ª Astral<hex:FF0B>6ª Umbral<hex:03>"
+738,"Mano Principal"
+739,"Mano Secundaria"
+740,"Cabeza"
+741,"Cuerpo"
+742,"Manos"
+743,"Cintura"
+744,"Piernas"
+745,"Pies"
+746,"Orejas"
+747,"Cuello"
+748,"Muñecas"
+749,"Anillo Derecho"
+750,"Anillo Izquierdo"
+751,"Cristal de Alma"
+752,"Arma Arrojadiza"
+753,"Camiseta"
+754,"Ropa Interior"
+755,"Puntuación de Equipo"
+756,"Conjunto Equipado"
+757,"Equipar"
+758,"Atributos"
+759,"Perfil"
+760,"Clases"
+761,"Divisas"
+762,"<hex:02280AFF05>Ciudad<hex:E8020103>"
+763,"<hex:021E020B03> Subcomandos"
+764,"Lista de Conjuntos"
+765,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Nivel <hex:022003E80203><hex:021A020103><hex:FF0D>Nivel <hex:022003E80203><hex:03>
+766,<hex:021E021803> Desplazar  <hex:021E020C03> Cambiar Area  <hex:021E020D03>+<hex:021E021803> Zoom  <hex:021E020E03> Alternar Mapa
+767,<hex:021E021803> Desplazar  <hex:021E020C03> Cambiar Suelo  <hex:021E020D03>+<hex:021E021803> Zoom  <hex:021E020E03> Alternar Mapa
 768,<hex:022903EA0203> <hex:022903EA0303>
-769,No gear set is chosen.
-770,Signs
+769,"No se ha seleccionado un conjunto de equipo."
+770,"Marcadores"
 771,
-772,Entrust Quantity
-773,Retrieve Quantity
-774,Mount
-775,Armoury
-776,Chest
+772,"Cantidad a Guardar"
+773,"Cantidad a Retirar"
+774,"Montura"
+775,"Arsenal"
+776,"Cofre"
 777,<hex:022B1CFF1A><hex:022816FF11>ClassJobCategory<hex:E8020103><hex:03>
-778,Equip
-779,Ride Pillion
-780,Emotes
+778,"Equipo"
+779,"Montar como pasajero"
+780,"Emociones"
 781,
 782,"<hex:022903EA0303>, <hex:022903EA0203>"
-783,Open Gear Set List
-784,Cancel Invitation to Linkshell
-785,Cancel <hex:022903EA0203>'s invitation to the linkshell?
-786,Cancel All Party Invitations
-787,Cancel the <hex:022003E80203> party invitation<hex:02080AE4E80202FF01><hex:FF02>s<hex:03> you have extended?
+783,"Abrir Lista de Conjuntos"
+784,"Cancelar Invitación al Linkshell"
+785,"¿Quieres cancelar la invitación al linkshell para <hex:022903EA0203>?"
+786,"Cancelar Todas las Invitaciones a Grupo"
+787,"¿Quieres cancelar la invitación <hex:022003E80203> a grupo<hex:02080AE4E80202FF01><hex:FF02>s<hex:03> que has extendido?"
 788,<hex:020828E4E80402FF13><hex:02280FFF0A>EventItem<hex:E8020A03><hex:FF0E><hex:02280AFF05>Item<hex:E8020A03><hex:03>
 789,<hex:022003E80303> <hex:022D32FF3002082CE4E80402FF15023111FF0A4576656E744974656D04E802030203FF1002310CFF054974656D04E8020302030303>
-790,Title
-791,Grand Company
-792,Free Company
-793,Race/Clan/Gender
-794,City-state
-795,Nameday
-796,Guardian
+790,"Título"
+791,"Gran Compañía"
+792,"Compañía Libre"
+793,"Raza/Clan/Género"
+794,"Ciudad Estado"
+795,"Día del Nombre"
+796,"Guardian"
 797,<hex:02280AFF05>Race<hex:E8020103> / <hex:02280BFF06>Tribe<hex:E8030103> / <hex:02090DE804FF04>♂<hex:FF04>♀<hex:03>
 798,<hex:022003E80203>.<hex:022403E80303>
 799,<hex:0209F20222E802FF1F><hex:024804F2020703><hex:024904F2020803>⒈<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒉<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒊<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒋<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒌<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020903><hex:024904F2020A03>⒈<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020903><hex:024904F2020A03>⒉<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020903><hex:024904F2020A03>⒊<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020B03><hex:024904F2020C03>⒈<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020B03><hex:024904F2020C03>⒉<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020D03><hex:024904F2020E03>　<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020D03><hex:024904F2020E03>　<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020D03><hex:024904F2020E03>　<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020D03><hex:024904F2020E03>　<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒍<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒎<hex:0249020103><hex:0248020103><hex:FF1F><hex:024804F2020703><hex:024904F2020803>⒏<hex:0249020103><hex:0248020103><hex:03>
-800,Disciples of War
-801,Disciples of Magic
-802,Disciples of the Hand
-803,Disciples of the Land
-804,Job
-805,EXP
-806,Gladiator
-807,Pugilist
-808,Marauder
-809,Lancer
-810,Archer
-811,Conjurer
-812,Thaumaturge
-813,Carpenter
-814,Blacksmith
-815,Armorer
-816,Goldsmith
-817,Leatherworker
-818,Weaver
-819,Alchemist
-820,Culinarian
-821,Miner
-822,Botanist
-823,Fisher
+800,"Adeptos de la Guerra"
+801,"Adeptos de la Magia"
+802,"Adeptos de la Mano"
+803,"Adeptos de la Tierra"
+804,"Profesión"
+805,"EXP"
+806,"Gladiad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>"
+807,"Pugilista"
+808,"Merodead<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>"
+809,"Lanc<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+810,"Arqu<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+811,"Conjurad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>"
+812,"Taumatu<hex:02080DE905FF04>rga<hex:FF04>rgo<hex:03>"
+813,"Carpint<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+814,"Herr<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+815,"Arm<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+816,"Orfebre"
+817,"Curtid<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>"
+818,"Sastre"
+819,"Alquimista"
+820,"CocinMin<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+821,"Min<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
+822,"Botán<hex:02080DE905FF04>ica<hex:FF04>ico<hex:03>"
+823,"Pescad<hex:02080DE905FF04>ora<hex:FF04>or <hex:03>"
 824,/
 825,: 
 826,<hex:022812FF0D>GrandCompany<hex:E8020103>
 827,<hex:0208F0D2E804FF6A><hex:020966E802FF1F><hex:02281BFF16>GCRankLimsaFemaleText<hex:E8030103><hex:FF22><hex:02281EFF19>GCRankGridaniaFemaleText<hex:E8030103><hex:FF1F><hex:02281BFF16>GCRankUldahFemaleText<hex:E8030103><hex:03><hex:FF64><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03><hex:03>
-828,Arcanist
-829,Rogue
+828,Arcanista
+829,"Band<hex:02080DE905FF04>ida<hex:FF04>ido<hex:03>"
 830,Gil
-831,Company Seals
-832,Other
+831,"Sellos de la Compañía"
+832,"Otros"
 833,<hex:022206E802FF022C03>/<hex:022206E803FF022C03>
-834,PvP
+834,"JcJ"
 835,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
-836,Select a new name.
-837,Select a new number.
-838,The Hunt
-839,Available
-840,Disable all active help windows.
-841,"※Active Help windows can be disabled in UI Settings, located under Character Configuration."
-842,<hex:021E020A03> Close
-843,<hex:021E020603>Scroll  <hex:021E020A03>Close
+836,"Seleccionar un nuevo nombre."
+837,"Seleccionar un nuevo número."
+838,"Cacería"
+839,"Disponible"
+840,"Desactivar todas las ventanas de ayuda activa."
+841,"※Las ventanas de Ayuda Activa pueden ser desactivadas desde las opciones de IU, ubicadas bajo las opciones de personaje."
+842,"<hex:021E020A03> Cerrar"
+843,"<hex:021E020603>Desplazar  <hex:021E020A03>Cerrar"
 844,<hex:020813E1E8020AFF04> 9+<hex:FF08> <hex:022003E80203><hex:03>
-845,<hex:021E021403> Select
-846,<hex:021E020903> Confirm
-847,"Active Help windows can be re-enabled in UI Settings, located under Character Configuration."
-848,Reflect
-849,Reflected
-850,Repairs
+845,"<hex:021E021403> Seleccionar"
+846,"<hex:021E020903> Confirmar"
+847,"La ventana de Ayuda Activa puede ser activbada desde las opciones de IU, ubicadas bajo las opciones de personaje."
+848,"Reflejar"
+849,"Reflejado"
+850,"Reparaciones"
 851,
-852,Gear
-853,<hex:022B09FF07><hex:022903EA0203><hex:03> (equipped)
-854,Inventory
-855,Repair All
-856,Item
-857,Cost
-858,Dark Matter
-859,Total: <hex:022206E802FF022C03>
-860,Repair <hex:02310CFF05>Item<hex:03E802020203> for <hex:022206E803FF022C03> gil?
-861,Repair all displayed items for <hex:022206E802FF022C03> gil?
-862,Repair <hex:02310CFF05>Item<hex:03E802020203> using <hex:02310CFF05>Item<hex:02E803020203>?
-863,Repair as many of the displayed items as possible using the following materials?<hex:02100103><hex:02100103><hex:022903EA0203>
+852,"Equipo"
+853,"<hex:022B09FF07><hex:022903EA0203><hex:03> (equipado)"
+854,"Inventario"
+855,"Reparar Todo"
+856,"Objeto"
+857,"Coste"
+858,"Materia Oscura"
+859,"Total: <hex:022206E802FF022C03>"
+860,"¿Quieres reparar <hex:02310CFF05>Item<hex:03E802020203> por un total de <hex:022206E803FF022C03> gil?"
+861,"¿Quieres reparar todos los objetos mostrados por un total de <hex:022206E802FF022C03> gil?"
+862,"¿Quieres reparar <hex:02310CFF05>Item<hex:03E802020203> usando <hex:02310CFF05>Item<hex:02E803020203>?"
+863,"¿Quieres reparar todos los objetos mostrados usando los siguientes materiales?<hex:02100103><hex:02100103><hex:022903EA0203>
 864,・<hex:022003E80303> <hex:02310DFF05>Item<hex:04E802E8030203>
-865,You do not have any items that can be repaired.
-866,Grade <hex:022003E80203>
-867,Condition
-868,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Level <hex:022003E80203><hex:021A020103><hex:FF0D>Level <hex:022003E80203><hex:03>
-869,Class
-870,Region
-871,Area
-872,Dark Matter (Bag)
+865,"No tienes objetos que puedan ser reparados."
+866,"Grado <hex:022003E80203>"
+867,"Condición"
+868,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Nivel <hex:022003E80203><hex:021A020103><hex:FF0D>Nivel <hex:022003E80203><hex:03>
+869,"Clase"
+870,"Región"
+871,"Área"
+872,"Materia Oscura (Bolsa)"
 873,G<hex:022003E80303> (<hex:022206E802FF022C03>)
-874,(Map link unavailable in this area)
-875,(No location set for map link)
+874,"(El enlace al mapa no está disponible en este área)"
+875,"(No se ha establecido ubicación para el enlace al mapa)"
 876,<hex:022003E80203>
 877,<hex:022003E80203>%
-878,Mount Seat #<hex:022003E80203>
+878,"Asiento de Montura #<hex:022003E80203>"
 879,<hex:020891E805FF57><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:02280FFF0A>BaseParam<hex:E8020203> <hex:02080AE3E80401FF01><hex:FF02>+<hex:03><hex:022003E80403><hex:020808E806FF02>%<hex:FF01><hex:03><hex:021A020103><hex:0248020103><hex:0249020103><hex:FF35><hex:02280FFF0A>BaseParam<hex:E8020203> <hex:02080AE3E80401FF01><hex:FF02>+<hex:03><hex:022003E80403><hex:020808E806FF02>%<hex:FF01><hex:03><hex:03>
-880,Saddlebag
-881,Add All to Saddlebag
-882,Chocobo Saddlebag
+880,"Alforja"
+881,"Añadir todo a la Alforja"
+882,"Alforja del Chocobo"
 883,
-884,Left Saddlebag
-885,Right Saddlebag
-886,Add to Saddlebag
-887,Remove All from Saddlebag
-888,Remove from Saddlebag
-889,How many do you want to remove?
-890,How many do you want to add?
-891,Chocobo Saddlebag
-892,Select an item to add to the saddlebag.
-896,Glamours are unavailable due to equipment restrictions.
-897,Glamours are unavailable due to equipment restrictions.
-898,Glamours are unavailable due to equipment restrictions.
-899,<hex:020842E804FF26><hex:021A020203><hex:0212023F03>Elemental Level <hex:022003E80203><hex:021A020103><hex:FF17>Elemental Level <hex:022003E80203><hex:03>
-900,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Level <hex:022003E80203><hex:021A020103><hex:FF0D>Level <hex:022003E80203><hex:03>
-901,Affix Materia
-902,Repair
-903,Could not retrieve data.
-904,Not enlisted in a Grand Company.
-905,Not enlisted in a free company.
+884,"Alforja Izquierda"
+885,"Alforja Derecha"
+886,"Añadir a la Alforja"
+887,"Sacar todo de la Alforja"
+888,"Sacar de la Alforja"
+889,"¿Cuantos deseas quitar?"
+890,"¿Cuantos deseas añadir?"
+891,"Alforja del Chocobo"
+892,"Selecciona un objeto para añadir en la alforja."
+896,"El Glamour no está disponible por restricciones del equipo."
+897,"El Glamour no está disponible por restricciones del equipo."
+898,"El Glamour no está disponible por restricciones del equipo."
+899,<hex:020842E804FF26><hex:021A020203><hex:0212023F03>Nivel Elemental <hex:022003E80203><hex:021A020103><hex:FF17>Nivel Elemental <hex:022003E80203><hex:03>
+900,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Nivel <hex:022003E80203><hex:021A020103><hex:FF0D>Nivel <hex:022003E80203><hex:03>
+901,"Agregar Materia"
+902,"Reparar"
+903,"No se han podido obtener datos."
+904,"No alistado en una Gran Compañía"
+905,"No alistado en una Compañía Libre."
 906,<hex:0208F0D2E804FF6A><hex:020966E802FF1F><hex:02281BFF16>GCRankLimsaFemaleText<hex:E8030103><hex:FF22><hex:02281EFF19>GCRankGridaniaFemaleText<hex:E8030103><hex:FF1F><hex:02281BFF16>GCRankUldahFemaleText<hex:E8030103><hex:03><hex:FF64><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03><hex:03>
 907,<hex:0208F0D2E804FF6A><hex:020966E802FF1F><hex:02281BFF16>GCRankLimsaFemaleText<hex:E8030103><hex:FF22><hex:02281EFF19>GCRankGridaniaFemaleText<hex:E8030103><hex:FF1F><hex:02281BFF16>GCRankUldahFemaleText<hex:E8030103><hex:03><hex:FF64><hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03><hex:03>
 908,<hex:022812FF0D>GrandCompany<hex:E8020103>
-909,Total Members: <hex:022003E80203>
-910,Retainer
+909,"Miembros Totales: <hex:022003E80203>"
+910,"Custodio"
 911,
-912,Gil Transfer
+912,"Transferir Gil"
 913,
-914,Select amount to withdraw.
-915,Select amount to deposit.
-916,Select retainer.
-917,Quit.
-918,Cannot be accessed in gamepad mode.
-919,Cannot be accessed in gamepad mode.
-920,Gil Transfer
+914,"Selecciona la cantidad a retirar."
+915,"Selecciona la cantidad a depositar."
+916,"Seleccionar Custodio."
+917,"Salir."
+918,"No puedes acceder usando un Gamepad."
+919,"No puedes acceder usando un Gamepad."
+920,"Transferir Gil"
 921,
-922,Withdraw
-923,Deposit
-924,Proceed
-925,Cancel
+922,"Retirar"
+923,"Depositar"
+924,"Proceder"
+925,"Cancelar"
 926,
 927,<hex:022206E802FF022C03>
-928,Current
-929,Total
-930,Adjust Price
+928,"Actual"
+929,"Total"
+930,"Ajustar Precio"
 931,
-932,Qty.
-933,Asking Price
+932,"Ctd."
+933,"Precio de Venta"
 934,
-935,Total
-936,Tax (<hex:022003E80203>%)
-937,Confirm
+935,"Total"
+936,"Tax (<hex:022003E80203>%)"
+937,"Confirmar"
 938,
 939,
 940,
-941,Cancel
-942,Cannot be accessed in gamepad mode.
-943,"When the item is sold, you will be charged a <hex:022003E80203>% tax (<hex:022206E803FF022C03>)."
-944,Cannot be accessed in gamepad mode.
-945,Put items in list up for sale?
-946,For Sale
-947,Not for Sale
-948,This retainer has not been dispatched<hex:02100103>to any market wards.
-949,Remove
-950,Markets
+941,"Cancelar"
+942,"No puedes acceder usando un Gamepad."
+943,"Cuando el objeto sea vendido se te cargará un <hex:022003E80203>% de impuestos (<hex:022206E803FF022C03>)."
+944,"No puedes acceder usando un Gamepad."
+945,"¿Deseas poner los objetos de la lista a la venta?"
+946,"En Venta"
+947,"No en Venta"
+948,"Este Custodio no ha sido enviado a<hex:02100103>ningún distrito comercial."
+949,"Eliminar"
+950,"Mercados"
 951,
 952,
-953,Item
-954,Qty.
-955,Total Price
-956,Put Up for Sale
-957,"To ready an item for sale, place it here."
-958,Return to Retainer
-959,Adjust Price
-960,Party Members
-961,Friend List
-962,Blacklist
-963,Player Search
-964,(Unable to Retrieve)
-965,<hex:021E020903><hex:021E020B03> Subcommands  <hex:021E020C03> Send Friend Request
-966,<hex:021E020903><hex:021E020B03> Subcommands  <hex:021E020C03> Add to Blacklist
-967,<hex:022903EA0203>. (Selling <hex:022003E80403> <hex:020812E4E80402FF05>item<hex:FF06>items<hex:03> (<hex:020874E4E80302FF06><hex:0212023403><hex:FF67><hex:020863E4E80303FF06><hex:0212023503><hex:FF56><hex:020852E4E80304FF06><hex:0212023603><hex:FF45><hex:020841E4E80305FF06><hex:0212024103><hex:FF34><hex:020830E4E80308FF06><hex:0212026103><hex:FF23><hex:02081FE4E8030BFF06><hex:0212026C03><hex:FF12><hex:02080EE4E8030DFF06><hex:0212027203><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>) until <hex:020703E80503><hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>)
-968,<hex:022903EA0203>. (Currently selling no items) (<hex:020874E4E80302FF06><hex:0212023403><hex:FF67><hex:020863E4E80303FF06><hex:0212023503><hex:FF56><hex:020852E4E80304FF06><hex:0212023603><hex:FF45><hex:020841E4E80305FF06><hex:0212024103><hex:FF34><hex:020830E4E80308FF06><hex:0212026103><hex:FF23><hex:02081FE4E8030BFF06><hex:0212026C03><hex:FF12><hex:02080EE4E8030DFF06><hex:0212027203><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>)
-969,Market tax reduced by <hex:022003E80203>% until <hex:020703E80303><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>!
-970,All
-971,Party
-972,Enemy
-973,Player
-974,"Currently, market tax is reduced."
-975,Compare prices.
-976,Return Items to Inventory
-977,<hex:021E020903><hex:021E020B03> Subcommands
-978,<hex:021E020B03> Subcommands
-979,<hex:02084BE803FF34><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:022003E80203> Equipped: <hex:021A020103><hex:0248020103><hex:0249020103><hex:FF12><hex:022003E80203> Equipped: <hex:03>
-980,Item found!
+953,"Objeto"
+954,"Cta."
+955,"Precio Total"
+956,"Poner a la Venta"
+957,"Para poner un artículo a la venta, colócalo aquí."
+958,"Devolver al Custodio"
+959,"Ajustar Precio"
+960,"Miembros del Grupo"
+961,"Lista de Amigos"
+962,"Lista de Bloqueos"
+963,"Buscar Jugadores"
+964,"(Imposible recuperar)"
+965,"<hex:021E020903><hex:021E020B03> Subcomandos  <hex:021E020C03> Envia Solicitud de Amistad"
+966,"<hex:021E020903><hex:021E020B03> Subcomandos  <hex:021E020C03> Bloquear Jugador"
+967,"<hex:022903EA0203>. (Vendiendo <hex:022003E80403> <hex:020812E4E80402FF05>item<hex:FF06>items<hex:03> (<hex:020874E4E80302FF06><hex:0212023403><hex:FF67><hex:020863E4E80303FF06><hex:0212023503><hex:FF56><hex:020852E4E80304FF06><hex:0212023603><hex:FF45><hex:020841E4E80305FF06><hex:0212024103><hex:FF34><hex:020830E4E80308FF06><hex:0212026103><hex:FF23><hex:02081FE4E8030BFF06><hex:0212026C03><hex:FF12><hex:02080EE4E8030DFF06><hex:0212027203><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>) until <hex:020703E80503><hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>)"
+968,"<hex:022903EA0203>. (No estás vendiendo objetos) (<hex:020874E4E80302FF06><hex:0212023403><hex:FF67><hex:020863E4E80303FF06><hex:0212023503><hex:FF56><hex:020852E4E80304FF06><hex:0212023603><hex:FF45><hex:020841E4E80305FF06><hex:0212024103><hex:FF34><hex:020830E4E80308FF06><hex:0212026103><hex:FF23><hex:02081FE4E8030BFF06><hex:0212026C03><hex:FF12><hex:02080EE4E8030DFF06><hex:0212027203><hex:FF01><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03><hex:03>)"
+969,"Se han reducido los impuestos del mercado en un <hex:022003E80203>% hasta las <hex:020703E80303><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> on <hex:02082BE4E94E04FF12><hex:022002DC03>/<hex:022002DE03>/<hex:022002DF03><hex:FF12><hex:022002DE03>/<hex:022002DC03>/<hex:022002DF03><hex:03>!"
+970,"Todo"
+971,"Grupo"
+972,"Enemigo"
+973,"Jugador"
+974,"Actualmente, los impuestos del mercado han sido recudidos."
+975,"Comparar precios."
+976,"Devolver Objetos al Inventario"
+977,"<hex:021E020903><hex:021E020B03> Subcomandos"
+978,"<hex:021E020B03> Subcomandos"
+979,"<hex:02084BE803FF34><hex:024804F2023D03><hex:024904F2023E03><hex:021A020203><hex:022003E80203> Equipado: <hex:021A020103><hex:0248020103><hex:0249020103><hex:FF12><hex:022003E80203> Equipado: <hex:03>"
+980,"¡Objeto encontrado!"
 981,<hex:022B14FF12><hex:02280EFF09>ClassJob<hex:E8020103><hex:03>
 982,!
-983, (fully resisted)
-984, has no effect!
+983," (resistido por completo)"
+984," no ha tenido efecto"
 985,+ <hex:022903EA0203>
 986,- <hex:022903EA0203>
-987,Incapacitated!
-988,Additional Effect
-989,Invulnerable!
-990,Item Level <hex:022003E80203>
-991,Effects
-992,Requirements
-993,Materia Melding
-994,Catalyst
-995,Quick Repairs
-996,<hex:02100103><hex:02100103>Crafting Material
-997,<hex:02100103><hex:02100103>Crafting Catalyst
-998,Restores up to <hex:022003E80203>% of HP (<hex:022003E80303> points max).
-999,Restores <hex:022003E80303> MP.
-1000,HP
-1001,MP
-1002,TP
-1003,GP
-1004,CP
+987,"¡Incapacitado!"
+988,"Efectos Adicionales"
+989,"¡Invulnerable!"
+990,"Nivel de Objeto <hex:022003E80203>"
+991,"Efectos"
+992,"Requisitos"
+993,"Fusión de Materia"
+994,"Catalizador"
+995,"Reparaciones Rápidas"
+996,"<hex:02100103><hex:02100103>Material Artesanal"
+997,"<hex:02100103><hex:02100103>Catalizador Artesanal"
+998,"Recupera hasta un <hex:022003E80203>% de PV (<hex:022003E80303> puntos máximo)."
+999,"Recupera <hex:022003E80303> de PM."
+1000,PV
+1001,PM
+1002,PT
+1003,PR
+1004,PA
 1005,!!
 1006,
-1007,Level
-1008,Class
-1009,Job
+1007,"Nivel"
+1008,"Clase"
+1009,"Profesión"
 1010,<hex:022003E80203>/<hex:022003E80303>
 1011,×
 1012,
@@ -1004,183 +1004,183 @@ int32,str
 1014,m
 1015,h
 1016,<hex:02083DE802FF23> <hex:02080AE1E80301FF02>+<hex:FF01><hex:03><hex:022003E80303>% (Max <hex:022003E80403>)<hex:FF15> <hex:02080AE1E80301FF02>+<hex:FF01><hex:03><hex:022003E80303><hex:03>
-1017,Meal Benefits (EXP +<hex:022003E80203>%)
+1017,"Beneficios de la Comida (EXP +<hex:022003E80203>%)"
 1018,<hex:022003E80203>
 1019,<hex:02084EE804FF2C><hex:02280EFF09>ClassJob<hex:E8030203>  <hex:0212023F03><hex:021A020203><hex:022903EA0203><hex:021A020103><hex:FF1D><hex:02280EFF09>ClassJob<hex:E8030203>  <hex:022903EA0203><hex:03>    <hex:02086DE1E80801FF0E>EXP –/–<hex:FF58><hex:020854E1E80701FF35><hex:0212024D03><hex:024804F2020303><hex:024904F2020403>EXP <hex:022206E805FF022C03>/<hex:022206E806FF022C03><hex:0249020103><hex:0248020103><hex:FF18>EXP <hex:022206E805FF022C03>/<hex:022206E806FF022C03><hex:03><hex:03>
-1020,Full Party
-1021,Light Party
-1022,Solo
+1020,"Grupo Completo"
+1021,"Grupo Pequeño"
+1022,"Solo"
 1023,A
-1024,STR
+1024,FUE
 1025,VIT
-1026,DEX
+1026,DES
 1027,INT
-1028,MND
+1028,MNT
 1029,???
-1030,Target
-1031,Bonus
-1032,Readying
-1033,Subtarget
-1034,Lv. 
+1030,"Objetivo"
+1031,"Bonificación"
+1032,"Preparando"
+1033,"Objetivo Secundario"
+1034,Nv. 
 1035,???
 1036,<hex:020836E804FF20><hex:021A020203><hex:0212023F03><hex:022003E80203> <hex:022903EA0303><hex:021A020103><hex:FF11><hex:022003E80203> <hex:022903EA0303><hex:03>
 1037,<hex:02081AE803FF07><hex:022903EA0203><hex:FF0E>??? <hex:022903EA0203><hex:03>
 1038,<hex:022903EA0203> 
 1039,<hex:020860E804FF20><hex:021A020203><hex:0212023F03><hex:022903EA0203> <hex:022903EA0303><hex:021A020103><hex:FF3B><hex:020837E806FF11><hex:022903EA0203> <hex:022903EA0303><hex:FF21><hex:02081DE805FF07><hex:022903EA0303><hex:FF11><hex:022903EA0203> <hex:022903EA0303><hex:03><hex:03><hex:03>
-1040,Slot
-1041,Combo
+1040,"Ranura"
+1041,"Combo"
 1042,<hex:020921E802FF01><hex:FF03>¢<hex:FF03>ª<hex:FF03>§<hex:FF03>¾<hex:FF03>½<hex:FF03>¼<hex:FF03>¶<hex:03><hex:022903EA0303>
-1043,Set
-1044,Change Set
-1045,<hex:0212021403><hex:02100103>Edit
-1046,<hex:021E020C03> Compare Prices
-1047,Display Company Profile
+1043,"Conjunto"
+1044,"Cambiar Conjunto"
+1045,"<hex:0212021403><hex:02100103>Editar"
+1046,"<hex:021E020C03> Comparar Precios"
+1047,"Mostrar Perfil de la Compañía"
 1048,???
-1049,Branch Rewards
-1050,Casting
-1051,Interrupted
-1052,Obtaining Signature
-1053,EP
-1054,EP Cost
-1055,Collectable
-1056,Collectability
+1049,"Recompensas por Rama"
+1050,"<hex:021D0103>"
+1051,"Interrumpido"
+1052,"Obteniendo Firma"
+1053,"PE"
+1054,"Coste de PE"
+1055,"Coleccionable"
+1056,"Valor de Recolección"
 1057,<hex:020815E1E80301FF0D>　　　　<hex:FF01><hex:03><hex:020812E3E80201FF04>???<hex:FF07><hex:022003E80203><hex:03>
 1058,
-1059,System
-1060,Rank: <hex:022003E80203>
-1061,Components: <hex:022003E80203>
-1062,Surveillance: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
-1063,Retrieval: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
-1064,Speed: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
-1065,Range: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
-1066,Favor: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>
-1067,<hex:022003E80303> <hex:02310DFF05>Item<hex:04E802E8030203>
-1068,Part Functionality
-1069,Outfitting Bonus
-1070,Extra Jobs
-1071,Dark Knight
-1072,Astrologian
-1073,Machinist
+1059,"Sistema"
+1060,"Rango: <hex:022003E80203>"
+1061,"Componentes: <hex:022003E80203>"
+1062,"Reconocimiento: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>"
+1063,"Recuperación: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>"
+1064,"Velocidad: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>"4
+1065,"Rango: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>"
+1066,"Favor: <hex:020816E1E80201FF08>+<hex:022003E80203><hex:FF07><hex:022003E80203><hex:03>"
+1067,"<hex:022003E80303> <hex:02310DFF05>Item<hex:04E802E8030203>"
+1068,"Funcionabilidad del Componente"
+1069,"Bonificación de Equipamiento"
+1070,"Profesionaes Extra"
+1071,"Caball<hex:02080DE905FF04>era<hex:FF04>ero<hex:03> Osc<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03>"
+1072,"Astról<hex:02080DE905FF04>oga<hex:FF04>ogo<hex:03>"
+1073,"Ingeni<hex:02080DE905FF04>era<hex:FF04>ero<hex:03>"
 1074,–
-1075,Party Bonus
-1076,<hex:0208B3E1E80201FFAB><hex:020865E4E94F04FF32><hex:02092EE802FF0C>Control Key<hex:FF0B>Option Key<hex:FF0A>Shift Key<hex:FF06><hex:021E020F03><hex:03><hex:FF2C><hex:020928E802FF09>Ctrl Key<hex:FF08>Alt Key<hex:FF0A>Shift Key<hex:FF06><hex:021E020F03><hex:03><hex:03>  Display <hex:020911E803FF05>high<hex:FF07>normal<hex:03>-quality item details<hex:02080CE1E80401FF04>　<hex:FF01><hex:03><hex:FF01><hex:03><hex:020884E1E80401FF7C><hex:020865E4E94F04FF32><hex:02092EE804FF0C>Control Key<hex:FF0B>Option Key<hex:FF0A>Shift Key<hex:FF06><hex:021E021003><hex:03><hex:FF2C><hex:020928E804FF09>Ctrl Key<hex:FF08>Alt Key<hex:FF0A>Shift Key<hex:FF06><hex:021E021003><hex:03><hex:03>  Hide item details<hex:FF01><hex:03>
-1077,Available under lv. <hex:022003E80203>
+1075,"Bonificación de Grupo"
+1076,<hex:0208B3E1E80201FFAB><hex:020865E4E94F04FF32><hex:02092EE802FF0C>Control Key<hex:FF0B>Option Key<hex:FF0A>Shift Key<hex:FF06><hex:021E020F03><hex:03><hex:FF2C><hex:020928E802FF09>Ctrl Key<hex:FF08>Alt Key<hex:FF0A>Shift Key<hex:FF06><hex:021E020F03><hex:03><hex:03>  Mostrar detalles del objeto en calidad <hex:020911E803FF05>alta<hex:FF07>normal<hex:03><hex:02080CE1E80401FF04>　<hex:FF01><hex:03><hex:FF01><hex:03><hex:020884E1E80401FF7C><hex:020865E4E94F04FF32><hex:02092EE804FF0C>Control Key<hex:FF0B>Option Key<hex:FF0A>Shift Key<hex:FF06><hex:021E021003><hex:03><hex:FF2C><hex:020928E804FF09>Ctrl Key<hex:FF08>Alt Key<hex:FF0A>Shift Key<hex:FF06><hex:021E021003><hex:03><hex:03>  Ocultar detalles<hex:FF01><hex:03>
+1077,"Disponible a partir del Nv. <hex:022003E80203>"
 1078,<hex:02084EE804FF2C><hex:02280EFF09>ClassJob<hex:E8030203>  <hex:0212023F03><hex:021A020203><hex:022903EA0203><hex:021A020103><hex:FF1D><hex:02280EFF09>ClassJob<hex:E8030203>  <hex:022903EA0203><hex:03>    <hex:020876E1E80801FF11>EXP –/–<hex:FF5E><hex:02085AE1E80701FF38><hex:0212024D03><hex:024804F2020303><hex:024904F2020403>EXP <hex:022206E805FF022C03>/<hex:022206E806FF022C03><hex:0249020103><hex:0248020103><hex:FF1B>EXP <hex:022206E805FF022C03>/<hex:022206E806FF022C03><hex:03><hex:03>
 1079,<hex:020860E804FF20><hex:021A020203><hex:0212023F03><hex:022903EA0203> <hex:022903EA0303><hex:021A020103><hex:FF3B><hex:020837E806FF11><hex:022903EA0203> <hex:022903EA0303><hex:FF21><hex:02081DE805FF07><hex:022903EA0303><hex:FF11><hex:022903EA0203> <hex:022903EA0303><hex:03><hex:03><hex:03>
 1080,DoW/DoM
 1081,DoH/DoL
-1082,Tank
-1083,Healer
-1084,Melee DPS
-1085,Physical Ranged DPS
-1086,Magical Ranged DPS
+1082,Tanque
+1083,Sanador
+1084,DPS Cuerpo a Cuerpo
+1085,DPS a Distancia (Físico)
+1086,DPS a Distancia (Mágico)
 1087,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303>
 1088,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303> / <hex:022D14FF1202280EFF09436C6173734A6F62E803010303>
 1089,<hex:02081AE803FF07><hex:022903EA0203><hex:FF0E>??? <hex:022903EA0203><hex:03>
-1090,Large-scale Levequests
+1090,"Misiones de Apoyo a Gran Escala"
 1091,
-1092,Use <hex:020860E802FF54><hex:020850E2E8020BFF42><hex:02093EE802FF04>one<hex:FF04>two<hex:FF06>three<hex:FF05>four<hex:FF05>five<hex:FF04>six<hex:FF06>seven<hex:FF06>eight<hex:FF05>nine<hex:FF04>ten<hex:03><hex:FF07><hex:022003E80203><hex:03><hex:FF07><hex:022003E80203><hex:03> guildleve <hex:02081CE4E80102FF0A>allowance<hex:FF0B>allowances<hex:03> to accept <hex:022903EA0303>?
+1092,"¿Quieres usar <hex:022003E80203> concesiones para aceptar <hex:022903EA0303>?"
 1093,<hex:022003E80203>
-1094,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303> [Limited Job]
-1095,Add New Tab
-1096,Chat Log Settings
-1097,Novice Network List
-1098,Join Novice Network
-1099,Interrupted!
-1100,Target <hex:022003E80203>/<hex:022003E80303>
-1101,MANEUVER
-1102,ACTIVE TIME MANEUVER
-1103,SUCCESS
-1104,FAILED
-1105,You have received a reply from the Support Desk.<hex:02100103>Visit the Support Desk in the main menu to view it.
-1106,You have received a letter from a GM.<hex:02100103>Visit a delivery moogle to accept and view it.
-1107,You have a new letter.<hex:02100103>Return to your Home World and visit a delivery moogle to accept and view it.
-1110,Focus Target
+1094,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303> [Profesión Limitada]
+1095,"Añadir Nueva Pestaña"
+1096,"Configuración del Chat"
+1097,"Lista de la Red de Novatos"
+1098,"Unirse a la Red de Novatos"
+1099,"Interrumpido"
+1100,"Objetivo <hex:022003E80203>/<hex:022003E80303>"
+1101,"MANIOBRA"
+1102,"MANIOBRA EN TIEMPO REAL"
+1103,"ÉXITO"
+1104,"FRACASO"
+1105,"Has recibido respuesta del Centro de Soporte.<hex:02100103>Visita el Centro de Soporte desde el menú principal para verla."
+1106,"Has recibido una carta de un MJ.<hex:02100103>Visita al Moogle Repartidor para verla."
+1107,"Has recibido una nueva carta.<hex:02100103>Vuelve a tu Mundo de Origen y visita al Moogle Repartidor para verla."
+1110,"Objetivo en Foco"
 1111,<hex:020811E802FF0B><hex:022903EA0303> <hex:FF01><hex:03><hex:02080EE805FF08> <hex:022903EA0603><hex:FF01><hex:03><hex:022D09FF07022903EA040303>
 1112,<hex:02080FE802FF09><hex:022903EA0303>% <hex:FF01><hex:03><hex:02080EE805FF08> <hex:022903EA0603><hex:FF01><hex:03><hex:022D09FF07022903EA040303>
 1113,<hex:020811E802FF0B><hex:022903EA0303> <hex:FF01><hex:03><hex:02080DE805FF07><hex:022903EA0603><hex:FF01><hex:03><hex:022D09FF07022903EA040303>
-1114,You have a new letter.<hex:02100103>Visit a delivery moogle to accept and view it.
-1115,Alliance A
-1116,Alliance B
+1114,Has recibido una nueva carta.<hex:02100103>Visita al Moogle Repartidor para verla."
+1115,"Alianza A"
+1116,"Alianza B"
 1117,<hex:022903EA0203>
-1118,Alliance C
-1119,Current World (<hex:020821E4E80201FF0B>Home World<hex:FF0F>Visiting World<hex:03>)
-1120,Chain #
-1121,Chain bonus! <hex:022003E80203> second<hex:02080AE4E80202FF01><hex:FF02>s<hex:03> remaining.
-1122,Time's up!
-1123,CLASS CHANGE
-1124,JOB CHANGE
-1125,HQ Chain #
-1126,Sending: <hex:022003E80203>  Receiving: <hex:022003E80303>
-1127,Local Time
-1128,Server Time
-1129,Eorzea Time
+1118,"Alianza C"
+1119,"Mundo Actual (<hex:020827E4E80201FF10>Mundo de Origen<hex:FF10>Visitando Mundo<hex:03>)"
+1120,"Cadena #"
+1121,"¡Buenos de Cadena! Quedan <hex:022403E80203>s."
+1122,"Se acabó el tiempo"
+1123,"CAMBIAR DE CLASE"
+1124,"CAMBIAR DE PROFESIÓN"
+1125,"Cadena HQ #"
+1126,"Enviando: <hex:022003E80203>  Recibiendo: <hex:022003E80303>"
+1127,"Hora Local"
+1128,"Hora del Servidor"
+1129,"Hora de Eorzea"
 1130,LT
 1131,ST
 1132,ET
-1133,Support
+1133,"Soporte"
 1134,<hex:020912E803FF04><hex:FF04><hex:FF04><hex:03> <hex:0208C3E4E80302FF5E><hex:02085AE4E80401FF0F><hex:022003E90C03>:<hex:022403E90D03> <hex:FF44><hex:020823E90CFF1E><hex:02091AE90C02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022403E90D03> <hex:020811E0E90C0DFF05>p.m.<hex:FF05>a.m.<hex:03> <hex:03><hex:FF5E><hex:020703E80203><hex:020854E4E80401FF0D><hex:022002DB03>:<hex:022402DA03> <hex:FF40><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03> <hex:03><hex:03>
 1135,<hex:022903EA0203><hex:020810E1E80501FF08>/<hex:022903EA0303><hex:FF01><hex:03><hex:020810E1E80601FF08>/<hex:022903EA0403><hex:FF01><hex:03>
-1136,Playing Recorded Duty
-1137,Duty Recorder Paused<hex:02100103>The current duty is recordable. Initiate a <hex:024804F201FA03><hex:024904F201FB03>record ready check<hex:0249020103><hex:0248020103> to begin recording.
-1138,Recording Duty
-1139,The alarm <hex:024804F201F403><hex:024904F201F503><hex:022903EA0203><hex:0249020103><hex:0248020103> has been set for <hex:020703E80403><hex:020852E4E80601FF0C><hex:022002DB03>:<hex:022402DA03><hex:FF3F><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03><hex:03> <hex:020912E803FF04><hex:FF04><hex:FF04><hex:03>.<hex:02100103>A notification will be given <hex:022003E80503> <hex:020816E4E80502FF07>minute<hex:FF08>minutes<hex:03> prior.
-1140,Loot
+1136,"Reproduciendo Deber Grabado"
+1137,"Grabador de deber pausado<hex:02100103>El deber actual puede ser grabado. Inicia un <hex:024804F201FA03><hex:024904F201FB03>ready check de grabación<hex:0249020103><hex:0248020103> para comenzar a grabar."
+1138,"Grabando Deber"
+1139,"La alarma <hex:024804F201F403><hex:024904F201F503><hex:022903EA0203><hex:0249020103><hex:0248020103> se ha configurado a las: <hex:020703E80403><hex:020852E4E80601FF0C><hex:022002DB03>:<hex:022402DA03><hex:FF3F><hex:020821DBFF1D><hex:020919DB02030405060708090A0B0C0D02030405060708090A0B0C03><hex:0D03>:<hex:022402DA03> <hex:020810E0DB0DFF05>p.m.<hex:FF05>a.m.<hex:03><hex:03> <hex:020912E803FF04><hex:FF04><hex:FF04><hex:03>.<hex:02100103>Se enviará una notifación <hex:022003E80503> <hex:020816E4E80502FF07>minuto<hex:FF08>minutos<hex:03> antes."
+1140,"Botín"
 1141,:
 1142,???
 1143,<hex:022003E80203>.<hex:022003E80303>% <hex:02080DE805FF07><hex:022903EA0603><hex:FF01><hex:03><hex:022903EA0403> 
-1144,Join FATE
-1145,Level Sync
+1144,"Unirse a FATE"
+1145,"Sinc. Nivel"
 1146,<hex:022903EA0403>: <hex:022003E80203>/<hex:022003E80303>
 1147,<hex:022903EA0403>: <hex:022003E80203>
 1148,???
 1149,???
-1150,Hotbar Swap
-1151,PvP Mode
-1152,Charge Time
-1153,Interrupted!
-1154,Wait
-1155,Party List Settings
-1156,"<hex:024804F201FA03><hex:024904F201FB03>When joining as a party, you will be joined as a cross-world party.<hex:0249020103><hex:0248020103>"
+1150,"Alternar Barra de Acción"
+1151,"Modo JcJ"
+1152,"Recarga"
+1153,"¡Interrumpido!"
+1154,"Esperar"
+1155,"Opciones de la Lista de Grupo"
+1156,"<hex:024804F201FA03><hex:024904F201FB03>Cuando te unas a un grupo lo harás en un grupo entre mundos.<hex:0249020103><hex:0248020103>"
 1157,?
 1158,<hex:022B09FF07><hex:022903EA0203><hex:03><hex:022903EA0303>
 1159,
-1160,Alliance D
-1161,Alliance E
-1162,Alliance F
+1160,"Alianza D"
+1161,"Alianza E"
+1162,"Alianza F"
 1163,<hex:022403E80203>
 1164,.<hex:022403E80203>
-1165,History
-1166,Favorites
-1167,Execute
-1168,Add to Favorites
-1169,Remove from Favorites
-1170,Add to Hotbar
-1171,Remove from History
-1172,Default Order
-1173,By Name
-1174,Sort emotes.
-1180,Favorite and recently used emotes.
-1181,Standard gestures and motions.
-1182,"Repeating, adjustable, or other special motions."
-1183,Emotive facial expressions.
-1184,Search emotes.<hex:02100103>※Text commands may also be used as search terms.
-1185,Lock/unlock minimap compass.
-1186,Lock/unlock hotbar icons.
-1187,Center map on player location.
-1188,Move cursor to map select menu.
-1189,Lock/unlock hotbar icons.
-1190,Limit Break
-1191,"If you continue, your unsaved changes will be lost. Proceed?"
-1192,Display region/world maps.
-1193,Display/hide map text.
-1194,Turn on/off map transparency while inactive.
-1195,Limit Break
-1196,World Map
-1197,"Lock map so that it cannot be closed by pressing the Escape key or the <hex:021E020B03> button, or when the main menu is displayed."
-1198,<hex:022903EA0203> Leves
-1199,Display/hide map icons.
-1200,Log Configuration
+1165,"Historial"
+1166,"Favoritos"
+1167,"Ejecutar"
+1168,"Añadir a Favoritos"
+1169,"Eliminar de Favoritos"
+1170,"Añadir a la Barra de Acción"
+1171,"Eliminar del Historial"
+1172,"Ordenar Por Defecto"
+1173,"Por Nombre"
+1174,"Ordenador Emociones"
+1180,"Emociones favoritas y usados recientemente."
+1181,"Gestos y movimientos estándar."
+1182,"Movimientos repetitivos, ajustables u otros movimientos especiales."
+1183,"Expresiones faciales."
+1184,"Buscar emociones.<hex:02100103>※Los comandos de texto pueden ser usados para buscar."
+1185,"Bloquear/Desbloquear brújula del minimapa."
+1186,"Bloquear/Desbloquear iconos de la barra de acción."
+1187,"Centrar mapa en la ubicación del jugador."
+1188,"Mover el cursor al menú de selección de mapa."
+1189,"Bloquear/Desbloquear iconos de la barra de acción."
+1190,"Rompelímites"
+1191,"Si continuas, los cambias no guardados se perderán. ¿Proceder?"
+1192,"Mostrar mapas de región/mundo"
+1193,"Mostrar/Ocultar texto del mapa."
+1194,"Encender/Apagar transparencia del mapa mientras está está inactivo."
+1195,"Rompelímites"
+1196,"Mapa del Mundo"
+1197,"Bloquear mapa para que no puede ser cerrado pulsando Escape o el botón <hex:021E020B03>, o cuando se muestre el menú principal."
+1198,"<hex:022903EA0203> Misiones de Apoyo"
+1199,"Mostrar/Ocultar iconos del mapa."
+1200,"Configuración del Chat"
 1201,
 1202,Overhead Name Display
 1203,Font Size
@@ -1273,7 +1273,7 @@ int32,str
 1296,All
 1297,SEARCH CLASS JOB CUSTOMIZE
 1298,検索クラス・ジョブ
-1299,Grand Companies
+1299,"Grandes Compañías"
 1300,Keybind
 1301,
 1302,Movement
