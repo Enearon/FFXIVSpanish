@@ -3,17 +3,17 @@
 offset,0
 int32,str
 0,
-1,Exit <hex:022903EB3903>?
-2,Exit alone.
-3,Exit with party.
-4,Remain here.
-5,Defeat <hex:023110FF09>BNpcName<hex:03E802020203>
+1,"¿Salir de <hex:022903EB3903>?"
+2,"Salir en solitario."
+3,"Salir con el grupo."
+4,"Permanecer aquí"
+5,"Derrota a <hex:023110FF09>BNpcName<hex:03E802020203>"
 6,???
-7,Duty Progress
-8,Leave duty?
-9,Select a destination.<hex:02100103>Current Location: <hex:022903EA0203>
-10,Starting Point
-11,Cancel
+7,"Progreso de l Deber"
+8,"¿Abandonar Deber?"
+9,"Selecciona un destino.<hex:02100103>Ubicación Actual: <hex:022903EA0203>"
+10,"Punto de Inicio"
+11,"Cancelar"
 12,
 13,
 14,
@@ -29,7 +29,7 @@ int32,str
 24,
 25,
 26,
-27,An exit has appeared.
+27,"Una salida ha aparecido."
 28,guildhest
 29,
 30,
@@ -5580,23 +5580,23 @@ int32,str
 25329,
 25330,
 25400,
-25401,This battle shall be our last.
-25402,Darkness must be destroyed!
-25403,"Begone, spawn of shadow!"
-25404,I will not fall!
-25405,"Refulgent aether, smite my foes!"
-25406,"Gleaming steel, light my path!"
-25407,I am salvation given form...
-25408,Mankind's first hero...and his final hope!
-25409,"For victory, I render up my all!"
-25410,You still stand. Very well...
-25411,"To me, Warriors of Light!"
-25412,"Hope, grant me strength!"
-25413,You... It cannot be...
-25414,"Clad in prayer, I am invincible!"
-25415,Your demise will be our salvation!
-25416,My soul knows no surrender!
-25417,"My duty... No, not yet!"
+25401,"Esta será nuestra última batalla."
+25402,"¡La Oscuridad debe ser destruida!"
+25403,"Desaparece, engendro de las sombras!"
+25404,"¡No caeré!"
+25405,"¡Aether refulgente! ¡Aplasta a mis enemigos!"
+25406,"¡Acero reluciente! ¡Ilumina mi camino!"
+25407,"Soy la salvación manifestada..."
+25408,"El primer héroe de la humanidad...¡y su última esperanza!"
+25409,"Por la victoria...¡Ofreceré todo lo que soy!"
+25410,"Todavía estás en pie. Muy bien..."
+25411,"¡A mi, Guerreros de la Luz!"
+25412,"Esperanza, concédeme fuerza!"
+25413,"¡Tú... No puede ser...!"
+25414,"¡Ataviado en oración, soy invencible!"
+25415,"Tu caída será nuestra salvación!"
+25416,"¡Mi alma no conoce la rendición!"
+25417,"Mi deber... ¡No, aun no!"
 25418,
 25419,"Justice belongs to the victor, and the victor I shall be!"
 25420,Rift swallow you!
@@ -6613,28 +6613,28 @@ int32,str
 27128,"Thunderous tempest, smite our foe!"
 27129,"While my blessings endure, then so shall we..."
 27130,
-28000,The end has come...and it will be beautiful!
-28001,"Soon, my hold over Zodiark shall be complete..."
-28002,Mine...all mine!
-28003,Ahahahahahaha!
-28004,The instrument of salvation...
-28005,...tolling the death knell of all creation!
-28006,Still...still you refuse to yield!?
-28007,The natural order overturned...
-28008,...all in existence bent to my will!
-28009,Malice... Become flesh!
-28010,The great cataclysm...faithfully recreated.
-28011,From broken skies fall tears of flame...
-28012,All shall burn!
-28013,The marvels of Syrcus were but playthings...
-28014,I have no need for restraint!
-28015,This cannot be... I am a god... A god!
-28016,Now comes the end for you and all you hold dear.
-28017,Darkness rises!
-28018,Will you live to see the end?
-28019,How I've waited for this day!
-28020,My life's work...my masterpiece!
-28021,"At last, I am become Zodiark!"
+28000,"¡El fin ha llegado... ¡Y será algo hermoso!"
+28001,"Pronto, mi dominio sobre Zodiark será total..."
+28002,"¡Mío...Todo mío!"
+28003,"¡Ahahahahahaha!"
+28004,"¡El instrumento de la salvación..."
+28005,"...tañendo la campana funebre de toda la creación!"
+28006,"¡¿Aun... Aun rehusas someterte?!"
+28007,"¡El orden natural invertido..."
+28008,"...todo en la existencia doblegado ante mi voluntad!"
+28009,"Malicia... ¡Conviértete en Carne!"
+28010,"El gran cataclismo...fielmente recreado."
+28011,"De cielos rotos caen lágrimas de fuego..."
+28012,"¡Todo arderá!"
+28013,"Las maravillas de Syrcus eran meros juguetes..."
+28014,"¡No tengo necesidad de contenerme!"
+28015,"Esto no puede ser... Soy un Dios... ¡UN DIOS!"
+28016,"Ahora llega tu final y el de todo lo que es preciado para ti."
+28017,"¡La Oscuridad se alza!"
+28018,"¿Vivirás para ver el final?"
+28019,"¡Como he esperado este día!"
+28020,"¡El trabajo de mi vida...mi obra maestra!"
+28021,"¡Al fin! ¡Me he convertido en Zodiark!"
 28022,
 28023,
 28024,
