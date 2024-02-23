@@ -1,7 +1,7 @@
 # FFXIVSpanish
 
 ## Aviso de progreso lento
-Por razones laborales (horario de oficina) la traducción avanzará un poco mas lenta.
+Por razones laborales la traducción avanzará un poco mas lenta, ya que no puedo dedicar tanto tiempo a traducir como antes. Mis horarios no me lo permiten.
 
 ## Traducción al español de Final Fantasy XIV
 En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Inglés.<br/>
