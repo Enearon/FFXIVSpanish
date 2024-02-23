@@ -982,7 +982,7 @@ int32,str
 992,"Requisitos"
 993,"Fusión de Materia"
 994,"Catalizador"
-995,"Reparaciones Rápidas"
+995,"Reparación Rápida"
 996,"<hex:02100103><hex:02100103>Material Artesanal"
 997,"<hex:02100103><hex:02100103>Catalizador Artesanal"
 998,"Recupera hasta un <hex:022003E80203>% de PV (<hex:022003E80303> puntos máximo)."
@@ -1083,7 +1083,7 @@ int32,str
 1093,<hex:022003E80203>
 1094,<hex:022D14FF1202280EFF09436C6173734A6F62E802010303> [Profesión Limitada]
 1095,"Añadir Nueva Pestaña"
-1096,"Configuración del Chat"
+1096,"Opciones del Chat"
 1097,"Lista de la Red de Novatos"
 1098,"Unirse a la Red de Novatos"
 1099,"Interrumpido"
@@ -1180,205 +1180,205 @@ int32,str
 1197,"Bloquear mapa para que no puede ser cerrado pulsando Escape o el botón <hex:021E020B03>, o cuando se muestre el menú principal."
 1198,"<hex:022903EA0203> Misiones de Apoyo"
 1199,"Mostrar/Ocultar iconos del mapa."
-1200,"Configuración del Chat"
+1200,"Opciones del Chat"
 1201,
-1202,Overhead Name Display
-1203,Font Size
-1204,Add time stamp to log messages.
-1205,Play sound upon receiving tell.
-1206,Display full breakdown of weaponskill damage.
-1207,Display log upon receiving a message during a cutscene.
-1208,Export log.
-1209,Log Filters
-1210,Log Filters
+1202,"Visualización del Nombre sobre la Cabeza"
+1203,"Tamaño de la Fuente"
+1204,"Agregar marcas de tiempo a los mensajes de chat."
+1205,"Reproducir sonido al recibir un susurro."
+1206,"Mostrar desglose completo del daño de las habilidades de arma."
+1207,"Mostrar chat tras recibir un mensaje durante una cinemática."
+1208,"Exportar registro de chat."
+1209,"Filtros de Chat"
+1210,"Filtros de Chat"
 1211,
-1212,Chat
-1213,Battle
-1214,Announcements
-1215,Subject
-1216,Object
-1217,Default
-1218,Apply
-1219,Close
-1220,Set Name
-1221,Comment
-1222,OK
-1223,Cancel
-1224,New Filter <hex:022403E80203>
-1225,General Presets
-1226,Battle Presets
-1227,You
-1228,Party Member
-1229,Alliance Member
-1230,Other PC
-1231,Engaged Enemy
-1232,Unengaged Enemy
+1212,"Chat"
+1213,"Batalla"
+1214,"Anuncios"
+1215,"Sujeto"
+1216,"Objeto"
+1217,"Por defecto"
+1218,"Aplicar"
+1219,"Cerrar"
+1220,"Poner Nombre"
+1221,"Comentario"
+1222,"OK"
+1223,"Cancelar"
+1224,"Nuefo filtro para <hex:022403E80203>"
+1225,"Ajustes Generales"
+1226,"Ajustes de Batalla"
+1227,"Tú"
+1228,"Miembro del Grupo"
+1229,"Miembro de la Alianza"
+1230,"Otro Jugador"
+1231,"Enemigo Enfrentado"
+1232,"Enemigo no Enfrentado"
 1233,
-1234,Full Name
-1235,Surname Abbreviated
-1236,Forename Abbreviated
-1237,Initials
-1238,Local Time
-1239,Server Time
-1240,24-hour Format
-1241,12-hour Format
-1242,Type 1
-1243,Type 2
-1244,Type 3
-1245,Type 4
-1246,Type 5
-1247,Type 6
-1248,Type 7
-1249,Type 8
-1250,Type 9
-1251,Type 10
-1252,Type 11
-1253,Type 12
-1254,Type 13
-1255,Type 14
-1256,Type 15
-1257,Type 16
-1258,Type 17
-1259,Type 18
-1260,Type 19
-1261,Type 20
-1262,Name Display Settings
-1263,Name Display Settings
-1270,Select a set of default settings.
-1271,Your changes have not been saved. Proceed?
-1272,Delete log filter settings?
-1273,Check All
-1274,Uncheck All
-1275,Event Presets
-1276,Pets/Companions
-1277,Pets/Companions (Party)
-1278,Pets/Companions (Alliance)
-1279,Pets/Companions (Other PC)
-1280,Turn on profanity filter.
-1281,Not currently available.
-1282,Log Text Colors
-1283,Friendly NPCs
-1284,CP
-1285,GP
-1286,Confirm
+1234,"Nombre Completo"
+1235,"Apellido Abreviado"
+1236,"Nombre Abreviado"
+1237,"Iniciales"
+1238,"Hora Local"
+1239,"Hora del Servidor"
+1240,"Formato de 24 Horas"
+1241,"Formado de 12 Horas"
+1242,"Tipo 1"
+1243,"Tipo 2"
+1244,"Tipo 3"
+1245,"Tipo 4"
+1246,"Tipo 5"
+1247,"Tipo 6"
+1248,"Tipo 7"
+1249,"Tipo 8"
+1250,"Tipo 9"
+1251,"Tipo 10"
+1252,"Tipo 11"
+1253,"Tipo 12"
+1254,"Tipo 13"
+1255,"Tipo 14"
+1256,"Tipo 15"
+1257,"Tipo 16"
+1258,"Tipo 17"
+1259,"Tipo 18"
+1260,"Tipo 19"
+1261,"Tipo 20"
+1262,"Opciones de Visualización de Nombre"
+1263,"Opciones de Visualización de Nombre"
+1270,"Selecciona un conjunto de opciones predeterminadas."
+1271,"Tus cambios no serán guardados. ¿Proceder?"
+1272,"¿Quieres borrar todos las opciones de filtro del chat?
+1273,"Marcar Todas"
+1274,"Desmarcar Todas"
+1275,"Preajustes de Eventos"
+1276,"Mascotas/Compañeros"
+1277,"Mascotas/Compañeros (Grupo)"
+1278,"Mascotas/Compañeros (Alianza)"
+1279,"Mascotas/Compañeros (Otros Jugadores)"
+1280,"Activar filtros de palabras obscenas."
+1281,"No está actualmente disponible."
+1282,"Colores del Texto del Chat"
+1283,"PNJs Amistosos"
+1284,"PA"
+1285,"PR"
+1286,"Confirmar"
 1287,キャンセル
-1288,Custom Location
+1288,"Ubicación Aleatoria"
 1289,
-1290,Min
-1291,Max
-1292,World
-1293,Custom
-1294,Crafter
-1295,Gatherer
-1296,All
-1297,SEARCH CLASS JOB CUSTOMIZE
+1290,"Min"
+1291,"Max"
+1292,"Mundo"
+1293,"Aleatorio"
+1294,"Artesano"
+1295,"Recolector"
+1296,"Todo"
+1297,"BUSCAR PERSONALIZACIÓN DE CLASES Y PROFESIONES"
 1298,検索クラス・ジョブ
 1299,"Grandes Compañías"
-1300,Keybind
+1300,"Asignación de Teclas"
 1301,
-1302,Movement
-1303,Targeting
-1304,Chat
-1305,Hotbar
-1306,Shortcuts
-1307,System
-1308,Commands
-1309,Key Setting 1
-1310,Key Setting 2
-1311,Default
-1312,Save
-1313,<hex:021E020B03> Unselect
-1314,That key is already assigned to another function.<hex:02100103>Overwrite current keybind settings?<hex:02100103>(<hex:022903EA0203> : <hex:022903EA0303>)
-1315,Initializing keybind settings.<hex:02100103>Specify the keyboard you are currently using.
-1316,Japanese Keyboard (106/109)
-1317,English Keyboard (101/104)
-1318,German Keyboard (102/105)
-1319,French Keyboard (102/105)
-1320,Close window and discard all changes without saving?
-1321,Apply
-1322,Close
-1323,Enable direct chat.
-1326,<hex:02081AE1E94C01FF0B>Controller<hex:FF08>Gamepad<hex:03>
-1327,Restore keybind defaults?
-1328,Yes
-1329,No
-1330,Search for names beginning with specified letters. Lists all names when field is left blank.
-1331,Limit search to players with specific online statuses.
-1332,Limit search to players with specific classes or jobs available.
-1333,Limit search to players currently within a specific level range.
-1334,Limit search to players in a specific area or region.
-1335,Limit search to players who have specified certain languages on their search info.
-1336,Limit search to players belonging to the specified Grand Companies.
+1302,"Movimiento"
+1303,"Selección de Objectivo"
+1304,"Chat"
+1305,"Barra de Acceso Rápido"
+1306,"Accesos Directos"
+1307,"Sistema"
+1308,"Comandos"
+1309,"Opciones de Teclas 1"
+1310,"Opciones de Teclas 2"
+1311,"Por Defecto"
+1312,"Guardar"
+1313,"<hex:021E020B03> Deseleccionar"
+1314,"Esta tecla ya está asignada a otra función.<hex:02100103>¿Quieres sobrescribir la asignación de la tecla?<hex:02100103>(<hex:022903EA0203> : <hex:022903EA0303>)
+1315,"Inicializando configuración de asignación de teclas.<hex:02100103>Especifica el tipo de teclado que estás usando."
+1316,"Teclado Japonés (106/109)"
+1317,"Teclado Inglés (101/104)"
+1318,"Teclado Alemán (102/105)"
+1319,"Teclado Francés (102/105)"
+1320,"¿Quieres cerrar la ventana y descartar todos los cambios?"
+1321,"Aplicar"
+1322,"Cerrar"
+1323,"Activar chat directo."
+1326,"Mando"
+1327,"¿Quieres restaurar la configuración predeterminada de teclas?"
+1328,"Si"
+1329,"No"
+1330,"Busca nombres que empiecen con las letras especificadas. Cuando se deja en blanco, lista todos los nombres."
+1331,"Limita la búsqueda a los jugadores con determinados estados de conexión."
+1332,"Limita la búsqueda a los jugadores de determinadas clases o profesiones."
+1333,"Limita la búsqueda a los jugadores en un rango de niveles específico."
+1334,"Limita la búsqueda a los jugadores en un área o región específico."
+1335,"Limita la búsqueda a los jugadores que han especificado determinados lenguajes en su información de búsqueda."
+1336,"Limita la búsqueda a los jugadores que pertenecen a determinadas Grandes Compañías."
 1337,<hex:02280FFF0A>PlaceName<hex:E8020103>
-1338,Race Item Obtained
+1338,"Objeto de Raza Obtenido"
 1339,<hex:022D1BFF19022815FF1043686F636F626F526163654974656DE802010303>
-1340,Action Learned
+1340,"Acción Aprendida"
 1341,<hex:02280CFF07>Action<hex:E8020103>
-1342,Action Learned
+1342,"Acción Aprendida"
 1343,<hex:022811FF0C>CraftAction<hex:E8020103>
-1344,Action Learned
+1344,"Acción Aprendida"
 1345,<hex:022813FF0E>GeneralAction<hex:E8020103>
-1346,Trait Acquired
+1346,"Rasgo Adquirido"
 1347,<hex:02280BFF06>Trait<hex:E8020103>
-1348,Race Ability Acquired
+1348,"Habilidad de Raza Adquirida"
 1349,<hex:022818FF13>ChocoboRaceAbility<hex:E8020103>
-1350,There is nothing to display.
-1351,Unable to retrieve data. That player is on another World.
-1352,<hex:021E020B03>Subcommands  <hex:021E020C03>Select Item
-1353,<hex:021E020903> Put up for Sale  <hex:021E020B03> Subcommands
-1354,<hex:021E020903><hex:021E020B03> Subcommands  <hex:021E020C03> Select Item
-1355,Accept
-1356,Decline
-1358,Color Palette
+1350,"No hay nada que mostrar."
+1351,"Imposible recuperar datos. El jugador está en otro Mundo."
+1352,"<hex:021E020B03>Subcomandos  <hex:021E020C03>Seleccionar Objeto"
+1353,"<hex:021E020903> Poner en Venta  <hex:021E020B03> Subcomandos"
+1354,"<hex:021E020903><hex:021E020B03> Subcomandos  <hex:021E020C03> Seleccionar Objeto"
+1355,"Aceptar"
+1356,"Rechazar"
+1358,"Paleta de Colores"
 1359,
 1360,<hex:020960E802FF1D><hex:022819FF14>GCRankLimsaMaleText<hex:E8030103><hex:FF20><hex:02281CFF17>GCRankGridaniaMaleText<hex:E8030103><hex:FF1D><hex:022819FF14>GCRankUldahMaleText<hex:E8030103><hex:03>
-1361,Extractable: <hex:02080BE1E80201FF02>Y<hex:FF02>N<hex:03>  Projectable: <hex:02080BE1E80301FF02>Y<hex:FF02>N<hex:03>  Desynthesizable: <hex:020813E1E80401FF0A><hex:022003E80503>.00<hex:FF02>N<hex:03>
+1361,Extraible: <hex:02080BE1E80201FF02>S<hex:FF02>N<hex:03>  Proyectable: <hex:02080BE1E80301FF02>S<hex:FF02>N<hex:03>  Desintetizable: <hex:020813E1E80401FF0A><hex:022003E80503>.00<hex:FF02>N<hex:03>
 1362,?
 1363,???%
-1365,Free Company
+1365,"Compañía Libre"
 1366,<hex:02280EFF09>FCRights<hex:E8020103>
-1370,Armoury Chest
+1370,"Arsenal"
 1371,
-1372,Level
-1373,Main Hand
-1374,Off Hand
-1375,Head
-1376,Body
-1377,Hands
-1378,Waist
-1379,Legs
-1380,Feet
-1381,Neck
-1382,Ears
-1383,Wrists
-1384,Rings
-1385,Soul Crystal
-1386,Inventory
-1387,Place in Armoury Chest
-1388,Return to Inventory
-1389,Sort
-1390,Undo Sort
-1391,Equipped
-1392,Armoury Chest (Main Hand/Off Hand)
-1393,Armoury Chest (Head/Body/Hands)
-1394,Armoury Chest (Legs/Feet)
-1395,Armoury Chest (Neck/Ears)
-1396,Armoury Chest (Wrists/Ring)
-1397,Inventory
-1398,Armoury Chest (Off Hand/Head/Body)
-1400,Crafting Log
+1372,"Nivel"
+1373,"Mano Principal"
+1374,"Mano Secundaria"
+1375,"Cabeza"
+1376,"Cuerpo"
+1377,"Manos"
+1378,"Cintura"
+1379,"Piernas"
+1380,"Pies"
+1381,"Cuello"
+1382,"Orejas"
+1383,"Muñecas"
+1384,"Anillos"
+1385,"Cristal de Alma"
+1386,"Inventario"
+1387,"Poner en Arsenal"
+1388,"Devolver al Inventario"
+1389,"Ordenar"
+1390,"Deshacer Ordenar"
+1391,"Equipado"
+1392,"Arsenal (Mano Principal/Mano Secundaria)"
+1393,"Arsenal (Cabeza/Cuerpo/Manos)"
+1394,"Arsenal (Piernas/Pies)"
+1395,"Arsenal (Cuello/Orejas)"
+1396,"Arsenal (Muñecas/Anillos)"
+1397,"Inventario"
+1398,"Arsenal (Mano Secundaria/Cabeza/Cuerpo)"
+1400,"Registro de Artesanía"
 1401,
-1402,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Level <hex:022003E80203><hex:021A020103><hex:FF0D>Level <hex:022003E80203><hex:03>
-1403,Quick Synthesis
-1404,Synthesize
-1405,Extras
-1406,Favorites
-1407,Class
-1408,Recipe Level
-1409,Special Recipes
-1410,No recipes to display.
+1402,<hex:02082EE804FF1C><hex:021A020203><hex:0212023F03>Nivel <hex:022003E80203><hex:021A020103><hex:FF0D>Nivel <hex:022003E80203><hex:03>
+1403,"Síntesis Rápida"
+1404,"Sintetizar"
+1405,"Extras"
+1406,"Favoritos"
+1407,"Clase"
+1408,"Nivel de la Receta"
+1409,"Recetas Especiales"
+1410,"No hay recetas para mostrar."
 1411,<hex:022003E80203>-<hex:022003E80303>
-1412,Recipe Search
+1412,"Buscar Receta"
 1413,Type in the full or partial name of an item and press Enter to commence the search.
 1414,Search for Item by Crafting Method
 1415,All
