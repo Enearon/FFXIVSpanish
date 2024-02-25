@@ -19,7 +19,7 @@
     <td>Ul'dah</td>
     <td>[2%]</td>
     <td>Mazmorras</td>
-    <td>[0%]</td>
+    <td>[1%]</td>
     <td>Habilidades</td>
     <td>[1%]</td>
   </tr>
@@ -29,7 +29,7 @@
     <td>Aether Currents</td>
     <td>[0%]</td>
     <td>Interfaz</td>
-    <td>[6%]</td>
+    <td>[10%]</td>
   </tr>
   <tr>
     <td>Mazmorras</td>
