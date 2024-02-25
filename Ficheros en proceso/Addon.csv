@@ -155,10 +155,10 @@ int32,str
 150, 
 151,"¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres usar este coleccionable?"
 152,"Descartar coleccionable"
-153,"<hex:024804F201FC03><hex:024904F201FD03>¿Quieres Descartar <hex:02310CFF05>Item<hex:03E802020203><hex:020829E1E80301FF21> (Valor de Recolección: <hex:022003E80303>)<hex:FF01><hex:03>?<hex:0249020103><hex:0248020103>"
+153,"<hex:024804F201FC03><hex:024904F201FD03>¿Quieres Descartar <hex:02310CFF05>Item<hex:03E802020203><hex:020829E1E80301FF21> (Valor de Coleccionable: <hex:022003E80303>)<hex:FF01><hex:03>?<hex:0249020103><hex:0248020103>"
 154,"Reducir Calidad"
 155,"¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres reducir la calidad de <hex:02280AFF05>Item<hex:E8020103><hex:020810E1E80401FF08>x<hex:022003E80303><hex:FF01><hex:03>para transformarlo en el siguiente objeto？"
-156,"El valor de recolección de <hex:02280AFF05>Item<hex:E8020103> es de <hex:022003E80303>. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres reducir la calidad para transformarlo en el siguiente objeto?"
+156,"El Valor de Coleccionable de <hex:02280AFF05>Item<hex:E8020103> es de <hex:022003E80303>. ¿Estás seg<hex:02080DE905FF04>ura<hex:FF04>uro<hex:03> de que quieres reducir la calidad para transformarlo en el siguiente objeto?"
 157,"Reducir calidad del coleccionable"
 158,"Reducir calidad del objeto"
 159,"Copiar Nombre del Objeto"
@@ -1043,7 +1043,7 @@ int32,str
 1053,"PE"
 1054,"Coste de PE"
 1055,"Coleccionable"
-1056,"Valor de Recolección"
+1056,"Valor de Coleccionable"
 1057,<hex:020815E1E80301FF0D>　　　　<hex:FF01><hex:03><hex:020812E3E80201FF04>???<hex:FF07><hex:022003E80203><hex:03>
 1058,
 1059,"Sistema"
@@ -1379,134 +1379,134 @@ int32,str
 1410,"No hay recetas para mostrar."
 1411,<hex:022003E80203>-<hex:022003E80303>
 1412,"Buscar Receta"
-1413,Type in the full or partial name of an item and press Enter to commence the search.
-1414,Search for Item by Crafting Method
-1415,All
+1413,"Escribe el nombre completo o parcial del objeto y presiona Enter para iniciar la búsqueda."
+1414,"Buscar objeto por Método de Creación"
+1415,"Todo"
 1416,<hex:022814FF0F>ItemUICategory<hex:E8020103>
-1417,Characteristics
-1418,Quick Synthesis Unavailable
-1419,High-quality Uncraftable
-1420,Craftsmanship Required: <hex:022003E80203>
-1421,Control Required: <hex:022003E80203>
-1422,Equipment Required: <hex:02280AFF05>Item<hex:E8020A03>
-1423,Status Required: <hex:024804F2022503><hex:024904F2022603><hex:02280CFF07>Status<hex:E8020103><hex:0249020103><hex:0248020103>
-1424,Collectable Synthesis Available
-1425,High-quality Uncraftable/Collectable Synthesis Available
-1426,Quick Synthesis Craftsmanship Required: <hex:022003E80203>
-1427,Quick Synthesis Control Required: <hex:022003E80203>
-1428,Collectable Synthesis
-1429,Specialist Recipe
-1430,Durability
-1431,Difficulty
-1432,Quality
-1433,Materials
+1417,"Características"
+1418,"Síntesis Rápida: No Disponible"
+1419,"Alta Calidad: No disponible"
+1420,"Habilidad Artesanal Requerida: <hex:022003E80203>"
+1421,"Control Requerido: <hex:022003E80203>"
+1422,"Equipamiento Requerido: <hex:02280AFF05>Item<hex:E8020A03>"
+1423,"Estado Requerido: <hex:024804F2022503><hex:024904F2022603><hex:02280CFF07>Status<hex:E8020103><hex:0249020103><hex:0248020103>"
+1424,"Síntesis de Coleccionable: Disponible"
+1425,"Alta Calidad No disponible/Síntesis de Coleccionable Disponible"
+1426,"Habilidad Artesanal para Síntesis Rápida: <hex:022003E80203>"
+1427,"Control para Síntesis Rápida: <hex:022003E80203>"
+1428,"Síntesis de Coleccionable"
+1429,"Receta de Especialista"
+1430,"Durabilidad"
+1431,"Dificultad"
+1432,"Calidad"
+1433,"Materiales"
 1434,NQ
 1435,HQ
 1436,<hex:022003E80203><hex:020816E1E80501FF0E><hex:02100103><hex:022003E80303><hex:FF01><hex:03><hex:020816E1E80601FF0E><hex:02100103><hex:022003E80403><hex:FF01><hex:03>
 1437,<hex:022003E80203>
-1438,Bag
-1439,Craftable
-1440,Unselected
-1441,Selected
+1438,"Bolsa"
+1439,"Fabricable"
+1440,"No seleccionado"
+1441,"Seleccionado"
 1442,<hex:02280AFF05>Item<hex:E8020A03> (<hex:022B14FF12><hex:02280EFF09>ClassJob<hex:E8030103><hex:03>)
-1443,No EXP Granted
-1444,Display Only Recent Recipes
-1445,Select Material
-1446,Add to Favorites
-1447,Remove from Favorites
+1443,"No otorgará EXP"
+1444,"Mostrar solo recetas recientes"
+1445,"Seleccionar Material"
+1446,"Añadir a Favoritos"
+1447,"Eliminar de Favoritos"
 1448,"<hex:020817E1E802F2270FFF07>9,999+<hex:FF07><hex:022003E80203><hex:03>"
-1449,Deleted Recipes
-1450,Finish the following item as a collectable?<hex:02100103><hex:024804F201F803><hex:024904F201F903>Collectability Rating:<hex:0249020103><hex:0248020103> <hex:022003E80203><hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Only one collectable can be synthesized at a time. Collectables cannot be traded or sold in the markets.<hex:0249020103><hex:0248020103>
-1451,Craftsmanship Recommended: <hex:022003E80203>
-1452,Expert Recipe
-1453,Expert Recipe
+1449,"Recetas Eliminadas"
+1450,"¿Completar el siguiente objeto como Coleccionable?<hex:02100103><hex:024804F201F803><hex:024904F201F903>Valor de Coleccionable:<hex:0249020103><hex:0248020103> <hex:022003E80203><hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Solo se puede sintetizar un coleccionable a la vez. Los objetos coleccionables no pueden ser comerciados o vendidos en los mercados.<hex:0249020103><hex:0248020103>"
+1451,"Habilidad Artesanal Recomendada: <hex:022003E80203>"
+1452,"Receta de Experto"
+1453,"Receta de Experto"
 1454,(Max <hex:022003E80203>％)
-1455,Special
-1456,Collectables
-1457,Wear
-1458,Rarity
-1459,Collect
-1460,Return
-1461,Bonus
-1462,Required GP: <hex:022003E80203>
-1463,Gather the following item as a collectable?<hex:02100103><hex:024804F201F803><hex:024904F201F903>Collectability Rating:<hex:0249020103><hex:0248020103> <hex:022003E80203><hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Only one collectable can be gathered at a time. Collectables cannot be traded or sold in the markets.<hex:0249020103><hex:0248020103>
+1455,"Especial"
+1456,"Coleccionables"
+1457,"Desgaste"
+1458,"Rareza"
+1459,"Recolectar"
+1460,"Volver"
+1461,"Bonus"
+1462,"PR Requeridos: <hex:022003E80203>"
+1463,"Recolectar el siguiente objeto como Coleccionable?<hex:02100103><hex:024804F201F803><hex:024904F201F903>Valor de Coleccionable:<hex:0249020103><hex:0248020103> <hex:022003E80203><hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Solo se puede sintetizar un coleccionable a la vez. Los objetos coleccionables no pueden ser comerciados o vendidos en los mercados.<hex:0249020103><hex:0248020103>"
 1464,/
 1465,%
-1466,Location Effect
-1467,<hex:022903EA0203> <hex:024804F201F603><hex:024904F201F703>[Off]<hex:0249020103><hex:0248020103> 
-1468,<hex:022903EA0203> <hex:024804F201F603><hex:024904F201F703>[On]<hex:0249020103><hex:0248020103> 
-1469,BONUS
-1470,Item Search
-1471,Type in the full or partial name of an item and press Enter to commence the search.
-1472,Search for Item by Gathering Method
-1473,"At 100% efficiency, progress increases by <hex:022003E80203>."
-1474,"At 100% efficiency, quality increases by <hex:022003E80203>."
-1475,"At 100% efficiency, progress increases by <hex:022003E80203>."
-1476,"At 100% efficiency, quality increases by <hex:022003E80203>."
-1477,Only 9 icons can be displayed. Check HUD.
-1478,Always Synthesized as Collectable
-1479,Acquired Titles
-1480,Titles
+1466,"Efecto de la Ubicación"
+1467,"<hex:022903EA0203> <hex:024804F201F603><hex:024904F201F703>[Off]<hex:0249020103><hex:0248020103> "
+1468,"<hex:022903EA0203> <hex:024804F201F603><hex:024904F201F703>[On]<hex:0249020103><hex:0248020103> "
+1469,"BONUS"
+1470,"Buscar Objeto"
+1471,"Escribe el nombre completo o parcial del objeto y presiona Enter para iniciar la búsqueda."
+1472,"Buscar Objeto por Método de Recolección"
+1473,"Al 100% de eficiencia, el progreso aumentará en <hex:022003E80203>."
+1474,"Al 100% de eficiencia, la calidad aumentará en <hex:022003E80203>."
+1475,"Al 100% de eficiencia, el progreso aumentará en <hex:022003E80203>."
+1476,"Al 100% de eficiencia, la calidad aumentará en <hex:022003E80203>."
+1477,"Solo 9 iconos pueden ser mostrados. Comprueba la Interfaz."
+1478,"Siempre se sintetiza como Coleccionable"
+1479,"Títulos Adquiridos"
+1480,"Títulos"
 1481,
-1482,Current Title
-1483,Titles
-1484,Achievement
-1485,Category
-1486,...<hex:022903EA0203>
-1487,<hex:022903EA0203>...
-1488,Settings have not been applied.<hex:02100103>Discard changes?
-1489,Set as Title
-1490,Remove as Title
-1491,View Achievement
-1492,Sort by Name
-1493,Sort by Category
+1482,"Título Actual"
+1483,"Títulos"
+1484,"Logro"
+1485,"Categoría"
+1486,"...<hex:022903EA0203>"
+1487,"<hex:022903EA0203>..."
+1488,"Las opciones no han sido aplicadas.<hex:02100103>¿Descartar cambios?"
+1489,"Usar Título"
+1490,"Quitar Título"
+1491,"Ver Logro"
+1492,"Ordenar por Nombre"
+1493,"Ordenar por Categoría"
 1494,<hex:022903EA0203> <hex:022903EA0303>
-1495,Sort by ID
-1496,View sorting options.
+1495,"Ordenar por ID"
+1496,"Ver opciones de clasificación."
 1497,<hex:022003E80203>-<hex:022003E80303>
-1498,Save
-1499,Close
-1500,Ceremony Plan
+1498,"Guardar"
+1499,"Cerrar"
+1500,"Plan para la Ceremonia"
 1501,
-1502,Ceremony Style
-1503,Chapel Decoration
-1504,Procession
-1505,Recession
-1506,Bouquet Bearer
-1507,Music
-1508,Save Plan
-1509,Cancel
-1510,Carpet Color
-1511,Flower Color
-1512,Procession
-1513,Reception
-1514,Preview
-1515,The Lover's Kiss
-1516,The Spinner's Hand
-1517,The Solemn Oath
-1518,On Foot
-1519,On a Gondola (1)
-1520,On Foot
-1521,On Chocoback
-1522,You
-1523,Partner
-1524,Listen
-1525,Lighting
-1526,Natural
-1527,Romantic
-1528,On a Gondola (2)
-1529,On a Gondola (3)
-1530,Fabric Color
-1532,White
-1533,Pink
-1534,Orange
-1535,Blue
-1536,Red
-1537,White
-1538,Pink
-1539,Orange
-1540,Blue
-1541,Red
+1502,"Estilo de la Ceremonia"
+1503,"Decoración de la Capilla"
+1504,"Procesión"
+1505,"Recesión"
+1506,"Portador del Ramo"
+1507,"Música"
+1508,"Guardar Plan"
+1509,"Cancelar"
+1510,"Color de la Alfombra"
+1511,"Color de las Flores"
+1512,"Procesión"
+1513,"Recepción"
+1514,"Previsualizar"
+1515,"El Beso de los Amantes"
+1516,"La Mano de la Hilandera"
+1517,"El Juramento Solemne"
+1518,"A pie"
+1519,"En una Góndola (1)"
+1520,"A pie"
+1521,"En Chocobo"
+1522,"Tú"
+1523,"Compañero"
+1524,"Escuchar"
+1525,"Iluminación"
+1526,"Natural"
+1527,"Romántica"
+1528,"En una Góndola (2)"
+1529,"En una Góndola (3)"
+1530,"Color de la Tela"
+1532,"Blanco"
+1533,"Rosa"
+1534,"Naranja"
+1535,"Azul"
+1536,"Rojo"
+1537,"Blanco"
+1538,"Rosa"
+1539,"Naranja"
+1540,"Azul"
+1541,"Rojo"
 1542,"Ceremony Style<hex:02100103><hex:02100103>The Lover's Kiss<hex:02100103>Presided over by a choir moogle, this ceremony is conducted in a light-hearted fashion and is sealed with a kiss.<hex:02100103><hex:02100103>The Spinner's Hand<hex:02100103>Presided over by a female Officiant of the Graces, this traditional ceremony dedicated to the Twelve concludes with a symbolic toast to mark the start of your lives together.<hex:02100103><hex:02100103>The Solemn Oath<hex:02100103>Presided over by a male Officiant of the Vows, this undenominational ceremony closes with the signing of an official pact before the assembled guests."
 1543,Chapel Decoration<hex:02100103><hex:02100103>※<hex:02087EE3E80203FF2C>Natural lighting will be used in the chapel<hex:FF4B>You may choose between natural or romantic lighting options for the chapel<hex:03>.<hex:02100103><hex:02100103>※<hex:0208F2010DE1E80201FFF20103><hex:0209F0FEE802FF36>A rug and flower combination will be selected for you<hex:FF62>You may choose one of three colors for both the chapel carpeting and the hall's floral decoration<hex:FF61>You may choose one of five colors for both the chapel carpeting and the hall's floral decoration<hex:03><hex:FF01><hex:03>.<hex:02100103><hex:02100103>※<hex:0208C2E1E80201FFBA><hex:0209B6E802FF31>Decorative fabric will not be used in the chapel<hex:FF40>You may choose one of three fabric colors for chapel decoration<hex:FF3F>You may choose one of five fabric colors for chapel decoration<hex:03><hex:FF01><hex:03>.
 1544,"Procession<hex:02100103><hex:02100103><hex:0208F0D1E3E80203FF39>You and your partner will enter the Ivory Chapel on foot<hex:FF92>You and your partner may choose to enter the Ivory Chapel on foot, or seated upon <hex:02083CE1E80203FF20>one of three enchanted gondolas<hex:FF15>an enchanted gondola<hex:03><hex:03>."
