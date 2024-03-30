@@ -1,4 +1,4 @@
-﻿key,0,1
+﻿﻿key,0,1
 #,,
 offset,0,4
 int32,str,str
@@ -62,20 +62,20 @@ int32,str,str
 57,TEXT_MANFST000_00083_100130_NARRATION,"De su núcleo surgió el "Primal" Bahamut, desatando toda su furia sobre el reino."
 58,TEXT_MANFST000_00083_100140_NARRATION,"La devastación puso a Eorzea de rodillas, y la era llegó a su fin."
 59,TEXT_MANFST000_00083_100150_NARRATION,"Pero, todo final marca un nuevo comienzo."
-60,TEXT_MANFST000_00083_100160_NARRATION,Han pasado cinco años.
-61,TEXT_MANFST000_00083_100170_NARRATION,La luz de la vida brilla de nuevo sobre Eorzea.
-62,TEXT_MANFST000_00083_100180_NARRATION,La humanidad trabaja incansablemente para recuperarse de los estragos que trajo la Calamidad.
+60,TEXT_MANFST000_00083_100160_NARRATION,"Han pasado cinco años."
+61,TEXT_MANFST000_00083_100170_NARRATION,"La luz de la vida brilla de nuevo sobre Eorzea."
+62,TEXT_MANFST000_00083_100180_NARRATION,"La humanidad trabaja incansablemente para recuperarse de los estragos que trajo la Calamidad."
 63,TEXT_MANFST000_00083_100190_NARRATION,"El reino cambió para siempre, siendo nuevamente un extraño para él mismo."
 64,TEXT_MANFST000_00083_100200_NARRATION,"Aun así, sin importar lo que le espere, seguirá adelante,"
 65,TEXT_MANFST000_00083_100210_NARRATION,impulsado por la promesa de paz y prosperidad.
 66,TEXT_MANFST000_00083_100220_NARRATION,"En medio de este periodo de grandes cambios, un aventurero llega a Eorzea..."
-67,TEXT_MANFST000_00083_100230_NARRATION,Uno cuya historia aun no está escrita.
-68,TEXT_MANFST000_00083_100240_NARRATION,Que siempre camina bajo la luz del Cristal.
+67,TEXT_MANFST000_00083_100230_NARRATION,"Uno cuya historia aun no está escrita."
+68,TEXT_MANFST000_00083_100240_NARRATION,"Que siempre camina bajo la luz del Cristal."
 69,TEXT_MANFST000_00083_000010_MOTHERCRYSTAL,Escucha...
 70,TEXT_MANFST000_00083_000020_MOTHERCRYSTAL,Escucha... Siente...
 71,TEXT_MANFST000_00083_000030_MOTHERCRYSTAL,Escucha... Siente... Piensa...
-72,TEXT_MANFST000_00083_BREMONDT_000_1,(-???-)...Oi!
-73,TEXT_MANFST000_00083_BREMONDT_000_2,(-???-)"¿Te encuentras bien?"
+72,TEXT_MANFST000_00083_BREMONDT_000_1,"(-???-)...Oi!"
+73,TEXT_MANFST000_00083_BREMONDT_000_2,"(-???-)¿Te encuentras bien am<hex:02080DE905FF04>iga<hex:FF04>igo<hex:03>?"
 74,TEXT_MANFST000_00083_BREMONDT_000_3,"(-Pasajero amigable-)Estabas farfullando en sueños, y sudando a mares debo añadir."
 75,TEXT_MANFST000_00083_BREMONDT_000_4,"(-Pasajero amigable-)Debe ser el Aether, supongo. Algunos son mas propensos a enfermar que otros."
 76,TEXT_MANFST000_00083_BREMONDT_000_5,"(-Pasajero amigable-)No hay necesidad de preocuparse, pronto te acostumbrarás a ello."
