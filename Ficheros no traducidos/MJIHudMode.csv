@@ -1,0 +1,13 @@
+﻿key,0,1
+#,Name,Title
+offset,0,4
+int32,str,str
+0,Free,
+1,Gather,Gather
+2,Sow,Sow
+3,Water,Water
+4,Cull,Cull
+5,Feed,Feed
+6,Pet,Pet
+7,Beckon,Beckon
+8,Capture,Capture

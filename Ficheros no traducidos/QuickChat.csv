@@ -1,0 +1,44 @@
+﻿key,0
+#,Name{Action}
+offset,0
+int32,str
+0,Deleted Message
+1,Hello
+2,Good Match
+3,Thank You
+4,Nice Job
+5,Additional Action 1
+6,Limit Break
+7,Offensive Supplies
+8,Defensive Supplies
+9,Adrenaline Supplies
+10,Wolf's Heart
+11,Attacking Tank
+12,Attacking Healer
+13,Attacking Melee DPS
+14,Attacking Ranged DPS
+15,Stopping Tank
+16,Stopping Healer
+17,Stopping Melee DPS
+18,Stopping Ranged DPS
+19,Collecting Medals
+20,Get Medals
+21,Charge
+22,Retreat
+23,MP
+24,TP
+25,Attacking Target
+26,Blocking Target
+27,Additional Action 2
+28,Focus Attack
+29,End Focused Attack
+30,Sorry
+31,Going Ahead
+32,Falling Back
+33,Moving Crystal
+34,Push Crystal
+35,Covering Target
+36,Executing Limit Break
+37,Group Up
+38,Purify
+39,Guard

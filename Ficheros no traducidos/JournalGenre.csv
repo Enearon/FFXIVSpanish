@@ -1,0 +1,341 @@
+﻿key,3
+#,Name
+offset,0
+int32,str
+0,
+1,Seventh Umbral Era
+2,Seventh Astral Era
+3,Heavensward
+4,Dragonsong War
+5,Post-Dragonsong War
+6,Stormblood
+7,Post-Ala Mhigan Liberation
+8,Shadowbringers
+9,The Voyage Home
+10,Dark Reprise
+11,Endwalker
+12,Newfound Adventure
+13,Dawntrail
+14,The New Dawn
+15,Primal Quests
+16,Bahamut Quests
+17,Crystal Tower Quests
+18,Alexander Quests
+19,Heavensward Primal Quests
+20,Shadow of Mhach Quests
+21,Omega Quests
+22,Omega: Beyond the Rift
+23,Return to Ivalice
+24,The Four Lords
+25,Eden
+26,YoRHa: Dark Apocalypse
+27,Garlemald's Machinations
+28,Pandæmonium
+29,Pandæmonium: Epilogue
+30,Myths of the Realm
+31,The Arcadion
+32,Echoes of Vana'diel
+33,Main Quests
+34,Daily Quests
+35,Main Quests
+36,Daily Quests
+37,Main Quests
+38,Daily Quests
+39,Main Quests
+40,Daily Quests
+41,Main Quests
+42,Daily Quests
+43,Main Quests
+44,Daily Quests
+45,Main Quests
+46,Daily Quests
+47,Main Quests
+48,Daily Quests
+49,Main Quests
+50,Daily Quests
+51,Main Quests
+52,Daily Quests
+53,Main Quests
+54,Daily Quests
+55,Main Quests
+56,Daily Quests
+57,Main Quests
+58,Daily Quests
+59,Main Quests
+60,Daily Quests
+61,Main Quests
+62,Daily Quests
+63,Main Quests
+64,Daily Quests
+65,Main Quests
+66,Daily Quests
+67,Main Quests
+68,Daily Quests
+69,A Realm Reborn Allied Society Quests
+70,Heavensward Allied Society Quests
+71,Stormblood Allied Society Quests
+72,Endwalker Allied Society Quests
+73,Tales of the Dragonsong War
+74,Tales from the Shadows
+75,Tales of Newfound Adventure
+76,Hildibrand Adventures
+77,Further Hildibrand Adventures
+78,Even Further Hildibrand Adventures
+79,Somehow Further Hildibrand Adventures
+80,Manderville Weapons
+81,Inconceivably Further Hildibrand Adventures
+82,Zodiac Weapons
+83,Anima Weapons
+84,"The Forbidden Land, Eureka"
+85,Resistance Weapons
+86,Tales from the Calamity
+87,Delivery Moogle Quests
+88,Scholasticate Quests
+89,Void Quests
+90,Tataru's Grand Endeavor
+91,Doman Adventurers' Guild Quests
+92,Doman Reconstruction Quests
+93,Ishgardian Restoration Main Quests
+94,Ishgardian Restoration Sidequests
+95,Splendorous Tools
+96,Palace of the Dead
+97,Heaven-on-High
+98,Eureka Orthos
+99,Island Sanctuary Quests
+100,Variant Dungeons
+101,La Noscean Sidequests
+102,Gridanian Sidequests
+103,Ul'dahn Sidequests
+104,Coerthan Sidequests
+105,Mor Dhonan Sidequests
+106,Ishgardian Sidequests
+107,Abalathian Sidequests
+108,Dravanian Forelands Sidequests
+109,Dravanian Hinterlands Sidequests
+110,Churning Mists Sidequests
+111,Idyllshire Sidequests
+112,Azys Lla Sidequests
+113,Rhalgr's Reach Sidequests
+114,Fringes Sidequests
+115,Peaks Sidequests
+116,Lochs Sidequests
+117,Kugane Sidequests
+118,Ruby Sea Sidequests
+119,Yanxia Sidequests
+120,Azim Steppe Sidequests
+121,Crystarium Sidequests
+122,Eulmore Sidequests
+123,Lakeland Sidequests
+124,Kholusia Sidequests
+125,Amh Araeng Sidequests
+126,Il Mheg Sidequests
+127,Rak'tika Sidequests
+128,Tempest Sidequests
+129,Old Sharlayan Sidequests
+130,Radz-at-Han Sidequests
+131,Labyrinthos Sidequests
+132,Thavnairian Sidequests
+133,Garlean Sidequests
+134,Mare Lamentorum Sidequests
+135,Elpis Sidequests
+136,Ultima Thule Sidequests
+137,Tuliyollal Sidequests
+138,Urqopacha Sidequests
+139,Kozama'uka Sidequests
+140,Yak T'el Sidequests
+141,Shaaloani Sidequests
+142,Heritage Found Sidequests
+143,Solution Nine Sidequests
+144,Living Memory Sidequests
+145,Gladiator Quests
+146,Pugilist Quests
+147,Marauder Quests
+148,Lancer Quests
+149,Archer Quests
+150,Rogue Quests
+151,Conjurer Quests
+152,Thaumaturge Quests
+153,Arcanist Quests
+154,Carpenter Quests
+155,Blacksmith Quests
+156,Armorer Quests
+157,Goldsmith Quests
+158,Leatherworker Quests
+159,Weaver Quests
+160,Alchemist Quests
+161,Culinarian Quests
+162,Miner Quests
+163,Botanist Quests
+164,Fisher Quests
+165,Paladin Quests
+166,Monk Quests
+167,Warrior Quests
+168,Dragoon Quests
+169,Bard Quests
+170,Ninja Quests
+171,White Mage Quests
+172,Black Mage Quests
+173,Summoner Quests
+174,Scholar Quests
+175,Dark Knight Quests
+176,Machinist Quests
+177,Astrologian Quests
+178,Samurai Quests
+179,Red Mage Quests
+180,Gunbreaker Quests
+181,Dancer Quests
+182,Sage Quests
+183,Reaper Quests
+184,Viper Quests
+185,Pictomancer Quests
+186,Blue Mage Quests
+187,Facet of Forging Quests
+188,Facet of Crafting Quests
+189,Facet of Nourishing Quests
+190,Facet of Gathering Quests
+191,Facet of Fishing Quests
+192,Crystalline Mean Quests
+193,Faculty of Archaeology Quests
+194,Faculty of Astronomy Quests
+195,Faculty of Medicine Quests
+196,Faculty of Anthropology Quests
+197,Faculty of Aetherology Quests
+198,Studium Quests
+199,XRral Soj Metalwares Quests
+200,Epistles by Pameka Quests
+201,Xeerol Ja Juicecraft Quests
+202,Shunye's Apothecary Quests
+203,Fish Fancies Donuhanu Quests
+204,Wachumeqimeqi Quests
+205,Tank Role Quests (Shadowbringers)
+206,Healer Role Quests (Shadowbringers)
+207,Physical DPS Role Quests (Shadowbringers)
+208,Magical Ranged DPS Role Quests (Shadowbringers)
+209,Role Quests (Shadowbringers)
+210,Tank Role Quests (Endwalker)
+211,Healer Role Quests (Endwalker)
+212,Melee DPS Role Quests (Endwalker)
+213,Physical Ranged DPS Role Quests (Endwalker)
+214,Magical Ranged DPS Role Quests (Endwalker)
+215,Role Quests (Endwalker)
+216,Tank Role Quests (Dawntrail)
+217,Healer Role Quests (Dawntrail)
+218,Melee DPS Role Quests (Dawntrail)
+219,Physical Ranged DPS Role Quests (Dawntrail)
+220,Magical Ranged DPS Role Quests (Dawntrail)
+221,Role Quests (Dawntrail)
+222,Maelstrom Quests
+223,Order of the Twin Adder Quests
+224,Immortal Flames Quests
+225,Seasonal Events
+226,Heavensturn Events
+227,Eastern Duties
+228,Valentione's Day Events
+229,Valentione's & Little Ladies' Day Events
+230,Little Ladies' Day Events
+231,Little Ladies' & Hatching-tide Events
+232,Hatching-tide Events
+233,Gold Saucer Festivities
+234,Moonfire Faire Events
+235,Rising Events
+236,All Saints' Wake Events
+237,Starlight Celebration Events
+238,Other Seasonal Events
+239,Special Quests
+240,Collaboration Quests
+241,
+242,
+243,
+244,
+245,
+246,
+247,
+248,
+249,
+250,
+251,
+252,
+253,
+254,
+255,
+256,
+257,
+258,
+259,Battlecraft Levequests
+260,Carpenter Levequests
+261,Blacksmith Levequests
+262,Armorer Levequests
+263,Goldsmith Levequests
+264,Leatherworker Levequests
+265,Weaver Levequests
+266,Alchemist Levequests
+267,Culinarian Levequests
+268,Miner Levequests
+269,Botanist Levequests
+270,Fisher Levequests
+271,Maelstrom Levequests
+272,Order of the Twin Adder Levequests
+273,Immortal Flames Levequests
+274,Instanced Dungeons
+275,Instanced Raids
+276,Trials
+277,Instanced Dungeons
+278,Instanced Raids
+279,Trials
+280,Deep Dungeons
+281,Instanced Dungeons
+282,Instanced Raids
+283,Trials
+284,Deep Dungeons
+285,Eureka Expedition Quests
+286,Instanced Dungeons
+287,Instanced Raids
+288,Trials
+289,Save the Queen: Blades of Gunnhildr
+290,Instanced Dungeons
+291,Instanced Raids
+292,Trials
+293,Deep Dungeons
+294,Criterion Dungeons
+295,Instanced Dungeons
+296,Instanced Raids
+297,Trials
+298,Guildhests
+299,
+300,
+301,
+302,
+303,
+304,
+305,
+306,
+307,
+308,
+309,
+310,
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,
+331,
+332,Legacy Main Scenario Quests
+333,Legacy Sidequests
+334,Legacy Class Quests
+335,Legacy Job Quests
+336,Legacy Grand Company Quests

@@ -1,0 +1,604 @@
+﻿key,9
+#,Name
+offset,0
+int32,str
+10001,Gladiator 01
+10002,Gladiator 02
+10003,Gladiator 03
+10004,Gladiator 04
+10005,Gladiator 05
+10006,Gladiator 06
+10007,Gladiator 07
+10008,Gladiator 08
+10009,Gladiator 09
+10010,Gladiator 10
+10011,Gladiator 11
+10012,Gladiator 12
+10013,Gladiator 13
+10014,Gladiator 14
+10015,Gladiator 15
+10016,Gladiator 16
+10017,Gladiator 17
+10018,Gladiator 18
+10019,Gladiator 19
+10020,Gladiator 20
+10021,Gladiator 21
+10022,Gladiator 22
+10023,Gladiator 23
+10024,Gladiator 24
+10025,Gladiator 25
+10026,Gladiator 26
+10027,Gladiator 27
+10028,Gladiator 28
+10029,Gladiator 29
+10030,Gladiator 30
+10031,Gladiator 31
+10032,Gladiator 32
+10033,Gladiator 33
+10034,Gladiator 34
+10035,Gladiator 35
+10036,Gladiator 36
+10037,Gladiator 37
+10038,Gladiator 38
+10039,Gladiator 39
+10040,Gladiator 40
+10041,Gladiator 41
+10042,Gladiator 42
+10043,Gladiator 43
+10044,Gladiator 44
+10045,Gladiator 45
+10046,Gladiator 46
+10047,Gladiator 47
+10048,Gladiator 48
+10049,Gladiator 49
+10050,Gladiator 50
+20001,Pugilist 01
+20002,Pugilist 02
+20003,Pugilist 03
+20004,Pugilist 04
+20005,Pugilist 05
+20006,Pugilist 06
+20007,Pugilist 07
+20008,Pugilist 08
+20009,Pugilist 09
+20010,Pugilist 10
+20011,Pugilist 11
+20012,Pugilist 12
+20013,Pugilist 13
+20014,Pugilist 14
+20015,Pugilist 15
+20016,Pugilist 16
+20017,Pugilist 17
+20018,Pugilist 18
+20019,Pugilist 19
+20020,Pugilist 20
+20021,Pugilist 21
+20022,Pugilist 22
+20023,Pugilist 23
+20024,Pugilist 24
+20025,Pugilist 25
+20026,Pugilist 26
+20027,Pugilist 27
+20028,Pugilist 28
+20029,Pugilist 29
+20030,Pugilist 30
+20031,Pugilist 31
+20032,Pugilist 32
+20033,Pugilist 33
+20034,Pugilist 34
+20035,Pugilist 35
+20036,Pugilist 36
+20037,Pugilist 37
+20038,Pugilist 38
+20039,Pugilist 39
+20040,Pugilist 40
+20041,Pugilist 41
+20042,Pugilist 42
+20043,Pugilist 43
+20044,Pugilist 44
+20045,Pugilist 45
+20046,Pugilist 46
+20047,Pugilist 47
+20048,Pugilist 48
+20049,Pugilist 49
+20050,Pugilist 50
+30001,Marauder 01
+30002,Marauder 02
+30003,Marauder 03
+30004,Marauder 04
+30005,Marauder 05
+30006,Marauder 06
+30007,Marauder 07
+30008,Marauder 08
+30009,Marauder 09
+30010,Marauder 10
+30011,Marauder 11
+30012,Marauder 12
+30013,Marauder 13
+30014,Marauder 14
+30015,Marauder 15
+30016,Marauder 16
+30017,Marauder 17
+30018,Marauder 18
+30019,Marauder 19
+30020,Marauder 20
+30021,Marauder 21
+30022,Marauder 22
+30023,Marauder 23
+30024,Marauder 24
+30025,Marauder 25
+30026,Marauder 26
+30027,Marauder 27
+30028,Marauder 28
+30029,Marauder 29
+30030,Marauder 30
+30031,Marauder 31
+30032,Marauder 32
+30033,Marauder 33
+30034,Marauder 34
+30035,Marauder 35
+30036,Marauder 36
+30037,Marauder 37
+30038,Marauder 38
+30039,Marauder 39
+30040,Marauder 40
+30041,Marauder 41
+30042,Marauder 42
+30043,Marauder 43
+30044,Marauder 44
+30045,Marauder 45
+30046,Marauder 46
+30047,Marauder 47
+30048,Marauder 48
+30049,Marauder 49
+30050,Marauder 50
+40001,Lancer 01
+40002,Lancer 02
+40003,Lancer 03
+40004,Lancer 04
+40005,Lancer 05
+40006,Lancer 06
+40007,Lancer 07
+40008,Lancer 08
+40009,Lancer 09
+40010,Lancer 10
+40011,Lancer 11
+40012,Lancer 12
+40013,Lancer 13
+40014,Lancer 14
+40015,Lancer 15
+40016,Lancer 16
+40017,Lancer 17
+40018,Lancer 18
+40019,Lancer 19
+40020,Lancer 20
+40021,Lancer 21
+40022,Lancer 22
+40023,Lancer 23
+40024,Lancer 24
+40025,Lancer 25
+40026,Lancer 26
+40027,Lancer 27
+40028,Lancer 28
+40029,Lancer 29
+40030,Lancer 30
+40031,Lancer 31
+40032,Lancer 32
+40033,Lancer 33
+40034,Lancer 34
+40035,Lancer 35
+40036,Lancer 36
+40037,Lancer 37
+40038,Lancer 38
+40039,Lancer 39
+40040,Lancer 40
+40041,Lancer 41
+40042,Lancer 42
+40043,Lancer 43
+40044,Lancer 44
+40045,Lancer 45
+40046,Lancer 46
+40047,Lancer 47
+40048,Lancer 48
+40049,Lancer 49
+40050,Lancer 50
+50001,Archer 01
+50002,Archer 02
+50003,Archer 03
+50004,Archer 04
+50005,Archer 05
+50006,Archer 06
+50007,Archer 07
+50008,Archer 08
+50009,Archer 09
+50010,Archer 10
+50011,Archer 11
+50012,Archer 12
+50013,Archer 13
+50014,Archer 14
+50015,Archer 15
+50016,Archer 16
+50017,Archer 17
+50018,Archer 18
+50019,Archer 19
+50020,Archer 20
+50021,Archer 21
+50022,Archer 22
+50023,Archer 23
+50024,Archer 24
+50025,Archer 25
+50026,Archer 26
+50027,Archer 27
+50028,Archer 28
+50029,Archer 29
+50030,Archer 30
+50031,Archer 31
+50032,Archer 32
+50033,Archer 33
+50034,Archer 34
+50035,Archer 35
+50036,Archer 36
+50037,Archer 37
+50038,Archer 38
+50039,Archer 39
+50040,Archer 40
+50041,Archer 41
+50042,Archer 42
+50043,Archer 43
+50044,Archer 44
+50045,Archer 45
+50046,Archer 46
+50047,Archer 47
+50048,Archer 48
+50049,Archer 49
+50050,Archer 50
+60001,Conjurer 01
+60002,Conjurer 02
+60003,Conjurer 03
+60004,Conjurer 04
+60005,Conjurer 05
+60006,Conjurer 06
+60007,Conjurer 07
+60008,Conjurer 08
+60009,Conjurer 09
+60010,Conjurer 10
+60011,Conjurer 11
+60012,Conjurer 12
+60013,Conjurer 13
+60014,Conjurer 14
+60015,Conjurer 15
+60016,Conjurer 16
+60017,Conjurer 17
+60018,Conjurer 18
+60019,Conjurer 19
+60020,Conjurer 20
+60021,Conjurer 21
+60022,Conjurer 22
+60023,Conjurer 23
+60024,Conjurer 24
+60025,Conjurer 25
+60026,Conjurer 26
+60027,Conjurer 27
+60028,Conjurer 28
+60029,Conjurer 29
+60030,Conjurer 30
+60031,Conjurer 31
+60032,Conjurer 32
+60033,Conjurer 33
+60034,Conjurer 34
+60035,Conjurer 35
+60036,Conjurer 36
+60037,Conjurer 37
+60038,Conjurer 38
+60039,Conjurer 39
+60040,Conjurer 40
+60041,Conjurer 41
+60042,Conjurer 42
+60043,Conjurer 43
+60044,Conjurer 44
+60045,Conjurer 45
+60046,Conjurer 46
+60047,Conjurer 47
+60048,Conjurer 48
+60049,Conjurer 49
+60050,Conjurer 50
+70001,Thaumaturge 01
+70002,Thaumaturge 02
+70003,Thaumaturge 03
+70004,Thaumaturge 04
+70005,Thaumaturge 05
+70006,Thaumaturge 06
+70007,Thaumaturge 07
+70008,Thaumaturge 08
+70009,Thaumaturge 09
+70010,Thaumaturge 10
+70011,Thaumaturge 11
+70012,Thaumaturge 12
+70013,Thaumaturge 13
+70014,Thaumaturge 14
+70015,Thaumaturge 15
+70016,Thaumaturge 16
+70017,Thaumaturge 17
+70018,Thaumaturge 18
+70019,Thaumaturge 19
+70020,Thaumaturge 20
+70021,Thaumaturge 21
+70022,Thaumaturge 22
+70023,Thaumaturge 23
+70024,Thaumaturge 24
+70025,Thaumaturge 25
+70026,Thaumaturge 26
+70027,Thaumaturge 27
+70028,Thaumaturge 28
+70029,Thaumaturge 29
+70030,Thaumaturge 30
+70031,Thaumaturge 31
+70032,Thaumaturge 32
+70033,Thaumaturge 33
+70034,Thaumaturge 34
+70035,Thaumaturge 35
+70036,Thaumaturge 36
+70037,Thaumaturge 37
+70038,Thaumaturge 38
+70039,Thaumaturge 39
+70040,Thaumaturge 40
+70041,Thaumaturge 41
+70042,Thaumaturge 42
+70043,Thaumaturge 43
+70044,Thaumaturge 44
+70045,Thaumaturge 45
+70046,Thaumaturge 46
+70047,Thaumaturge 47
+70048,Thaumaturge 48
+70049,Thaumaturge 49
+70050,Thaumaturge 50
+260001,Arcanist 01
+260002,Arcanist 02
+260003,Arcanist 03
+260004,Arcanist 04
+260005,Arcanist 05
+260006,Arcanist 06
+260007,Arcanist 07
+260008,Arcanist 08
+260009,Arcanist 09
+260010,Arcanist 10
+260011,Arcanist 11
+260012,Arcanist 12
+260013,Arcanist 13
+260014,Arcanist 14
+260015,Arcanist 15
+260016,Arcanist 16
+260017,Arcanist 17
+260018,Arcanist 18
+260019,Arcanist 19
+260020,Arcanist 20
+260021,Arcanist 21
+260022,Arcanist 22
+260023,Arcanist 23
+260024,Arcanist 24
+260025,Arcanist 25
+260026,Arcanist 26
+260027,Arcanist 27
+260028,Arcanist 28
+260029,Arcanist 29
+260030,Arcanist 30
+260031,Arcanist 31
+260032,Arcanist 32
+260033,Arcanist 33
+260034,Arcanist 34
+260035,Arcanist 35
+260036,Arcanist 36
+260037,Arcanist 37
+260038,Arcanist 38
+260039,Arcanist 39
+260040,Arcanist 40
+260041,Arcanist 41
+260042,Arcanist 42
+260043,Arcanist 43
+260044,Arcanist 44
+260045,Arcanist 45
+260046,Arcanist 46
+260047,Arcanist 47
+260048,Arcanist 48
+260049,Arcanist 49
+260050,Arcanist 50
+290001,Rogue 01
+290002,Rogue 02
+290003,Rogue 03
+290004,Rogue 04
+290005,Rogue 05
+290006,Rogue 06
+290007,Rogue 07
+290008,Rogue 08
+290009,Rogue 09
+290010,Rogue 10
+290011,Rogue 11
+290012,Rogue 12
+290013,Rogue 13
+290014,Rogue 14
+290015,Rogue 15
+290016,Rogue 16
+290017,Rogue 17
+290018,Rogue 18
+290019,Rogue 19
+290020,Rogue 20
+290021,Rogue 21
+290022,Rogue 22
+290023,Rogue 23
+290024,Rogue 24
+290025,Rogue 25
+290026,Rogue 26
+290027,Rogue 27
+290028,Rogue 28
+290029,Rogue 29
+290030,Rogue 30
+290031,Rogue 31
+290032,Rogue 32
+290033,Rogue 33
+290034,Rogue 34
+290035,Rogue 35
+290036,Rogue 36
+290037,Rogue 37
+290038,Rogue 38
+290039,Rogue 39
+290040,Rogue 40
+290041,Rogue 41
+290042,Rogue 42
+290043,Rogue 43
+290044,Rogue 44
+290045,Rogue 45
+290046,Rogue 46
+290047,Rogue 47
+290048,Rogue 48
+290049,Rogue 49
+290050,Rogue 50
+1000001,Maelstrom 01
+1000002,Maelstrom 02
+1000003,Maelstrom 03
+1000004,Maelstrom 04
+1000005,Maelstrom 05
+1000006,Maelstrom 06
+1000007,Maelstrom 07
+1000008,Maelstrom 08
+1000009,Maelstrom 09
+1000010,Maelstrom 10
+1000011,Maelstrom 11
+1000012,Maelstrom 12
+1000013,Maelstrom 13
+1000014,Maelstrom 14
+1000015,Maelstrom 15
+1000016,Maelstrom 16
+1000017,Maelstrom 17
+1000018,Maelstrom 18
+1000019,Maelstrom 19
+1000020,Maelstrom 20
+1000021,Maelstrom 21
+1000022,Maelstrom 22
+1000023,Maelstrom 23
+1000024,Maelstrom 24
+1000025,Maelstrom 25
+1000026,Maelstrom 26
+1000027,Maelstrom 27
+1000028,Maelstrom 28
+1000029,Maelstrom 29
+1000030,Maelstrom 30
+1000031,Maelstrom 31
+1000032,Maelstrom 32
+1000033,Maelstrom 33
+1000034,Maelstrom 34
+1000035,Maelstrom 35
+1000036,Maelstrom 36
+1000037,Maelstrom 37
+1000038,Maelstrom 38
+1000039,Maelstrom 39
+1000040,Maelstrom 40
+1000041,Maelstrom 41
+1000042,Maelstrom 42
+1000043,Maelstrom 43
+1000044,Maelstrom 44
+1000045,Maelstrom 45
+1000046,Maelstrom 46
+1000047,Maelstrom 47
+1000048,Maelstrom 48
+1000049,Maelstrom 49
+1000050,Maelstrom 50
+2000001,Order of the Twin Adder 01
+2000002,Order of the Twin Adder 02
+2000003,Order of the Twin Adder 03
+2000004,Order of the Twin Adder 04
+2000005,Order of the Twin Adder 05
+2000006,Order of the Twin Adder 06
+2000007,Order of the Twin Adder 07
+2000008,Order of the Twin Adder 08
+2000009,Order of the Twin Adder 09
+2000010,Order of the Twin Adder 10
+2000011,Order of the Twin Adder 11
+2000012,Order of the Twin Adder 12
+2000013,Order of the Twin Adder 13
+2000014,Order of the Twin Adder 14
+2000015,Order of the Twin Adder 15
+2000016,Order of the Twin Adder 16
+2000017,Order of the Twin Adder 17
+2000018,Order of the Twin Adder 18
+2000019,Order of the Twin Adder 19
+2000020,Order of the Twin Adder 20
+2000021,Order of the Twin Adder 21
+2000022,Order of the Twin Adder 22
+2000023,Order of the Twin Adder 23
+2000024,Order of the Twin Adder 24
+2000025,Order of the Twin Adder 25
+2000026,Order of the Twin Adder 26
+2000027,Order of the Twin Adder 27
+2000028,Order of the Twin Adder 28
+2000029,Order of the Twin Adder 29
+2000030,Order of the Twin Adder 30
+2000031,Order of the Twin Adder 31
+2000032,Order of the Twin Adder 32
+2000033,Order of the Twin Adder 33
+2000034,Order of the Twin Adder 34
+2000035,Order of the Twin Adder 35
+2000036,Order of the Twin Adder 36
+2000037,Order of the Twin Adder 37
+2000038,Order of the Twin Adder 38
+2000039,Order of the Twin Adder 39
+2000040,Order of the Twin Adder 40
+2000041,Order of the Twin Adder 41
+2000042,Order of the Twin Adder 42
+2000043,Order of the Twin Adder 43
+2000044,Order of the Twin Adder 44
+2000045,Order of the Twin Adder 45
+2000046,Order of the Twin Adder 46
+2000047,Order of the Twin Adder 47
+2000048,Order of the Twin Adder 48
+2000049,Order of the Twin Adder 49
+2000050,Order of the Twin Adder 50
+3000001,Immortal Flames 01
+3000002,Immortal Flames 02
+3000003,Immortal Flames 03
+3000004,Immortal Flames 04
+3000005,Immortal Flames 05
+3000006,Immortal Flames 06
+3000007,Immortal Flames 07
+3000008,Immortal Flames 08
+3000009,Immortal Flames 09
+3000010,Immortal Flames 10
+3000011,Immortal Flames 11
+3000012,Immortal Flames 12
+3000013,Immortal Flames 13
+3000014,Immortal Flames 14
+3000015,Immortal Flames 15
+3000016,Immortal Flames 16
+3000017,Immortal Flames 17
+3000018,Immortal Flames 18
+3000019,Immortal Flames 19
+3000020,Immortal Flames 20
+3000021,Immortal Flames 21
+3000022,Immortal Flames 22
+3000023,Immortal Flames 23
+3000024,Immortal Flames 24
+3000025,Immortal Flames 25
+3000026,Immortal Flames 26
+3000027,Immortal Flames 27
+3000028,Immortal Flames 28
+3000029,Immortal Flames 29
+3000030,Immortal Flames 30
+3000031,Immortal Flames 31
+3000032,Immortal Flames 32
+3000033,Immortal Flames 33
+3000034,Immortal Flames 34
+3000035,Immortal Flames 35
+3000036,Immortal Flames 36
+3000037,Immortal Flames 37
+3000038,Immortal Flames 38
+3000039,Immortal Flames 39
+3000040,Immortal Flames 40
+3000041,Immortal Flames 41
+3000042,Immortal Flames 42
+3000043,Immortal Flames 43
+3000044,Immortal Flames 44
+3000045,Immortal Flames 45
+3000046,Immortal Flames 46
+3000047,Immortal Flames 47
+3000048,Immortal Flames 48
+3000049,Immortal Flames 49
+3000050,Immortal Flames 50
