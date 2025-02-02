@@ -1,0 +1,23 @@
+﻿key,8,9
+#,,
+offset,0,4
+int32,str,str
+0,,
+1,Pom Fire,Deals <hex:022003E80203> damage to a target in front of you.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+2,Pom Starstorm,Deals <hex:022003E80203> damage to all enemies in an area centered <hex:022003E80303> squares in front of you.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+3,Pom Meteor,Deals <hex:022003E80203> damage to all enemies.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+4,Pom Cure,Restores <hex:022003E80203> HP.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+5,Pom Esuna,Removes all detrimental effects except for Doom.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+6,Pom Ward,Erects a protective barrier around you.<hex:02100103><hex:020820E1E80602FF0D>Effect Turns<hex:FF0C>Effect Turn<hex:03>: <hex:022003E80603><hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+7,Pom Levitation,Grants invulnerability to floor effects.<hex:02100103><hex:020820E1E80602FF0D>Effect Turns<hex:FF0C>Effect Turn<hex:03>: <hex:022003E80603><hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+8,Pom Reraise,Grants automatic revival upon KO for the duration of the effect.<hex:02100103>MP Cost: <hex:022003E80403>   <hex:020820E1E80502FF0D>Recast Turns<hex:FF0C>Recast Turn<hex:03>: <hex:022003E80503>
+9,,
+10,,
+11,,
+12,,
+13,,
+14,,
+15,,
+16,,
+17,,
+18,,

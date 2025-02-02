@@ -1,0 +1,9 @@
+﻿key,1
+#,Text
+offset,0
+int32,str
+0,
+1,Enemies
+2,Dungeons
+3,FATEs
+4,Leves

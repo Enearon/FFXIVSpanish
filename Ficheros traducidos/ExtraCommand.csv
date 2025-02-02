@@ -1,8 +1,0 @@
-﻿key,0,1
-#,Name,Description
-offset,0,4
-int32,str,str
-0,,
-1,"Pose de Grupo","Realiza una pose en grupo que repite el último emóticono o acción ejecutado en bucle. Se pueden ajustar la posición de la cámara, iluminación, filtro de color y más.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Comando: <hex:0249020103><hex:0248020103>/grouppose<hex:02100103><hex:024804F201F403><hex:024904F201F503>Asignación de Tecla: <hex:0249020103><hex:0248020103> Disponible"
-2,"Cámara de Inactividad","Activa la cámara de inactividad. Cuando esta característica está activa la cámara irá cambiando aleatoriamente entre jugadores y pnj. Si se usa sobre un objetivo centrará la cámara en ese objetivo. Se pueden ajustar la posición de la cámara, iluminación, filtro de color y más.<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Comando: <hex:0249020103><hex:0248020103>/idlingcamera<hex:02100103><hex:024804F201F403><hex:024904F201F503>Asignación de Tecla: <hex:0249020103><hex:0248020103> Disponible"
-3,"Alarma","Activa la alarma. Las alarmas pueden ser usadas como recordatorios de algún evento mientras estamos en el juego (Se borran al desconectar).<hex:02100103><hex:02100103><hex:024804F201F403><hex:024904F201F503>Comando: <hex:0249020103><hex:0248020103>/alarm<hex:02100103><hex:024804F201F403><hex:024904F201F503>Asignación de Tecla: <hex:0249020103><hex:0248020103> Disponible"

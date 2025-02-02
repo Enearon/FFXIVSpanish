@@ -1,0 +1,14 @@
+﻿key,0
+#,Effect
+offset,0
+int32,str
+0,
+1,Increased HP
+2,Increased Action Speed
+3,Increased Damage Dealt
+4,Decreased Damage Taken
+5,Increased Healing Potency
+6,Decreased Recast Time
+7,Increased Resistance Duration
+8,Increased MP Regeneration
+9,Increased TP Regeneration

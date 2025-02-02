@@ -1,0 +1,19 @@
+﻿key,0
+#,
+offset,0
+int32,str
+0,
+1,The PvP team “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>” is formed.
+2,<hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:020813E4EB02EB03FF05>join<hex:FF06>joins<hex:03> the team.
+3,<hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:020815E4EB02EB03FF06>leave<hex:FF07>leaves<hex:03> the team.
+4,<hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:020815E4EB02EB03FF06>leave<hex:FF07>leaves<hex:03> the team.
+5,
+6,
+7,The team name is changed to “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>.”
+8,The team crest is updated.
+9,The team is promoted to rank “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>.”
+10,The team is demoted to rank “<hex:020816E909FF10><hex:02280CFF07>ObjStr<hex:E9090103><hex:EB0403>.”
+11,A new season begins.
+12,Leader not found. <hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:02080FE4EB02EB03FF04>are<hex:FF03>is<hex:03> promoted to team leader.
+13,<hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:02080FE4EB02EB03FF04>are<hex:FF03>is<hex:03> promoted to subleader.
+14,<hex:022B2EFF2C><hex:020828E4EB02EB03FF04>you<hex:FF1C><hex:020818E908FF12><hex:02310EFF07>ObjStr<hex:03E908020203><hex:EB0303><hex:03><hex:03> <hex:02080FE4EB02EB03FF04>are<hex:FF03>is<hex:03> promoted to team leader.

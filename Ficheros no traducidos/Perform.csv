@@ -1,0 +1,33 @@
+﻿key,0,9
+#,Name,Instrument
+offset,16,4
+int32,str,str
+0,,
+1,047harp,Harp
+2,001grandpiano,Piano
+3,026steelguitar,Lute
+4,046pizzicato,Fiddle
+5,074flute,Flute
+6,069oboe,Oboe
+7,072clarinet,Clarinet
+8,073piccolo,Fife
+9,076panflute,Panpipes
+10,048timpani,Timpani
+11,097bongo,Bongo
+12,098bd,Bass Drum
+13,099snare,Snare Drum
+14,100cymbal,Cymbal
+15,057trumpet,Trumpet
+16,058trombone,Trombone
+17,059tuba,Tuba
+18,061frenchhorn,Horn
+19,066altosax,Saxophone
+20,041violin,Violin
+21,042viola,Viola
+22,043cello,Cello
+23,044contrabass,Double Bass
+24,030driveguitar,Electric Guitar: Overdriven
+25,028cleanguitar,Electric Guitar: Clean
+26,029muteguitar,Electric Guitar: Muted
+27,031powerguitar,Electric Guitar: Power Chords
+28,032FXguitar,Electric Guitar: Special
