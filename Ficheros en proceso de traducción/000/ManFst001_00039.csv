@@ -2,9 +2,9 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_MANFST001_00039_SEQ_00,"To be recognized as an adventurer in the city–state of Gridania, you must first register yourself with the Adventurers' Guild."
-1,TEXT_MANFST001_00039_SEQ_01,Wood Wailer Bertennant suggests that you speak with Carline Canopy proprietress Mother Miounne before you begin exploring.
-2,TEXT_MANFST001_00039_SEQ_02,"Now that you have successfully registered yourself as an adventurer, you are ready to begin exploring Gridania. Speak with Miounne again to learn more about the city and the basics of adventuring."
+0,TEXT_MANFST001_00039_SEQ_00,"Para que se te reconozca como <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> en la ciudad-estado de Gridania debes registrarte en el Gremio de Aventureros."
+1,TEXT_MANFST001_00039_SEQ_01,"El Guardabosques Bertennant te ha sugerido que hables con Mama Miounne, propietaria de Carline Canopy antes de que comiences a explorar."
+2,TEXT_MANFST001_00039_SEQ_02,"Ahora que te has registrado como aventurero estás preparado para comenzar a explorar Gridania. Habla con Miounne de nuevo para aprender mas sobre la ciudad y los conceptos básicos de la aventura."
 3,TEXT_MANFST001_00039_SEQ_03,
 4,TEXT_MANFST001_00039_SEQ_04,
 5,TEXT_MANFST001_00039_SEQ_05,
@@ -26,7 +26,7 @@ int32,str,str
 21,TEXT_MANFST001_00039_SEQ_21,
 22,TEXT_MANFST001_00039_SEQ_22,
 23,TEXT_MANFST001_00039_SEQ_23,
-24,TEXT_MANFST001_00039_TODO_00,Speak with Miounne.
+24,TEXT_MANFST001_00039_TODO_00,"Habla con Miounne."
 25,TEXT_MANFST001_00039_TODO_01,
 26,TEXT_MANFST001_00039_TODO_02,
 27,TEXT_MANFST001_00039_TODO_03,
@@ -50,14 +50,14 @@ int32,str,str
 45,TEXT_MANFST001_00039_TODO_21,
 46,TEXT_MANFST001_00039_TODO_22,
 47,TEXT_MANFST001_00039_TODO_23,
-48,TEXT_MANFST001_00039_BERTENNANT_000_1,"Another green adventurer, I presume?"
-49,TEXT_MANFST001_00039_BERTENNANT_000_2,I thought as much. We cannot allow strangers to wander Gridania unchecked and untested.
-50,TEXT_MANFST001_00039_BERTENNANT_000_3,"Before you rush off and begin pestering every second citizen for work, I suggest you make yourself known at the Carline Canopy. That's the headquarters of the local Adventurers' Guild, in case you were wondering."
-51,TEXT_MANFST001_00039_BERTENNANT_000_4,"The Carline Canopy is the building you see behind me. Speak to Mother Miounne within, and she will take you in hand."
-52,TEXT_MANFST001_00039_SYSTEM_000_10,You have begun a quest!
-53,TEXT_MANFST001_00039_SYSTEM_000_11,Use the <hex:024804F201F403><hex:024904F201F503>duty list<hex:0249020103><hex:0248020103> to help you complete your task.
-54,TEXT_MANFST001_00039_MIOUNNE_000_20,"Well, well, what have we here?"
-55,TEXT_MANFST001_00039_MIOUNNE_000_21,"A wide-eyed and wondering young adventurer, come to put your name down at the guild, I assume?"
+48,TEXT_MANFST001_00039_BERTENNANT_000_1,"¿<hex:02080FE905FF05>Otra<hex:FF05>Otro<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> <hex:020813E905FF07>novata<hex:FF07>novato<hex:03>?"
+49,TEXT_MANFST001_00039_BERTENNANT_000_2,"Eso pensaba. No podemos permitir a los extraños que no están registrados deambular por Gridania sin control alguno."
+50,TEXT_MANFST001_00039_BERTENNANT_000_3,"Antes de que empieces a molestar a los ciudadanos solicitando trabajo te sugiero que te presentes en el Carline Canopy. Es la sede del Gremio de Aventureros local, en caso de que te lo estuvieras preguntando."
+51,TEXT_MANFST001_00039_BERTENNANT_000_4,"El Carline Canopy es ese edificio que ves justo detrás de mi. Habla con Mama Miounne en su interior, ella se encargará de ti."
+52,TEXT_MANFST001_00039_SYSTEM_000_10,"¡Has comenzado una misión!"
+53,TEXT_MANFST001_00039_SYSTEM_000_11,"Usa el <hex:024804F201F403><hex:024904F201F503>Registro de Aventuras<hex:0249020103><hex:0248020103> si necesitas ayuda para completar tu tarea."
+54,TEXT_MANFST001_00039_MIOUNNE_000_20,"Vaya, vaya, ¿qué tenemos aquí?"
+55,TEXT_MANFST001_00039_MIOUNNE_000_21,"A wide-eyed and wondering young adventurer, come to put your name down at the guild, I assume?" "
 56,TEXT_MANFST001_00039_MIOUNNE_000_22,"Actually...haven't you registered with us already? There's something strikingly familiar about you, but I can't for the life of me remember when or where we might have met."
 57,TEXT_MANFST001_00039_MIOUNNE_000_23,"Oh, I probably just have you confused with another adventurer─dozens of you come through here every day, after all. Now, where was I? Ah, yes."
 58,TEXT_MANFST001_00039_MIOUNNE_000_24,"Welcome. Miounne's my name, or Mother Miounne as most call me, and the Carline Canopy is my place."
