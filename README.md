@@ -6,8 +6,27 @@ En este repositorio se subirán los ficheros de traducción que necesitan ser tr
 ## ¿Cómo contribuyo con la traducción?
 Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.<br/>
 
-AVISO: En los ficheros de traducción veréis comandos <hex:xxxxxx> (Donde las X son los números y letras correspondientes). No todos pueden ser eliminados y, es importante, en algunas ocasiones, no cambiar nada en su interior debido a la naturaleza del funcionamiento. Ante la duda; se puede ignorar esa línea y dejar el aviso.
-Se irá publicando en este mismo fichero información al respecto de cada <hex:xxxxxx> a medida que se vayan encontrando y utilizando.
+## ¿Cómo funcionan los códigos HEX que veo en la traducción?
+Estos códigos hacen referencia a las funciones. Por ejemplo; Un código que sea <hex:02080DE905FF04> nos indica un condicional, en programación un "IF" y un "ELSE" lo que, por ejemplo, podría referirse a si el personaje es hombre o mujer. <br/>
+Pero claro ¿Y que significan todos los números y letras adicioinales? Bueno, vamos a desentrañar lo importante del código y un código completo como ejemplo.<br/>
+
+<hex:020810E905FF05>Hola<hex:FF06>Adios<hex:03><br/>
+02 - Inicia la instrucción, este valor no debe modificarse nunca.<br/>
+08 - Indica el tipo de instrucción, en este caso nos indica un condicional IF y ELSE.<br/>
+**10** - Nos indica el tamaño total de la instrucción. 10 en Hexadecimal es un equivalente a 16 en Decimal.<br/>
+E905 - No sabemos muy bien que indica la verdad, pero no debe cambiarse.<br/>
+**FF05** - Indica el tamaño en bytes del texto. En este caso "Hola" son 4 bytes, pero se añade un byte, mas adelante se explica porque.<br/>
+**FF06** - Indica el condicional ELSE y tiene un valor de 5 bytes, pero al igual que antes, se añade un byte.<br/>
+03 - Cierra la instrucción. No debe cambiarse.<br/><br/>
+
+Los valores que nos interesa cambiar durante la traducción están resaltados en negrita. Estos valores son muy importantes o, de lo contrario, la instrucción no funcionará y dará un error de parse y no cargará o el texto no funcionará como debería.<br/>
+Para calcular los valores debe hacerse de la siguiente manera:<br/>
+Si una instrucción tiene un valor total de 15 bytes a este valor se le debe sumar 1 byte siendo el total de 16 bytes. No se explica ni hay documentación al respecto, esto ha sido sacado a base de ensayo y error con la poca documentación que tengo.<br/>
+Al igual, si una palabra que añadimos tiene 4 bytes de longitud se debe añadir 1 byte extra, aplica para ambas. Al igual que antes no hay una explicación clara, intuyo que es algo relacionado con el propio funcionamiento de las instrucciones.<br/><br/>
+
+Para ver los tipos de instrución podemos acceder a esta página: https://github.com/ufx/SaintCoinach/blob/master/SaintCoinach/Text/TagType.cs<br/><br/>
+
+Es muy importante entender como funcionanb los hex ya que uno mal puesto podría romper todo el fichero de traducción, así que ante la duda, no lo traduzcas y déjalo para cuando el fichero sea revisado.<br/><br/>
 
 ## Software para la aplicación de la traducción
 El repositorio se usa para trabajar en la traducción y todo el software utilizado es exclusivo para testeo interno; Una vez tengamos un avance significativo se publicará el traductor en releases.
