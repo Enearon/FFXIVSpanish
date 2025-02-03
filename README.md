@@ -14,7 +14,7 @@ Pero claro ¿Y que significan todos los números y letras adicioinales? Bueno, v
 02 - Inicia la instrucción, este valor no debe modificarse nunca.<br/>
 08 - Indica el tipo de instrucción, en este caso nos indica un condicional IF y ELSE.<br/>
 **10** - Nos indica el tamaño total de la instrucción. 10 en Hexadecimal es un equivalente a 16 en Decimal.<br/>
-E905 - No sabemos muy bien que indica la verdad, pero no debe cambiarse.<br/>
+E905 - No sabemos muy bien que indica, pero no debe cambiarse.<br/>
 **FF05** - Indica el tamaño en bytes del texto. En este caso "Hola" son 4 bytes, pero se añade un byte, mas adelante se explica porque.<br/>
 **FF06** - Indica el condicional ELSE y tiene un valor de 5 bytes, pero al igual que antes, se añade un byte.<br/>
 03 - Cierra la instrucción. No debe cambiarse.<br/><br/>
