@@ -4,27 +4,27 @@ offset,0
 int32,str
 0,
 1,General
-2,Dungeons
+2,Mazmorras
 3,Trials
 4,Raids
-5,The Hunt
-6,Treasure Hunt
+5,Cacerías
+6,Buscador de Tesoros
 7,General
 8,Ranking
 9,The Wolves' Den
 10,Frontline
 11,Rival Wings
 12,General
-13,Disciples of War
-14,Disciples of Magic
-15,Disciples of the Hand
-16,Disciples of the Land
-17,Commendation
+13,Disciplinas de la Guerra
+14,Disciplinas de la Magia
+15,Disciplinas de la Artesanía
+16,Disciplinas de la Tierra
+17,Elogios
 18,Gold Saucer
 19,General
-20,Currency
-21,Desynthesis
-22,Collectables
+20,Divisas
+21,Desmaterialización
+22,Recolectables
 23,Materia
 24,Carpenter
 25,Blacksmith
@@ -39,9 +39,9 @@ int32,str
 34,Fisher
 35,General
 36,Levequests
-37,Allied Society Quests
-38,Seasonal Events
-39,Sightseeing Log
+37,Misiones de Tribus
+38,Eventos de Temporada
+39,Diario de Exploración
 40,La Noscea
 41,The Black Shroud
 42,Thanalan
@@ -56,13 +56,13 @@ int32,str
 51,Maelstrom
 52,Order of the Twin Adder
 53,Immortal Flames
-54,Battle
-55,Currency
-56,Gathering
-57,Quests
-58,Seasonal Events
-59,Dungeons
-60,Exploration
+54,Batalla
+55,Divisas
+56,Recolección
+57,Misiones
+58,Eventos de Temporada
+59,Mazmorras
+60,Exploración
 61,Grand Company
 62,Relic Weapons
 63,Zodiac Weapons
@@ -71,15 +71,15 @@ int32,str
 66,Eureka Weapons
 67,Norvrandt
 68,Resistance Weapons
-69,All Disciplines
+69,Todas las Disciplinas
 70,Skysteel Tools
-71,Field Operations
+71,Operaciones de Campo
 72,The Northern Empty
 73,Ilsabard
-74,Other
+74,Otros
 75,Manderville Weapons
-76,Main Scenario
-77,Job/Role Quests
+76,Historia Principal
+77,Misiones Clase/Rol
 78,Splendorous Tools
 79,Yok Tural
 80,Xak Tural
