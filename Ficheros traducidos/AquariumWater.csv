@@ -3,5 +3,5 @@
 offset,0
 int32,str
 0,nothing
-1,Freshwater
-2,Saltwater
+1,"Agua Dulce"
+2,"Agua Salada"

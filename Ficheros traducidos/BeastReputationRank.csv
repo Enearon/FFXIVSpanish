@@ -1,0 +1,13 @@
+key,1,2
+#,Name,AlliedNames
+offset,0,4
+int32,str,str
+0,Ninguno,Ninguno
+1,Neutral,Neutral
+2,<hex:02081BE905FF0B>Reconocida<hex:FF0B>Reconocido<hex:03>,<hex:02081BE905FF0B>Reconocida<hex:FF0B>Reconocido<hex:03>
+3,<hex:020817E905FF09>Amistosa<hex:FF09>Amistoso<hex03>,<hex:020817E905FF09>Amistosa<hex:FF09>Amistoso<hex03>
+4,Confiable,Confiable
+5,<hex:020819E905FF0A>Respetada<hex:FF0A>Respetado<hex03>,<hex:020819E905FF0A>Respetada<hex:FF0A>Respetado<hex03>
+6,Honorable,Honorable
+7,Juramentado,Juramentado
+8,<hex:020813E905FF07>Aliada<hex:FF07>Aliado<hex03>,"Juramentado con Sangre"

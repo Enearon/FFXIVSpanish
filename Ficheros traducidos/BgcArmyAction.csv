@@ -1,0 +1,11 @@
+﻿key,1
+#,
+offset,0
+int32,str
+0,
+1,"Atacar"
+2,"Retirarse"
+3,"Volver a Atacar"
+4,"Ejectuar Rompelímites"
+5,"Mostrar barra de órdenes"
+6,

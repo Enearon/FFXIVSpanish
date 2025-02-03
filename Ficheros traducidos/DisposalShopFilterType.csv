@@ -1,0 +1,9 @@
+﻿key,0
+#,Category
+offset,0
+int32,str
+0,
+1,"Mostrar Todo"
+2,"Ocultar objectos registrados como conjunto"
+3,"Ocultar objetos en la Armería"
+4,"Mostrar solo Objetos con Nivel <hex:022003E80203> o inferior"

@@ -1,0 +1,13 @@
+﻿key,0
+#,Category
+offset,0
+int32,str
+0,"Plantas"
+1,"Iluminación"
+2,"Mobiliario Interactivo"
+3,"Mesas"
+4,"Sillas"
+5,"Escalones/Piedras de Suelo"
+6,"Miscelánea"
+7,"Lagos/Fuentes
+8,"Tenderetes"
