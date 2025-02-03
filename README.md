@@ -1,8 +1,5 @@
 # FFXIVSpanish
 
-## Aviso de progreso
-Debido a los cambios en Dawntrail nos vemos obligados a parar y esperar que el software que necesitamos para extraer los ficheros de traducción esté listo. Para esto dependemos de otros repositorios; Además de tener que revisar el inyector. Si conseguimos actualizarlos subiremos ficheros a Crowdin para que sean traducidos con ayuda de la comunidad.
-
 ## Traducción al español de Final Fantasy XIV
 En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Inglés.<br/>
 
