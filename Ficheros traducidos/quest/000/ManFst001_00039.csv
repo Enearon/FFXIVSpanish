@@ -1,0 +1,94 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_MANFST001_00039_SEQ_00,"Para que se te reconozca como <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> en la ciudad-estado de Gridania debes registrarte en el Gremio de Aventureros."
+1,TEXT_MANFST001_00039_SEQ_01,"El Guardabosques Bertennant te ha sugerido que hables con Mamá Miounne, propietaria de Carline Canopy antes de que comiences a explorar."
+2,TEXT_MANFST001_00039_SEQ_02,"Ahora que te has registrado como aventurero estás preparado para comenzar a explorar Gridania. Habla con Miounne de nuevo para aprender mas sobre la ciudad y los conceptos básicos de la aventura."
+3,TEXT_MANFST001_00039_SEQ_03,
+4,TEXT_MANFST001_00039_SEQ_04,
+5,TEXT_MANFST001_00039_SEQ_05,
+6,TEXT_MANFST001_00039_SEQ_06,
+7,TEXT_MANFST001_00039_SEQ_07,
+8,TEXT_MANFST001_00039_SEQ_08,
+9,TEXT_MANFST001_00039_SEQ_09,
+10,TEXT_MANFST001_00039_SEQ_10,
+11,TEXT_MANFST001_00039_SEQ_11,
+12,TEXT_MANFST001_00039_SEQ_12,
+13,TEXT_MANFST001_00039_SEQ_13,
+14,TEXT_MANFST001_00039_SEQ_14,
+15,TEXT_MANFST001_00039_SEQ_15,
+16,TEXT_MANFST001_00039_SEQ_16,
+17,TEXT_MANFST001_00039_SEQ_17,
+18,TEXT_MANFST001_00039_SEQ_18,
+19,TEXT_MANFST001_00039_SEQ_19,
+20,TEXT_MANFST001_00039_SEQ_20,
+21,TEXT_MANFST001_00039_SEQ_21,
+22,TEXT_MANFST001_00039_SEQ_22,
+23,TEXT_MANFST001_00039_SEQ_23,
+24,TEXT_MANFST001_00039_TODO_00,"Habla con Miounne."
+25,TEXT_MANFST001_00039_TODO_01,
+26,TEXT_MANFST001_00039_TODO_02,
+27,TEXT_MANFST001_00039_TODO_03,
+28,TEXT_MANFST001_00039_TODO_04,
+29,TEXT_MANFST001_00039_TODO_05,
+30,TEXT_MANFST001_00039_TODO_06,
+31,TEXT_MANFST001_00039_TODO_07,
+32,TEXT_MANFST001_00039_TODO_08,
+33,TEXT_MANFST001_00039_TODO_09,
+34,TEXT_MANFST001_00039_TODO_10,
+35,TEXT_MANFST001_00039_TODO_11,
+36,TEXT_MANFST001_00039_TODO_12,
+37,TEXT_MANFST001_00039_TODO_13,
+38,TEXT_MANFST001_00039_TODO_14,
+39,TEXT_MANFST001_00039_TODO_15,
+40,TEXT_MANFST001_00039_TODO_16,
+41,TEXT_MANFST001_00039_TODO_17,
+42,TEXT_MANFST001_00039_TODO_18,
+43,TEXT_MANFST001_00039_TODO_19,
+44,TEXT_MANFST001_00039_TODO_20,
+45,TEXT_MANFST001_00039_TODO_21,
+46,TEXT_MANFST001_00039_TODO_22,
+47,TEXT_MANFST001_00039_TODO_23,
+48,TEXT_MANFST001_00039_BERTENNANT_000_1,"¿<hex:02080FE905FF05>Otra<hex:FF05>Otro<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> <hex:020813E905FF07>novata<hex:FF07>novato<hex:03>?"
+49,TEXT_MANFST001_00039_BERTENNANT_000_2,"Eso pensaba. No podemos permitir a los extraños que no están registrados deambular por Gridania sin control alguno."
+50,TEXT_MANFST001_00039_BERTENNANT_000_3,"Antes de que empieces a molestar a los ciudadanos solicitando trabajo te sugiero que te presentes en el Carline Canopy. Es la sede del Gremio de Aventureros local, en caso de que te lo estuvieras preguntando."
+51,TEXT_MANFST001_00039_BERTENNANT_000_4,"El Carline Canopy es ese edificio que ves justo detrás de mi. Habla con Mamá Miounne en su interior, ella se encargará de ti."
+52,TEXT_MANFST001_00039_SYSTEM_000_10,"¡Has comenzado una misión!"
+53,TEXT_MANFST001_00039_SYSTEM_000_11,"Usa el <hex:024804F201F403><hex:024904F201F503>Registro de Aventuras<hex:0249020103><hex:0248020103> si necesitas ayuda para completar tu tarea."
+54,TEXT_MANFST001_00039_MIOUNNE_000_20,"Vaya, vaya, ¿qué tenemos aquí?"
+55,TEXT_MANFST001_00039_MIOUNNE_000_21,"<hex:02080CE905FF04>Una<hex:FF03>Un<hex03> joven <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> de ojos bien abiertos buscando nuevas aventuras. Asumo que vienes a unirte al Gremio ¿verdad?"
+56,TEXT_MANFST001_00039_MIOUNNE_000_22,"Ahora que lo pienso... ¿No te habías unido ya? Me resultas vagamente familiar, pero no puedo recordar cuando o donde nos pudimos haber conocido."
+57,TEXT_MANFST001_00039_MIOUNNE_000_23,"Oh, seguramente te he confundido con <hex:02080FE905FF05>otro<hex:FF05>otro<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>... Veo <hex:020813E905FF07>muchas<hex:FF07>muchos<hex03> jóvenes en busca de aventuras. ¿De que estábamos hablando? Ah, si."
+58,TEXT_MANFST001_00039_MIOUNNE_000_24,"<hex:02081BE905FF0B>Bienvenida<hex:FF0B>Bienvenido<hex:03> a mi casa, el Carline Canopy, mi nombre es Miounne o, como muchos me llaman, Mamá Miounne."
+59,TEXT_MANFST001_00039_MIOUNNE_000_25,"Como Maestra del Gremio de Aventureros en Gridania tengo el honor de proveer las nociones básicas a <hex:020811E905FF06>todas<hex:FF06>todos<hex03> <hex:02080DE905FF04>las<hex:FF04>los<hex03> jóvenes <hex:020818E905FF0A>heroínas<hex:FF08>héroes<hex03> que llegan a nuestras puertas."
+60,TEXT_MANFST001_00039_MIOUNNE_000_26,"No importan tus ambiciones, el Gremio está aquí para ayudarte a conseguirlas."
+61,TEXT_MANFST001_00039_MIOUNNE_000_27,"Como pago, esperamos que completes tus tareas como <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> ayudando a la gente de Gridania. Un trato justo ¿no te parece?"
+62,TEXT_MANFST001_00039_MIOUNNE_000_28,"A ojos de los extranjeros todo parecería estar bien en nuestra nación, pero nada más lejos de la verdad. La gente vive en un estado de constante aprensión."
+63,TEXT_MANFST001_00039_MIOUNNE_000_29,"Los Ixal y algunas bandas de bandidos nos proveen de un sin fin de problemas sumado a la omnipresente amenaza del Imperior Garleano en el norte. Y no vamos a mencionar nada de la Calamidad..."
+64,TEXT_MANFST001_00039_MIOUNNE_000_30,"Incluso ahora, las heridas prácticamente han empezado a curarse. Oh, estoy hablando como si hubieras estado aquí, disculpa. Han pasado cinco años, Eorzea quedó casi destruida cuando un terrible dragón emergió de la menor de nuestras lunas, Dalamud, haciendo que lloviera fuego por todo el reino. Es por eso que la gente lo llama “la Calamidad.”"
+65,TEXT_MANFST001_00039_MIOUNNE_000_31,"A penas una pequeña fracción del Bosque de los Doce se salvó de la devastación. Sin embargo, a pesar de las grandes heridas del bosque, ningún alma entre nosotros puede recordar con total precisión como sucedió."
+66,TEXT_MANFST001_00039_MIOUNNE_000_32,"Soy muy consciente de lo raro que tiene que sonar todo esto para <hex:02080CE905FF04>una<hex:FF03>un<hex03> <hex:02081BE905FF0B>extranjera<hex:FF0B>extranjero<hex:03>... <hex:021A020203>Es<hex:021A020103> improbable, pero también es cierto. Por razones que difícilmente podemos explicar, todo aquello referente a la Calamidad está envuelto en misterio. Hay muchas versiones de lo acontecido, tantas como personas que están dispuestas a recordarlo."
+67,TEXT_MANFST001_00039_MIOUNNE_000_33,"Sin embargo, entre recuerdos confusos e historias contradictorias todos están de acuerdo en una cosa: Eorzea fue salvada de la catástrofe por un grupo de valientes aventureros."
+68,TEXT_MANFST001_00039_MIOUNNE_000_34,"Pese a cualquier detalle que hayamos podido olvidar, nadie ha olvidado a aquellos héroes que arriesgaron su vida por el reino. Y ahora... Cada vez que intentamos decir sus nombres, las palabras mueren en nuestros labios."
+69,TEXT_MANFST001_00039_MIOUNNE_000_35,"Y cuando intentamos recordar sus rostros, no vemos más que un cegador resplandor y, en él, nada más que siluetas."
+70,TEXT_MANFST001_00039_MIOUNNE_000_36,"Es por ello que dichos aventureros son conocidos como “los Guerreros de la Luz.”"
+71,TEXT_MANFST001_00039_MIOUNNE_000_37,"...Ejem. No te sientas <hex:02081BE905FF0B>intimidada<hex:FF0B>intimidado<hex:03> por los logros conseguidos en estas leyendas. No vamos a pedirte que te conviertas en <hex:02080BE905FF03>la<hex:FF03>el<hex03> <hex:020817E905FF09>Guerrera<hex:FF09>Guerrero<hex03> de la Luz, tan solo que hagas todo lo que puedas para ayudar a la gente de Gridania."
+72,TEXT_MANFST001_00039_MIOUNNE_000_38,"Grande o pequeño, toda contribución cuenta. Confío que en que tú hagas tu parte."
+73,TEXT_MANFST001_00039_MIOUNNE_000_39,"¡Tienes mi gratitud!"
+74,TEXT_MANFST001_00039_MIOUNNE_000_40,"Entonces, todo lo que queda es concluir con tu registro. Aquí tienes una pluma, firma <hex:021A020203>aquí<hex:021A020103>."
+75,TEXT_MANFST001_00039_MIOUNNE_000_41,"Oh, y apreciaría mucho que usaras tu <hex:021A020203>verdadero<hex:021A020103> nombre. Hay un lugar especial en el séptimo infierno para aquellos que usan apodos “divertidos.”"
+76,TEXT_MANFST001_00039_MIOUNNE_000_42,"...<hex:022903EB0203>, Hmm... Estás <hex:020813E905FF07>segura<hex:FF07>seguro<hex03> de qué no es un alias divertido?"
+77,TEXT_MANFST001_00039_MIOUNNE_000_43,"Muy bien. Desde este momento, eres miembro oficial del Gremio de Aventureros de Gridania, nación bendecida por los elementales y la generosidad del Bosque de los Doce. El Gremio espera grandes cosas de ti."
+78,TEXT_MANFST001_00039_WOODWAILERLEAD_000_44,"Vaya, justo lo que necesitábamos... <hex:02080FE905FF05>Otra<hex:FF05>Otro<hex03> <hex:020815E905FF08>maldita<hex:FF08>maldito<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>..."
+79,TEXT_MANFST001_00039_MIOUNNE_000_45,"No empieces otra vez. <hex:02080DE905FF04>Las<hex:FF04>Los<hex03> <hex:02081BE905FF0B>aventureras<hex:FF0B>aventureros<hex:03> son el bálsamo que necesita Gridania."
+80,TEXT_MANFST001_00039_MIOUNNE_000_46,"La Gran Madre nos pidió recibirlos con los brazos abiertos. ¿Acaso pretendes ignorar su voluntad?"
+81,TEXT_MANFST001_00039_WOODWAILERLEAD_000_47,"¡Por supuesto que no! No olvides que es mi deber mantener la paz. ¿Tengo yo la culpa de que no podamos confiar en los extranjeros?"
+82,TEXT_MANFST001_00039_WOODWAILERLEAD_000_48,"Tú, <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>! Más te vale no causar ningún problema, o yo personalmente me encargaré de arrojarte al séptimo infierno."
+83,TEXT_MANFST001_00039_MIOUNNE_000_49,"Ejem. No le hagas caso. Solo pretendía... aconsejarte. Últimamente se han visto personajes sospechosos merodeando por el Bosque de los Doce, ya ves, y los Guardabosques sienten que no pueden permitirse correr ningún riesgo."
+84,TEXT_MANFST001_00039_MIOUNNE_000_50,"Como suele ocurrir con aquellas personas que viven en completo aislamiento, nuestro pueblo tiende a desconfiar de las cosas que no conocen bien, incluido tú. No temas, un catálogo de hazañas ejemplares y un poco de tiempo harán que te reciban con los brazos abiertos."
+85,TEXT_MANFST001_00039_MIOUNNE_000_51,"En nombre de mis conciudadanos, te doy la bienvenida a Gridania. Espero que, con el tiempo, llegues a considerar nuestra nación como la tuya."
+86,TEXT_MANFST001_00039_MIOUNNE_000_52,"Ahora bien, puedes contar con la vieja Mamá Miounne para enseñarte unas cuantas cosas que <hex:02080FE905FF05>toda<hex:FF05>todo<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> debería saber."
+87,TEXT_MANFST001_00039_SYSTEM_000_60,"Esto concluye el tutorial de introducción al juego."
+88,TEXT_MANFST001_00039_SYSTEM_000_61,"Has dado tu primer paso como <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> en la ciudad de Gridania."
+89,TEXT_MANFST001_00039_SYSTEM_000_62,"¡Escucha bien las lecciones de Mamá Miounne, luego avanza y descubrirás las increíbles aventuras que te esperan!"
