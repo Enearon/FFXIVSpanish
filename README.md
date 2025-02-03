@@ -25,7 +25,7 @@ Si una instrucción tiene un valor total de 15 bytes a este valor se le debe sum
 Al igual, si una palabra que añadimos tiene 4 bytes de longitud se debe añadir 1 byte extra, aplica para ambas.<br/>
 En el caso de las funciones Switch podemos encontrar múltiples FF05 por cada case que existe. Son algo mas complicados de calcular, pero se calculan de la misma manera que los IF.<br/>
 
-Para ver los tipos de instrución podemos acceder a esta página: https://github.com/ufx/SaintCoinach/blob/master/SaintCoinach/Text/TagType.cs<br/>
+Para ver los tipos de instrución podemos acceder a esta página: https://github.com/xivapi/SaintCoinach/blob/master/SaintCoinach/Text/TagType.cs<br/>
 
 Es muy importante entender como funcionanb los hex ya que uno mal puesto podría romper todo el fichero de traducción, así que ante la duda, no lo traduzcas y déjalo para cuando el fichero sea revisado.<br/>
 
