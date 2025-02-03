@@ -53,13 +53,13 @@ int32,str,str
 48,TEXT_MANFST000_00083_100040_NARRATION,"Hydaelyn, un vibrante planeta bendecido por la luz del Cristal"
 49,TEXT_MANFST000_00083_100050_NARRATION,"Rodeado de mares azules, abarcando el extremo occidental de los Tres Grandes Continentes,"
 50,TEXT_MANFST000_00083_100060_NARRATION,"yace un reino abrazado por los dioses y forjado por los héroes. Su nombre... Eorzea."
-51,TEXT_MANFST000_00083_100070_NARRATION,"Los registros históricos de Eorzea trazan el surgimiento de grandes civilizaciones, cada una disfrutando de las eras de paz conocidas como Eras Astrales.
+51,TEXT_MANFST000_00083_100070_NARRATION,"Los registros históricos de Eorzea trazan el surgimiento de grandes civilizaciones, cada una disfrutando de las eras de paz conocidas como Eras Astrales."
 52,TEXT_MANFST000_00083_100080_NARRATION,"Hasta la fecha, todas demostraron ser efímeras"
 53,TEXT_MANFST000_00083_100090_NARRATION,"En el año 1572 de la Sexta y mas reciente era Astral,"
 54,TEXT_MANFST000_00083_100100_NARRATION,"el imperio norteño de Garlemald reunió un gran ejército en el corazón de Eorzea, buscando el dominio sobre todo."
 55,TEXT_MANFST000_00083_100110_NARRATION,"Alzándose en una desesperada resistencia, las fuerzas de la Alianza Eorzeana se enfrentaron a sus conquistadores en el campo de batalla."
 56,TEXT_MANFST000_00083_100120_NARRATION,"Sin embargo, mientras se libraba la batalla, la luna mas pequeña, Dalamud, fue arrancada de los cielos utilizando maquinaria imperial."
-57,TEXT_MANFST000_00083_100130_NARRATION,"De su núcleo surgió el "Primal" Bahamut, desatando toda su furia sobre el reino."
+57,TEXT_MANFST000_00083_100130_NARRATION,"De su núcleo surgió el Primal Bahamut, desatando toda su furia sobre el reino."
 58,TEXT_MANFST000_00083_100140_NARRATION,"La devastación puso a Eorzea de rodillas, y la era llegó a su fin."
 59,TEXT_MANFST000_00083_100150_NARRATION,"Pero, todo final marca un nuevo comienzo."
 60,TEXT_MANFST000_00083_100160_NARRATION,"Han pasado cinco años."
@@ -75,7 +75,7 @@ int32,str,str
 70,TEXT_MANFST000_00083_000020_MOTHERCRYSTAL,Escucha... Siente...
 71,TEXT_MANFST000_00083_000030_MOTHERCRYSTAL,Escucha... Siente... Piensa...
 72,TEXT_MANFST000_00083_BREMONDT_000_1,"(-???-)...Oi!"
-73,TEXT_MANFST000_00083_BREMONDT_000_2,"(-???-)¿Te encuentras bien am<hex:02080DE905FF04>iga<hex:FF04>igo<hex:03>?"
+73,TEXT_MANFST000_00083_BREMONDT_000_2,"(-???-)¿Te encuentras bien <hex:020811E905FF06>amiga<hex:FF06>amigo<hex:03>?"
 74,TEXT_MANFST000_00083_BREMONDT_000_3,"(-Pasajero amigable-)Estabas farfullando en sueños, y sudando a mares debo añadir."
 75,TEXT_MANFST000_00083_BREMONDT_000_4,"(-Pasajero amigable-)Debe ser el Aether, supongo. Algunos son mas propensos a enfermar que otros."
 76,TEXT_MANFST000_00083_BREMONDT_000_5,"(-Pasajero amigable-)No hay necesidad de preocuparse, pronto te acostumbrarás a ello."
