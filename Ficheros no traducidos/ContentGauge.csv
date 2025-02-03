@@ -1,88 +1,88 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,Name,Color,,TextString,,,,,,,
-offset,14,0,15,20,4,8,18,16,10,19,17,12
-int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,int16
-0,0,"",0,True,"",-1,1,0,-1,1,0,0
-1,0,"",0,False,"",0,0,0,0,0,0,0
-2,0,"",0,False,"",0,0,0,0,0,0,0
-3,0,"Corrupted Aether",4,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-4,0,"Aether Transfer",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-5,0,"Earthen Accord",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-6,0,"Funds",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-7,0,"Alluring Embrace",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-8,0,"Mana",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-9,0,"Aethertrail Attunement",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-10,0,"Emptiness",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-11,0,"Fordola's Aether",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-12,0,"Mateus's Aether",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-13,0,"Aetherial Acceleration",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-14,0,"Genbu's Focus",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-15,0,"Affinity",2,False,"",60,1,3,90,1,1,0
-16,0,"Down Gauge",3,False,"ContentGaugeMax_positive",30,-1,2,-1,1,0,0
-17,0,"Suffering",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-18,0,"Monkey Magicks",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-19,0,"Ultima Aether",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-20,0,"Mana",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-21,0,"Mana",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-22,0,"Divine Epicness",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-23,0,"Scarlet Melody",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-24,0,"Midgardsormr's Aether",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-25,0,"Meteor Impact",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-26,0,"Dark Aether",1,False,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-27,0,"Electromagnetic Induction",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-28,0,"Holy Blade",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-29,0,"Seiryu's Focus",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-30,0,"Barrier Strength",2,False,"",30,1,3,50,1,1,0
-31,0,"Aether Transfer",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-32,0,"Swordplay",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-33,0,"Titania's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-34,0,"Immaculate Authority",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-35,0,"Fervor of the Ancients",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-36,0,"Charge",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-37,0,"Hacking",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-38,0,"Flood of Light",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-39,0,"Charge",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-40,0,"Dalamud Reborn",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-41,0,"Limit Break",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-42,0,"Mother Porxie's Magic",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-43,0,"Gaia's Memories",2,False,"",35,1,3,50,1,1,0
-44,0,"Za Da's Tempering",3,False,"",-1,1,0,-1,1,0,0
-45,0,"Sovereignty ",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-46,0,"Chaos",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-47,0,"Despair",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-48,0,"Summoning of the Irmin Hedge",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-49,0,"Threat Awareness",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-50,0,"Zodiark's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-51,0,"Conviction",4,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-52,0,"",0,False,"",0,0,0,0,0,0,0
-53,0,"Nidhogg's Influence",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-54,1,"",0,True,"",600,1,0,900,1,0,0
-55,0,"Profane Fafnir's Magic",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-56,0,"Phoinix Fire",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-57,0,"Venat's Aether",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-58,0,"Blade Energy",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-59,0,"Midgardsormr's Aether",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-60,0,"Scarmiglione's Power",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-61,0,"Lahabrea's Power",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-62,0,"Nidhogg's Rancor",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-63,0,"Satiety",2,False,"",30,1,3,50,1,1,0
-64,0,"Barrier Strength",2,False,"",30,1,3,70,1,1,0
-65,0,"Knights' Resolve",2,False,"",30,1,3,70,1,1,0
-66,0,"Cagnazzo's Power",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-67,0,"Barrier Strength",2,False,"",30,1,3,70,1,1,0
-68,0,"Barrier Strength",2,False,"",30,1,3,70,1,1,0
-69,0,"Rubicante's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-70,0,"Andromalius's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-71,0,"Ascian Prime's Power",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-72,0,"The Fury's Frost",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-73,0,"The Lover's Power",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-74,0,"Athena's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-75,0,"Charge",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-76,0,"Infernal Aether",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-77,0,"Nine Tails' Yoki",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-78,0,"",0,False,"",0,0,0,0,0,0,0
-79,0,"Gwyddrud's Power",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-80,0,"Otis's Condition",2,False,"",30,1,3,70,1,1,0
-81,0,"Ruinous Power",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-82,0,"Iq Soq Xmajun's Power",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-83,0,"",0,False,"",0,0,0,0,0,0,0
+﻿key,1,4
+#,Name,TextString
+offset,0,4
+int32,str,str
+0,,
+1,,
+2,,
+3,Corrupted Aether,ContentGaugeMax_negative
+4,Aether Transfer,ContentGaugeMax_negative
+5,Earthen Accord,ContentGaugeMax_negative
+6,Funds,ContentGaugeMax_negative
+7,Alluring Embrace,ContentGaugeMax_negative
+8,Mana,ContentGaugeMax_negative
+9,Aethertrail Attunement,ContentGaugeMax_negative
+10,Emptiness,ContentGaugeMax_negative
+11,Fordola's Aether,ContentGaugeMax_negative
+12,Mateus's Aether,ContentGaugeMax_negative
+13,Aetherial Acceleration,ContentGaugeMax_negative
+14,Genbu's Focus,ContentGaugeMax_negative
+15,Affinity,
+16,Down Gauge,ContentGaugeMax_positive
+17,Suffering,ContentGaugeMax_negative
+18,Monkey Magicks,ContentGaugeMax_negative
+19,Ultima Aether,ContentGaugeMax_negative
+20,Mana,ContentGaugeMax_negative
+21,Mana,ContentGaugeMax_negative
+22,Divine Epicness,ContentGaugeMax_negative
+23,Scarlet Melody,ContentGaugeMax_negative
+24,Midgardsormr's Aether,ContentGaugeMax_negative
+25,Meteor Impact,ContentGaugeMax_negative
+26,Dark Aether,ContentGaugeMax_negative
+27,Electromagnetic Induction,ContentGaugeMax_negative
+28,Holy Blade,ContentGaugeMax_negative
+29,Seiryu's Focus,ContentGaugeMax_negative
+30,Barrier Strength,
+31,Aether Transfer,ContentGaugeMax_negative
+32,Swordplay,ContentGaugeMax_negative
+33,Titania's Power,ContentGaugeMax_negative
+34,Immaculate Authority,ContentGaugeMax_negative
+35,Fervor of the Ancients,ContentGaugeMax_negative
+36,Charge,ContentGaugeMax_negative
+37,Hacking,ContentGaugeMax_negative
+38,Flood of Light,ContentGaugeMax_negative
+39,Charge,ContentGaugeMax_negative
+40,Dalamud Reborn,ContentGaugeMax_negative
+41,Limit Break,ContentGaugeMax_negative
+42,Mother Porxie's Magic,ContentGaugeMax_negative
+43,Gaia's Memories,
+44,Za Da's Tempering,
+45,Sovereignty ,ContentGaugeMax_negative
+46,Chaos,ContentGaugeMax_negative
+47,Despair,ContentGaugeMax_negative
+48,Summoning of the Irmin Hedge,ContentGaugeMax_negative
+49,Threat Awareness,ContentGaugeMax_negative
+50,Zodiark's Power,ContentGaugeMax_negative
+51,Conviction,ContentGaugeMax_negative
+52,,
+53,Nidhogg's Influence,ContentGaugeMax_negative
+54,,
+55,Profane Fafnir's Magic,ContentGaugeMax_negative
+56,Phoinix Fire,ContentGaugeMax_negative
+57,Venat's Aether,ContentGaugeMax_negative
+58,Blade Energy,ContentGaugeMax_negative
+59,Midgardsormr's Aether,ContentGaugeMax_negative
+60,Scarmiglione's Power,ContentGaugeMax_negative
+61,Lahabrea's Power,ContentGaugeMax_negative
+62,Nidhogg's Rancor,ContentGaugeMax_negative
+63,Satiety,
+64,Barrier Strength,
+65,Knights' Resolve,
+66,Cagnazzo's Power,ContentGaugeMax_negative
+67,Barrier Strength,
+68,Barrier Strength,
+69,Rubicante's Power,ContentGaugeMax_negative
+70,Andromalius's Power,ContentGaugeMax_negative
+71,Ascian Prime's Power,ContentGaugeMax_negative
+72,The Fury's Frost,ContentGaugeMax_negative
+73,The Lover's Power,ContentGaugeMax_negative
+74,Athena's Power,ContentGaugeMax_negative
+75,Charge,ContentGaugeMax_negative
+76,Infernal Aether,ContentGaugeMax_negative
+77,Nine Tails' Yoki,ContentGaugeMax_negative
+78,,
+79,Gwyddrud's Power,ContentGaugeMax_negative
+80,Otis's Condition,
+81,Ruinous Power,ContentGaugeMax_negative
+82,Iq Soq Xmajun's Power,ContentGaugeMax_negative
+83,,

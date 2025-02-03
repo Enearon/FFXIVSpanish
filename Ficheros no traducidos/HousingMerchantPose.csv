@@ -1,9 +1,9 @@
-﻿key,0,1
-#,ActionTimeline,Pose
-offset,4,0
-int32,ActionTimeline,str
-0,6288,"Standard"
-1,6289,"Store Window"
-2,6290,"Arms Crossed"
-3,6291,"Unique"
-4,6292,"Runway Model"
+﻿key,1
+#,Pose
+offset,0
+int32,str
+0,Standard
+1,Store Window
+2,Arms Crossed
+3,Unique
+4,Runway Model

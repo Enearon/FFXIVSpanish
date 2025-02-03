@@ -1,15 +1,15 @@
-﻿key,0,1
-#,,
-offset,4,0
-int32,byte,str
-0,0,"Show All"
-1,0,"Standard"
-2,1,"Classes/Jobs"
-3,2,"Quests"
-4,3,"Duties"
-5,5,"PvP"
-6,6,"Minions"
-7,8,"Other"
-8,4,"Side Content"
-9,7,"Region"
-10,0,""
+﻿key,1
+#,
+offset,0
+int32,str
+0,Show All
+1,Standard
+2,Classes/Jobs
+3,Quests
+4,Duties
+5,PvP
+6,Minions
+7,Other
+8,Side Content
+9,Region
+10,

@@ -2,7 +2,7 @@
 #,Name
 offset,0
 int32,str
-0,""
-1,"Obedient"
-2,"Independent"
-3,"Stationary"
+0,
+1,Obedient
+2,Independent
+3,Stationary

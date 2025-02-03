@@ -1,221 +1,221 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,,,,,,,,,,,,,,
-offset,24,34,28,32,0,16,4,17,18,19,20,21,8,12
-int32,uint32,int16,int32,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
-0,0,-1,0,0,"",0,"",0,0,1,0,0,"",""
-1,71037,0,200049,0,"pair of oval spectacles",0,"pairs of oval spectacles",0,0,1,0,0,"A piece of undyed facewear.","Oval Spectacles"
-2,136573,0,200053,0,"pair of silver oval spectacles",0,"pairs of silver oval spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Oval Spectacles"
-3,202109,0,200052,0,"pair of gold oval spectacles",0,"pairs of gold oval spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Oval Spectacles"
-4,267645,0,200054,0,"pair of black oval spectacles",0,"pairs of black oval spectacles",0,0,1,0,0,"A piece of black facewear.","Black Oval Spectacles"
-5,333181,0,200059,0,"pair of white oval spectacles",0,"pairs of white oval spectacles",0,0,1,0,0,"A piece of white facewear.","White Oval Spectacles"
-6,398717,0,200050,0,"pair of grey oval spectacles",0,"pairs of grey oval spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Oval Spectacles"
-7,464253,0,200057,0,"pair of red oval spectacles",0,"pairs of red oval spectacles",0,0,1,0,0,"A piece of red facewear.","Red Oval Spectacles"
-8,529789,0,200056,0,"pair of blue oval spectacles",0,"pairs of blue oval spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Oval Spectacles"
-9,595325,0,200060,0,"pair of green oval spectacles",0,"pairs of green oval spectacles",0,0,1,0,0,"A piece of green facewear.","Green Oval Spectacles"
-10,660861,0,200051,0,"pair of brass oval spectacles",0,"pairs of brass oval spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Oval Spectacles"
-11,726397,0,200055,0,"pair of purple oval spectacles",0,"pairs of purple oval spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Oval Spectacles"
-12,791933,0,200058,0,"pair of brown oval spectacles",0,"pairs of brown oval spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Oval Spectacles"
-13,71038,1,200085,0,"pair of shaded spectacles",0,"pairs of shaded spectacles",0,0,1,0,0,"A piece of undyed facewear.","Shaded Spectacles"
-14,136574,1,200089,0,"pair of silver shaded spectacles",0,"pairs of silver shaded spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Shaded Spectacles"
-15,202110,1,200088,0,"pair of gold shaded spectacles",0,"pairs of gold shaded spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Shaded Spectacles"
-16,267646,1,200090,0,"pair of black shaded spectacles",0,"pairs of black shaded spectacles",0,0,1,0,0,"A piece of black facewear.","Black Shaded Spectacles"
-17,333182,1,200095,0,"pair of white shaded spectacles",0,"pairs of white shaded spectacles",0,0,1,0,0,"A piece of white facewear.","White Shaded Spectacles"
-18,398718,1,200086,0,"pair of grey shaded spectacles",0,"pairs of grey shaded spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Shaded Spectacles"
-19,464254,1,200093,0,"pair of red shaded spectacles",0,"pairs of red shaded spectacles",0,0,1,0,0,"A piece of red facewear.","Red Shaded Spectacles"
-20,529790,1,200092,0,"pair of blue shaded spectacles",0,"pairs of blue shaded spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Shaded Spectacles"
-21,595326,1,200096,0,"pair of green shaded spectacles",0,"pairs of green shaded spectacles",0,0,1,0,0,"A piece of green facewear.","Green Shaded Spectacles"
-22,660862,1,200087,0,"pair of brass shaded spectacles",0,"pairs of brass shaded spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Shaded Spectacles"
-23,726398,1,200091,0,"pair of purple shaded spectacles",0,"pairs of purple shaded spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Shaded Spectacles"
-24,791934,1,200094,0,"pair of brown shaded spectacles",0,"pairs of brown shaded spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Shaded Spectacles"
-25,71039,2,200061,0,"pair of classic spectacles",0,"pairs of classic spectacles",0,0,1,0,0,"A piece of undyed facewear.","Classic Spectacles"
-26,136575,2,200065,0,"pair of silver classic spectacles",0,"pairs of silver classic spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Classic Spectacles"
-27,202111,2,200064,0,"pair of gold classic spectacles",0,"pairs of gold classic spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Classic Spectacles"
-28,267647,2,200066,0,"pair of black classic spectacles",0,"pairs of black classic spectacles",0,0,1,0,0,"A piece of black facewear.","Black Classic Spectacles"
-29,333183,2,200071,0,"pair of white classic spectacles",0,"pairs of white classic spectacles",0,0,1,0,0,"A piece of white facewear.","White Classic Spectacles"
-30,398719,2,200062,0,"pair of grey classic spectacles",0,"pairs of grey classic spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Classic Spectacles"
-31,464255,2,200069,0,"pair of red classic spectacles",0,"pairs of red classic spectacles",0,0,1,0,0,"A piece of red facewear.","Red Classic Spectacles"
-32,529791,2,200068,0,"pair of blue classic spectacles",0,"pairs of blue classic spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Classic Spectacles"
-33,595327,2,200072,0,"pair of green classic spectacles",0,"pairs of green classic spectacles",0,0,1,0,0,"A piece of green facewear.","Green Classic Spectacles"
-34,660863,2,200063,0,"pair of brass classic spectacles",0,"pairs of brass classic spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Classic Spectacles"
-35,726399,2,200067,0,"pair of purple classic spectacles",0,"pairs of purple classic spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Classic Spectacles"
-36,791935,2,200070,0,"pair of brown classic spectacles",0,"pairs of brown classic spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Classic Spectacles"
-37,71040,3,200013,0,"pair of rose-colored spectacles",0,"pairs of rose-colored spectacles",0,0,1,0,0,"A piece of undyed facewear.","Rose-colored Spectacles"
-38,136576,3,200017,0,"pair of silver rose-colored spectacles",0,"pairs of silver rose-colored spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Rose-colored Spectacles"
-39,202112,3,200016,0,"pair of gold rose-colored spectacles",0,"pairs of gold rose-colored spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Rose-colored Spectacles"
-40,267648,3,200018,0,"pair of black rose-colored spectacles",0,"pairs of black rose-colored spectacles",0,0,1,0,0,"A piece of black facewear.","Black Rose-colored Spectacles"
-41,333184,3,200023,0,"pair of white rose-colored spectacles",0,"pairs of white rose-colored spectacles",0,0,1,0,0,"A piece of white facewear.","White Rose-colored Spectacles"
-42,398720,3,200014,0,"pair of grey rose-colored spectacles",0,"pairs of grey rose-colored spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Rose-colored Spectacles"
-43,464256,3,200021,0,"pair of red rose-colored spectacles",0,"pairs of red rose-colored spectacles",0,0,1,0,0,"A piece of red facewear.","Red Rose-colored Spectacles"
-44,529792,3,200020,0,"pair of blue rose-colored spectacles",0,"pairs of blue rose-colored spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Rose-colored Spectacles"
-45,595328,3,200024,0,"pair of green rose-colored spectacles",0,"pairs of green rose-colored spectacles",0,0,1,0,0,"A piece of green facewear.","Green Rose-colored Spectacles"
-46,660864,3,200015,0,"pair of brass rose-colored spectacles",0,"pairs of brass rose-colored spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Rose-colored Spectacles"
-47,726400,3,200019,0,"pair of purple rose-colored spectacles",0,"pairs of purple rose-colored spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Rose-colored Spectacles"
-48,791936,3,200022,0,"pair of brown rose-colored spectacles",0,"pairs of brown rose-colored spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Rose-colored Spectacles"
-49,71041,4,200001,0,"pair of simple spectacles",0,"pairs of simple spectacles",0,0,1,0,0,"A piece of undyed facewear.","Simple Spectacles"
-50,136577,4,200005,0,"pair of silver spectacles",0,"pairs of silver spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Spectacles"
-51,202113,4,200004,0,"pair of gold spectacles",0,"pairs of gold spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Spectacles"
-52,267649,4,200006,0,"pair of black spectacles",0,"pairs of black spectacles",0,0,1,0,0,"A piece of black facewear.","Black Spectacles"
-53,333185,4,200011,0,"pair of white spectacles",0,"pairs of white spectacles",0,0,1,0,0,"A piece of white facewear.","White Spectacles"
-54,398721,4,200002,0,"pair of grey spectacles",0,"pairs of grey spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Spectacles"
-55,464257,4,200009,0,"pair of red spectacles",0,"pairs of red spectacles",0,0,1,0,0,"A piece of red facewear.","Red Spectacles"
-56,529793,4,200008,0,"pair of blue spectacles",0,"pairs of blue spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Spectacles"
-57,595329,4,200012,0,"pair of green spectacles",0,"pairs of green spectacles",0,0,1,0,0,"A piece of green facewear.","Green Spectacles"
-58,660865,4,200003,0,"pair of brass spectacles",0,"pairs of brass spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Spectacles"
-59,726401,4,200007,0,"pair of purple spectacles",0,"pairs of purple spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Spectacles"
-60,791937,4,200010,0,"pair of brown spectacles",0,"pairs of brown spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Spectacles"
-61,71042,5,200025,0,"monocle",0,"monocles",0,0,1,0,0,"A piece of undyed facewear.","Monocle"
-62,136578,5,200029,0,"silver monocle",0,"silver monocles",0,0,1,0,0,"A piece of silver facewear.","Silver Monocle"
-63,202114,5,200028,0,"gold monocle",0,"gold monocles",0,0,1,0,0,"A piece of gold facewear.","Gold Monocle"
-64,267650,5,200030,0,"black monocle",0,"black monocles",0,0,1,0,0,"A piece of black facewear.","Black Monocle"
-65,333186,5,200035,0,"white monocle",0,"white monocles",0,0,1,0,0,"A piece of white facewear.","White Monocle"
-66,398722,5,200026,0,"grey monocle",0,"grey monocles",0,0,1,0,0,"A piece of grey facewear.","Grey Monocle"
-67,464258,5,200033,0,"red monocle",0,"red monocles",0,0,1,0,0,"A piece of red facewear.","Red Monocle"
-68,529794,5,200032,0,"blue monocle",0,"blue monocles",0,0,1,0,0,"A piece of blue facewear.","Blue Monocle"
-69,595330,5,200036,0,"green monocle",0,"green monocles",0,0,1,0,0,"A piece of green facewear.","Green Monocle"
-70,660866,5,200027,0,"brass monocle",0,"brass monocles",0,0,1,0,0,"A piece of brass facewear.","Brass Monocle"
-71,726402,5,200031,0,"purple monocle",0,"purple monocles",0,0,1,0,0,"A piece of purple facewear.","Purple Monocle"
-72,791938,5,200034,0,"brown monocle",0,"brown monocles",0,0,1,0,0,"A piece of brown facewear.","Brown Monocle"
-73,71043,6,200037,0,"pair of contemporary pince-nez",0,"pairs of contemporary pince-nez",0,0,1,0,0,"A piece of undyed facewear.","Contemporary Pince-nez"
-74,136579,6,200041,0,"pair of silver contemporary pince-nez",0,"pairs of silver contemporary pince-nez",0,0,1,0,0,"A piece of silver facewear.","Silver Contemporary Pince-nez"
-75,202115,6,200040,0,"pair of gold contemporary pince-nez",0,"pairs of gold contemporary pince-nez",0,0,1,0,0,"A piece of gold facewear.","Gold Contemporary Pince-nez"
-76,267651,6,200042,0,"pair of black contemporary pince-nez",0,"pairs of black contemporary pince-nez",0,0,1,0,0,"A piece of black facewear.","Black Contemporary Pince-nez"
-77,333187,6,200047,0,"pair of white contemporary pince-nez",0,"pairs of white contemporary pince-nez",0,0,1,0,0,"A piece of white facewear.","White Contemporary Pince-nez"
-78,398723,6,200038,0,"pair of grey contemporary pince-nez",0,"pairs of grey contemporary pince-nez",0,0,1,0,0,"A piece of grey facewear.","Grey Contemporary Pince-nez"
-79,464259,6,200045,0,"pair of red contemporary pince-nez",0,"pairs of red contemporary pince-nez",0,0,1,0,0,"A piece of red facewear.","Red Contemporary Pince-nez"
-80,529795,6,200044,0,"pair of blue contemporary pince-nez",0,"pairs of blue contemporary pince-nez",0,0,1,0,0,"A piece of blue facewear.","Blue Contemporary Pince-nez"
-81,595331,6,200048,0,"pair of green contemporary pince-nez",0,"pairs of green contemporary pince-nez",0,0,1,0,0,"A piece of green facewear.","Green Contemporary Pince-nez"
-82,660867,6,200039,0,"pair of brass contemporary pince-nez",0,"pairs of brass contemporary pince-nez",0,0,1,0,0,"A piece of brass facewear.","Brass Contemporary Pince-nez"
-83,726403,6,200043,0,"pair of purple contemporary pince-nez",0,"pairs of purple contemporary pince-nez",0,0,1,0,0,"A piece of purple facewear.","Purple Contemporary Pince-nez"
-84,791939,6,200046,0,"pair of brown contemporary pince-nez",0,"pairs of brown contemporary pince-nez",0,0,1,0,0,"A piece of brown facewear.","Brown Contemporary Pince-nez"
-85,71044,7,200097,0,"pair of rimless glasses",0,"pairs of rimless glasses",0,0,1,0,0,"A piece of undyed facewear.","Rimless Glasses"
-86,136580,7,200101,0,"pair of silver rimless glasses",0,"pairs of silver rimless glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Rimless Glasses"
-87,202116,7,200100,0,"pair of gold rimless glasses",0,"pairs of gold rimless glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Rimless Glasses"
-88,267652,7,200102,0,"pair of black rimless glasses",0,"pairs of black rimless glasses",0,0,1,0,0,"A piece of black facewear.","Black Rimless Glasses"
-89,333188,7,200107,0,"pair of white rimless glasses",0,"pairs of white rimless glasses",0,0,1,0,0,"A piece of white facewear.","White Rimless Glasses"
-90,398724,7,200098,0,"pair of grey rimless glasses",0,"pairs of grey rimless glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Rimless Glasses"
-91,464260,7,200105,0,"pair of red rimless glasses",0,"pairs of red rimless glasses",0,0,1,0,0,"A piece of red facewear.","Red Rimless Glasses"
-92,529796,7,200104,0,"pair of blue rimless glasses",0,"pairs of blue rimless glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Rimless Glasses"
-93,595332,7,200108,0,"pair of green rimless glasses",0,"pairs of green rimless glasses",0,0,1,0,0,"A piece of green facewear.","Green Rimless Glasses"
-94,660868,7,200099,0,"pair of brass rimless glasses",0,"pairs of brass rimless glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Rimless Glasses"
-95,726404,7,200103,0,"pair of purple rimless glasses",0,"pairs of purple rimless glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Rimless Glasses"
-96,791940,7,200106,0,"pair of brown rimless glasses",0,"pairs of brown rimless glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Rimless Glasses"
-97,71045,8,200109,0,"pair of thick-rimmed glasses",0,"pairs of thick-rimmed glasses",0,0,1,0,0,"A piece of undyed facewear.","Thick-rimmed Glasses"
-98,136581,8,200113,0,"pair of silver thick-rimmed glasses",0,"pairs of silver thick-rimmed glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Thick-rimmed Glasses"
-99,202117,8,200112,0,"pair of gold thick-rimmed glasses",0,"pairs of gold thick-rimmed glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Thick-rimmed Glasses"
-100,267653,8,200114,0,"pair of black thick-rimmed glasses",0,"pairs of black thick-rimmed glasses",0,0,1,0,0,"A piece of black facewear.","Black Thick-rimmed Glasses"
-101,333189,8,200119,0,"pair of white thick-rimmed glasses",0,"pairs of white thick-rimmed glasses",0,0,1,0,0,"A piece of white facewear.","White Thick-rimmed Glasses"
-102,398725,8,200110,0,"pair of grey thick-rimmed glasses",0,"pairs of grey thick-rimmed glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Thick-rimmed Glasses"
-103,464261,8,200117,0,"pair of red thick-rimmed glasses",0,"pairs of red thick-rimmed glasses",0,0,1,0,0,"A piece of red facewear.","Red Thick-rimmed Glasses"
-104,529797,8,200116,0,"pair of blue thick-rimmed glasses",0,"pairs of blue thick-rimmed glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Thick-rimmed Glasses"
-105,595333,8,200120,0,"pair of green thick-rimmed glasses",0,"pairs of green thick-rimmed glasses",0,0,1,0,0,"A piece of green facewear.","Green Thick-rimmed Glasses"
-106,660869,8,200111,0,"pair of brass thick-rimmed glasses",0,"pairs of brass thick-rimmed glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Thick-rimmed Glasses"
-107,726405,8,200115,0,"pair of purple thick-rimmed glasses",0,"pairs of purple thick-rimmed glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Thick-rimmed Glasses"
-108,791941,8,200118,0,"pair of brown thick-rimmed glasses",0,"pairs of brown thick-rimmed glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Thick-rimmed Glasses"
-109,71046,9,200073,0,"pair of minstrel's spectacles",0,"pairs of minstrel's spectacles",0,0,1,0,0,"A piece of undyed facewear.","Minstrel's Spectacles"
-110,136582,9,200077,0,"pair of silver minstrel's spectacles",0,"pairs of silver minstrel's spectacles",0,0,1,0,0,"A piece of silver facewear.","Silver Minstrel's Spectacles"
-111,202118,9,200076,0,"pair of gold minstrel's spectacles",0,"pairs of gold minstrel's spectacles",0,0,1,0,0,"A piece of gold facewear.","Gold Minstrel's Spectacles"
-112,267654,9,200078,0,"pair of black minstrel's spectacles",0,"pairs of black minstrel's spectacles",0,0,1,0,0,"A piece of black facewear.","Black Minstrel's Spectacles"
-113,333190,9,200083,0,"pair of white minstrel's spectacles",0,"pairs of white minstrel's spectacles",0,0,1,0,0,"A piece of white facewear.","White Minstrel's Spectacles"
-114,398726,9,200074,0,"pair of grey minstrel's spectacles",0,"pairs of grey minstrel's spectacles",0,0,1,0,0,"A piece of grey facewear.","Grey Minstrel's Spectacles"
-115,464262,9,200081,0,"pair of red minstrel's spectacles",0,"pairs of red minstrel's spectacles",0,0,1,0,0,"A piece of red facewear.","Red Minstrel's Spectacles"
-116,529798,9,200080,0,"pair of blue minstrel's spectacles",0,"pairs of blue minstrel's spectacles",0,0,1,0,0,"A piece of blue facewear.","Blue Minstrel's Spectacles"
-117,595334,9,200084,0,"pair of green minstrel's spectacles",0,"pairs of green minstrel's spectacles",0,0,1,0,0,"A piece of green facewear.","Green Minstrel's Spectacles"
-118,660870,9,200075,0,"pair of brass minstrel's spectacles",0,"pairs of brass minstrel's spectacles",0,0,1,0,0,"A piece of brass facewear.","Brass Minstrel's Spectacles"
-119,726406,9,200079,0,"pair of purple minstrel's spectacles",0,"pairs of purple minstrel's spectacles",0,0,1,0,0,"A piece of purple facewear.","Purple Minstrel's Spectacles"
-120,791942,9,200082,0,"pair of brown minstrel's spectacles",0,"pairs of brown minstrel's spectacles",0,0,1,0,0,"A piece of brown facewear.","Brown Minstrel's Spectacles"
-121,71047,10,200121,0,"pair of pince-nez",0,"pairs of pince-nez",0,0,1,0,0,"A piece of undyed facewear.","Pince-nez"
-122,136583,10,200122,0,"pair of silver pince-nez",0,"pairs of silver pince-nez",0,0,1,0,0,"A piece of silver facewear.","Silver Pince-nez"
-123,202119,10,200123,0,"pair of gold pince-nez",0,"pairs of gold pince-nez",0,0,1,0,0,"A piece of gold facewear.","Gold Pince-nez"
-124,267655,10,200124,0,"pair of black pince-nez",0,"pairs of black pince-nez",0,0,1,0,0,"A piece of black facewear.","Black Pince-nez"
-125,333191,10,200125,0,"pair of white pince-nez",0,"pairs of white pince-nez",0,0,1,0,0,"A piece of white facewear.","White Pince-nez"
-126,398727,10,200126,0,"pair of grey pince-nez",0,"pairs of grey pince-nez",0,0,1,0,0,"A piece of grey facewear.","Grey Pince-nez"
-127,464263,10,200127,0,"pair of red pince-nez",0,"pairs of red pince-nez",0,0,1,0,0,"A piece of red facewear.","Red Pince-nez"
-128,529799,10,200128,0,"pair of blue pince-nez",0,"pairs of blue pince-nez",0,0,1,0,0,"A piece of blue facewear.","Blue Pince-nez"
-129,595335,10,200129,0,"pair of green pince-nez",0,"pairs of green pince-nez",0,0,1,0,0,"A piece of green facewear.","Green Pince-nez"
-130,660871,10,200130,0,"pair of brass pince-nez",0,"pairs of brass pince-nez",0,0,1,0,0,"A piece of brass facewear.","Brass Pince-nez"
-131,726407,10,200131,0,"pair of purple pince-nez",0,"pairs of purple pince-nez",0,0,1,0,0,"A piece of purple facewear.","Purple Pince-nez"
-132,791943,10,200132,0,"pair of brown pince-nez",0,"pairs of brown pince-nez",0,0,1,0,0,"A piece of brown facewear.","Brown Pince-nez"
-133,71048,11,200133,0,"pair of magnifiers",0,"pairs of magnifiers",0,0,1,0,0,"A piece of undyed facewear.","Magnifiers"
-134,136584,11,200134,0,"pair of silver magnifiers",0,"pairs of silver magnifiers",0,0,1,0,0,"A piece of silver facewear.","Silver Magnifiers"
-135,202120,11,200135,0,"pair of gold magnifiers",0,"pairs of gold magnifiers",0,0,1,0,0,"A piece of gold facewear.","Gold Magnifiers"
-136,267656,11,200136,0,"pair of black magnifiers",0,"pairs of black magnifiers",0,0,1,0,0,"A piece of black facewear.","Black Magnifiers"
-137,333192,11,200137,0,"pair of white magnifiers",0,"pairs of white magnifiers",0,0,1,0,0,"A piece of white facewear.","White Magnifiers"
-138,398728,11,200138,0,"pair of grey magnifiers",0,"pairs of grey magnifiers",0,0,1,0,0,"A piece of grey facewear.","Grey Magnifiers"
-139,464264,11,200139,0,"pair of red magnifiers",0,"pairs of red magnifiers",0,0,1,0,0,"A piece of red facewear.","Red Magnifiers"
-140,529800,11,200140,0,"pair of blue magnifiers",0,"pairs of blue magnifiers",0,0,1,0,0,"A piece of blue facewear.","Blue Magnifiers"
-141,595336,11,200141,0,"pair of green magnifiers",0,"pairs of green magnifiers",0,0,1,0,0,"A piece of green facewear.","Green Magnifiers"
-142,660872,11,200142,0,"pair of brass magnifiers",0,"pairs of brass magnifiers",0,0,1,0,0,"A piece of brass facewear.","Brass Magnifiers"
-143,726408,11,200143,0,"pair of purple magnifiers",0,"pairs of purple magnifiers",0,0,1,0,0,"A piece of purple facewear.","Purple Magnifiers"
-144,791944,11,200144,0,"pair of brown magnifiers",0,"pairs of brown magnifiers",0,0,1,0,0,"A piece of brown facewear.","Brown Magnifiers"
-145,71049,12,200145,0,"pair of brass goggles",0,"pairs of brass goggles",0,0,1,0,0,"A piece of undyed facewear.","Brass Goggles"
-146,136585,12,200146,0,"pair of silver brass goggles",0,"pairs of silver brass goggles",0,0,1,0,0,"A piece of silver facewear.","Silver Brass Goggles"
-147,202121,12,200147,0,"pair of gold brass goggles",0,"pairs of gold brass goggles",0,0,1,0,0,"A piece of gold facewear.","Gold Brass Goggles"
-148,267657,12,200148,0,"pair of black brass goggles",0,"pairs of black brass goggles",0,0,1,0,0,"A piece of black facewear.","Black Brass Goggles"
-149,333193,12,200149,0,"pair of white brass goggles",0,"pairs of white brass goggles",0,0,1,0,0,"A piece of white facewear.","White Brass Goggles"
-150,398729,12,200150,0,"pair of grey brass goggles",0,"pairs of grey brass goggles",0,0,1,0,0,"A piece of grey facewear.","Grey Brass Goggles"
-151,464265,12,200151,0,"pair of red brass goggles",0,"pairs of red brass goggles",0,0,1,0,0,"A piece of red facewear.","Red Brass Goggles"
-152,529801,12,200152,0,"pair of blue brass goggles",0,"pairs of blue brass goggles",0,0,1,0,0,"A piece of blue facewear.","Blue Brass Goggles"
-153,595337,12,200153,0,"pair of green brass goggles",0,"pairs of green brass goggles",0,0,1,0,0,"A piece of green facewear.","Green Brass Goggles"
-154,660873,12,200154,0,"pair of bronze brass goggles",0,"pairs of bronze brass goggles",0,0,1,0,0,"A piece of bronze facewear.","Bronze Brass Goggles"
-155,726409,12,200155,0,"pair of purple brass goggles",0,"pairs of purple brass goggles",0,0,1,0,0,"A piece of purple facewear.","Purple Brass Goggles"
-156,791945,12,200156,0,"pair of brown brass goggles",0,"pairs of brown brass goggles",0,0,1,0,0,"A piece of brown facewear.","Brown Brass Goggles"
-157,71050,13,200157,0,"pair of under-rim glasses",0,"pairs of under-rim glasses",0,0,1,0,0,"A piece of undyed facewear.","Under-rim Glasses"
-158,136586,13,200158,0,"pair of silver under-rim glasses",0,"pairs of silver under-rim glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Under-rim Glasses"
-159,202122,13,200159,0,"pair of gold under-rim glasses",0,"pairs of gold under-rim glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Under-rim Glasses"
-160,267658,13,200160,0,"pair of black under-rim glasses",0,"pairs of black under-rim glasses",0,0,1,0,0,"A piece of black facewear.","Black Under-rim Glasses"
-161,333194,13,200161,0,"pair of white under-rim glasses",0,"pairs of white under-rim glasses",0,0,1,0,0,"A piece of white facewear.","White Under-rim Glasses"
-162,398730,13,200162,0,"pair of grey under-rim glasses",0,"pairs of grey under-rim glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Under-rim Glasses"
-163,464266,13,200163,0,"pair of red under-rim glasses",0,"pairs of red under-rim glasses",0,0,1,0,0,"A piece of red facewear.","Red Under-rim Glasses"
-164,529802,13,200164,0,"pair of blue under-rim glasses",0,"pairs of blue under-rim glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Under-rim Glasses"
-165,595338,13,200165,0,"pair of green under-rim glasses",0,"pairs of green under-rim glasses",0,0,1,0,0,"A piece of green facewear.","Green Under-rim Glasses"
-166,660874,13,200166,0,"pair of brass under-rim glasses",0,"pairs of brass under-rim glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Under-rim Glasses"
-167,726410,13,200167,0,"pair of purple under-rim glasses",0,"pairs of purple under-rim glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Under-rim Glasses"
-168,791946,13,200168,0,"pair of brown under-rim glasses",0,"pairs of brown under-rim glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Under-rim Glasses"
-169,71051,14,200169,0,"pair of oval reading glasses",0,"pairs of oval reading glasses",0,0,1,0,0,"A piece of undyed facewear.","Oval Reading Glasses"
-170,136587,14,200170,0,"pair of silver oval reading glasses",0,"pairs of silver oval reading glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Oval Reading Glasses"
-171,202123,14,200171,0,"pair of gold oval reading glasses",0,"pairs of gold oval reading glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Oval Reading Glasses"
-172,267659,14,200172,0,"pair of black oval reading glasses",0,"pairs of black oval reading glasses",0,0,1,0,0,"A piece of black facewear.","Black Oval Reading Glasses"
-173,333195,14,200173,0,"pair of white oval reading glasses",0,"pairs of white oval reading glasses",0,0,1,0,0,"A piece of white facewear.","White Oval Reading Glasses"
-174,398731,14,200174,0,"pair of grey oval reading glasses",0,"pairs of grey oval reading glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Oval Reading Glasses"
-175,464267,14,200175,0,"pair of red oval reading glasses",0,"pairs of red oval reading glasses",0,0,1,0,0,"A piece of red facewear.","Red Oval Reading Glasses"
-176,529803,14,200176,0,"pair of blue oval reading glasses",0,"pairs of blue oval reading glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Oval Reading Glasses"
-177,595339,14,200177,0,"pair of green oval reading glasses",0,"pairs of green oval reading glasses",0,0,1,0,0,"A piece of green facewear.","Green Oval Reading Glasses"
-178,660875,14,200178,0,"pair of brass oval reading glasses",0,"pairs of brass oval reading glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Oval Reading Glasses"
-179,726411,14,200179,0,"pair of purple oval reading glasses",0,"pairs of purple oval reading glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Oval Reading Glasses"
-180,791947,14,200180,0,"pair of brown oval reading glasses",0,"pairs of brown oval reading glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Oval Reading Glasses"
-181,71052,15,200181,0,"pair of elegant rimless glasses",0,"pairs of elegant rimless glasses",0,0,1,0,0,"A piece of undyed facewear.","Elegant Rimless Glasses"
-182,136588,15,200182,0,"pair of silver elegant rimless glasses",0,"pairs of silver elegant rimless glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Elegant Rimless Glasses"
-183,202124,15,200183,0,"pair of gold elegant rimless glasses",0,"pairs of gold elegant rimless glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Elegant Rimless Glasses"
-184,267660,15,200184,0,"pair of black elegant rimless glasses",0,"pairs of black elegant rimless glasses",0,0,1,0,0,"A piece of black facewear.","Black Elegant Rimless Glasses"
-185,333196,15,200185,0,"pair of white elegant rimless glasses",0,"pairs of white elegant rimless glasses",0,0,1,0,0,"A piece of white facewear.","White Elegant Rimless Glasses"
-186,398732,15,200186,0,"pair of grey elegant rimless glasses",0,"pairs of grey elegant rimless glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Elegant Rimless Glasses"
-187,464268,15,200187,0,"pair of red elegant rimless glasses",0,"pairs of red elegant rimless glasses",0,0,1,0,0,"A piece of red facewear.","Red Elegant Rimless Glasses"
-188,529804,15,200188,0,"pair of blue elegant rimless glasses",0,"pairs of blue elegant rimless glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Elegant Rimless Glasses"
-189,595340,15,200189,0,"pair of green elegant rimless glasses",0,"pairs of green elegant rimless glasses",0,0,1,0,0,"A piece of green facewear.","Green Elegant Rimless Glasses"
-190,660876,15,200190,0,"pair of brass elegant rimless glasses",0,"pairs of brass elegant rimless glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Elegant Rimless Glasses"
-191,726412,15,200191,0,"pair of purple elegant rimless glasses",0,"pairs of purple elegant rimless glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Elegant Rimless Glasses"
-192,791948,15,200192,0,"pair of brown elegant rimless glasses",0,"pairs of brown elegant rimless glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Elegant Rimless Glasses"
-193,71053,16,200193,0,"pair of cat eye glasses",0,"pairs of cat eye glasses",0,0,1,0,0,"A piece of undyed facewear.","Cat Eye Glasses"
-194,136589,16,200194,0,"pair of silver cat eye glasses",0,"pairs of silver cat eye glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Cat Eye Glasses"
-195,202125,16,200195,0,"pair of gold cat eye glasses",0,"pairs of gold cat eye glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Cat Eye Glasses"
-196,267661,16,200196,0,"pair of black cat eye glasses",0,"pairs of black cat eye glasses",0,0,1,0,0,"A piece of black facewear.","Black Cat Eye Glasses"
-197,333197,16,200197,0,"pair of white cat eye glasses",0,"pairs of white cat eye glasses",0,0,1,0,0,"A piece of white facewear.","White Cat Eye Glasses"
-198,398733,16,200198,0,"pair of grey cat eye glasses",0,"pairs of grey cat eye glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Cat Eye Glasses"
-199,464269,16,200199,0,"pair of red cat eye glasses",0,"pairs of red cat eye glasses",0,0,1,0,0,"A piece of red facewear.","Red Cat Eye Glasses"
-200,529805,16,200200,0,"pair of blue cat eye glasses",0,"pairs of blue cat eye glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Cat Eye Glasses"
-201,595341,16,200201,0,"pair of green cat eye glasses",0,"pairs of green cat eye glasses",0,0,1,0,0,"A piece of green facewear.","Green Cat Eye Glasses"
-202,660877,16,200202,0,"pair of brass cat eye glasses",0,"pairs of brass cat eye glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Cat Eye Glasses"
-203,726413,16,200203,0,"pair of purple cat eye glasses",0,"pairs of purple cat eye glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Cat Eye Glasses"
-204,791949,16,200204,0,"pair of brown cat eye glasses",0,"pairs of brown cat eye glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Cat Eye Glasses"
-205,71054,17,200205,0,"pair of slim frame glasses",0,"pairs of slim frame glasses",0,0,1,0,0,"A piece of undyed facewear.","Slim Frame Glasses"
-206,136590,17,200206,0,"pair of silver slim frame glasses",0,"pairs of silver slim frame glasses",0,0,1,0,0,"A piece of silver facewear.","Silver Slim Frame Glasses"
-207,202126,17,200207,0,"pair of gold slim frame glasses",0,"pairs of gold slim frame glasses",0,0,1,0,0,"A piece of gold facewear.","Gold Slim Frame Glasses"
-208,267662,17,200208,0,"pair of black slim frame glasses",0,"pairs of black slim frame glasses",0,0,1,0,0,"A piece of black facewear.","Black Slim Frame Glasses"
-209,333198,17,200209,0,"pair of white slim frame glasses",0,"pairs of white slim frame glasses",0,0,1,0,0,"A piece of white facewear.","White Slim Frame Glasses"
-210,398734,17,200210,0,"pair of grey slim frame glasses",0,"pairs of grey slim frame glasses",0,0,1,0,0,"A piece of grey facewear.","Grey Slim Frame Glasses"
-211,464270,17,200211,0,"pair of red slim frame glasses",0,"pairs of red slim frame glasses",0,0,1,0,0,"A piece of red facewear.","Red Slim Frame Glasses"
-212,529806,17,200212,0,"pair of blue slim frame glasses",0,"pairs of blue slim frame glasses",0,0,1,0,0,"A piece of blue facewear.","Blue Slim Frame Glasses"
-213,595342,17,200213,0,"pair of green slim frame glasses",0,"pairs of green slim frame glasses",0,0,1,0,0,"A piece of green facewear.","Green Slim Frame Glasses"
-214,660878,17,200214,0,"pair of brass slim frame glasses",0,"pairs of brass slim frame glasses",0,0,1,0,0,"A piece of brass facewear.","Brass Slim Frame Glasses"
-215,726414,17,200215,0,"pair of purple slim frame glasses",0,"pairs of purple slim frame glasses",0,0,1,0,0,"A piece of purple facewear.","Purple Slim Frame Glasses"
-216,791950,17,200216,0,"pair of brown slim frame glasses",0,"pairs of brown slim frame glasses",0,0,1,0,0,"A piece of brown facewear.","Brown Slim Frame Glasses"
+﻿key,4,6,12,13
+#,,,,
+offset,0,4,8,12
+int32,str,str,str,str
+0,,,,
+1,pair of oval spectacles,pairs of oval spectacles,A piece of undyed facewear.,Oval Spectacles
+2,pair of silver oval spectacles,pairs of silver oval spectacles,A piece of silver facewear.,Silver Oval Spectacles
+3,pair of gold oval spectacles,pairs of gold oval spectacles,A piece of gold facewear.,Gold Oval Spectacles
+4,pair of black oval spectacles,pairs of black oval spectacles,A piece of black facewear.,Black Oval Spectacles
+5,pair of white oval spectacles,pairs of white oval spectacles,A piece of white facewear.,White Oval Spectacles
+6,pair of grey oval spectacles,pairs of grey oval spectacles,A piece of grey facewear.,Grey Oval Spectacles
+7,pair of red oval spectacles,pairs of red oval spectacles,A piece of red facewear.,Red Oval Spectacles
+8,pair of blue oval spectacles,pairs of blue oval spectacles,A piece of blue facewear.,Blue Oval Spectacles
+9,pair of green oval spectacles,pairs of green oval spectacles,A piece of green facewear.,Green Oval Spectacles
+10,pair of brass oval spectacles,pairs of brass oval spectacles,A piece of brass facewear.,Brass Oval Spectacles
+11,pair of purple oval spectacles,pairs of purple oval spectacles,A piece of purple facewear.,Purple Oval Spectacles
+12,pair of brown oval spectacles,pairs of brown oval spectacles,A piece of brown facewear.,Brown Oval Spectacles
+13,pair of shaded spectacles,pairs of shaded spectacles,A piece of undyed facewear.,Shaded Spectacles
+14,pair of silver shaded spectacles,pairs of silver shaded spectacles,A piece of silver facewear.,Silver Shaded Spectacles
+15,pair of gold shaded spectacles,pairs of gold shaded spectacles,A piece of gold facewear.,Gold Shaded Spectacles
+16,pair of black shaded spectacles,pairs of black shaded spectacles,A piece of black facewear.,Black Shaded Spectacles
+17,pair of white shaded spectacles,pairs of white shaded spectacles,A piece of white facewear.,White Shaded Spectacles
+18,pair of grey shaded spectacles,pairs of grey shaded spectacles,A piece of grey facewear.,Grey Shaded Spectacles
+19,pair of red shaded spectacles,pairs of red shaded spectacles,A piece of red facewear.,Red Shaded Spectacles
+20,pair of blue shaded spectacles,pairs of blue shaded spectacles,A piece of blue facewear.,Blue Shaded Spectacles
+21,pair of green shaded spectacles,pairs of green shaded spectacles,A piece of green facewear.,Green Shaded Spectacles
+22,pair of brass shaded spectacles,pairs of brass shaded spectacles,A piece of brass facewear.,Brass Shaded Spectacles
+23,pair of purple shaded spectacles,pairs of purple shaded spectacles,A piece of purple facewear.,Purple Shaded Spectacles
+24,pair of brown shaded spectacles,pairs of brown shaded spectacles,A piece of brown facewear.,Brown Shaded Spectacles
+25,pair of classic spectacles,pairs of classic spectacles,A piece of undyed facewear.,Classic Spectacles
+26,pair of silver classic spectacles,pairs of silver classic spectacles,A piece of silver facewear.,Silver Classic Spectacles
+27,pair of gold classic spectacles,pairs of gold classic spectacles,A piece of gold facewear.,Gold Classic Spectacles
+28,pair of black classic spectacles,pairs of black classic spectacles,A piece of black facewear.,Black Classic Spectacles
+29,pair of white classic spectacles,pairs of white classic spectacles,A piece of white facewear.,White Classic Spectacles
+30,pair of grey classic spectacles,pairs of grey classic spectacles,A piece of grey facewear.,Grey Classic Spectacles
+31,pair of red classic spectacles,pairs of red classic spectacles,A piece of red facewear.,Red Classic Spectacles
+32,pair of blue classic spectacles,pairs of blue classic spectacles,A piece of blue facewear.,Blue Classic Spectacles
+33,pair of green classic spectacles,pairs of green classic spectacles,A piece of green facewear.,Green Classic Spectacles
+34,pair of brass classic spectacles,pairs of brass classic spectacles,A piece of brass facewear.,Brass Classic Spectacles
+35,pair of purple classic spectacles,pairs of purple classic spectacles,A piece of purple facewear.,Purple Classic Spectacles
+36,pair of brown classic spectacles,pairs of brown classic spectacles,A piece of brown facewear.,Brown Classic Spectacles
+37,pair of rose-colored spectacles,pairs of rose-colored spectacles,A piece of undyed facewear.,Rose-colored Spectacles
+38,pair of silver rose-colored spectacles,pairs of silver rose-colored spectacles,A piece of silver facewear.,Silver Rose-colored Spectacles
+39,pair of gold rose-colored spectacles,pairs of gold rose-colored spectacles,A piece of gold facewear.,Gold Rose-colored Spectacles
+40,pair of black rose-colored spectacles,pairs of black rose-colored spectacles,A piece of black facewear.,Black Rose-colored Spectacles
+41,pair of white rose-colored spectacles,pairs of white rose-colored spectacles,A piece of white facewear.,White Rose-colored Spectacles
+42,pair of grey rose-colored spectacles,pairs of grey rose-colored spectacles,A piece of grey facewear.,Grey Rose-colored Spectacles
+43,pair of red rose-colored spectacles,pairs of red rose-colored spectacles,A piece of red facewear.,Red Rose-colored Spectacles
+44,pair of blue rose-colored spectacles,pairs of blue rose-colored spectacles,A piece of blue facewear.,Blue Rose-colored Spectacles
+45,pair of green rose-colored spectacles,pairs of green rose-colored spectacles,A piece of green facewear.,Green Rose-colored Spectacles
+46,pair of brass rose-colored spectacles,pairs of brass rose-colored spectacles,A piece of brass facewear.,Brass Rose-colored Spectacles
+47,pair of purple rose-colored spectacles,pairs of purple rose-colored spectacles,A piece of purple facewear.,Purple Rose-colored Spectacles
+48,pair of brown rose-colored spectacles,pairs of brown rose-colored spectacles,A piece of brown facewear.,Brown Rose-colored Spectacles
+49,pair of simple spectacles,pairs of simple spectacles,A piece of undyed facewear.,Simple Spectacles
+50,pair of silver spectacles,pairs of silver spectacles,A piece of silver facewear.,Silver Spectacles
+51,pair of gold spectacles,pairs of gold spectacles,A piece of gold facewear.,Gold Spectacles
+52,pair of black spectacles,pairs of black spectacles,A piece of black facewear.,Black Spectacles
+53,pair of white spectacles,pairs of white spectacles,A piece of white facewear.,White Spectacles
+54,pair of grey spectacles,pairs of grey spectacles,A piece of grey facewear.,Grey Spectacles
+55,pair of red spectacles,pairs of red spectacles,A piece of red facewear.,Red Spectacles
+56,pair of blue spectacles,pairs of blue spectacles,A piece of blue facewear.,Blue Spectacles
+57,pair of green spectacles,pairs of green spectacles,A piece of green facewear.,Green Spectacles
+58,pair of brass spectacles,pairs of brass spectacles,A piece of brass facewear.,Brass Spectacles
+59,pair of purple spectacles,pairs of purple spectacles,A piece of purple facewear.,Purple Spectacles
+60,pair of brown spectacles,pairs of brown spectacles,A piece of brown facewear.,Brown Spectacles
+61,monocle,monocles,A piece of undyed facewear.,Monocle
+62,silver monocle,silver monocles,A piece of silver facewear.,Silver Monocle
+63,gold monocle,gold monocles,A piece of gold facewear.,Gold Monocle
+64,black monocle,black monocles,A piece of black facewear.,Black Monocle
+65,white monocle,white monocles,A piece of white facewear.,White Monocle
+66,grey monocle,grey monocles,A piece of grey facewear.,Grey Monocle
+67,red monocle,red monocles,A piece of red facewear.,Red Monocle
+68,blue monocle,blue monocles,A piece of blue facewear.,Blue Monocle
+69,green monocle,green monocles,A piece of green facewear.,Green Monocle
+70,brass monocle,brass monocles,A piece of brass facewear.,Brass Monocle
+71,purple monocle,purple monocles,A piece of purple facewear.,Purple Monocle
+72,brown monocle,brown monocles,A piece of brown facewear.,Brown Monocle
+73,pair of contemporary pince-nez,pairs of contemporary pince-nez,A piece of undyed facewear.,Contemporary Pince-nez
+74,pair of silver contemporary pince-nez,pairs of silver contemporary pince-nez,A piece of silver facewear.,Silver Contemporary Pince-nez
+75,pair of gold contemporary pince-nez,pairs of gold contemporary pince-nez,A piece of gold facewear.,Gold Contemporary Pince-nez
+76,pair of black contemporary pince-nez,pairs of black contemporary pince-nez,A piece of black facewear.,Black Contemporary Pince-nez
+77,pair of white contemporary pince-nez,pairs of white contemporary pince-nez,A piece of white facewear.,White Contemporary Pince-nez
+78,pair of grey contemporary pince-nez,pairs of grey contemporary pince-nez,A piece of grey facewear.,Grey Contemporary Pince-nez
+79,pair of red contemporary pince-nez,pairs of red contemporary pince-nez,A piece of red facewear.,Red Contemporary Pince-nez
+80,pair of blue contemporary pince-nez,pairs of blue contemporary pince-nez,A piece of blue facewear.,Blue Contemporary Pince-nez
+81,pair of green contemporary pince-nez,pairs of green contemporary pince-nez,A piece of green facewear.,Green Contemporary Pince-nez
+82,pair of brass contemporary pince-nez,pairs of brass contemporary pince-nez,A piece of brass facewear.,Brass Contemporary Pince-nez
+83,pair of purple contemporary pince-nez,pairs of purple contemporary pince-nez,A piece of purple facewear.,Purple Contemporary Pince-nez
+84,pair of brown contemporary pince-nez,pairs of brown contemporary pince-nez,A piece of brown facewear.,Brown Contemporary Pince-nez
+85,pair of rimless glasses,pairs of rimless glasses,A piece of undyed facewear.,Rimless Glasses
+86,pair of silver rimless glasses,pairs of silver rimless glasses,A piece of silver facewear.,Silver Rimless Glasses
+87,pair of gold rimless glasses,pairs of gold rimless glasses,A piece of gold facewear.,Gold Rimless Glasses
+88,pair of black rimless glasses,pairs of black rimless glasses,A piece of black facewear.,Black Rimless Glasses
+89,pair of white rimless glasses,pairs of white rimless glasses,A piece of white facewear.,White Rimless Glasses
+90,pair of grey rimless glasses,pairs of grey rimless glasses,A piece of grey facewear.,Grey Rimless Glasses
+91,pair of red rimless glasses,pairs of red rimless glasses,A piece of red facewear.,Red Rimless Glasses
+92,pair of blue rimless glasses,pairs of blue rimless glasses,A piece of blue facewear.,Blue Rimless Glasses
+93,pair of green rimless glasses,pairs of green rimless glasses,A piece of green facewear.,Green Rimless Glasses
+94,pair of brass rimless glasses,pairs of brass rimless glasses,A piece of brass facewear.,Brass Rimless Glasses
+95,pair of purple rimless glasses,pairs of purple rimless glasses,A piece of purple facewear.,Purple Rimless Glasses
+96,pair of brown rimless glasses,pairs of brown rimless glasses,A piece of brown facewear.,Brown Rimless Glasses
+97,pair of thick-rimmed glasses,pairs of thick-rimmed glasses,A piece of undyed facewear.,Thick-rimmed Glasses
+98,pair of silver thick-rimmed glasses,pairs of silver thick-rimmed glasses,A piece of silver facewear.,Silver Thick-rimmed Glasses
+99,pair of gold thick-rimmed glasses,pairs of gold thick-rimmed glasses,A piece of gold facewear.,Gold Thick-rimmed Glasses
+100,pair of black thick-rimmed glasses,pairs of black thick-rimmed glasses,A piece of black facewear.,Black Thick-rimmed Glasses
+101,pair of white thick-rimmed glasses,pairs of white thick-rimmed glasses,A piece of white facewear.,White Thick-rimmed Glasses
+102,pair of grey thick-rimmed glasses,pairs of grey thick-rimmed glasses,A piece of grey facewear.,Grey Thick-rimmed Glasses
+103,pair of red thick-rimmed glasses,pairs of red thick-rimmed glasses,A piece of red facewear.,Red Thick-rimmed Glasses
+104,pair of blue thick-rimmed glasses,pairs of blue thick-rimmed glasses,A piece of blue facewear.,Blue Thick-rimmed Glasses
+105,pair of green thick-rimmed glasses,pairs of green thick-rimmed glasses,A piece of green facewear.,Green Thick-rimmed Glasses
+106,pair of brass thick-rimmed glasses,pairs of brass thick-rimmed glasses,A piece of brass facewear.,Brass Thick-rimmed Glasses
+107,pair of purple thick-rimmed glasses,pairs of purple thick-rimmed glasses,A piece of purple facewear.,Purple Thick-rimmed Glasses
+108,pair of brown thick-rimmed glasses,pairs of brown thick-rimmed glasses,A piece of brown facewear.,Brown Thick-rimmed Glasses
+109,pair of minstrel's spectacles,pairs of minstrel's spectacles,A piece of undyed facewear.,Minstrel's Spectacles
+110,pair of silver minstrel's spectacles,pairs of silver minstrel's spectacles,A piece of silver facewear.,Silver Minstrel's Spectacles
+111,pair of gold minstrel's spectacles,pairs of gold minstrel's spectacles,A piece of gold facewear.,Gold Minstrel's Spectacles
+112,pair of black minstrel's spectacles,pairs of black minstrel's spectacles,A piece of black facewear.,Black Minstrel's Spectacles
+113,pair of white minstrel's spectacles,pairs of white minstrel's spectacles,A piece of white facewear.,White Minstrel's Spectacles
+114,pair of grey minstrel's spectacles,pairs of grey minstrel's spectacles,A piece of grey facewear.,Grey Minstrel's Spectacles
+115,pair of red minstrel's spectacles,pairs of red minstrel's spectacles,A piece of red facewear.,Red Minstrel's Spectacles
+116,pair of blue minstrel's spectacles,pairs of blue minstrel's spectacles,A piece of blue facewear.,Blue Minstrel's Spectacles
+117,pair of green minstrel's spectacles,pairs of green minstrel's spectacles,A piece of green facewear.,Green Minstrel's Spectacles
+118,pair of brass minstrel's spectacles,pairs of brass minstrel's spectacles,A piece of brass facewear.,Brass Minstrel's Spectacles
+119,pair of purple minstrel's spectacles,pairs of purple minstrel's spectacles,A piece of purple facewear.,Purple Minstrel's Spectacles
+120,pair of brown minstrel's spectacles,pairs of brown minstrel's spectacles,A piece of brown facewear.,Brown Minstrel's Spectacles
+121,pair of pince-nez,pairs of pince-nez,A piece of undyed facewear.,Pince-nez
+122,pair of silver pince-nez,pairs of silver pince-nez,A piece of silver facewear.,Silver Pince-nez
+123,pair of gold pince-nez,pairs of gold pince-nez,A piece of gold facewear.,Gold Pince-nez
+124,pair of black pince-nez,pairs of black pince-nez,A piece of black facewear.,Black Pince-nez
+125,pair of white pince-nez,pairs of white pince-nez,A piece of white facewear.,White Pince-nez
+126,pair of grey pince-nez,pairs of grey pince-nez,A piece of grey facewear.,Grey Pince-nez
+127,pair of red pince-nez,pairs of red pince-nez,A piece of red facewear.,Red Pince-nez
+128,pair of blue pince-nez,pairs of blue pince-nez,A piece of blue facewear.,Blue Pince-nez
+129,pair of green pince-nez,pairs of green pince-nez,A piece of green facewear.,Green Pince-nez
+130,pair of brass pince-nez,pairs of brass pince-nez,A piece of brass facewear.,Brass Pince-nez
+131,pair of purple pince-nez,pairs of purple pince-nez,A piece of purple facewear.,Purple Pince-nez
+132,pair of brown pince-nez,pairs of brown pince-nez,A piece of brown facewear.,Brown Pince-nez
+133,pair of magnifiers,pairs of magnifiers,A piece of undyed facewear.,Magnifiers
+134,pair of silver magnifiers,pairs of silver magnifiers,A piece of silver facewear.,Silver Magnifiers
+135,pair of gold magnifiers,pairs of gold magnifiers,A piece of gold facewear.,Gold Magnifiers
+136,pair of black magnifiers,pairs of black magnifiers,A piece of black facewear.,Black Magnifiers
+137,pair of white magnifiers,pairs of white magnifiers,A piece of white facewear.,White Magnifiers
+138,pair of grey magnifiers,pairs of grey magnifiers,A piece of grey facewear.,Grey Magnifiers
+139,pair of red magnifiers,pairs of red magnifiers,A piece of red facewear.,Red Magnifiers
+140,pair of blue magnifiers,pairs of blue magnifiers,A piece of blue facewear.,Blue Magnifiers
+141,pair of green magnifiers,pairs of green magnifiers,A piece of green facewear.,Green Magnifiers
+142,pair of brass magnifiers,pairs of brass magnifiers,A piece of brass facewear.,Brass Magnifiers
+143,pair of purple magnifiers,pairs of purple magnifiers,A piece of purple facewear.,Purple Magnifiers
+144,pair of brown magnifiers,pairs of brown magnifiers,A piece of brown facewear.,Brown Magnifiers
+145,pair of brass goggles,pairs of brass goggles,A piece of undyed facewear.,Brass Goggles
+146,pair of silver brass goggles,pairs of silver brass goggles,A piece of silver facewear.,Silver Brass Goggles
+147,pair of gold brass goggles,pairs of gold brass goggles,A piece of gold facewear.,Gold Brass Goggles
+148,pair of black brass goggles,pairs of black brass goggles,A piece of black facewear.,Black Brass Goggles
+149,pair of white brass goggles,pairs of white brass goggles,A piece of white facewear.,White Brass Goggles
+150,pair of grey brass goggles,pairs of grey brass goggles,A piece of grey facewear.,Grey Brass Goggles
+151,pair of red brass goggles,pairs of red brass goggles,A piece of red facewear.,Red Brass Goggles
+152,pair of blue brass goggles,pairs of blue brass goggles,A piece of blue facewear.,Blue Brass Goggles
+153,pair of green brass goggles,pairs of green brass goggles,A piece of green facewear.,Green Brass Goggles
+154,pair of bronze brass goggles,pairs of bronze brass goggles,A piece of bronze facewear.,Bronze Brass Goggles
+155,pair of purple brass goggles,pairs of purple brass goggles,A piece of purple facewear.,Purple Brass Goggles
+156,pair of brown brass goggles,pairs of brown brass goggles,A piece of brown facewear.,Brown Brass Goggles
+157,pair of under-rim glasses,pairs of under-rim glasses,A piece of undyed facewear.,Under-rim Glasses
+158,pair of silver under-rim glasses,pairs of silver under-rim glasses,A piece of silver facewear.,Silver Under-rim Glasses
+159,pair of gold under-rim glasses,pairs of gold under-rim glasses,A piece of gold facewear.,Gold Under-rim Glasses
+160,pair of black under-rim glasses,pairs of black under-rim glasses,A piece of black facewear.,Black Under-rim Glasses
+161,pair of white under-rim glasses,pairs of white under-rim glasses,A piece of white facewear.,White Under-rim Glasses
+162,pair of grey under-rim glasses,pairs of grey under-rim glasses,A piece of grey facewear.,Grey Under-rim Glasses
+163,pair of red under-rim glasses,pairs of red under-rim glasses,A piece of red facewear.,Red Under-rim Glasses
+164,pair of blue under-rim glasses,pairs of blue under-rim glasses,A piece of blue facewear.,Blue Under-rim Glasses
+165,pair of green under-rim glasses,pairs of green under-rim glasses,A piece of green facewear.,Green Under-rim Glasses
+166,pair of brass under-rim glasses,pairs of brass under-rim glasses,A piece of brass facewear.,Brass Under-rim Glasses
+167,pair of purple under-rim glasses,pairs of purple under-rim glasses,A piece of purple facewear.,Purple Under-rim Glasses
+168,pair of brown under-rim glasses,pairs of brown under-rim glasses,A piece of brown facewear.,Brown Under-rim Glasses
+169,pair of oval reading glasses,pairs of oval reading glasses,A piece of undyed facewear.,Oval Reading Glasses
+170,pair of silver oval reading glasses,pairs of silver oval reading glasses,A piece of silver facewear.,Silver Oval Reading Glasses
+171,pair of gold oval reading glasses,pairs of gold oval reading glasses,A piece of gold facewear.,Gold Oval Reading Glasses
+172,pair of black oval reading glasses,pairs of black oval reading glasses,A piece of black facewear.,Black Oval Reading Glasses
+173,pair of white oval reading glasses,pairs of white oval reading glasses,A piece of white facewear.,White Oval Reading Glasses
+174,pair of grey oval reading glasses,pairs of grey oval reading glasses,A piece of grey facewear.,Grey Oval Reading Glasses
+175,pair of red oval reading glasses,pairs of red oval reading glasses,A piece of red facewear.,Red Oval Reading Glasses
+176,pair of blue oval reading glasses,pairs of blue oval reading glasses,A piece of blue facewear.,Blue Oval Reading Glasses
+177,pair of green oval reading glasses,pairs of green oval reading glasses,A piece of green facewear.,Green Oval Reading Glasses
+178,pair of brass oval reading glasses,pairs of brass oval reading glasses,A piece of brass facewear.,Brass Oval Reading Glasses
+179,pair of purple oval reading glasses,pairs of purple oval reading glasses,A piece of purple facewear.,Purple Oval Reading Glasses
+180,pair of brown oval reading glasses,pairs of brown oval reading glasses,A piece of brown facewear.,Brown Oval Reading Glasses
+181,pair of elegant rimless glasses,pairs of elegant rimless glasses,A piece of undyed facewear.,Elegant Rimless Glasses
+182,pair of silver elegant rimless glasses,pairs of silver elegant rimless glasses,A piece of silver facewear.,Silver Elegant Rimless Glasses
+183,pair of gold elegant rimless glasses,pairs of gold elegant rimless glasses,A piece of gold facewear.,Gold Elegant Rimless Glasses
+184,pair of black elegant rimless glasses,pairs of black elegant rimless glasses,A piece of black facewear.,Black Elegant Rimless Glasses
+185,pair of white elegant rimless glasses,pairs of white elegant rimless glasses,A piece of white facewear.,White Elegant Rimless Glasses
+186,pair of grey elegant rimless glasses,pairs of grey elegant rimless glasses,A piece of grey facewear.,Grey Elegant Rimless Glasses
+187,pair of red elegant rimless glasses,pairs of red elegant rimless glasses,A piece of red facewear.,Red Elegant Rimless Glasses
+188,pair of blue elegant rimless glasses,pairs of blue elegant rimless glasses,A piece of blue facewear.,Blue Elegant Rimless Glasses
+189,pair of green elegant rimless glasses,pairs of green elegant rimless glasses,A piece of green facewear.,Green Elegant Rimless Glasses
+190,pair of brass elegant rimless glasses,pairs of brass elegant rimless glasses,A piece of brass facewear.,Brass Elegant Rimless Glasses
+191,pair of purple elegant rimless glasses,pairs of purple elegant rimless glasses,A piece of purple facewear.,Purple Elegant Rimless Glasses
+192,pair of brown elegant rimless glasses,pairs of brown elegant rimless glasses,A piece of brown facewear.,Brown Elegant Rimless Glasses
+193,pair of cat eye glasses,pairs of cat eye glasses,A piece of undyed facewear.,Cat Eye Glasses
+194,pair of silver cat eye glasses,pairs of silver cat eye glasses,A piece of silver facewear.,Silver Cat Eye Glasses
+195,pair of gold cat eye glasses,pairs of gold cat eye glasses,A piece of gold facewear.,Gold Cat Eye Glasses
+196,pair of black cat eye glasses,pairs of black cat eye glasses,A piece of black facewear.,Black Cat Eye Glasses
+197,pair of white cat eye glasses,pairs of white cat eye glasses,A piece of white facewear.,White Cat Eye Glasses
+198,pair of grey cat eye glasses,pairs of grey cat eye glasses,A piece of grey facewear.,Grey Cat Eye Glasses
+199,pair of red cat eye glasses,pairs of red cat eye glasses,A piece of red facewear.,Red Cat Eye Glasses
+200,pair of blue cat eye glasses,pairs of blue cat eye glasses,A piece of blue facewear.,Blue Cat Eye Glasses
+201,pair of green cat eye glasses,pairs of green cat eye glasses,A piece of green facewear.,Green Cat Eye Glasses
+202,pair of brass cat eye glasses,pairs of brass cat eye glasses,A piece of brass facewear.,Brass Cat Eye Glasses
+203,pair of purple cat eye glasses,pairs of purple cat eye glasses,A piece of purple facewear.,Purple Cat Eye Glasses
+204,pair of brown cat eye glasses,pairs of brown cat eye glasses,A piece of brown facewear.,Brown Cat Eye Glasses
+205,pair of slim frame glasses,pairs of slim frame glasses,A piece of undyed facewear.,Slim Frame Glasses
+206,pair of silver slim frame glasses,pairs of silver slim frame glasses,A piece of silver facewear.,Silver Slim Frame Glasses
+207,pair of gold slim frame glasses,pairs of gold slim frame glasses,A piece of gold facewear.,Gold Slim Frame Glasses
+208,pair of black slim frame glasses,pairs of black slim frame glasses,A piece of black facewear.,Black Slim Frame Glasses
+209,pair of white slim frame glasses,pairs of white slim frame glasses,A piece of white facewear.,White Slim Frame Glasses
+210,pair of grey slim frame glasses,pairs of grey slim frame glasses,A piece of grey facewear.,Grey Slim Frame Glasses
+211,pair of red slim frame glasses,pairs of red slim frame glasses,A piece of red facewear.,Red Slim Frame Glasses
+212,pair of blue slim frame glasses,pairs of blue slim frame glasses,A piece of blue facewear.,Blue Slim Frame Glasses
+213,pair of green slim frame glasses,pairs of green slim frame glasses,A piece of green facewear.,Green Slim Frame Glasses
+214,pair of brass slim frame glasses,pairs of brass slim frame glasses,A piece of brass facewear.,Brass Slim Frame Glasses
+215,pair of purple slim frame glasses,pairs of purple slim frame glasses,A piece of purple facewear.,Purple Slim Frame Glasses
+216,pair of brown slim frame glasses,pairs of brown slim frame glasses,A piece of brown facewear.,Brown Slim Frame Glasses
