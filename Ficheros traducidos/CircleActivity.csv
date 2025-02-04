@@ -2,29 +2,29 @@
 #,Name
 offset,0
 int32,str
-0,None
-1,Role-playing
-2,Player Events
-3,Making Friends
-4,Novice Support
-5,Casual
-6,Hardcore
-7,Leveling
-8,Battle
-9,Crafting
-10,Gathering
-11,Housing
-12,Hunts
-13,Treasure Hunt
-14,PvP
-15,Fishing
-16,Doman Mahjong
-17,Performance
-18,Glamours
-19,Group Pose
-20,Triple Triad
-21,Collectables
-22,Chatting
+0,"Ninguno"
+1,"Juego de Rol"
+2,"Eventos de Jugadores"
+3,"Hacer Amigos"
+4,"Ayudar a Novatos"
+5,"Casual"
+6,"Hardcore"
+7,"Subir de Nivel"
+8,"Batalla"
+9,"Artesanía"
+10,"Recolección"
+11,"Decoración de Casas"
+12,"Cacerías"
+13,"Búsqueda de Tesoros"
+14,"PvP"
+15,"Pesca"
+16,"Mahjong"
+17,"Interpretación"
+18,"Glamour / Moda"
+19,"Poses Grupales"
+20,"Triple Triad"
+21,"Coleccionismo"
+22,"Charlar"
 23,
 24,
 25,

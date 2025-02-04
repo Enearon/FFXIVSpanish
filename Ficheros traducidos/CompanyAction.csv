@@ -1,0 +1,105 @@
+﻿key,0,1
+#,Name,Description
+offset,0,4
+int32,str,str
+0,,
+1,"Fervor de Batalla","Aumenta la EXP ganada mediante el combate en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+2,"Tierra y Agua","Aumenta la EXP ganada mediante la recolección en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+3,"Mano Amiga","Aumenta la EXP ganada mediante la artesanía en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+4,"El Mejor Amigo del Hombre","Aumenta la EXP ganada por tus compañeros en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+5,"Aumento de Marcas","Aumenta las Marcas del Lobo ganadas en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+6,"Edulcorante de Sellos","Aumento los sellos de Grandes Compañías obtenidos en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+7,"Un Mundo Feliz","Aumenta los atributos de todos los Adeptos de la Guerra y la Magia por debajo de nivel 25 en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+8,"Vivir de la Tierra","Aumenta el atributo <hex:024804F201FA03><hex:024904F201FB03>Recolección<hex:0249020103><hex:0248020103> en 5.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+9,"Lo que Ves","Aumenta el atributo <hex:024804F201FA03><hex:024904F201FB03>Percepción<hex:0249020103><hex:0248020103> en 5.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+10,"Comer de la Mano","Aumenta el atributo <hex:024804F201FA03><hex:024904F201FB03>Artesanía<hex:0249020103><hex:0248020103> en 5.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+11,"Bajo Control","Aumenta el atributo <hex:024804F201FA03><hex:024904F201FB03>Control<hex:0249020103><hex:0248020103> en 5.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+12,"Eso que Nos Une","Aumenta la velocidad de vínculo espiritual.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+13,"Carne e Hidromiel","Aumenta la duración de los efectos de la comida en cinco minutos.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+14,"Cuidado Adecuado","Reduce el desgaste de equipo en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+15,"Pies Ligeros","Aumenta la duración de la habilidad <hex:024804F201FA03><hex:024904F201FB03>Esprint<hex:0249020103><hex:0248020103> en grandes asentamientos en un 25%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+16,"Tarifas Reducidas","Reduce el coste de la teletransportación en un 20%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+17,"Jackpot","Aumenta la cantidad de MGP ganados en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+18,,
+19,,
+20,,
+21,,
+22,,
+23,,
+24,,
+25,,
+26,,
+27,,
+28,,
+29,,
+30,,
+31,"Fervor de Batalla II","Aumenta la EXP ganada mediante el combate en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+32,"Tierra y Agua II","Aumenta la EXP ganada mediante la recolección en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+33,"Mano Amiga II","Aumenta la EXP ganada mediante la artesanía en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+34,"El Mejor Amigo del Hombre II","Aumenta la EXP ganada por tus compañeros en un 15%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+35,"Aumento de Marcas II","Aumenta las Marcas del Lobo ganadas en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+36,"Edulcorante de Sellos II","Aumenta los sellos de Grandes Compañías obtenidos en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+37,"Un Mundo Feliz II","Aumenta los atributos de todos los Adeptos de la Guerra o Magia por debajo del nivel 49 en un 5%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+38,"Vivir de la Tierra II","Aumenta la recolección en 10.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+39,"Lo que Ves II","Aumenta la percepción en 10.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+40,"Comer de la Mano II","Aumenta la artesanía en 10.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+41,"Bajo Control II","Aumenta el control en 10.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+42,"Eso que Nos Une II","Aumenta la velocidad de vinculación espiritual.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+43,"Carne e Hidromiel II","Aumenta la duración de los efectos de la comida en diez minutos.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+44,"Cuidado Adecuado II","Reduce el desgaste de equipo en un 20%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+45,"Pies Ligeros II","Aumenta la duración de la habilidad <hex:024804F201FA03><hex:024904F201FB03>Esprint<hex:0249020103><hex:0248020103> en grandes asentamientos en un 50%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+46,"Tarifas Reducidas II","Reduce las tarifas de teletransportación en un 30%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+47,"Jackpot II","Aumenta la cantidad de MGP ganados en un 10%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+48,,
+49,,
+50,,
+51,,
+52,,
+53,,
+54,,
+55,,
+56,,
+57,,
+58,,
+59,,
+60,,
+61,"Fervor de Batalla III","Aumenta la EXP ganada mediante el combate en un 15%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+62,"Tierra y Agua III","Aumenta la EXP ganada mediante la recolección en un 20%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+63,"Mano Amiga III","Aumenta la EXP ganada mediante la artesanía en un 20%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+64,"El Mejor Amigo del Hombre III","Aumenta la EXP ganada por tus compañeros en un 20%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+65,"Aumento de Marcas III","Aumenta las Marcas del Lobo ganadas en un 15%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+66,"Edulcorante de Sellos III","Aumenta los sellos de Grandes Compañías obtenidos en un 15%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+67,,
+68,"Vivir de la Tierra III","Aumenta la recolección en 15.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+69,"Lo que Ves III","Aumenta la percepción en 15.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+70,"Comer de la Mano III","Aumenta la artesanía en 15.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+71,"Bajo Control III","Aumenta el control en 15.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+72,"Eso que Nos Une III","Aumenta la velocidad de vinculación espiritual.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+73,"Carne e Hidromiel III","Aumenta la duración de los efectos de la comida en quince minutos.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+74,"Cuidado Adecuado III","Reduce el desgaste de equipo en un 30%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+75,,
+76,"Tarifas Reducidas III","Reduce las tarifas de teletransportación en un 40%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:0249020103><hex:0248020103> 24h"
+77,"Jackpot III","Aumenta la cantidad de MGP ganados en un 15%.<hex:02100103><hex:024804F201F803><hex:024904F201F903>Duración:<hex:024902010> 24h"
+78,,
+79,,
+80,,
+81,,
+82,,
+83,,
+84,,
+85,,
+86,,
+87,,
+88,,
+89,,
+90,,
+91,,
+92,,
+93,,
+94,,
+95,,
+96,,
+97,,
+98,,
+99,,
+100,,
