@@ -26,6 +26,7 @@ Al igual, si una palabra que añadimos tiene 4 bytes de longitud se debe añadir
 El resultado total se calcula de la siguiente manera:<br/>
 ```Valor en bytes de la primera palabra (4 Bytes) + Valor en bytes de la segunda palabra (5 bytes) + Valor de los condicionales (6 bytes)* + 1 Byte de control dependiendo del tipo de instrucción = 16 Bytes```<br/>
 Es muy importante, dependiendo de la instrucción, que antes de traducir se verifique el valor total y se hagan los cálculos, dado que no todas las instrucciones son iguales y pueden usar mas bytes de control, como por ejemplo, algunas usarán 3 bytes en lugar de 1 adicional a la suma total de la instrucción.<br/>
+* En este caso, el valor de la instrucción son 6 bytes por ser un IF (2 Bytes) y un ELSE (4 Bytes).<br/>
 
 Para ver los tipos de instrucción podemos acceder a esta página: https://github.com/xivapi/SaintCoinach/blob/master/SaintCoinach/Text/TagType.cs<br/>
 
