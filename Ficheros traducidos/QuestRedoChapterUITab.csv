@@ -1,0 +1,13 @@
+﻿key,3
+#,Text
+offset,0
+int32,str
+0,
+1,"Historia Principal"
+2,"Historia Secundaria"
+3,"Crónicas de una nueva Era"
+4,"Misiones de Tanque"
+5,"Misiones de DPS"
+6,"Misiones de Healer"
+7,"Misiones de Artesano"
+8,"Misiones de Recolector"
