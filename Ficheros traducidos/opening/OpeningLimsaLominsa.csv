@@ -11,8 +11,8 @@ int32,str,str
 6,TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13,"Un poco pronto para irte, ¿no crees? ¿Ya has escuchado todo lo que ese tipo grande y, para nada, sospechoso de detrás de la barra tiene que decirte? Si es así, deberías saber que es de buena educación dedicar un momento a quienes lo necesitan, como esa Lalafell de la mesa que no te ha perdido de vista ni un segundo."
 7,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20,"Te damos la Bienvenida a Limsa Lominsa, una bulliciosa ciudad-estado llena de bribones y bandidos, diamante en bruto del Mar de Rhotano."
 8,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21,"Sigue las instrucciones para mover tu personaje y ajustar la posición de la cámara."
-9,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22,"Cuando estés <hex:020811E905FF06>lista<hex:FF06>listo<hex03> para continuar habla con Ryssfloh."
+9,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22,"Cuando desees continuar habla con Ryssfloh."
 10,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23,"Por favor, selecciona el esquema de control que te gustaría usar."
 11,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01,"¿Qué esquema de controles te gustaría usar?"
-12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,"Usaré el Teclado y el Ratón."
+12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,"Teclado y Ratón"
 13,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02,<hex:020815E1E94C02FF06>Mando<hex:FF08>Gamepad<hex:03>
