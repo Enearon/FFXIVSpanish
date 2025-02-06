@@ -2,10 +2,10 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_MANFST002_00085_SEQ_00,"Miounne, proprietress of the Carline Canopy, wants you to perform three tasks that will help you learn the fundamentals of adventuring."
-1,TEXT_MANFST002_00085_SEQ_01,"Miounne has given you three tasks to perform. As you make your way around Gridania, try approaching citizens who appear to be in need of help."
-2,TEXT_MANFST002_00085_SEQ_02,You have completed all three tasks. Report back to Miounne at the Carline Canopy.
-3,TEXT_MANFST002_00085_SEQ_03,"Miounne explains that the three locations you visited will prove indispensable in your adventuring life. Heed well her advice, and travel further afield as your experience grows."
+0,TEXT_MANFST002_00085_SEQ_00,"Miounne, la propietaria del Carline Canopy, quiere que realices tres tareas que te ayudarán a aprender los conceptos básicos de ser <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>."
+1,TEXT_MANFST002_00085_SEQ_01,"Miounne te ha encomendado tres tareas. Mientras recorres Gridania intenta aproximarte a los ciudadanos que parecen necesitar ayuda."
+2,TEXT_MANFST002_00085_SEQ_02,"Has completado todas las tareas. Informa a Miounne en el Carline Canopy."
+3,TEXT_MANFST002_00085_SEQ_03,"Miounne te ha explicado que las tres ubicaciones que has visitado serán indispensables en tu vida como <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Presta atención a sus consejos y sigue explorando a medida que ganes experiencia."
 4,TEXT_MANFST002_00085_SEQ_04,
 5,TEXT_MANFST002_00085_SEQ_05,
 6,TEXT_MANFST002_00085_SEQ_06,
@@ -26,10 +26,10 @@ int32,str,str
 21,TEXT_MANFST002_00085_SEQ_21,
 22,TEXT_MANFST002_00085_SEQ_22,
 23,TEXT_MANFST002_00085_SEQ_23,
-24,TEXT_MANFST002_00085_TODO_00,Attune yourself to the aetheryte found inside the city.
-25,TEXT_MANFST002_00085_TODO_01,Visit the Lancers' Guild.
-26,TEXT_MANFST002_00085_TODO_02,Listen to Parsemontret's explanation of the markets.
-27,TEXT_MANFST002_00085_TODO_03,Report to Miounne at the Carline Canopy.
+24,TEXT_MANFST002_00085_TODO_00,"Amorniza tu Aether con el Aetheryte de la ciudad."
+25,TEXT_MANFST002_00085_TODO_01,"Visita el Gremio de Lanceros"
+26,TEXT_MANFST002_00085_TODO_02,"Escucha la explicación de Parsemontret sobre el mercado."
+27,TEXT_MANFST002_00085_TODO_03,"Informa a Miounne en el Carline Canopy"
 28,TEXT_MANFST002_00085_TODO_04,
 29,TEXT_MANFST002_00085_TODO_05,
 30,TEXT_MANFST002_00085_TODO_06,
@@ -50,19 +50,19 @@ int32,str,str
 45,TEXT_MANFST002_00085_TODO_21,
 46,TEXT_MANFST002_00085_TODO_22,
 47,TEXT_MANFST002_00085_TODO_23,
-48,TEXT_MANFST002_00085_MIOUNNE_000_1,"Let us begin at the beginning, shall we? Now that you are a formal member of the Adventurers' Guild, we must be sure you have a firm grasp of the fundamentals of adventuring. To that end, I have three tasks I wish you to perform."
-49,TEXT_MANFST002_00085_MIOUNNE_000_2,"Your first task is to visit the aetheryte. This massive crystal stands in the middle of the aetheryte plaza, not far from the Carline Canopy."
-50,TEXT_MANFST002_00085_MIOUNNE_000_3,"As a device that enables instantaneous transportation, the aetheryte plays a key role in the life of the ever-wandering adventurer."
-51,TEXT_MANFST002_00085_MIOUNNE_000_4,"Once you have located the crystal, all you need do is touch its surface. A member of the Wood Wailers will be present to offer further instruction."
-52,TEXT_MANFST002_00085_MIOUNNE_000_5,"For your second task, you are to visit the Lancers' Guild."
-53,TEXT_MANFST002_00085_MIOUNNE_000_6,"There is no better place to learn the arts of the polearm. Speak with Jillian, and she will explain the benefits of joining the guild."
-54,TEXT_MANFST002_00085_MIOUNNE_000_7,"For your third and final task, I would have you visit the markets at the heart of Old Gridania's commercial district. There you shall find weapons and armor, and all the various items that an adventurer might need on <hex:02080DE905FF04>her<hex:FF04>his<hex:03> travels."
-55,TEXT_MANFST002_00085_MIOUNNE_000_8,"There is, however, more to the markets than buying and selling goods. Speak with Parsemontret, and listen well to his counsel."
-56,TEXT_MANFST002_00085_MIOUNNE_000_9,"The master merchant can be...uncooperative at times, so be sure to offer him one of my famous eel pies. Like so many men, he is <hex:021A020203>much<hex:021A020103> more charitable when his stomach is full. Here, I made a batch not long ago."
-57,TEXT_MANFST002_00085_MIOUNNE_000_10,"You have your tasks, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. May Nophica guide your path."
-58,TEXT_MANFST002_00085_MIOUNNE_000_11,"Ah, and one more thing: should you happen to come across any citizens in need, don't be afraid to proffer a helping hand. I am certain they will be pleased to meet an adventurer in whom they can confide their woes."
-59,TEXT_MANFST002_00085_MIOUNNE_000_12,"Granted, the work they offer is unlikely to be of realm-shattering importance─but prove your worth and build a reputation, and in time folk will be more inclined to entrust you with matters of moment."
-60,TEXT_MANFST002_00085_MIOUNNE_000_13,"I also suggest that you lend an ear to the Smith here in the Canopy. The Smiths are trusted representatives of the Adventurers' Guild, and are an invaluable source of advice for neophyte heroes seeking to attain greatness."
+48,TEXT_MANFST002_00085_MIOUNNE_000_1,"Empecemos por el principio, ¿te parece? Ahora que eres miembro del Gremio de Aventureros, debemos asegurarnos de que comprendes bien los fundamentos de la aventura. Para ello, tengo tres tareas que quiero encomendarte."
+49,TEXT_MANFST002_00085_MIOUNNE_000_2,"Tu primera tarea es visitar el Aetheryte. Este enorme cristal se encuentra en el centro de la plaza, no muy lejos del Carline Canopy."
+50,TEXT_MANFST002_00085_MIOUNNE_000_3,"Como dispositivo que permite la teletransportación, el aetheryte juega un rol fundamental en la vida de <hex:02080FE905FF05>toda<hex:FF05>todo<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>."
+51,TEXT_MANFST002_00085_MIOUNNE_000_4,"Una vez que hayas encontrado el cristal, solo tienes que tocar su superficie. Un miembro de los Guardabosques estará presente para darte más instrucciones si las necesitas."
+52,TEXT_MANFST002_00085_MIOUNNE_000_5,"Tu segunda tarea es visitar el Gremio de Lanceros."
+53,TEXT_MANFST002_00085_MIOUNNE_000_6,"No hay mejor lugar para aprender las artes de la lanza. Habla con Jillian, ella te explicará los beneficios de unirte al Gremio."
+54,TEXT_MANFST002_00085_MIOUNNE_000_7,"Y tu última tarea, me gustaría que visitaras los mercados en el corazón del Distrito Comercial de la Vieja Gridania. Podrás encontrar armas y armaduras, y todo tipo de objetos que <hex:02080CE905FF04>una<hex:FF03>un<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> pueda necesitar en sus viajes."
+55,TEXT_MANFST002_00085_MIOUNNE_000_8,"Sin embargo, los mercados tienen más que ofrecer que solo comprar y vender bienes. Habla con Parsemontret y escucha bien su consejo."
+56,TEXT_MANFST002_00085_MIOUNNE_000_9,"El maestro mercader puede ser... algo poco cooperativo a veces, así que asegúrate de ofrecerle una de mis famosas tartas de anguila. Como muchos hombres, él es <hex:021A020203>mucho<hex:021A020103> más caritativo cuando tiene el estómago lleno. Aquí tienes, hice una hornada no hace mucho."
+57,TEXT_MANFST002_00085_MIOUNNE_000_10,"Ya tienes tus tareas, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Que Nophica guíe tu camino."
+58,TEXT_MANFST002_00085_MIOUNNE_000_11,"Ah, una cosa más; Puede que te cruces con algunos ciudadanos que necesiten ayuda, no temas acercarte y ofrecerles tu ayuda. Estoy segura de que estarán encantados de conocer a <hex:02080CE905FF04>una<hex:FF03>un<hex03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> en quien puedan confiar para compartir sus problemas."
+59,TEXT_MANFST002_00085_MIOUNNE_000_12,"Es cierto que el trabajo que puedan ofrecerte probablemente no sea de una importancia que sacuda el reino, pero demostrará tu valía y te ayudará a construir una reputación, y con el tiempo la gente estará más dispuesta a confiarte asuntos de mayor relevancia."
+60,TEXT_MANFST002_00085_MIOUNNE_000_13,"También te sugiero que prestes atención al Guía aquí en el Canopy. Los Guías son representantes de confianza del Gremio de Aventureros y son una fuente invaluable de consejos para <hex:02080DE905FF04>las<hex:FF04>los<hex03> <hex:020817E905FF0A>heroínas<hex:FF08>héroes<hex03> <hex:020815E905FF08>novatas<hex:FF08>novatos<hex03> que buscan alcanzar la grandeza."
 61,TEXT_MANFST002_00085_TALK_SCENE00000_105,empty
 62,TEXT_MANFST002_00085_JILLIAN_000_20,Welcome to the Lancers' Guild. I see you brought your own spear.
 63,TEXT_MANFST002_00085_JILLIAN_000_21,"If you seek to refine your skills with the polearm, then you have come to the right place."
