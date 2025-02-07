@@ -64,18 +64,18 @@ int32,str,str
 59,TEXT_MANFST002_00085_MIOUNNE_000_12,"Es cierto que el trabajo que puedan ofrecerte probablemente no sea de una importancia que sacuda el reino, pero demostrará tu valía y te ayudará a construir una reputación, y con el tiempo la gente estará más dispuesta a confiarte asuntos de mayor relevancia."
 60,TEXT_MANFST002_00085_MIOUNNE_000_13,"También te sugiero que prestes atención al Guía aquí en el Canopy. Los Guías son representantes de confianza del Gremio de Aventureros y son una fuente invaluable de consejos para <hex:02080DE905FF04>las<hex:FF04>los<hex03> <hex:020817E905FF0A>heroínas<hex:FF08>héroes<hex03> <hex:020815E905FF08>novatas<hex:FF08>novatos<hex03> que buscan alcanzar la grandeza."
 61,TEXT_MANFST002_00085_TALK_SCENE00000_105,empty
-62,TEXT_MANFST002_00085_JILLIAN_000_20,Welcome to the Lancers' Guild. I see you brought your own spear.
-63,TEXT_MANFST002_00085_JILLIAN_000_21,"If you seek to refine your skills with the polearm, then you have come to the right place."
-64,TEXT_MANFST002_00085_JILLIAN_000_22,"Here at the Lancers' Guild, spear wielders gather to train with one another, and further hone their abilities under the tutelage of our fine instructors."
-65,TEXT_MANFST002_00085_JILLIAN_000_23,"More than just an instrument of war, the spear is also a tool for hunting, and with game ever plentiful in the Twelveswood, the weapon has been the mainstay of the locals here since before the founding of Gridania."
-66,TEXT_MANFST002_00085_JILLIAN_000_24,"With the passing of time, our nation became a gathering place for spearmasters from across the realm─many eager to test their mettle against the famed might of our Wood Wailers."
-67,TEXT_MANFST002_00085_JILLIAN_000_25,"And it was here in Gridania that their myriad fighting styles came into contact, eventually giving rise to the art taught here today."
-68,TEXT_MANFST002_00085_JILLIAN_000_26,That spear technique could be formalized at all owed much to the founding of the Lancers' Guild by Wood Wailer captain Mistalle nigh on a century past.
-69,TEXT_MANFST002_00085_JILLIAN_000_27,"The tradition of accepting students from without as well as within Gridania's borders persists to this day, ensuring that the art of the polearm may not only survive, but also continue to evolve."
-70,TEXT_MANFST002_00085_JILLIAN_000_28,"Well, there you have it. I hope this brief history of the guild has helped settle any doubts in your mind."
-71,TEXT_MANFST002_00085_JILLIAN_000_29,The Lancers' Guild is always eager to welcome new initiates.
-72,TEXT_MANFST002_00085_JILLIAN_000_30,"If you've a will to enlist, speak with me again and we can begin the enrollment procedures."
-73,TEXT_MANFST002_00085_NICIA_000_40,"Greetings, adventurer. I see you are faithfully following Mother Miounne's instructions."
+62,TEXT_MANFST002_00085_JILLIAN_000_20,"<hex:02081BE905FF0B>Bienvenida<hex:FF0B>Bienvenido<hex:03> al Gremio de Lanceros. Veo que has traído tu propia lanza."
+63,TEXT_MANFST002_00085_JILLIAN_000_21,"Si buscas perfeccionar tus habilidades con la lanza, has venido al lugar correcto."
+64,TEXT_MANFST002_00085_JILLIAN_000_22,"Aquí, en el Gremio de Lanceros, aquellos que buscan perfeccionar sus habilidades con la lanza se reúnen para entrenar juntos bajo la tutela de nuestros distinguidos instructores."
+65,TEXT_MANFST002_00085_JILLIAN_000_23,"Más que un simple instrumento de guerra, la lanza también es una herramienta para la caza, y dado que la caza es abundante en el Bosque de los Doce, esta arma ha sido fundamental para los habitantes locales desde antes de la fundación de Gridania."
+66,TEXT_MANFST002_00085_JILLIAN_000_24,"Con el paso del tiempo, nuestra nación se convirtió en un punto de encuentro para los maestros de la lanza de todo el reino, muchos de los cuales buscan poner a prueba su temple contra la maestría de nuestros Guardabosques."
+67,TEXT_MANFST002_00085_JILLIAN_000_25,"Y fue aquí en Gridania donde sus innumerables estilos de combate confluyeron, dando origen al arte que nuestros maestros enseñan hoy en día."
+68,TEXT_MANFST002_00085_JILLIAN_000_26,"El hecho de que esa técnica pudiera formalizarse se debe al capitán de los Guardabosques Mistalle, quien fundó el Gremio de Lanceros hace casi un siglo."
+69,TEXT_MANFST002_00085_JILLIAN_000_27,"La tradición de aceptar estudiantes tanto de fuera como de dentro de los límites de Gridania persiste hasta el día de hoy, asegurando que el arte de la lanza no solo sobreviva, sino que también siga evolucionando."
+70,TEXT_MANFST002_00085_JILLIAN_000_28,"Bien, eso es todo. Espero que esta breve historia sobre el Gremio haya ayudado a resolver cualquier duda que tuvieras."
+71,TEXT_MANFST002_00085_JILLIAN_000_29,"El Gremio de Lanceros siempre está dispuesto a recibir nuevos iniciados."
+72,TEXT_MANFST002_00085_JILLIAN_000_30,"Si quieres alistarte, ven a hablar conmigo de nuevo y podremos iniciar el proceso de inscripción"
+73,TEXT_MANFST002_00085_NICIA_000_40,"Saludos, <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Veo que has seguido fielmente las instrucciones de Mama Miounne."
 74,TEXT_MANFST002_00085_NICIA_000_41,"Allow me to offer you a bit of instruction myself. I am Nicia of the Wood Wailers, and I know a thing or two about the aetheryte─yes, that big crystal right there."
 75,TEXT_MANFST002_00085_NICIA_000_42,"Aetherytes are devices that tap into aetherial energies, and are primarily used as a means to travel swiftly from one place to another."
 76,TEXT_MANFST002_00085_NICIA_000_43,Return and Teleport─the most common transportation spells─make direct use of the aetherytes and their connection to the flow of aether.
