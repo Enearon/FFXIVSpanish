@@ -1,0 +1,102 @@
+key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_MANFST002_00085_SEQ_00,"Miounne, la propietaria del Carline Canopy, quiere que realices tres tareas que te ayudarán a aprender los conceptos básicos de ser <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>."
+1,TEXT_MANFST002_00085_SEQ_01,"Miounne te ha encomendado tres tareas. Mientras recorres Gridania intenta aproximarte a los ciudadanos que parecen necesitar ayuda."
+2,TEXT_MANFST002_00085_SEQ_02,"Has completado todas las tareas. Informa a Miounne en el Carline Canopy."
+3,TEXT_MANFST002_00085_SEQ_03,"Miounne te ha explicado que las tres ubicaciones que has visitado serán indispensables en tu vida como <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Presta atención a sus consejos y sigue explorando a medida que ganes experiencia."
+4,TEXT_MANFST002_00085_SEQ_04,
+5,TEXT_MANFST002_00085_SEQ_05,
+6,TEXT_MANFST002_00085_SEQ_06,
+7,TEXT_MANFST002_00085_SEQ_07,
+8,TEXT_MANFST002_00085_SEQ_08,
+9,TEXT_MANFST002_00085_SEQ_09,
+10,TEXT_MANFST002_00085_SEQ_10,
+11,TEXT_MANFST002_00085_SEQ_11,
+12,TEXT_MANFST002_00085_SEQ_12,
+13,TEXT_MANFST002_00085_SEQ_13,
+14,TEXT_MANFST002_00085_SEQ_14,
+15,TEXT_MANFST002_00085_SEQ_15,
+16,TEXT_MANFST002_00085_SEQ_16,
+17,TEXT_MANFST002_00085_SEQ_17,
+18,TEXT_MANFST002_00085_SEQ_18,
+19,TEXT_MANFST002_00085_SEQ_19,
+20,TEXT_MANFST002_00085_SEQ_20,
+21,TEXT_MANFST002_00085_SEQ_21,
+22,TEXT_MANFST002_00085_SEQ_22,
+23,TEXT_MANFST002_00085_SEQ_23,
+24,TEXT_MANFST002_00085_TODO_00,"Armoniza tu Aether con el Aetheryte de la ciudad."
+25,TEXT_MANFST002_00085_TODO_01,"Visita el Gremio de Lanceros"
+26,TEXT_MANFST002_00085_TODO_02,"Escucha la explicación de Parsemontret sobre el mercado."
+27,TEXT_MANFST002_00085_TODO_03,"Informa a Miounne en el Carline Canopy"
+28,TEXT_MANFST002_00085_TODO_04,
+29,TEXT_MANFST002_00085_TODO_05,
+30,TEXT_MANFST002_00085_TODO_06,
+31,TEXT_MANFST002_00085_TODO_07,
+32,TEXT_MANFST002_00085_TODO_08,
+33,TEXT_MANFST002_00085_TODO_09,
+34,TEXT_MANFST002_00085_TODO_10,
+35,TEXT_MANFST002_00085_TODO_11,
+36,TEXT_MANFST002_00085_TODO_12,
+37,TEXT_MANFST002_00085_TODO_13,
+38,TEXT_MANFST002_00085_TODO_14,
+39,TEXT_MANFST002_00085_TODO_15,
+40,TEXT_MANFST002_00085_TODO_16,
+41,TEXT_MANFST002_00085_TODO_17,
+42,TEXT_MANFST002_00085_TODO_18,
+43,TEXT_MANFST002_00085_TODO_19,
+44,TEXT_MANFST002_00085_TODO_20,
+45,TEXT_MANFST002_00085_TODO_21,
+46,TEXT_MANFST002_00085_TODO_22,
+47,TEXT_MANFST002_00085_TODO_23,
+48,TEXT_MANFST002_00085_MIOUNNE_000_1,"Empecemos por el principio, ¿te parece? Ahora que eres miembro del Gremio de Aventureros, debemos asegurarnos de que comprendes bien los fundamentos de la aventura. Para ello, tengo tres tareas que quiero encomendarte."
+49,TEXT_MANFST002_00085_MIOUNNE_000_2,"Tu primera tarea es visitar el Aetheryte. Este enorme cristal se encuentra en el centro de la plaza, no muy lejos del Carline Canopy."
+50,TEXT_MANFST002_00085_MIOUNNE_000_3,"Como dispositivo que permite la teletransportación, el aetheryte juega un rol fundamental en la vida de <hex:02080FE905FF05>toda<hex:FF05>todo<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>."
+51,TEXT_MANFST002_00085_MIOUNNE_000_4,"Una vez que hayas encontrado el cristal, solo tienes que tocar su superficie. Un miembro de los Guardabosques estará presente para darte más instrucciones si las necesitas."
+52,TEXT_MANFST002_00085_MIOUNNE_000_5,"Tu segunda tarea es visitar el Gremio de Lanceros."
+53,TEXT_MANFST002_00085_MIOUNNE_000_6,"No hay mejor lugar para aprender las artes de la lanza. Habla con Jillian, ella te explicará los beneficios de unirte al Gremio."
+54,TEXT_MANFST002_00085_MIOUNNE_000_7,"Y tu última tarea, me gustaría que visitaras los mercados en el corazón del Distrito Comercial de la Vieja Gridania. Podrás encontrar armas y armaduras, y todo tipo de objetos que <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> pueda necesitar en sus viajes."
+55,TEXT_MANFST002_00085_MIOUNNE_000_8,"Sin embargo, los mercados tienen más que ofrecer que solo comprar y vender bienes. Habla con Parsemontret y escucha bien su consejo."
+56,TEXT_MANFST002_00085_MIOUNNE_000_9,"El maestro mercader puede ser... algo poco cooperativo a veces, así que asegúrate de ofrecerle una de mis famosas tartas de anguila. Como muchos hombres, él es <hex:021A020203>mucho<hex:021A020103> más caritativo cuando tiene el estómago lleno. Aquí tienes, hice una hornada no hace mucho."
+57,TEXT_MANFST002_00085_MIOUNNE_000_10,"Ya tienes tus tareas, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Que Nophica guíe tu camino."
+58,TEXT_MANFST002_00085_MIOUNNE_000_11,"Ah, una cosa más; Puede que te cruces con algunos ciudadanos que necesiten ayuda, no temas acercarte y ofrecerles tu ayuda. Estoy segura de que estarán encantados de conocer a <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> en quien puedan confiar para compartir sus problemas."
+59,TEXT_MANFST002_00085_MIOUNNE_000_12,"Es cierto que el trabajo que puedan ofrecerte probablemente no sea de una importancia que sacuda el reino, pero demostrará tu valía y te ayudará a construir una reputación, y con el tiempo la gente estará más dispuesta a confiarte asuntos de mayor relevancia."
+60,TEXT_MANFST002_00085_MIOUNNE_000_13,"También te sugiero que prestes atención al Guía aquí en el Canopy. Los Guías son representantes de confianza del Gremio de Aventureros y son una fuente invaluable de consejos para <hex:02080DE905FF04>las<hex:FF04>los<hex:03> <hex:020817E905FF0A>heroínas<hex:FF08>héroes<hex:03> <hex:020815E905FF08>novatas<hex:FF08>novatos<hex:03> que buscan alcanzar la grandeza."
+61,TEXT_MANFST002_00085_TALK_SCENE00000_105,empty
+62,TEXT_MANFST002_00085_JILLIAN_000_20,"<hex:02081BE905FF0B>Bienvenida<hex:FF0B>Bienvenido<hex:03> al Gremio de Lanceros. Veo que has traído tu propia lanza."
+63,TEXT_MANFST002_00085_JILLIAN_000_21,"Si buscas perfeccionar tus habilidades con la lanza, has venido al lugar correcto."
+64,TEXT_MANFST002_00085_JILLIAN_000_22,"Aquí, en el Gremio de Lanceros, aquellos que buscan perfeccionar sus habilidades con la lanza se reúnen para entrenar juntos bajo la tutela de nuestros distinguidos instructores."
+65,TEXT_MANFST002_00085_JILLIAN_000_23,"Más que un simple instrumento de guerra, la lanza también es una herramienta para la caza, y dado que la caza es abundante en el Bosque de los Doce, esta arma ha sido fundamental para los habitantes locales desde antes de la fundación de Gridania."
+66,TEXT_MANFST002_00085_JILLIAN_000_24,"Con el paso del tiempo, nuestra nación se convirtió en un punto de encuentro para los maestros de la lanza de todo el reino, muchos de los cuales buscan poner a prueba su temple contra la maestría de nuestros Guardabosques."
+67,TEXT_MANFST002_00085_JILLIAN_000_25,"Y fue aquí en Gridania donde sus innumerables estilos de combate confluyeron, dando origen al arte que nuestros maestros enseñan hoy en día."
+68,TEXT_MANFST002_00085_JILLIAN_000_26,"El hecho de que esa técnica pudiera formalizarse se debe al capitán de los Guardabosques Mistalle, quien fundó el Gremio de Lanceros hace casi un siglo."
+69,TEXT_MANFST002_00085_JILLIAN_000_27,"La tradición de aceptar estudiantes tanto de fuera como de dentro de los límites de Gridania persiste hasta el día de hoy, asegurando que el arte de la lanza no solo sobreviva, sino que también siga evolucionando."
+70,TEXT_MANFST002_00085_JILLIAN_000_28,"Bien, eso es todo. Espero que esta breve historia sobre el Gremio haya ayudado a resolver cualquier duda que tuvieras."
+71,TEXT_MANFST002_00085_JILLIAN_000_29,"El Gremio de Lanceros siempre está dispuesto a recibir nuevos iniciados."
+72,TEXT_MANFST002_00085_JILLIAN_000_30,"Si quieres alistarte, ven a hablar conmigo de nuevo y podremos iniciar el proceso de inscripción"
+73,TEXT_MANFST002_00085_NICIA_000_40,"Saludos, <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Veo que has seguido fielmente las instrucciones de Mama Miounne."
+74,TEXT_MANFST002_00085_NICIA_000_41,"Soy Nicia de los Guardabosques, y sé un par de cosas sobre los aetherytes─sí, ese gran cristal de ahí."
+75,TEXT_MANFST002_00085_NICIA_000_42,"Los aetherytes son dispositivos que aprovechan las energías aethéricas, y se utilizan principalmente para viajar rápidamente de un lugar a otro."
+76,TEXT_MANFST002_00085_NICIA_000_43,"Retorno y Teletransporte─los hechizos de transporte más comunes hacen uso directo de los aetherytes y su conexión con el flujo de aether."
+77,TEXT_MANFST002_00085_NICIA_000_44,"Y dado que estos artilugios se encuentran en casi todos los rincones de Eorzea, cualquier <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> <hex:020811E905FF06>digna<hex:FF06>digno<hex:03> de ese nombre querrá buscar y armonizarse con cada uno."
+78,TEXT_MANFST002_00085_NICIA_000_45,"De verdad, pocas cosas en este mundo son tan útiles para <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>intrépida<hex:FF0B>intrépido<hex:03> <hex:02081CE905FF0C>exploradora<hex:FF0B>explorador<hex:03>"
+79,TEXT_MANFST002_00085_NICIA_000_46,"Pero no necesitas localizarlos todos de una vez. Antes de salir a lo salvaje, te sugiero que empieces con los aetherytes que encontrarás en Gridania."
+80,TEXT_MANFST002_00085_NICIA_000_47,"Si deseas aprender más sobre los aetherytes o la magia de transporte, estoy aquí para responder a tus preguntas."
+81,TEXT_MANFST002_00085_SYSTEM_000_48,"Te has vinculado al aetheryte.<hex:02100103>Ahora puedes usar el hechizo Retorno."
+82,TEXT_MANFST002_00085_PARSEMONTRET_000_50,"¿Con qué derecho <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurera<hex:03> <hex:020813E905FF07>novata<hex:FF07>novato<hex:03> osa dirigirse a Parsemontret, maestro de los mercados?"
+83,TEXT_MANFST002_00085_PARSEMONTRET_000_51,"¿Crees que puedes entrar aquí cuando te plaza y exigir mi sabiduría que tanto esfuerzo me ha costado adquirir? ¡Ja! Un mercader nunca da nada sin recibir algo a cambio, <hex:021A020203>especialmente<hex:021A020103> cuando se trata de aspirantes a <hex:020817E905FF0A>heroínas<hex:FF08>héroes<hex:03>."
+84,TEXT_MANFST002_00085_PARSEMONTRET_000_52,"Si, por otro lado, trajeras algún delicioso ‘bocado’ para ganarte mi favor, entonces podría reconsiderar tu petición."
+85,TEXT_MANFST002_00085_PARSEMONTRET_000_53,"Vamos, este encuentro apesta al trabajo de Miounne... Específicamente a su <hex:021A020203>repostería<hex:021A020103>. No pongas esa cara de sorpresa, podía oler esa tarta de ánguila a un yalm de distancia. ¡Dámela!"
+86,TEXT_MANFST002_00085_PARSEMONTRET_000_54,"Mmm, ese toque crujiente... divino. Muy bien, soy un hombre de palabra. Presta atención porque solo lo explicaré una vez."
+87,TEXT_MANFST002_00085_PARSEMONTRET_000_55,"No tienes que buscar más allá de los puestos de Palisandro y Ébano. Ambos están a un paso de donde nos encontramos."
+88,TEXT_MANFST002_00085_PARSEMONTRET_000_56,"Si tienes intención de dedicarte a la batalla, más te vale estar preparado con un buen conjunto de armaduras y armas de gran calidad."
+89,TEXT_MANFST002_00085_PARSEMONTRET_000_57,"Esas mercancías podrás encontrarlas en los Puestos de Palisandro, justo al sur de aquí. Te agradará saber que los mercaderes de Gridania son sumamente exigentes cuando se trata de calidad artesanal, así que no tendrás que temer por correas defectuosas ni cosas similares."
+90,TEXT_MANFST002_00085_PARSEMONTRET_000_58,"Si lo que buscas son pociones y otro tipo de parafernalia, dirígete hacia el norte, a los Puestos de Ébano."
+91,TEXT_MANFST002_00085_PARSEMONTRET_000_59,"Las estanterías están lujosamente surtidas de bienes provenientes de los comerciantes de Ul'dah, quienes han visitado infinidad de lugares, y puedo decir con certeza que he visto cosas, entre sus innumerables mercancías, que apenas sabía que existían."
+92,TEXT_MANFST002_00085_PARSEMONTRET_000_60,"¿Me sigues hasta aquí? El primer paso en cualquier compra es seleccionar los puestos que se ajusten a tus necesidades. Luego podrás preocuparte por el precio y la ganancia."
+93,TEXT_MANFST002_00085_PARSEMONTRET_000_61,"No hay mucho mas que pueda enseñarte con meras palabras. Ve, recorre los puestos y observa por ti <hex:020811E905FF06>misma<hex:FF06>mismo<hex:03> las mercancías que ofrecen. Al fin y al cabo, no hay un sustituto para la experiencia de primera mano, y, además, estoy cansado de hablar... ¿o quizás tienes otra tarta de anguila?"
+94,TEXT_MANFST002_00085_MIOUNNE_000_70,"<hex:02080BE905FF03>La<hex:FF03>El<hex:03> <hex:020815E905FF09>heroína<hex:FF07>héroe<hex:03> <hex:02081BE905FF0B>victoriosa<hex:FF0B>victorioso<hex:03> regresa. ¿Has completado mi pequeña lista de tareas, supongo?"
+95,TEXT_MANFST002_00085_MIOUNNE_000_71,"Los tres lugares que visitaste serán fundamentales en tu vida como <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Es mejor que te familiarices con ellos lo antes posible."
+96,TEXT_MANFST002_00085_MIOUNNE_000_72,"¿Y te tomaste el tiempo de escuchar las preocupaciones de la gente? No puedo enfatizar lo suficiente lo importante que es ofrecer tu ayuda a todos, sin hacer distinciones ni importar cuán trivial pueda parecer el asunto."
+97,TEXT_MANFST002_00085_MIOUNNE_000_73,"Agradezco la ayuda que nos has prestado, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Son <hex:02080DE905FF04>las<hex:FF04>los<hex:03> <hex:02081DE905FF0C>aventureras<hex:FF0C>aventureros<hex:03>como tú quienes se ganarán los corazones de la gente y allanarán el camino para aquellos que los sigan. Rezo para que Gridania pueda contar con tu ayuda en las luchas venideras."
