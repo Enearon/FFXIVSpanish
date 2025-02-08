@@ -1,0 +1,86 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_CLSARC000_00021_SEQ_00,"Athelyna desea que reafirmes tu deseo de unirte al Gremio de Arqueros."
+1,TEXT_CLSARC000_00021_SEQ_01,"Se te ha referido a Luciane, la maestra del Gremio de Arqueros. Búscala en sus dependencias en la parte de atrás."
+2,TEXT_CLSARC000_00021_SEQ_02,"Luciane desea poner a prueba tu aptitud para unirte al Gremio de Arqueros. Sal de la ciudad y mata tres ardillas, tres mariquitas y tres funguars."
+3,TEXT_CLSARC000_00021_SEQ_03,"Has tenido éxito matando a las criaturas. Regresa con Luciane en el Gremio de Arqueros."
+4,TEXT_CLSARC000_00021_SEQ_04,"Tras haber completado con éxito la prueba, Luciane te ha nombrado miembro del Gremio de Arqueros. Te ha animado a que practiques la técnica adecuada, disparando flecha tras flecha hasta que el movimiento se convierta en algo natural.<hex:02100103><hex:02100103>※Luciane te ofrecerá la siguiente misión de clase al alcanzar el nivel 5."
+5,TEXT_CLSARC000_00021_SEQ_05,
+6,TEXT_CLSARC000_00021_SEQ_06,
+7,TEXT_CLSARC000_00021_SEQ_07,
+8,TEXT_CLSARC000_00021_SEQ_08,
+9,TEXT_CLSARC000_00021_SEQ_09,
+10,TEXT_CLSARC000_00021_SEQ_10,
+11,TEXT_CLSARC000_00021_SEQ_11,
+12,TEXT_CLSARC000_00021_SEQ_12,
+13,TEXT_CLSARC000_00021_SEQ_13,
+14,TEXT_CLSARC000_00021_SEQ_14,
+15,TEXT_CLSARC000_00021_SEQ_15,
+16,TEXT_CLSARC000_00021_SEQ_16,
+17,TEXT_CLSARC000_00021_SEQ_17,
+18,TEXT_CLSARC000_00021_SEQ_18,
+19,TEXT_CLSARC000_00021_SEQ_19,
+20,TEXT_CLSARC000_00021_SEQ_20,
+21,TEXT_CLSARC000_00021_SEQ_21,
+22,TEXT_CLSARC000_00021_SEQ_22,
+23,TEXT_CLSARC000_00021_SEQ_23,
+24,TEXT_CLSARC000_00021_TODO_00,"Habla con Luciane, la maestra del Gremio de Arqueros."
+25,TEXT_CLSARC000_00021_TODO_01,"Mata ardillas silvestres"
+26,TEXT_CLSARC000_00021_TODO_02,"Mata mariquitas pequeñas."
+27,TEXT_CLSARC000_00021_TODO_03,"Mata funguars del bosque."
+28,TEXT_CLSARC000_00021_TODO_04,"Informa a Luciane en el Gremio de Arqueros."
+29,TEXT_CLSARC000_00021_TODO_05,
+30,TEXT_CLSARC000_00021_TODO_06,
+31,TEXT_CLSARC000_00021_TODO_07,
+32,TEXT_CLSARC000_00021_TODO_08,
+33,TEXT_CLSARC000_00021_TODO_09,
+34,TEXT_CLSARC000_00021_TODO_10,
+35,TEXT_CLSARC000_00021_TODO_11,
+36,TEXT_CLSARC000_00021_TODO_12,
+37,TEXT_CLSARC000_00021_TODO_13,
+38,TEXT_CLSARC000_00021_TODO_14,
+39,TEXT_CLSARC000_00021_TODO_15,
+40,TEXT_CLSARC000_00021_TODO_16,
+41,TEXT_CLSARC000_00021_TODO_17,
+42,TEXT_CLSARC000_00021_TODO_18,
+43,TEXT_CLSARC000_00021_TODO_19,
+44,TEXT_CLSARC000_00021_TODO_20,
+45,TEXT_CLSARC000_00021_TODO_21,
+46,TEXT_CLSARC000_00021_TODO_22,
+47,TEXT_CLSARC000_00021_TODO_23,
+48,TEXT_CLSARC000_00021_ATHELYNA_000_1,"Entonces, ¿estás <hex:020817E905FF09>decidida<hex:FF09>decidido<hex:03> a unirte al Gremio de Arqueros?"
+49,TEXT_CLSARC000_00021_ATHELYNA_000_2,"¿Necesitas más tiempo para considerarlo, verdad? Muy bien."
+50,TEXT_CLSARC000_00021_ATHELYNA_000_3,"La vista de nuestra maestra es tan aguda que sería capaz de discernir tu indecisión antes de que te acercaras a menos de cincuenta pasos. Es mejor que no te presentes ante ella hasta que lo tengas claro."
+51,TEXT_CLSARC000_00021_ATHELYNA_000_5,"Esa mirada en tus ojos muestra tu determinación. Será un placer referirte a la Maestra del Gremio, Luciane."
+52,TEXT_CLSARC000_00021_ATHELYNA_000_6,"No te preocupes, Luciane es una mujer afable y de buen corazón. Incluso aquellos que no son miembros del gremio han buscado su consejo en diversos asuntos, y siempre han recibido una audiencia justa."
+53,TEXT_CLSARC000_00021_ATHELYNA_000_7,"Luciane te espera en el área de entrenamiento. Preséntate ante ella y hazle saber tu deseo de unirte al gremio."
+54,TEXT_CLSARC000_00021_LUCIANE_000_10,"Saludos, <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>. Me han dicho que deseas unirte a nuestras filas."
+55,TEXT_CLSARC000_00021_LUCIANE_000_11,"Soy Luciane, la maestra del Gremio de Arqueros, y te doy la bienvenida. Nuestras puertas están abiertas para aquellos que tengan voluntad de aprender."
+56,TEXT_CLSARC000_00021_LUCIANE_000_12,"Permíteme explicarte los conceptos básicos de nuestro arte y ofrecerte un adelanto de lo que enseñamos a los miembros de nuestro gremio."
+57,TEXT_CLSARC000_00021_LUCIANE_000_13,"La mayor ventaja del arco es su alcance. A diferencia de otras armas usadas en otras disciplinas de guerra, permite atacar al enemigo desde lejos."
+58,TEXT_CLSARC000_00021_LUCIANE_000_14,"Aunque el arco no posee la fuerza destructiva de una espada o una lanza, sus múltiples aplicaciones estratégicas compensan con creces esta limitación. Un arquero experimentado puede inmovilizar a un enemigo atacando una pierna o reducir su fuerza con una flecha envenenada."
+59,TEXT_CLSARC000_00021_LUCIANE_000_15,"Aspira a convertirte en un virtuoso del arco, y un verdadero diluvio de muerte caerá sobre tus enemigos."
+60,TEXT_CLSARC000_00021_LUCIANE_000_16,"Al luchar desde la distancia, podemos evaluar mejor el campo de batalla y así determinar el curso de acción más ventajoso."
+61,TEXT_CLSARC000_00021_LUCIANE_000_17,"Pero a pesar de todas sus virtudes, el arco es un arma que requiere mucha disciplina y concentración. Entrenamos arduamente para perfeccionar nuestra habilidad."
+62,TEXT_CLSARC000_00021_LUCIANE_000_18,"También debemos dominar el arte de la paciencia. El arquero debe esperar el momento perfecto para soltar su flecha."
+63,TEXT_CLSARC000_00021_LUCIANE_000_19,"Con el tiempo, aprenderás el valor de la paciencia y cómo esperar el momento óptimo para atacar."
+64,TEXT_CLSARC000_00021_LUCIANE_000_20,"Ahora, veamos si tienes la fortaleza para soportar una prueba de tu habilidad."
+65,TEXT_CLSARC000_00021_LUCIANE_000_21,"Debes salir de la ciudad y matar tres ardillas, tres mariquitas y tres funguars."
+66,TEXT_CLSARC000_00021_A1_000_1,"Si"
+67,TEXT_CLSARC000_00021_A1_000_2,"No"
+68,TEXT_CLSARC000_00021_LUCIANE_000_25,"Es lamentable. Sin emgargo, es bueno ver a <hex:02080CE905FF04>una<hex:FF03>un<hex:03> <hex:020812E905FF06>mujer<hex:FF07>hombre<hex:03> que sabe lo que quiere."
+69,TEXT_CLSARC000_00021_LUCIANE_000_26,"Serías un gran arquero─si tan solo tuvieras la voluntad. Si experimentas un cambio de corazón, podrás encontrarme aquí."
+70,TEXT_CLSARC000_00021_LUCIANE_000_30,"Muy bien, antes de continuar, debo evaluar tu aptitud innata pra el arte del arco. Para ello, te asigno la siguiente prueba..."
+71,TEXT_CLSARC000_00021_LUCIANE_000_31,"Mata a las ardillas, mariquitas y funguars que merodean más allá de las puertas de la ciudad─tres de cada uno bastarán."
+72,TEXT_CLSARC000_00021_LUCIANE_000_32,"Al hacerlo, demostrarás que tienes las aptitudes para unirte al Gremio de Arqueros."
+73,TEXT_CLSARC000_00021_LUCIANE_000_33,"Vuelve a mí cuando hayas cumplido la tarea. Dudo que te cause muchos problemas."
+74,TEXT_CLSARC000_00021_LUCIANE_000_40,"Bienvenido de nuevo, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Parece que has completado con éxito la prueba."
+75,TEXT_CLSARC000_00021_LUCIANE_000_41,"Has demostrado ser <hex:020811E905FF06>digna<hex:FF06>digno<hex:03> de un lugar en estos salones. Es un placer nombrarte <hex:020815E905FF08>arquera<hex:FF08>arquero<hex:03> del gremio."
+76,TEXT_CLSARC000_00021_LUCIANE_000_42,"Como compañeros en este camino, debemos esforzarnos al máximo para alcanzar un mayor dominio de nuestro arte."
+77,TEXT_CLSARC000_00021_LUCIANE_000_43,"Debes saber que, aun siendo miembro del Gremio de Arqueros, tus superiores no te otorgarán ningún trato de favor. Dependerá de ti buscar las experiencias necesarias para crecer como <hex:020815E905FF08>arquera<hex:FF08>arquero<hex:03>."
+78,TEXT_CLSARC000_00021_LUCIANE_000_44,"Sabiend esto, te entrego este diario de caza. Escrito en él están los nombres de criaturas que representan un desafío adecuado. Si te encuentras sin rumbo, sería prudente consultar el diario."
+79,TEXT_CLSARC000_00021_LUCIANE_000_45,"Como primer paso, te animo a practicar la técnica adecuada. Dispara flecha tras flecha, prestando atención a la forma, hasta que el movimiento se convierta en algo natural."
+80,TEXT_CLSARC000_00021_LUCIANE_000_46,"Cuando tensar la cuerda del arco te resulte tan natural como respirar, y el mundo parezca más claro cuando lo veas a través del asta de tus flechas, regresa a mí. Que te vaya bien, joven aprendiz."
+81,TEXT_CLSARC000_00021_SYSTEM_000_50,"Luciane te ofrecerá la siguiente misión de clase al alcanzar el nivel 5."
