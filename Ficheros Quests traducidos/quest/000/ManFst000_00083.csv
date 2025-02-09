@@ -90,7 +90,7 @@ int32,str,str
 85,TEXT_MANFST000_00083_BREMONDT_000_14,"(-Pasajero amigable-)Gridania, nuestro destino, aun esta lejos, por si te lo estabas preguntando. Y... Ya que te has despertado, ¿qué te parecería hacerme compañía hasta que lleguemos?"
 86,TEXT_MANFST000_00083_BREMONDT_000_15,"(-Pasajero amigable-)A estos jóvenes no parece gustarles mucho la conversación, como puedes observar."
 87,TEXT_MANFST000_00083_BREMONDT_000_16,"Bremondt es mi nombre y el comercio mi oficio."
-88,TEXT_MANFST000_00083_BREMONDT_000_17,"En cuanto a ti, juzgando por ese atuendo tan poco común, diría que eres <hex:02080DE905FF04>una<hex:FF04>uno<hex:03> de <hex:02080FE905FF05>esos<hex:FF05>esos<hex:03> <hex:020813E905FF07>nuevas<hex:FF07>nuevos<hex:03> <hex:02081DE905FF0C>aventureras<hex:FF0C>aventureros<hex:03> ¿Estoy en lo cierto?"
+88,TEXT_MANFST000_00083_BREMONDT_000_17,"En cuanto a ti, juzgando por ese atuendo tan poco común, diría que eres <hex:02080DE905FF04>una<hex:FF04>uno<hex:03> de <hex:02080FE905FF05>esas<hex:FF05>esos<hex:03> <hex:020813E905FF07>nuevas<hex:FF07>nuevos<hex:03> <hex:02081DE905FF0C>aventureras<hex:FF0C>aventureros<hex:03> ¿Estoy en lo cierto?"
 89,TEXT_MANFST000_00083_BREMONDT_000_18,"¡Lo sabía! Vas a donde sopla el viento, buscando fortuna y gloria.<hex:021A020203>¡A eso le llamo vivir!<hex:021A020103>"
 90,TEXT_MANFST000_00083_BREMONDT_000_19,"Claro está, mientras puedas evitar a la muerte. No es ningún secreto que la vida del aventurero es arriesgada, especialmente en estos tiempos."
 91,TEXT_MANFST000_00083_BREMONDT_000_20,"¿Qué fue lo que te atrajó para ser <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>?"
