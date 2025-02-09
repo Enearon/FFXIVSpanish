@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_CLSARC001_00046_SEQ_00,"La maestra de gremio Luciane desea instruirte sobre los fundamentos del tiro con arco."
 1,TEXT_CLSARC001_00046_SEQ_01,"Luciane te ha dicho que la esencia del tiro con arco es la observación con intención─ver todo sin perder de vista tu propósito. Para poner a prueba tu capacidad de observación, te instruye para que busques y destruyas varios objetivos escondidos por la ciudad. Localiza los objetivos y destrúyelos utilizando tu técnica Disparo Pesado."
 2,TEXT_CLSARC001_00046_SEQ_02,Has destruido con éxito todos los objetivos. Regresa con Luciane en el Gremio de Arqueros.
-3,TEXT_CLSARC001_00046_SEQ_03,"Luciane te reta a dar el siguiente paso y evaluar a los enemigos vivos desde la distancia, solo enfrentándote a ellos una vez hayas identificado una estrategia adecuada. Viaja a la región Norte del Bosque y mata ocho microchus y ocho opo–opos."
+3,TEXT_CLSARC001_00046_SEQ_03,"Luciane te reta a dar el siguiente paso y evaluar a los enemigos vivos desde la distancia, solo enfrentándote a ellos una vez hayas identificado una estrategia adecuada. Viaja a la zona Norte del Bosque Oscuro y mata ocho microchus y ocho opo–opos."
 4,TEXT_CLSARC001_00046_SEQ_04,"Has tenido éxito matando a los microchus y opo–opos. Regresa con Luciane en el Gremio de Arqueros."
 5,TEXT_CLSARC001_00046_SEQ_05,"Satisfecha con tu desempeño en la prueba, Luciane te presenta a otros dos miembros del gremio, la Miqo'te Leih Aliapoh y el Elezen Silvairre. Conscientes de las lecciones que has aprendido durante tu entrenamiento hasta ahora, retomas tu búsqueda para dominar el arco.<hex:02100103><hex:02100103>※Luciane te ofrecerá la siguiente misión de clase al alcanzar el nivel 10."
 6,TEXT_CLSARC001_00046_SEQ_06,
@@ -76,7 +76,7 @@ int32,str,str
 53,TEXT_CLSARC001_00046_LUCIANE_000_6,"Cada uno caerá fácilmente con tu técnica de Disparo Pesado. Cuando hayas completado la tarea, regresa conmigo y continuaremos."
 54,TEXT_CLSARC001_00046_TALK_SCENE00001_000,
 55,TEXT_CLSARC001_00046_LUCIANE_000_10,"Ah, has regresado. Confío en que ya has comenzado a comprender lo importante que es ver con claridad."
-56,TEXT_CLSARC001_00046_LUCIANE_000_11,"La próxima prueba pondrá a prueba tus dotes de observación en combate. Viaja a la parte Norte del Bosque Oscuro, y allí elimina ocho microchus y ocho opo–opos."
+56,TEXT_CLSARC001_00046_LUCIANE_000_11,"La próxima prueba pondrá a prueba tus dotes de observación en combate. Viaja a la zona Norte del Bosque Oscuro, y allí elimina ocho microchus y ocho opo–opos."
 57,TEXT_CLSARC001_00046_LUCIANE_000_12,"A diferencia de los objetivos inanimados y completamente inofensivos de la prueba anterior, estas criaturas se moverán y combatirán de vuelta."
 58,TEXT_CLSARC001_00046_LUCIANE_000_13,"Y esas no son las únicas diferencias. Siendo comparativamente numerosos, los microchus y opo–opos no son para nada difíciles de encontrar. Sin embargo, puedes estar seguro de que esta tarea pondrá a prueba tus dotes de observación...aunque de una manera diferente."
 59,TEXT_CLSARC001_00046_LUCIANE_000_14,"Esta vez, necesitarás evaluar las habilidades de tu oponente. Al hacerlo, aprenderás, entre otras cosas, que los microchus producen un veneno que puede agotar rápidamente la fuerza, mientras que los opo–opos─al igual que los arqueros─poseen la ventaja de alcance."
