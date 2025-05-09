@@ -1,0 +1,92 @@
+﻿key,0,1
+#,,
+offset,0,4
+int32,str,str
+0,TEXT_CLSARC001_00046_SEQ_00,"La maestra de gremio Luciane desea instruirte sobre los fundamentos del tiro con arco."
+1,TEXT_CLSARC001_00046_SEQ_01,"Luciane te ha dicho que la esencia del tiro con arco es la observación con intención─ver todo sin perder de vista tu propósito. Para poner a prueba tu capacidad de observación, te instruye para que busques y destruyas varios objetivos escondidos por la ciudad. Localiza los objetivos y destrúyelos utilizando tu técnica Disparo Pesado."
+2,TEXT_CLSARC001_00046_SEQ_02,Has destruido con éxito todos los objetivos. Regresa con Luciane en el Gremio de Arqueros.
+3,TEXT_CLSARC001_00046_SEQ_03,"Luciane te reta a dar el siguiente paso y evaluar a los enemigos vivos desde la distancia, solo enfrentándote a ellos una vez hayas identificado una estrategia adecuada. Viaja a la zona Norte del Bosque Oscuro y mata ocho microchus y ocho opo–opos."
+4,TEXT_CLSARC001_00046_SEQ_04,"Has tenido éxito matando a los microchus y opo–opos. Regresa con Luciane en el Gremio de Arqueros."
+5,TEXT_CLSARC001_00046_SEQ_05,"Satisfecha con tu desempeño en la prueba, Luciane te presenta a otros dos miembros del gremio, la Miqo'te Leih Aliapoh y el Elezen Silvairre. Conscientes de las lecciones que has aprendido durante tu entrenamiento hasta ahora, retomas tu búsqueda para dominar el arco.<hex:02100103><hex:02100103>※Luciane te ofrecerá la siguiente misión de clase al alcanzar el nivel 10."
+6,TEXT_CLSARC001_00046_SEQ_06,
+7,TEXT_CLSARC001_00046_SEQ_07,
+8,TEXT_CLSARC001_00046_SEQ_08,
+9,TEXT_CLSARC001_00046_SEQ_09,
+10,TEXT_CLSARC001_00046_SEQ_10,
+11,TEXT_CLSARC001_00046_SEQ_11,
+12,TEXT_CLSARC001_00046_SEQ_12,
+13,TEXT_CLSARC001_00046_SEQ_13,
+14,TEXT_CLSARC001_00046_SEQ_14,
+15,TEXT_CLSARC001_00046_SEQ_15,
+16,TEXT_CLSARC001_00046_SEQ_16,
+17,TEXT_CLSARC001_00046_SEQ_17,
+18,TEXT_CLSARC001_00046_SEQ_18,
+19,TEXT_CLSARC001_00046_SEQ_19,
+20,TEXT_CLSARC001_00046_SEQ_20,
+21,TEXT_CLSARC001_00046_SEQ_21,
+22,TEXT_CLSARC001_00046_SEQ_22,
+23,TEXT_CLSARC001_00046_SEQ_23,
+24,TEXT_CLSARC001_00046_TODO_00,"Destruye los objetivos."
+25,TEXT_CLSARC001_00046_TODO_01,"Informa a Luciane."
+26,TEXT_CLSARC001_00046_TODO_02,"Mata opo–opos."
+27,TEXT_CLSARC001_00046_TODO_03,"Matar microchus."
+28,TEXT_CLSARC001_00046_TODO_04,"Informa a Luciane."
+29,TEXT_CLSARC001_00046_TODO_05,
+30,TEXT_CLSARC001_00046_TODO_06,
+31,TEXT_CLSARC001_00046_TODO_07,
+32,TEXT_CLSARC001_00046_TODO_08,
+33,TEXT_CLSARC001_00046_TODO_09,
+34,TEXT_CLSARC001_00046_TODO_10,
+35,TEXT_CLSARC001_00046_TODO_11,
+36,TEXT_CLSARC001_00046_TODO_12,
+37,TEXT_CLSARC001_00046_TODO_13,
+38,TEXT_CLSARC001_00046_TODO_14,
+39,TEXT_CLSARC001_00046_TODO_15,
+40,TEXT_CLSARC001_00046_TODO_16,
+41,TEXT_CLSARC001_00046_TODO_17,
+42,TEXT_CLSARC001_00046_TODO_18,
+43,TEXT_CLSARC001_00046_TODO_19,
+44,TEXT_CLSARC001_00046_TODO_20,
+45,TEXT_CLSARC001_00046_TODO_21,
+46,TEXT_CLSARC001_00046_TODO_22,
+47,TEXT_CLSARC001_00046_TODO_23,
+48,TEXT_CLSARC001_00046_LUCIANE_000_1,"<hex:020853E3E90C0DFF26><hex:020822E3E90C05FF0E>Buenas tardes<hex:FF0D>Buenos días<hex:03><hex:FF26><hex:020822E3E90C12FF0D>Buenos días<hex:FF0E>Buenas tardes<hex:03><hex:03>, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Sentí que ya era hora de que regresaras. ¿Estás más <hex:02081FE905FF0D>acostumbrada<hex:FF0D>acostumbrado<hex:03> al uso del arco?"
+49,TEXT_CLSARC001_00046_LUCIANE_000_2,"Antes de continuar, quiero asegurarme de que has comprendido la esencia fundamental del tiro con arco. Dime, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>, ¿entiendes realmente lo que significa ver con claridad?"
+50,TEXT_CLSARC001_00046_LUCIANE_000_3,"Ver con claridad no es simplemente mirar. Es observar con intención. Si no haces esto, ninguno de los talentos con el arco que puedas aprender te servirá."
+51,TEXT_CLSARC001_00046_LUCIANE_000_4,"Un arquero debe mantenerse vigilante ante cualquier rastro de su objetivo, sin pasar por alto ni el más mínimo detalle, pues podría ser crucial para cumplir su propósito. Debe, en resumen, ver con claridad. La tarea voy a encomendarte pondrá a prueba tus aptitudes de observación."
+52,TEXT_CLSARC001_00046_LUCIANE_000_5,"Se han escondido varios objetivos por toda la ciudad. Quiero que los busques y los destruyas."
+53,TEXT_CLSARC001_00046_LUCIANE_000_6,"Cada uno caerá fácilmente con tu técnica de Disparo Pesado. Cuando hayas completado la tarea, regresa conmigo y continuaremos."
+54,TEXT_CLSARC001_00046_TALK_SCENE00001_000,
+55,TEXT_CLSARC001_00046_LUCIANE_000_10,"Ah, has regresado. Confío en que ya has comenzado a comprender lo importante que es ver con claridad."
+56,TEXT_CLSARC001_00046_LUCIANE_000_11,"La próxima prueba pondrá a prueba tus dotes de observación en combate. Viaja a la zona Norte del Bosque Oscuro, y allí elimina ocho microchus y ocho opo–opos."
+57,TEXT_CLSARC001_00046_LUCIANE_000_12,"A diferencia de los objetivos inanimados y completamente inofensivos de la prueba anterior, estas criaturas se moverán y combatirán de vuelta."
+58,TEXT_CLSARC001_00046_LUCIANE_000_13,"Y esas no son las únicas diferencias. Siendo comparativamente numerosos, los microchus y opo–opos no son para nada difíciles de encontrar. Sin embargo, puedes estar seguro de que esta tarea pondrá a prueba tus dotes de observación...aunque de una manera diferente."
+59,TEXT_CLSARC001_00046_LUCIANE_000_14,"Esta vez, necesitarás evaluar las habilidades de tu oponente. Al hacerlo, aprenderás, entre otras cosas, que los microchus producen un veneno que puede agotar rápidamente la fuerza, mientras que los opo–opos─al igual que los arqueros─poseen la ventaja de alcance."
+60,TEXT_CLSARC001_00046_LUCIANE_000_15,"Sabiendo sus fortalezas, ¿cómo procederás para mitigarlas? Si comienzas tu ataque antes de tener una buena estrategia, pronto te arrepentirás de tu necedad."
+61,TEXT_CLSARC001_00046_LUCIANE_000_16,"Pero si te tomas el tiempo para observar a tus objetivos desde lejos, seguramente obtendrás el conocimiento necesario para derrotarlos."
+62,TEXT_CLSARC001_00046_LUCIANE_000_17,"Espero con ansias escucha noticias sobre tu éxito, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>."
+63,TEXT_CLSARC001_00046_TALK_SCENE00003_000,
+64,TEXT_CLSARC001_00046_LUCIANE_000_0001,"<hex:02081BE905FF0B>Bienvenida<hex:FF0B>Bienvenido<hex:03> de nuevo, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>. Dime, ¿Pudiste hacer buen uso de tus técnicas?"
+65,TEXT_CLSARC001_00046_LUCIANE_000_0002,"Cuando te enfrentas a un enemigo capaz de atacar a distancia, lanzar una lluvia de flechas es un derroche y un riesgo, pues la batalla no será más que un simple duelo de fuerza."
+66,TEXT_CLSARC001_00046_LUCIANE_000_0003,"Sin embargo, al emplear la técnica adecuada, uno puede abatir a su enemigo con mayor facilidad y usando menos flechas. Por ejemplo, puedes optar por preparar bien tu arma y asestar un golpe certero, o emplear venenos para mermar sus fuerzas con el tiempo."
+67,TEXT_CLSARC001_00046_LUCIANE_000_0004,"Asumiendo que tuviste en cuenta este hecho antes de que cayera tu decimosexto objetivo, te felicito por haber superado la prueba."
+68,TEXT_CLSARC001_00046_LUCIANE_000_0005,"Leih. Silvairre. ¿Cuál es vuesta honesta evaluación?"
+69,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0006,"No está mal. <hex:02080BE905FF03>La<hex:FF03>El<hex:03> <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03> maneja bien el arco y, además, tiene mucho entusiasmo."
+70,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0007,"Es un placer conocerte. Mi nombre es Leih Aliapoh, y este es mi segundo año en el gremio."
+71,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0008,"Está bastante claro que tienes mucho talento con el arco, pero debes tener cuidado y prestar atención a tu entorno cuando persigas a un objetivo."
+72,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0009,"Te estuve observando durante toda la prueba, pero en ningún momento fuiste consciente de mi presencia."
+73,TEXT_CLSARC001_00046_SILVAIRRE_000_0010,"¿\"<hex:020813E905FF07>Atenta<hex:FF07>Atento<hex:03> a tu entorno\"? Eso es muy gracioso, sobre todo viniendo de ti."
+74,TEXT_CLSARC001_00046_SILVAIRRE_000_0011,"Tus movimientos son ineficaces, <hex:02081BE905FF0B>aventurera<hex:FF0B>aventurero<hex:03>."
+75,TEXT_CLSARC001_00046_SILVAIRRE_000_0012,"Tu espalda está torcida, y tus codos desalineados. Te lleva una eternidad tensar tu arco, y el doble para soltar una flecha."
+76,TEXT_CLSARC001_00046_SILVAIRRE_000_0013,"En resumen, fallas en todos los aspectos. No tienes talento como <hex:020815E905FF08>arquera<hex:FF08>arquero<hex:03>─ninguno en absoluto."
+77,TEXT_CLSARC001_00046_SILVAIRRE_000_0014,"Voy a ser claro, Luciane: <hex:02080FE905FF05>esta<hex:FF05>este<hex:03> <hex:020812E905FF06>mujer<hex:FF07>hombre<hex:03> no tiene aptitudes para manejar un arco. Por nuestro bien─y el suyo─deberíamos revocar su membresía."
+78,TEXT_CLSARC001_00046_SILVAIRRE_000_0015,"Como siempre he dicho, no se puede esperar que <hex:02080DE905FF04>las<hex:FF04>los<hex:03> <hex:02081BE905FF0B>forasteras<hex:FF0B>forasteros<hex:03> comprendan─y mucho menos dominen─nuestra noble arte."
+79,TEXT_CLSARC001_00046_SILVAIRRE_000_0016,"Estamos perdiendo el tiempo intentando enseñar a personas como <hex:02080EE905FF05>ella<hex:FF04>él<hex:03>."
+80,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0017,"...¡Bien! Permíteme presentarte a Silvairre, nuestro compañero en la retaguardia."
+81,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0018,"Este tipo fue una vez parte del Carcaj de los Dioses, ya ves, y puede ser un poco...<hex:021A020203>terco<hex:021A020103> cuando se trata de tiro con arco. Oh, pero no debes prestarle atención─es así con todo el mundo."
+82,TEXT_CLSARC001_00046_LEIHALIAPOH_000_0019,"Tendrías suerte si logras sacar algo de sentido común de un Elezen de la tribu Bosque Salvaje como él, en el mejor de los casos. Con ellos, siempre es 'El Bosque de los Doce <hex:021A020203>esto<hex:021A020103>' y los 'elementales <hex:021A020203>eso<hex:021A020103>', y─ ¡Oh! ¡Ahem!<hex:02100103>...No es mi intención ofender, Luciane."
+83,TEXT_CLSARC001_00046_LUCIANE_000_0020,"No me ofende, Leih. Sé bien que algunos de los míos pueden ser excesivamente orgullosos e intolerantes con otras razas."
+84,TEXT_CLSARC001_00046_LUCIANE_000_0021,"Aunque las personas puedan observar el mismo objeto, siempre verán cosas distintas. No hay un correcto o incorrecto, porque es una cuestión de perspectiva."
+85,TEXT_CLSARC001_00046_LUCIANE_000_0022,"Lo que importa es la perspectiva que elegimos adoptar."
+86,TEXT_CLSARC001_00046_LUCIANE_000_0023,"Posees ese brillo en tus ojos, <hex:022C0DFF07><hex:022903EB0203><hex:FF02> <hex:0203>─ojos que denotan un gran entendimiento. No te llevarán por el mal camino, así que confía en ellos y en lo que ven."
+87,TEXT_CLSARC001_00046_LUCIANE_000_0024,"Ve ahora y retoma tu entrenamiento. Espero poder evaluar tu progreso cuando nos volvamos a encontrar."
