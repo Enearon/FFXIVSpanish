@@ -31,13 +31,13 @@ Es muy importante, dependiendo de la instrucción, que antes de traducir se veri
 Para ver los tipos de instrucción podemos acceder a esta página: https://github.com/xivapi/SaintCoinach/blob/master/SaintCoinach/Text/TagType.cs<br/>
 
 Es muy importante entender como funcionan los hex ya que uno mal puesto podría romper todo el fichero de traducción, así que ante la duda, no lo traduzcas y déjalo para cuando el fichero sea revisado.<br/>
-AVISO: NO TODOS LOS HEX SON INSTRUCCIONES. Algunos pueden hacer referencia a letras cursivas, negritas, saltos de línea, etc. Iré añadiendo los que pueda a medida que los recopile en la documnetación.</br>
+AVISO: NO TODOS LOS HEX SON INSTRUCCIONES. Algunos pueden hacer referencia a letras cursivas, negritas, saltos de línea, etc. Iré añadiendo los que pueda a medida que los recopile en la documnetación.<br/>
 
 ## Software para la aplicación de la traducción
 El repositorio se usa para trabajar en la traducción y todo el software utilizado es exclusivo para testeo interno; Una vez tengamos un avance significativo se publicará el traductor en releases.
 
 ## Términos de Uso
-⚠️ Este proyecto no tiene fines comerciales ni busca vulnerar la propiedad intelectual de Square Enix. ⚠️
+⚠️ Este proyecto no tiene fines comerciales ni busca vulnerar la propiedad intelectual de Square Enix. ⚠️<br/>
 Es un esfuerzo de fans, hecho por fans y para fans con el fin de mejorar el acceso al contenido del juego para jugadores hispanohablantes.
 
 ## Creditos
