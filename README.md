@@ -4,7 +4,7 @@
 En este repositorio se subirán los ficheros de traducción que necesitan ser traducidos y están siendo traducidos. Estos estarán en Inglés.<br/>
 
 ## ¿Cómo contribuyo con la traducción?
-Si tu objetivo es traducir contenido simplemente puedes hacerlo a través del repositorio o descargando el fichero en tu pc y mandándolo de vuelta al repositorio a través de git. Ten presente que los cambios no se verán reflejados instantáneamente ya que el fichero debe pasar por el proceso de Pull Request tras verificarse si es válido o realizar las pertinentes correcciones en el mismo antes de unirlo a la rama principal.<br/>
+Se va a habilitar un proyecto web en el cual se podrá contribuir a la traducción manteniendo la estructura original. La web será publicada en este repositorio.<br/>
 
 ## ¿Cómo funcionan los códigos HEX que veo en la traducción?
 Estos códigos hacen referencia a las funciones. Por ejemplo; Un código que sea <hex:02080DE905FF04> nos indica un condicional, en programación un "IF", un "ELSE", un "SWITCH" o un "CASE" lo que, por ejemplo, podría referirse a si el personaje es hombre o mujer.<br/>
